@@ -10,7 +10,7 @@ interface FilterSectionProps {
 const FilterSection = ({ onFilterChange }: FilterSectionProps) => {
   return (
     <Card className="p-6 bg-card border-border">
-      <h3 className="text-xl font-bold mb-6 text-foreground">Filtriranje vozila</h3>
+      <h3 className="text-xl font-bold mb-6 text-foreground">Odaberi vozilo</h3>
       
       <div className="space-y-4">
         <div>
@@ -57,7 +57,7 @@ const FilterSection = ({ onFilterChange }: FilterSectionProps) => {
         </div>
 
         <div>
-          <Label className="text-foreground">Gorivo</Label>
+          <Label className="text-foreground">Vrsta Goriva</Label>
           <Select>
             <SelectTrigger className="bg-input border-border text-foreground">
               <SelectValue placeholder="Tip goriva" />
@@ -72,10 +72,10 @@ const FilterSection = ({ onFilterChange }: FilterSectionProps) => {
         </div>
 
         <div>
-          <Label className="text-foreground">Menjač</Label>
+          <Label className="text-foreground">Mjenjač</Label>
           <Select>
             <SelectTrigger className="bg-input border-border text-foreground">
-              <SelectValue placeholder="Tip menjača" />
+              <SelectValue placeholder="Tip mjenjača" />
             </SelectTrigger>
             <SelectContent className="bg-popover border-border">
               <SelectItem value="manual">Manuelni</SelectItem>
@@ -85,7 +85,7 @@ const FilterSection = ({ onFilterChange }: FilterSectionProps) => {
         </div>
 
         <div>
-          <Label className="text-foreground">Kilometraža</Label>
+          <Label className="text-foreground">Prijeđena kilometraža</Label>
           <Select>
             <SelectTrigger className="bg-input border-border text-foreground">
               <SelectValue placeholder="Maksimalna kilometraža" />

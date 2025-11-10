@@ -24,13 +24,13 @@ const Header = () => {
           </nav>
 
           <div className="flex items-center gap-4 text-sm">
-            <a href="mailto:info@imponira.com" className="hidden lg:flex items-center gap-2 text-foreground hover:text-primary transition-colors">
+            <a href="mailto:info@imponira.eu" className="hidden lg:flex items-center gap-2 text-foreground hover:text-primary transition-colors">
               <Mail className="w-4 h-4" />
-              <span>info@imponira.com</span>
+              <span>info@imponira.eu</span>
             </a>
-            <a href="tel:+381234567890" className="flex items-center gap-2 text-foreground hover:text-primary transition-colors">
+            <a href="tel:+385912666668" className="flex items-center gap-2 text-foreground hover:text-primary transition-colors">
               <Phone className="w-4 h-4" />
-              <span>+381 23 456 7890</span>
+              <span>091 266 6668</span>
             </a>
           </div>
         </div>

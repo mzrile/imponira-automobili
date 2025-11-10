@@ -11,9 +11,10 @@ interface CarCardProps {
   fuelType: string;
   transmission?: string;
   price: number;
+  brandLogo?: string;
 }
 
-const CarCard = ({ id, image, brand, model, year, mileage, fuelType, transmission, price }: CarCardProps) => {
+const CarCard = ({ id, image, brand, model, year, mileage, fuelType, transmission, price, brandLogo }: CarCardProps) => {
   return (
     <Link to={`/car/${id}`}>
       <Card className="overflow-hidden hover-scale hover-glow cursor-pointer bg-card border-border">
@@ -22,8 +23,10 @@ const CarCard = ({ id, image, brand, model, year, mileage, fuelType, transmissio
         </div>
         <div className="p-4">
           <div className="flex items-center justify-between mb-3">
-            <div className="text-xs text-muted-foreground">{brand}</div>
-            <h3 className="text-lg font-bold text-foreground">{brand} {model}</h3>
+            {brandLogo && (
+              <img src={brandLogo} alt={`${brand} logo`} className="h-8 w-8 object-contain" />
+            )}
+            <h3 className="text-lg font-bold text-foreground ml-auto">{brand} {model}</h3>
           </div>
           <div className="flex items-center justify-between text-sm text-muted-foreground mb-3">
             <span>{year}</span>

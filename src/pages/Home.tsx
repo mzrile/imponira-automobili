@@ -11,14 +11,24 @@ import car3 from "@/assets/car-3.jpg";
 import car4 from "@/assets/car-4.jpg";
 import car5 from "@/assets/car-5.jpg";
 import car6 from "@/assets/car-6.jpg";
+import porscheLogo from "@/assets/brands/porsche-logo.png";
+import bmwLogo from "@/assets/brands/bmw-logo.png";
+import mercedesLogo from "@/assets/brands/mercedes-logo.png";
+import astonMartinLogo from "@/assets/brands/aston-martin-logo.png";
+import volkswagenLogo from "@/assets/brands/volkswagen-logo.png";
+import ferrariLogo from "@/assets/brands/ferrari-logo.png";
+import lamborghiniLogo from "@/assets/brands/lamborghini-logo.png";
+import lexusLogo from "@/assets/brands/lexus-logo.png";
+import skodaLogo from "@/assets/brands/skoda-logo.png";
+import audiLogo from "@/assets/brands/audi-logo.png";
 
 const featuredCars = [
-  { id: 1, image: car1, brand: "Porsche", model: "911 Turbo", year: 2023, mileage: 15000, fuelType: "Benzin", price: 89500 },
-  { id: 2, image: car2, brand: "BMW", model: "7 Series", year: 2024, mileage: 5000, fuelType: "Dizel", price: 75000 },
-  { id: 3, image: car3, brand: "Mercedes", model: "GLE 63 AMG", year: 2023, mileage: 12000, fuelType: "Benzin", price: 92000 },
-  { id: 4, image: car4, brand: "BMW", model: "M8 Coupe", year: 2022, mileage: 25000, fuelType: "Benzin", price: 68000 },
-  { id: 5, image: car5, brand: "Aston Martin", model: "Vantage", year: 2023, mileage: 8000, fuelType: "Benzin", price: 125000 },
-  { id: 6, image: car6, brand: "Volkswagen", model: "Golf R", year: 2024, mileage: 3000, fuelType: "Benzin", price: 45000 },
+  { id: 1, image: car1, brand: "Porsche", model: "911 Turbo", year: 2023, mileage: 15000, fuelType: "Benzin", price: 89500, brandLogo: porscheLogo },
+  { id: 2, image: car2, brand: "BMW", model: "7 Series", year: 2024, mileage: 5000, fuelType: "Dizel", price: 75000, brandLogo: bmwLogo },
+  { id: 3, image: car3, brand: "Mercedes", model: "GLE 63 AMG", year: 2023, mileage: 12000, fuelType: "Benzin", price: 92000, brandLogo: mercedesLogo },
+  { id: 4, image: car4, brand: "BMW", model: "M8 Coupe", year: 2022, mileage: 25000, fuelType: "Benzin", price: 68000, brandLogo: bmwLogo },
+  { id: 5, image: car5, brand: "Aston Martin", model: "Vantage", year: 2023, mileage: 8000, fuelType: "Benzin", price: 125000, brandLogo: astonMartinLogo },
+  { id: 6, image: car6, brand: "Volkswagen", model: "Golf R", year: 2024, mileage: 3000, fuelType: "Benzin", price: 45000, brandLogo: volkswagenLogo },
 ];
 
 const Home = () => {
@@ -47,18 +57,16 @@ const Home = () => {
             <div className="bg-card border border-border p-8 rounded-lg">
               <h2 className="text-3xl font-bold mb-6 text-foreground">O nama</h2>
               <p className="text-muted-foreground leading-relaxed mb-4">
-                Dobrodošli u Imponira Automobili - vašeg pouzdanog partnera za kupovinu kvalitetnih polovnih vozila. 
-                Sa dugogodišnjim iskustvom u automobilskoj industriji, ponosimo se time što pružamo vrhunsku uslugu 
-                i najkvalitetnija vozila na tržištu.
+                Dobro došli na web stranicu Imponira Automobili - Vašeg pouzdanog partnera za kupovinu kvalitetnih rabljenih vozila.
+                S dugogodišnjim iskustvom u automobilskoj industriji, ponosimo se što možemo pružiti vrhunsku uslugu i najkvalitetnija vozila na tržištu.
               </p>
               <p className="text-muted-foreground leading-relaxed mb-4">
                 Naša misija je da vam pomognemo da pronađete savršeno vozilo koje odgovara vašim potrebama i budžetu. 
-                Svako vozilo u našoj ponudi je pažljivo odabrano i provereno kako bismo osigurali najviše standarde kvaliteta.
+                Svako vozilo u našoj ponudi je pažljivo odabrano i provjereno kako bismo osigurali najviše standarde.
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                Zašto odabrati nas? Transparentnost, kvalitet i profesionalnost su stub našeg poslovanja. 
-                Nudimo detaljnu dokumentaciju o svakom vozilu, mogućnost testne vožnje i profesionalne savete 
-                koji će vam pomoći da donesete najbolju odluku.
+                Zašto odabrati nas? Transparentnost, kvaliteta i profesionalnost su temelji našeg poslovanja.
+                Nudimo detaljnu dokumentaciju o svakom vozilu i profesionalne savjete koji će vam pomoći da donesete najbolju odluku.
               </p>
             </div>
           </div>
@@ -73,11 +81,21 @@ const Home = () => {
         </section>
 
         <section>
-          <h2 className="text-3xl font-bold text-center mb-12 text-foreground">Brendovi koje zastupamo</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8 items-center">
-            {["Mercedes-Benz", "BMW", "Audi", "Volkswagen", "Porsche", "Tesla"].map((brand) => (
-              <div key={brand} className="text-center p-6 bg-card border border-border rounded-lg hover-scale">
-                <p className="text-muted-foreground font-semibold">{brand}</p>
+            {[
+              { name: "Mercedes-Benz", logo: mercedesLogo },
+              { name: "BMW", logo: bmwLogo },
+              { name: "Audi", logo: audiLogo },
+              { name: "Volkswagen", logo: volkswagenLogo },
+              { name: "Porsche", logo: porscheLogo },
+              { name: "Ferrari", logo: ferrariLogo },
+              { name: "Lamborghini", logo: lamborghiniLogo },
+              { name: "Lexus", logo: lexusLogo },
+              { name: "Škoda", logo: skodaLogo },
+              { name: "Aston Martin", logo: astonMartinLogo },
+            ].map((brand) => (
+              <div key={brand.name} className="flex items-center justify-center p-6 bg-card border border-border rounded-lg hover-scale">
+                <img src={brand.logo} alt={`${brand.name} logo`} className="h-12 w-auto object-contain" />
               </div>
             ))}
           </div>
