@@ -31,10 +31,10 @@ const Contact = () => {
         
         <div className="grid lg:grid-cols-2 gap-8 mb-12">
           <Card className="p-8 bg-card border-border">
-            <h2 className="text-2xl font-bold mb-6 text-foreground">Radno vreme</h2>
+            <h2 className="text-2xl font-bold mb-6 text-foreground">Radno vrijeme</h2>
             <div className="space-y-4 text-muted-foreground">
               <div className="flex justify-between">
-                <span>Ponedeljak - Petak:</span>
+                <span>Ponedjeljak - Petak:</span>
                 <span className="text-foreground font-semibold">08:00 - 16:00h</span>
               </div>
               <div className="flex justify-between">
@@ -42,21 +42,21 @@ const Contact = () => {
                 <span className="text-foreground font-semibold">08:00 - 13:00h</span>
               </div>
               <div className="flex justify-between">
-                <span>Nedelja:</span>
+                <span>Nedjelja:</span>
                 <span className="text-foreground font-semibold">Zatvoreno</span>
               </div>
             </div>
           </Card>
 
           <Card className="p-8 bg-card border-border">
-            <h2 className="text-2xl font-bold mb-6 text-foreground">Kontakt informacije</h2>
+            <h2 className="text-2xl font-bold mb-6 text-foreground">Kontakt</h2>
             <div className="space-y-6">
               <div className="flex items-center gap-4">
                 <Mail className="w-6 h-6 text-primary" />
                 <div>
                   <p className="text-sm text-muted-foreground">Email</p>
-                  <a href="mailto:info@imponira.com" className="text-foreground hover:text-primary transition-colors">
-                    info@imponira.com
+                  <a href="mailto:info@imponira.eu" className="text-foreground hover:text-primary transition-colors">
+                    info@imponira.eu
                   </a>
                 </div>
               </div>
@@ -64,8 +64,8 @@ const Contact = () => {
                 <Phone className="w-6 h-6 text-primary" />
                 <div>
                   <p className="text-sm text-muted-foreground">Telefon</p>
-                  <a href="tel:+381234567890" className="text-foreground hover:text-primary transition-colors">
-                    +381 23 456 7890
+                  <a href="tel:091266668" className="text-foreground hover:text-primary transition-colors">
+                    091 266 6668
                   </a>
                 </div>
               </div>
@@ -73,7 +73,7 @@ const Contact = () => {
                 <MapPin className="w-6 h-6 text-primary" />
                 <div>
                   <p className="text-sm text-muted-foreground">Adresa</p>
-                  <p className="text-foreground">Bulevar oslobođenja 123, Beograd 11000</p>
+                  <p className="text-foreground">Ivana Šimunovića 11/1, 10360 Sesvete</p>
                 </div>
               </div>
             </div>

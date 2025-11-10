@@ -21,7 +21,7 @@ const carDetails = {
     engine: "3.8L Twin-Turbo",
     registration: "12/2025",
     driveType: "AWD",
-    status: "Polovno",
+    status: "Rabljeno",
     bodyType: "Coupe",
     images: [car1, car2, car3],
     description: "Vrhunski sportski automobil u besprekornom stanju. Redovno održavan sa kompletnom servisnom istorijom. Vozilo je uvezeno iz Nemačke i prošlo je detaljnu proveru. Opremljeno sa Sport Chrono paketom, Bose audio sistemom, adaptivnim vešanjem i brojnim drugim opcijama. Idealno za ljubitelje vožnje i performansi.",
@@ -98,22 +98,22 @@ const CarDetail = () => {
           <Card className="p-6 text-center bg-card border-border">
             <Calendar className="w-8 h-8 mx-auto mb-2 text-primary" />
             <p className="text-2xl font-bold text-foreground">{car.year}</p>
-            <p className="text-sm text-muted-foreground">Godina</p>
+            <p className="text-sm text-muted-foreground">Godina proizvodnje</p>
           </Card>
           <Card className="p-6 text-center bg-card border-border">
             <Gauge className="w-8 h-8 mx-auto mb-2 text-primary" />
             <p className="text-2xl font-bold text-foreground">{car.mileage.toLocaleString()}</p>
-            <p className="text-sm text-muted-foreground">Kilometraža</p>
+            <p className="text-sm text-muted-foreground">Prijeđena kilometraža</p>
           </Card>
           <Card className="p-6 text-center bg-card border-border">
             <Fuel className="w-8 h-8 mx-auto mb-2 text-primary" />
             <p className="text-2xl font-bold text-foreground">{car.fuelType}</p>
-            <p className="text-sm text-muted-foreground">Gorivo</p>
+            <p className="text-sm text-muted-foreground">Vrsta goriva</p>
           </Card>
           <Card className="p-6 text-center bg-card border-border">
             <Settings className="w-8 h-8 mx-auto mb-2 text-primary" />
             <p className="text-2xl font-bold text-foreground">{car.transmission}</p>
-            <p className="text-sm text-muted-foreground">Menjač</p>
+            <p className="text-sm text-muted-foreground">Mjenjač</p>
           </Card>
           <Card className="p-6 text-center bg-card border-border">
             <Zap className="w-8 h-8 mx-auto mb-2 text-primary" />
@@ -123,7 +123,7 @@ const CarDetail = () => {
           <Card className="p-6 text-center bg-card border-border">
             <FileCheck className="w-8 h-8 mx-auto mb-2 text-primary" />
             <p className="text-2xl font-bold text-foreground">{car.registration}</p>
-            <p className="text-sm text-muted-foreground">Registracija</p>
+            <p className="text-sm text-muted-foreground">Registriran do</p>
           </Card>
         </div>
 
@@ -144,7 +144,7 @@ const CarDetail = () => {
                 <span className="text-foreground font-semibold">{car.year}</span>
               </div>
               <div className="flex justify-between border-b border-border pb-2">
-                <span className="text-muted-foreground">Kilometraža:</span>
+                <span className="text-muted-foreground">Prijeđena kilometraža:</span>
                 <span className="text-foreground font-semibold">{car.mileage.toLocaleString()} km</span>
               </div>
               <div className="flex justify-between border-b border-border pb-2">
@@ -164,7 +164,7 @@ const CarDetail = () => {
                 <span className="text-foreground font-semibold">{car.status}</span>
               </div>
               <div className="flex justify-between">
-                <span className="text-muted-foreground">Tip karoserije:</span>
+                <span className="text-muted-foreground">Karoserija:</span>
                 <span className="text-foreground font-semibold">{car.bodyType}</span>
               </div>
             </div>

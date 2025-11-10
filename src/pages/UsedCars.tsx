@@ -8,17 +8,23 @@ import car3 from "@/assets/car-3.jpg";
 import car4 from "@/assets/car-4.jpg";
 import car5 from "@/assets/car-5.jpg";
 import car6 from "@/assets/car-6.jpg";
+import porscheLogo from "@/assets/brands/porsche-logo.png";
+import bmwLogo from "@/assets/brands/bmw-logo.png";
+import mercedesLogo from "@/assets/brands/mercedes-logo.png";
+import astonMartinLogo from "@/assets/brands/aston-martin-logo.png";
+import audiLogo from "@/assets/brands/audi-logo.png";
+import volkswagenLogo from "@/assets/brands/volkswagen-logo.png";
 
 const allCars = [
-  { id: 1, image: car1, brand: "Porsche", model: "911 Turbo", year: 2023, mileage: 15000, fuelType: "Benzin", transmission: "Automatski", price: 89500 },
-  { id: 2, image: car2, brand: "BMW", model: "7 Series", year: 2024, mileage: 5000, fuelType: "Dizel", transmission: "Automatski", price: 75000 },
-  { id: 3, image: car3, brand: "Mercedes", model: "GLE 63 AMG", year: 2023, mileage: 12000, fuelType: "Benzin", transmission: "Automatski", price: 92000 },
-  { id: 4, image: car4, brand: "BMW", model: "M8 Coupe", year: 2022, mileage: 25000, fuelType: "Benzin", transmission: "Automatski", price: 68000 },
-  { id: 5, image: car5, brand: "Aston Martin", model: "Vantage", year: 2023, mileage: 8000, fuelType: "Benzin", transmission: "Manuelni", price: 125000 },
-  { id: 6, image: car6, brand: "Volkswagen", model: "Golf R", year: 2024, mileage: 3000, fuelType: "Benzin", transmission: "Automatski", price: 45000 },
-  { id: 7, image: car1, brand: "Audi", model: "RS6 Avant", year: 2023, mileage: 18000, fuelType: "Benzin", transmission: "Automatski", price: 82000 },
-  { id: 8, image: car2, brand: "Mercedes", model: "S 500", year: 2022, mileage: 32000, fuelType: "Hibrid", transmission: "Automatski", price: 71000 },
-  { id: 9, image: car3, brand: "Porsche", model: "Cayenne Turbo", year: 2024, mileage: 7000, fuelType: "Benzin", transmission: "Automatski", price: 98000 },
+  { id: 1, image: car1, brand: "Porsche", model: "911 Turbo", year: 2023, mileage: 15000, fuelType: "Benzin", transmission: "Automatski", price: 89500, brandLogo: porscheLogo },
+  { id: 2, image: car2, brand: "BMW", model: "7 Series", year: 2024, mileage: 5000, fuelType: "Dizel", transmission: "Automatski", price: 75000, brandLogo: bmwLogo },
+  { id: 3, image: car3, brand: "Mercedes", model: "GLE 63 AMG", year: 2023, mileage: 12000, fuelType: "Benzin", transmission: "Automatski", price: 92000, brandLogo: mercedesLogo },
+  { id: 4, image: car4, brand: "BMW", model: "M8 Coupe", year: 2022, mileage: 25000, fuelType: "Benzin", transmission: "Automatski", price: 68000, brandLogo: bmwLogo },
+  { id: 5, image: car5, brand: "Aston Martin", model: "Vantage", year: 2023, mileage: 8000, fuelType: "Benzin", transmission: "Manuelni", price: 125000, brandLogo: astonMartinLogo },
+  { id: 6, image: car6, brand: "Volkswagen", model: "Golf R", year: 2024, mileage: 3000, fuelType: "Benzin", transmission: "Automatski", price: 45000, brandLogo: volkswagenLogo },
+  { id: 7, image: car1, brand: "Audi", model: "RS6 Avant", year: 2023, mileage: 18000, fuelType: "Benzin", transmission: "Automatski", price: 82000, brandLogo: audiLogo },
+  { id: 8, image: car2, brand: "Mercedes", model: "S 500", year: 2022, mileage: 32000, fuelType: "Hibrid", transmission: "Automatski", price: 71000, brandLogo: mercedesLogo },
+  { id: 9, image: car3, brand: "Porsche", model: "Cayenne Turbo", year: 2024, mileage: 7000, fuelType: "Benzin", transmission: "Automatski", price: 98000, brandLogo: porscheLogo },
 ];
 
 const UsedCars = () => {
