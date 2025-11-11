@@ -24,7 +24,7 @@ const carDetails = {
     status: "Rabljeno",
     bodyType: "Coupe",
     images: [car1, car2, car3],
-    description: "Vrhunski sportski automobil u besprekornom stanju. Redovno održavan sa kompletnom servisnom istorijom. Vozilo je uvezeno iz Nemačke i prošlo je detaljnu proveru. Opremljeno sa Sport Chrono paketom, Bose audio sistemom, adaptivnim vešanjem i brojnim drugim opcijama. Idealno za ljubitelje vožnje i performansi.",
+    description: "Vrhunski sportski automobil u besprijekornom stanju. Redovno održavan s kompletnom servisnom knjigom. Vozilo je uvezeno iz Njemačke i prošlo je detaljnu provjeru. Opremljeno sa Sport Chrono paketom, Bose audio sistemom, adaptivnim ovjesom i brojnim drugim opcijama. Idealno za ljubitelje vožnje i performansi.",
   },
 };
 
