@@ -1,7 +1,6 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import CarCard from "@/components/CarCard";
-import FilterSection from "@/components/FilterSection";
 import car1 from "@/assets/car-1.jpg";
 import car2 from "@/assets/car-2.jpg";
 import car3 from "@/assets/car-3.jpg";
@@ -35,18 +34,10 @@ const UsedCars = () => {
       <main className="container mx-auto px-4 py-16">
         <h1 className="text-5xl font-bold text-center mb-12 text-foreground">Ponuda vozila</h1>
         
-        <div className="grid lg:grid-cols-4 gap-8">
-          <div className="lg:col-span-1">
-            <FilterSection />
-          </div>
-          
-          <div className="lg:col-span-3">
-            <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-6">
-              {allCars.map((car) => (
-                <CarCard key={car.id} {...car} />
-              ))}
-            </div>
-          </div>
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {allCars.map((car) => (
+            <CarCard key={car.id} {...car} />
+          ))}
         </div>
       </main>
 
