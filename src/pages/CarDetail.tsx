@@ -5,25 +5,28 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import car1 from "@/assets/car-1.jpg";
-import car2 from "@/assets/car-2.jpg";
-import car3 from "@/assets/car-3.jpg";
+import bmw1 from "@/assets/bmw-1.jpg";
+import bmw2 from "@/assets/bmw-2.jpg";
+import bmw3 from "@/assets/bmw-3.jpg";
+import bmw4 from "@/assets/bmw-4.jpg";
+import bmw5 from "@/assets/bmw-5.jpg";
+import bmw6 from "@/assets/bmw-6.jpg";
 
 const carDetails = {
   1: {
-    brand: "Porsche",
-    model: "911 Turbo",
+    brand: "BMW",
+    model: "M440i xDrive",
     year: 2023,
     mileage: 15000,
     fuelType: "Benzin",
     transmission: "Automatski",
-    power: "580 KS",
-    engine: "3.8L Twin-Turbo",
+    power: "374 KS",
+    engine: "3.0L Turbo",
     registration: "12/2025",
-    driveType: "AWD",
+    driveType: "xDrive (AWD)",
     status: "Rabljeno",
     bodyType: "Coupe",
-    images: [car1, car2, car3],
+    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6],
     description: "Vrhunski sportski automobil u besprijekornom stanju. Redovno održavan s kompletnom servisnom knjigom. Vozilo je uvezeno iz Njemačke i prošlo je detaljnu provjeru. Opremljeno sa Sport Chrono paketom, Bose audio sistemom, adaptivnim ovjesom i brojnim drugim opcijama. Idealno za ljubitelje vožnje i performansi.",
   },
 };
