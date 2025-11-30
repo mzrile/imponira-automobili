@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { Home, Car } from "lucide-react";
 import logo from "@/assets/logo.png";
 
 const Header = () => {
@@ -7,7 +8,8 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-center gap-12">
           <Link to="/" className="text-foreground hover:text-primary transition-colors">
-            Početna
+            <span className="hidden md:inline">Početna</span>
+            <Home className="md:hidden w-6 h-6" />
           </Link>
           
           <Link to="/" className="flex items-center">
@@ -15,7 +17,8 @@ const Header = () => {
           </Link>
           
           <Link to="/used-cars" className="text-foreground hover:text-primary transition-colors">
-            Ponuda vozila
+            <span className="hidden md:inline">Ponuda vozila</span>
+            <Car className="md:hidden w-6 h-6" />
           </Link>
         </div>
       </div>
