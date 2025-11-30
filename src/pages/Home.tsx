@@ -4,7 +4,7 @@ import Footer from "@/components/Footer";
 import HeroCarousel from "@/components/HeroCarousel";
 import CarCard from "@/components/CarCard";
 import { Button } from "@/components/ui/button";
-import car1 from "@/assets/car-1.jpg";
+import car1 from "@/assets/bmw-hero.jpg";
 import car2 from "@/assets/car-2.jpg";
 import car3 from "@/assets/car-3.jpg";
 import car4 from "@/assets/car-4.jpg";
@@ -22,7 +22,7 @@ import skodaLogo from "@/assets/brands/skoda-logo.png";
 import audiLogo from "@/assets/brands/audi-logo.png";
 
 const featuredCars = [
-  { id: 1, image: car1, brand: "Porsche", model: "911 Turbo", year: 2023, mileage: 15000, fuelType: "Benzin", price: 89500, brandLogo: porscheLogo },
+  { id: 1, image: car1, brand: "BMW", model: "M440i xDrive", year: 2023, mileage: 15000, fuelType: "Benzin", price: 89500, brandLogo: bmwLogo },
   { id: 2, image: car2, brand: "BMW", model: "7 Series", year: 2024, mileage: 5000, fuelType: "Dizel", price: 75000, brandLogo: bmwLogo },
   { id: 3, image: car3, brand: "Mercedes", model: "GLE 63 AMG", year: 2023, mileage: 12000, fuelType: "Benzin", price: 92000, brandLogo: mercedesLogo },
   { id: 4, image: car4, brand: "BMW", model: "M8 Coupe", year: 2022, mileage: 25000, fuelType: "Benzin", price: 68000, brandLogo: bmwLogo },
