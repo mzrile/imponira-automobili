@@ -57,44 +57,58 @@ const CarDetail = () => {
           <p className="text-2xl text-primary font-bold">€{car.mileage > 10000 ? 89500 : 125000}</p>
         </div>
 
-        <div className="relative h-[60vh] mb-8 rounded-lg overflow-hidden">
-          <img 
-            src={images[currentImageIndex]} 
-            alt={`${car.brand} ${car.model}`} 
-            className="w-full h-full object-cover"
-          />
-          <div className="absolute inset-0 flex items-center justify-between px-4">
-            <Button
-              variant="secondary"
-              size="icon"
-              onClick={goToPrevious}
-              className="bg-secondary/80 hover:bg-secondary text-secondary-foreground"
-            >
-              <ChevronLeft className="w-6 h-6" />
-            </Button>
-            <Button
-              variant="secondary"
-              size="icon"
-              onClick={goToNext}
-              className="bg-secondary/80 hover:bg-secondary text-secondary-foreground"
-            >
-              <ChevronRight className="w-6 h-6" />
-            </Button>
+        <div className="mb-8">
+          {/* Main Image Display */}
+          <div className="relative h-[70vh] mb-4 rounded-lg overflow-hidden bg-muted">
+            <img 
+              src={images[currentImageIndex]} 
+              alt={`${car.brand} ${car.model} - Slika ${currentImageIndex + 1}`} 
+              className="w-full h-full object-cover transition-opacity duration-300"
+            />
+            <div className="absolute inset-0 flex items-center justify-between px-4">
+              <Button
+                variant="secondary"
+                size="icon"
+                onClick={goToPrevious}
+                className="bg-background/90 hover:bg-background text-foreground shadow-lg"
+              >
+                <ChevronLeft className="w-6 h-6" />
+              </Button>
+              <Button
+                variant="secondary"
+                size="icon"
+                onClick={goToNext}
+                className="bg-background/90 hover:bg-background text-foreground shadow-lg"
+              >
+                <ChevronRight className="w-6 h-6" />
+              </Button>
+            </div>
+            {/* Image Counter */}
+            <div className="absolute bottom-4 right-4 bg-background/90 text-foreground px-3 py-1 rounded-full text-sm font-medium">
+              {currentImageIndex + 1} / {images.length}
+            </div>
           </div>
-        </div>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 mb-12">
-          {images.map((image, index) => (
-            <button
-              key={index}
-              onClick={() => setCurrentImageIndex(index)}
-              className={`aspect-video rounded-lg overflow-hidden border-2 transition-all ${
-                index === currentImageIndex ? "border-primary" : "border-border"
-              }`}
-            >
-              <img src={image} alt={`View ${index + 1}`} className="w-full h-full object-cover" />
-            </button>
-          ))}
+          {/* Thumbnail Gallery */}
+          <div className="grid grid-cols-6 gap-3">
+            {images.map((image, index) => (
+              <button
+                key={index}
+                onClick={() => setCurrentImageIndex(index)}
+                className={`aspect-video rounded-md overflow-hidden border-2 transition-all hover:scale-105 hover:shadow-lg ${
+                  index === currentImageIndex 
+                    ? "border-primary ring-2 ring-primary/30" 
+                    : "border-border hover:border-primary/50"
+                }`}
+              >
+                <img 
+                  src={image} 
+                  alt={`Thumbnail ${index + 1}`} 
+                  className="w-full h-full object-cover"
+                />
+              </button>
+            ))}
+          </div>
         </div>
 
         <div className="grid lg:grid-cols-6 gap-6 mb-12">
