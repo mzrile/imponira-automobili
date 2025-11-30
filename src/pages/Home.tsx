@@ -3,7 +3,6 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import HeroCarousel from "@/components/HeroCarousel";
 import CarCard from "@/components/CarCard";
-import FilterSection from "@/components/FilterSection";
 import { Button } from "@/components/ui/button";
 import car1 from "@/assets/car-1.jpg";
 import car2 from "@/assets/car-2.jpg";
@@ -48,25 +47,28 @@ const Home = () => {
           </div>
         </section>
 
-        <section className="grid lg:grid-cols-3 gap-8 mb-20">
-          <div className="lg:col-span-1">
-            <FilterSection />
-          </div>
-          
-          <div className="lg:col-span-2">
-            <div className="bg-card border border-border p-8 rounded-lg">
-              <h2 className="text-3xl font-bold mb-6 text-foreground">O nama</h2>
-              <p className="text-muted-foreground leading-relaxed mb-4">
+        <section className="mb-20">
+          <div className="bg-card border border-border p-12 rounded-lg max-w-4xl mx-auto">
+            <h2 className="text-4xl font-bold mb-8 text-center text-foreground">O nama</h2>
+            <div className="space-y-6">
+              <p className="text-muted-foreground leading-relaxed text-lg">
                 Dobro došli na web stranicu Imponira Automobili - Vašeg pouzdanog partnera za kupovinu kvalitetnih rabljenih vozila.
                 S dugogodišnjim iskustvom u automobilskoj industriji, ponosimo se što možemo pružiti vrhunsku uslugu i najkvalitetnija vozila na tržištu.
               </p>
-              <p className="text-muted-foreground leading-relaxed mb-4">
+              <p className="text-muted-foreground leading-relaxed text-lg">
                 Naša misija je da vam pomognemo da pronađete savršeno vozilo koje odgovara vašim potrebama i budžetu. 
                 Svako vozilo u našoj ponudi je pažljivo odabrano i provjereno kako bismo osigurali najviše standarde.
               </p>
-              <p className="text-muted-foreground leading-relaxed">
+              <p className="text-muted-foreground leading-relaxed text-lg">
                 Zašto odabrati nas? Transparentnost, kvaliteta i profesionalnost su temelji našeg poslovanja.
                 Nudimo detaljnu dokumentaciju o svakom vozilu i profesionalne savjete koji će vam pomoći da donesete najbolju odluku.
+              </p>
+              <p className="text-muted-foreground leading-relaxed text-lg">
+                Bilo da tražite sportski automobil, luksuzni sedan ili praktični obiteljski automobil, naš tim stručnjaka je tu da vam pomogne u svakom koraku procesa kupnje.
+                Vjerujemo u izgradnju dugoročnih odnosa s našim klijentima temeljenih na povjerenju i zadovoljstvu.
+              </p>
+              <p className="text-muted-foreground leading-relaxed text-lg">
+                Posjetite nas i uvjerite se sami u kvalitetu naše ponude. Radujemo se što ćemo vam pomoći pronaći automobil vaših snova!
               </p>
             </div>
           </div>
