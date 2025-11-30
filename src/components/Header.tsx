@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Home, Car } from "lucide-react";
+import { Home, CarFront } from "lucide-react";
 import logo from "@/assets/logo.png";
 
 const Header = () => {
@@ -18,7 +18,7 @@ const Header = () => {
           
           <Link to="/used-cars" className="text-foreground hover:text-primary transition-colors">
             <span className="hidden md:inline">Ponuda vozila</span>
-            <Car className="md:hidden w-6 h-6" />
+            <CarFront className="md:hidden w-6 h-6" />
           </Link>
         </div>
       </div>
