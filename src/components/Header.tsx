@@ -16,7 +16,7 @@ const Header = () => {
             <img src={logo} alt="Imponira Automobili" className="h-12 w-auto" />
           </Link>
           
-          <Link to="/used-cars" className="text-foreground hover:text-primary transition-colors">
+          <Link to="/ponuda-vozila" className="text-foreground hover:text-primary transition-colors">
             <span className="hidden md:inline">Ponuda vozila</span>
             <CarFront className="md:hidden w-6 h-6" />
           </Link>
