@@ -3,6 +3,7 @@ import { Card } from "@/components/ui/card";
 
 interface CarCardProps {
   id: number;
+  slug?: string;
   image: string;
   brand: string;
   model: string;
@@ -14,9 +15,10 @@ interface CarCardProps {
   brandLogo?: string;
 }
 
-const CarCard = ({ id, image, brand, model, year, mileage, fuelType, transmission, price, brandLogo }: CarCardProps) => {
+const CarCard = ({ id, slug, image, brand, model, year, mileage, fuelType, transmission, price, brandLogo }: CarCardProps) => {
+  const carUrl = slug ? `/car/${slug}` : `/car/${id}`;
   return (
-    <Link to={`/car/${id}`}>
+    <Link to={carUrl}>
       <Card className="overflow-hidden hover-scale hover-glow cursor-pointer bg-card border-border">
         <div className="aspect-[4/3] overflow-hidden">
           <img src={image} alt={`${brand} ${model}`} className="w-full h-full object-cover" />
