@@ -12,31 +12,74 @@ import bmw4 from "@/assets/bmw-4.jpg";
 import bmw5 from "@/assets/bmw-5.jpg";
 import bmw6 from "@/assets/bmw-6.jpg";
 
-const carDetails = {
-  1: {
-    brand: "BMW",
-    model: "M440i xDrive",
-    year: 2023,
-    mileage: 15000,
-    fuelType: "Benzin",
-    transmission: "Automatski",
-    power: "374 KS",
-    engine: "3.0L Turbo",
-    registration: "12/2025",
-    driveType: "xDrive (AWD)",
-    status: "Rabljeno",
-    bodyType: "Coupe",
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6],
-    description: "Vrhunski sportski automobil u besprijekornom stanju. Redovno održavan s kompletnom servisnom knjigom. Vozilo je uvezeno iz Njemačke i prošlo je detaljnu provjeru. Opremljeno sa Sport Chrono paketom, Bose audio sistemom, adaptivnim ovjesom i brojnim drugim opcijama. Idealno za ljubitelje vožnje i performansi.",
+const carDetails: Record<string, {
+  brand: string;
+  model: string;
+  year: number;
+  mileage: number;
+  fuelType: string;
+  transmission: string;
+  power: string;
+  engine: string;
+  registration: string;
+  driveType: string;
+  status: string;
+  bodyType: string;
+  price: number;
+  images: string[];
+  description: string;
+}> = {
+  "bmw-x5-xdrive-45e-m-sport": {
+    brand: "BMW", model: "X5 xDrive 45e M-Sport", year: 2020, mileage: 85000, fuelType: "Hibrid", transmission: "Automatski", power: "394 KS", engine: "3.0L Turbo Hybrid", registration: "12/2025", driveType: "xDrive (AWD)", status: "Rabljeno", bodyType: "SUV", price: 59990, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Luksuzni SUV s hibridnim pogonom u izvrsnom stanju. Redovno održavan s kompletnom servisnom knjigom.",
+  },
+  "bmw-m440i-xdrive": {
+    brand: "BMW", model: "M440i xDrive", year: 2020, mileage: 92000, fuelType: "Benzin", transmission: "Automatski", power: "374 KS", engine: "3.0L Turbo", registration: "06/2025", driveType: "xDrive (AWD)", status: "Rabljeno", bodyType: "Coupe", price: 51990, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Sportski coupe s iznimnim performansama. Opremljen M-Sport paketom i svim dodacima.",
+  },
+  "vw-tiguan-r-line": {
+    brand: "VW", model: "Tiguan 2.0 TDI DSG R-Line", year: 2024, mileage: 16900, fuelType: "Dizel", transmission: "Automatski DSG", power: "150 KS", engine: "2.0 TDI", registration: "03/2026", driveType: "Prednji", status: "Rabljeno", bodyType: "SUV", price: 47890, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Gotovo novo vozilo s R-Line paketom. Minimalna kilometraža i jamstvo.",
+  },
+  "mercedes-c220d-amg": {
+    brand: "Mercedes", model: "C220d AMG", year: 2021, mileage: 59000, fuelType: "Dizel", transmission: "Automatski 9G-Tronic", power: "200 KS", engine: "2.0 Diesel", registration: "09/2025", driveType: "Stražnji", status: "Rabljeno", bodyType: "Limuzina", price: 44990, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Elegantna limuzina s AMG paketom opreme. Izvrsno održavana.",
+  },
+  "bmw-x1-sdrive18d": {
+    brand: "BMW", model: "X1 sDrive18d", year: 2022, mileage: 82900, fuelType: "Dizel", transmission: "Automatski", power: "150 KS", engine: "2.0 Diesel", registration: "08/2025", driveType: "Prednji", status: "Rabljeno", bodyType: "SUV", price: 39990, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Kompaktni SUV idealan za gradsku vožnju i obiteljska putovanja.",
+  },
+  "skoda-octavia-rs": {
+    brand: "Škoda", model: "Octavia RS 2.0TDI DSG", year: 2021, mileage: 88000, fuelType: "Dizel", transmission: "Automatski DSG", power: "200 KS", engine: "2.0 TDI", registration: "07/2025", driveType: "Prednji", status: "Rabljeno", bodyType: "Limuzina", price: 31990, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Sportska limuzina s RS paketom. Izvrsne performanse i ekonomičnost.",
+  },
+  "skoda-octavia-combi-rs": {
+    brand: "Škoda", model: "Octavia Combi RS 2.0TDI DSG", year: 2022, mileage: 117500, fuelType: "Dizel", transmission: "Automatski DSG", power: "200 KS", engine: "2.0 TDI", registration: "05/2025", driveType: "Prednji", status: "Rabljeno", bodyType: "Karavan", price: 28690, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Prostrani karavan s RS sportskim paketom. Idealan za obitelj.",
+  },
+  "mercedes-a200d": {
+    brand: "Mercedes", model: "A200d", year: 2020, mileage: 110000, fuelType: "Dizel", transmission: "Automatski 7G-DCT", power: "150 KS", engine: "2.0 Diesel", registration: "04/2025", driveType: "Prednji", status: "Rabljeno", bodyType: "Hatchback", price: 24490, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Kompaktni premium hatchback s modernim dizajnom i opremom.",
+  },
+  "skoda-octavia-combi-first-edition": {
+    brand: "Škoda", model: "Octavia Combi 2.0TDI DSG First Edition", year: 2020, mileage: 126600, fuelType: "Dizel", transmission: "Automatski DSG", power: "150 KS", engine: "2.0 TDI", registration: "02/2025", driveType: "Prednji", status: "Rabljeno", bodyType: "Karavan", price: 23790, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Prostrani karavan s First Edition opremom. Ekonomičan i pouzdan.",
+  },
+  "skoda-karoq-sportline": {
+    brand: "Škoda", model: "Karoq 2.0TDI 4x4 DSG Sportline", year: 2021, mileage: 202000, fuelType: "Dizel", transmission: "Automatski DSG", power: "150 KS", engine: "2.0 TDI", registration: "06/2025", driveType: "4x4", status: "Rabljeno", bodyType: "SUV", price: 21990, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Kompaktni SUV s 4x4 pogonom i Sportline opremom.",
+  },
+  "bmw-x1-sdrive18d-m-paket": {
+    brand: "BMW", model: "X1 sDrive18d M-Paket", year: 2016, mileage: 209000, fuelType: "Dizel", transmission: "Automatski", power: "150 KS", engine: "2.0 Diesel", registration: "03/2025", driveType: "Prednji", status: "Rabljeno", bodyType: "SUV", price: 17490, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Kompaktni SUV s M-Paket opremom. Dobro održavan.",
+  },
+  "renault-clio-edition-one": {
+    brand: "Renault", model: "Clio Edition One TCe 130KS", year: 2020, mileage: 108500, fuelType: "Benzin", transmission: "Automatski EDC", power: "130 KS", engine: "1.3 TCe", registration: "05/2025", driveType: "Prednji", status: "Rabljeno", bodyType: "Hatchback", price: 15990, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Kompaktni gradski automobil s Edition One opremom.",
+  },
+  "renault-megane-bose": {
+    brand: "Renault", model: "Megane Bose 130dCi", year: 2019, mileage: 130000, fuelType: "Dizel", transmission: "Manuelni", power: "130 KS", engine: "1.5 dCi", registration: "04/2025", driveType: "Prednji", status: "Rabljeno", bodyType: "Hatchback", price: 13990, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Kompaktni hatchback s Bose audio sistemom.",
+  },
+  "vw-golf-7": {
+    brand: "VW", model: "Golf 7 1.6TDI DSG", year: 2017, mileage: 275000, fuelType: "Dizel", transmission: "Automatski DSG", power: "115 KS", engine: "1.6 TDI", registration: "02/2025", driveType: "Prednji", status: "Rabljeno", bodyType: "Hatchback", price: 10990, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Pouzdan i ekonomičan automobil. Redovno servisiran.",
   },
 };
+
+const defaultCar = carDetails["bmw-m440i-xdrive"];
 
 const CarDetail = () => {
   const { id } = useParams();
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   
-  const carId = parseInt(id || "1") as keyof typeof carDetails;
-  const car = carDetails[carId] || carDetails[1];
+  const car = id && carDetails[id] ? carDetails[id] : defaultCar;
   const images = car.images;
 
   const goToPrevious = () => {
@@ -54,7 +97,7 @@ const CarDetail = () => {
       <main className="container mx-auto px-4 py-16">
         <div className="mb-8">
           <h1 className="text-4xl font-bold text-foreground mb-2">{car.brand} {car.model}</h1>
-          <p className="text-2xl text-primary font-bold">€{car.mileage > 10000 ? 89500 : 125000}</p>
+          <p className="text-2xl text-primary font-bold">€{car.price.toLocaleString()}</p>
         </div>
 
         <div className="mb-8">

@@ -7,23 +7,26 @@ import car3 from "@/assets/car-3.jpg";
 import car4 from "@/assets/car-4.jpg";
 import car5 from "@/assets/car-5.jpg";
 import car6 from "@/assets/car-6.jpg";
-import porscheLogo from "@/assets/brands/porsche-logo.png";
 import bmwLogo from "@/assets/brands/bmw-logo.png";
 import mercedesLogo from "@/assets/brands/mercedes-logo.png";
-import astonMartinLogo from "@/assets/brands/aston-martin-logo.png";
-import audiLogo from "@/assets/brands/audi-logo.png";
 import volkswagenLogo from "@/assets/brands/volkswagen-logo.png";
+import skodaLogo from "@/assets/brands/skoda-logo.png";
 
 const allCars = [
-  { id: 1, image: car1, brand: "Porsche", model: "911 Turbo", year: 2023, mileage: 15000, fuelType: "Benzin", transmission: "Automatski", price: 89500, brandLogo: porscheLogo },
-  { id: 2, image: car2, brand: "BMW", model: "7 Series", year: 2024, mileage: 5000, fuelType: "Dizel", transmission: "Automatski", price: 75000, brandLogo: bmwLogo },
-  { id: 3, image: car3, brand: "Mercedes", model: "GLE 63 AMG", year: 2023, mileage: 12000, fuelType: "Benzin", transmission: "Automatski", price: 92000, brandLogo: mercedesLogo },
-  { id: 4, image: car4, brand: "BMW", model: "M8 Coupe", year: 2022, mileage: 25000, fuelType: "Benzin", transmission: "Automatski", price: 68000, brandLogo: bmwLogo },
-  { id: 5, image: car5, brand: "Aston Martin", model: "Vantage", year: 2023, mileage: 8000, fuelType: "Benzin", transmission: "Manuelni", price: 125000, brandLogo: astonMartinLogo },
-  { id: 6, image: car6, brand: "Volkswagen", model: "Golf R", year: 2024, mileage: 3000, fuelType: "Benzin", transmission: "Automatski", price: 45000, brandLogo: volkswagenLogo },
-  { id: 7, image: car1, brand: "Audi", model: "RS6 Avant", year: 2023, mileage: 18000, fuelType: "Benzin", transmission: "Automatski", price: 82000, brandLogo: audiLogo },
-  { id: 8, image: car2, brand: "Mercedes", model: "S 500", year: 2022, mileage: 32000, fuelType: "Hibrid", transmission: "Automatski", price: 71000, brandLogo: mercedesLogo },
-  { id: 9, image: car3, brand: "Porsche", model: "Cayenne Turbo", year: 2024, mileage: 7000, fuelType: "Benzin", transmission: "Automatski", price: 98000, brandLogo: porscheLogo },
+  { id: 1, slug: "bmw-x5-xdrive-45e-m-sport", image: car1, brand: "BMW", model: "X5 xDrive 45e M-Sport", year: 2020, mileage: 85000, fuelType: "Hibrid", price: 59990, brandLogo: bmwLogo },
+  { id: 2, slug: "bmw-m440i-xdrive", image: car2, brand: "BMW", model: "M440i xDrive", year: 2020, mileage: 92000, fuelType: "Benzin", price: 51990, brandLogo: bmwLogo },
+  { id: 3, slug: "vw-tiguan-r-line", image: car3, brand: "VW", model: "Tiguan 2.0 TDI DSG R-Line", year: 2024, mileage: 16900, fuelType: "Dizel", price: 47890, brandLogo: volkswagenLogo },
+  { id: 4, slug: "mercedes-c220d-amg", image: car4, brand: "Mercedes", model: "C220d AMG", year: 2021, mileage: 59000, fuelType: "Dizel", price: 44990, brandLogo: mercedesLogo },
+  { id: 5, slug: "bmw-x1-sdrive18d", image: car5, brand: "BMW", model: "X1 sDrive18d", year: 2022, mileage: 82900, fuelType: "Dizel", price: 39990, brandLogo: bmwLogo },
+  { id: 6, slug: "skoda-octavia-rs", image: car6, brand: "Škoda", model: "Octavia RS 2.0TDI DSG", year: 2021, mileage: 88000, fuelType: "Dizel", price: 31990, brandLogo: skodaLogo },
+  { id: 7, slug: "skoda-octavia-combi-rs", image: car1, brand: "Škoda", model: "Octavia Combi RS 2.0TDI DSG", year: 2022, mileage: 117500, fuelType: "Dizel", price: 28690, brandLogo: skodaLogo },
+  { id: 8, slug: "mercedes-a200d", image: car2, brand: "Mercedes", model: "A200d", year: 2020, mileage: 110000, fuelType: "Dizel", price: 24490, brandLogo: mercedesLogo },
+  { id: 9, slug: "skoda-octavia-combi-first-edition", image: car3, brand: "Škoda", model: "Octavia Combi 2.0TDI DSG First Edition", year: 2020, mileage: 126600, fuelType: "Dizel", price: 23790, brandLogo: skodaLogo },
+  { id: 10, slug: "skoda-karoq-sportline", image: car4, brand: "Škoda", model: "Karoq 2.0TDI 4x4 DSG Sportline", year: 2021, mileage: 202000, fuelType: "Dizel", price: 21990, brandLogo: skodaLogo },
+  { id: 11, slug: "bmw-x1-sdrive18d-m-paket", image: car5, brand: "BMW", model: "X1 sDrive18d M-Paket", year: 2016, mileage: 209000, fuelType: "Dizel", price: 17490, brandLogo: bmwLogo },
+  { id: 12, slug: "renault-clio-edition-one", image: car6, brand: "Renault", model: "Clio Edition One TCe 130KS", year: 2020, mileage: 108500, fuelType: "Benzin", price: 15990 },
+  { id: 13, slug: "renault-megane-bose", image: car1, brand: "Renault", model: "Megane Bose 130dCi", year: 2019, mileage: 130000, fuelType: "Dizel", price: 13990 },
+  { id: 14, slug: "vw-golf-7", image: car2, brand: "VW", model: "Golf 7 1.6TDI DSG", year: 2017, mileage: 275000, fuelType: "Dizel", price: 10990, brandLogo: volkswagenLogo },
 ];
 
 const UsedCars = () => {
