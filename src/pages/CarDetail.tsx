@@ -44,6 +44,74 @@ import tiguan28 from "@/assets/cars/vw-tiguan/28.jpg";
 import tiguan29 from "@/assets/cars/vw-tiguan/29.jpg";
 import tiguan30 from "@/assets/cars/vw-tiguan/30.jpg";
 
+// BMW M440i images
+import m440i_1 from "@/assets/cars/bmw-m440i/1.jpg";
+import m440i_2 from "@/assets/cars/bmw-m440i/2.jpg";
+import m440i_3 from "@/assets/cars/bmw-m440i/3.jpg";
+import m440i_4 from "@/assets/cars/bmw-m440i/4.jpg";
+import m440i_5 from "@/assets/cars/bmw-m440i/5.jpg";
+import m440i_6 from "@/assets/cars/bmw-m440i/6.jpg";
+import m440i_7 from "@/assets/cars/bmw-m440i/7.jpg";
+import m440i_8 from "@/assets/cars/bmw-m440i/8.jpg";
+import m440i_9 from "@/assets/cars/bmw-m440i/9.jpg";
+import m440i_10 from "@/assets/cars/bmw-m440i/10.jpg";
+import m440i_11 from "@/assets/cars/bmw-m440i/11.jpg";
+import m440i_12 from "@/assets/cars/bmw-m440i/12.jpg";
+import m440i_13 from "@/assets/cars/bmw-m440i/13.jpg";
+import m440i_14 from "@/assets/cars/bmw-m440i/14.jpg";
+import m440i_15 from "@/assets/cars/bmw-m440i/15.jpg";
+import m440i_16 from "@/assets/cars/bmw-m440i/16.jpg";
+import m440i_17 from "@/assets/cars/bmw-m440i/17.jpg";
+import m440i_18 from "@/assets/cars/bmw-m440i/18.jpg";
+import m440i_19 from "@/assets/cars/bmw-m440i/19.jpg";
+import m440i_20 from "@/assets/cars/bmw-m440i/20.jpg";
+import m440i_21 from "@/assets/cars/bmw-m440i/21.jpg";
+import m440i_22 from "@/assets/cars/bmw-m440i/22.jpg";
+import m440i_23 from "@/assets/cars/bmw-m440i/23.jpg";
+import m440i_24 from "@/assets/cars/bmw-m440i/24.jpg";
+import m440i_25 from "@/assets/cars/bmw-m440i/25.jpg";
+import m440i_26 from "@/assets/cars/bmw-m440i/26.jpg";
+import m440i_27 from "@/assets/cars/bmw-m440i/27.jpg";
+import m440i_28 from "@/assets/cars/bmw-m440i/28.jpg";
+import m440i_29 from "@/assets/cars/bmw-m440i/29.jpg";
+import m440i_30 from "@/assets/cars/bmw-m440i/30.jpg";
+
+// BMW X5 images (placeholder - will be replaced when images are added)
+const bmwX5Images = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
+
+// Mercedes C220d AMG images (placeholder - will be replaced when images are added)
+const mercedesC220dImages = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
+
+// BMW X1 images (placeholder - will be replaced when images are added)
+const bmwX1Images = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
+
+// Škoda Octavia RS images (placeholder - will be replaced when images are added)
+const skodaOctaviaRsImages = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
+
+// Škoda Octavia Combi RS images (placeholder - will be replaced when images are added)
+const skodaOctaviaCombiRsImages = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
+
+// Mercedes A200d images (placeholder - will be replaced when images are added)
+const mercedesA200dImages = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
+
+// Škoda Octavia Combi First Edition images (placeholder - will be replaced when images are added)
+const skodaOctaviaCombiFirstEditionImages = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
+
+// Škoda Karoq Sportline images (placeholder - will be replaced when images are added)
+const skodaKaroqSportlineImages = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
+
+// BMW X1 M-Paket images (placeholder - will be replaced when images are added)
+const bmwX1MPaketImages = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
+
+// Renault Clio images (placeholder - will be replaced when images are added)
+const renaultClioImages = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
+
+// Renault Megane images (placeholder - will be replaced when images are added)
+const renaultMeganeImages = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
+
+// VW Golf images (placeholder - will be replaced when images are added)
+const vwGolfImages = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
+
 const carDetails: Record<string, {
   brand: string;
   model: string;
@@ -75,7 +143,7 @@ const carDetails: Record<string, {
     status: "Rabljeno", 
     bodyType: "SUV", 
     price: 59990, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: bmwX5Images, 
     description: `Vozilo je u sustavu PDV-a
 
 Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
@@ -101,7 +169,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE!`,
     status: "Rabljeno", 
     bodyType: "Coupe", 
     price: 51990, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: [m440i_1, m440i_2, m440i_3, m440i_4, m440i_5, m440i_6, m440i_7, m440i_8, m440i_9, m440i_10, m440i_11, m440i_12, m440i_13, m440i_14, m440i_15, m440i_16, m440i_17, m440i_18, m440i_19, m440i_20, m440i_21, m440i_22, m440i_23, m440i_24, m440i_25, m440i_26, m440i_27, m440i_28, m440i_29, m440i_30], 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 BMW M440i : održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, zadnji servis napravljen na 91.983 km, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -151,7 +219,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno", 
     bodyType: "Limuzina", 
     price: 44990, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: mercedesC220dImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 MERCEDES-BENZ C KLASA: vozilo u odličnom stanju, održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, servis napravljen na 50.000 km, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -175,7 +243,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno", 
     bodyType: "SUV", 
     price: 39990, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: bmwX1Images, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 BMW X1:BMW Premium selection garancija 24 mj do 16.12.2027., održavan u ovlaštenom servisu, zamjenjeni diskovi i kočione pločice, zamjena ulja i filtera (15.12.2025.) posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -199,7 +267,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno", 
     bodyType: "Limuzina", 
     price: 31990, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: skodaOctaviaRsImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 ŠKODA OCTAVIA RS: održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -225,7 +293,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno", 
     bodyType: "Karavan", 
     price: 28690, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: skodaOctaviaCombiRsImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 ŠKODA OCTAVIA RS: 2 seta felgi RS sa gumama (ljeto/zima) održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -249,7 +317,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno", 
     bodyType: "Hatchback", 
     price: 24490, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: mercedesA200dImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 MERCEDES-BENZ A200d : održavan u ovlaštenom servisu, zadnji servis napravljen na 107.531km, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -273,7 +341,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno", 
     bodyType: "Karavan", 
     price: 23790, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: skodaOctaviaCombiFirstEditionImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 ŠKODA OCTAVIA 2,0 TDI DSG: Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -301,7 +369,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno", 
     bodyType: "SUV", 
     price: 21990, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: skodaKaroqSportlineImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 ŠKODA KAROQ 2.0 TDI: Nove gume, održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -329,7 +397,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno", 
     bodyType: "SUV", 
     price: 17490, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: bmwX1MPaketImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 BMW X1: Redovno održavan svakih 15ak tisuća kilometara, zadnji servis na 206.764km, zamjenjeni zadnji diskovi, zamjena ulja i filtera, bez apsolutno ikakvih dodatnih ulaganja, zimske gume Bridgestone, moguća provjera bilo gdje po želji kupca ...
@@ -353,7 +421,7 @@ M-Paket, M-volan, Multifunkcionalni volan, M sjedala alcantara, Alu felge 18", L
     status: "Rabljeno", 
     bodyType: "Hatchback", 
     price: 15990, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: renaultClioImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 RENAULT CLIO: održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, dva seta felgi i guma (ljeto/zima), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -377,7 +445,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno", 
     bodyType: "Hatchback", 
     price: 13990, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: renaultMeganeImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 RENAULT MEGANE : Redovno održavan u ovlaštenom servisu, zadnji servis na 125.000km, posjeduje servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, dobre zimske gume na vozilu, moguća provjera bilo gdje po želji kupca 
@@ -399,7 +467,7 @@ BOSE paket, BOSE ozvučenje, LED pure vision prednja svjetla, LED zadnja svjetla
     status: "Rabljeno", 
     bodyType: "Hatchback", 
     price: 10990, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: vwGolfImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 GOLF 7 1,6 TDI: Registriran do 5/2026, uredno održavan, bez apsolutno ikakvih dodatnih ulaganja, na vozilu su zimske gume, moguća provjera bilo gdje po želji kupca ...
