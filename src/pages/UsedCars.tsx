@@ -11,6 +11,7 @@ import bmwLogo from "@/assets/brands/bmw-logo.png";
 import mercedesLogo from "@/assets/brands/mercedes-logo.png";
 import volkswagenLogo from "@/assets/brands/volkswagen-logo.png";
 import skodaLogo from "@/assets/brands/skoda-logo.png";
+import renaultLogo from "@/assets/brands/renault-logo.png";
 
 const allCars = [
   { id: 1, slug: "bmw-x5-xdrive-45e-m-sport", image: car1, brand: "BMW", model: "X5 xDrive 45e M-Sport", year: 2020, mileage: 85000, fuelType: "Hibrid", price: 59990, brandLogo: bmwLogo },
@@ -24,8 +25,8 @@ const allCars = [
   { id: 9, slug: "skoda-octavia-combi-first-edition", image: car3, brand: "Škoda", model: "Octavia Combi 2.0TDI DSG First Edition", year: 2020, mileage: 126600, fuelType: "Dizel", price: 23790, brandLogo: skodaLogo },
   { id: 10, slug: "skoda-karoq-sportline", image: car4, brand: "Škoda", model: "Karoq 2.0TDI 4x4 DSG Sportline", year: 2021, mileage: 202000, fuelType: "Dizel", price: 21990, brandLogo: skodaLogo },
   { id: 11, slug: "bmw-x1-sdrive18d-m-paket", image: car5, brand: "BMW", model: "X1 sDrive18d M-Paket", year: 2016, mileage: 209000, fuelType: "Dizel", price: 17490, brandLogo: bmwLogo },
-  { id: 12, slug: "renault-clio-edition-one", image: car6, brand: "Renault", model: "Clio Edition One TCe 130KS", year: 2020, mileage: 108500, fuelType: "Benzin", price: 15990 },
-  { id: 13, slug: "renault-megane-bose", image: car1, brand: "Renault", model: "Megane Bose 130dCi", year: 2019, mileage: 130000, fuelType: "Dizel", price: 13990 },
+  { id: 12, slug: "renault-clio-edition-one", image: car6, brand: "Renault", model: "Clio Edition One TCe 130KS", year: 2020, mileage: 108500, fuelType: "Benzin", price: 15990, brandLogo: renaultLogo },
+  { id: 13, slug: "renault-megane-bose", image: car1, brand: "Renault", model: "Megane Bose 130dCi", year: 2019, mileage: 130000, fuelType: "Dizel", price: 13990, brandLogo: renaultLogo },
   { id: 14, slug: "vw-golf-7", image: car2, brand: "VW", model: "Golf 7 1.6TDI DSG", year: 2017, mileage: 275000, fuelType: "Dizel", price: 10990, brandLogo: volkswagenLogo },
 ];
 
