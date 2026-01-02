@@ -368,9 +368,69 @@ import golf_21 from "@/assets/cars/vw-golf/21.jpg";
 import golf_22 from "@/assets/cars/vw-golf/22.jpg";
 import golf_23 from "@/assets/cars/vw-golf/23.jpg";
 
-// BMW X1 placeholder (no images yet)
-const bmwX1Images = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
-const bmwX1MPaketImages = [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6];
+// BMW X1 2022 images
+import x1_2022_1 from "@/assets/cars/bmw-x1-2022/1.jpg";
+import x1_2022_2 from "@/assets/cars/bmw-x1-2022/2.jpg";
+import x1_2022_3 from "@/assets/cars/bmw-x1-2022/3.jpg";
+import x1_2022_4 from "@/assets/cars/bmw-x1-2022/4.jpg";
+import x1_2022_5 from "@/assets/cars/bmw-x1-2022/5.jpg";
+import x1_2022_6 from "@/assets/cars/bmw-x1-2022/6.jpg";
+import x1_2022_7 from "@/assets/cars/bmw-x1-2022/7.jpg";
+import x1_2022_8 from "@/assets/cars/bmw-x1-2022/8.jpg";
+import x1_2022_9 from "@/assets/cars/bmw-x1-2022/9.jpg";
+import x1_2022_10 from "@/assets/cars/bmw-x1-2022/10.jpg";
+import x1_2022_11 from "@/assets/cars/bmw-x1-2022/11.jpg";
+import x1_2022_12 from "@/assets/cars/bmw-x1-2022/12.jpg";
+import x1_2022_13 from "@/assets/cars/bmw-x1-2022/13.jpg";
+import x1_2022_14 from "@/assets/cars/bmw-x1-2022/14.jpg";
+import x1_2022_15 from "@/assets/cars/bmw-x1-2022/15.jpg";
+import x1_2022_16 from "@/assets/cars/bmw-x1-2022/16.jpg";
+import x1_2022_17 from "@/assets/cars/bmw-x1-2022/17.jpg";
+import x1_2022_18 from "@/assets/cars/bmw-x1-2022/18.jpg";
+import x1_2022_19 from "@/assets/cars/bmw-x1-2022/19.jpg";
+import x1_2022_20 from "@/assets/cars/bmw-x1-2022/20.jpg";
+import x1_2022_21 from "@/assets/cars/bmw-x1-2022/21.jpg";
+import x1_2022_22 from "@/assets/cars/bmw-x1-2022/22.jpg";
+import x1_2022_23 from "@/assets/cars/bmw-x1-2022/23.jpg";
+import x1_2022_24 from "@/assets/cars/bmw-x1-2022/24.jpg";
+import x1_2022_25 from "@/assets/cars/bmw-x1-2022/25.jpg";
+import x1_2022_26 from "@/assets/cars/bmw-x1-2022/26.jpg";
+import x1_2022_27 from "@/assets/cars/bmw-x1-2022/27.jpg";
+import x1_2022_28 from "@/assets/cars/bmw-x1-2022/28.jpg";
+import x1_2022_29 from "@/assets/cars/bmw-x1-2022/29.jpg";
+
+// BMW X1 2016 images
+import x1_2016_1 from "@/assets/cars/bmw-x1-2016/1.jpg";
+import x1_2016_2 from "@/assets/cars/bmw-x1-2016/2.jpg";
+import x1_2016_3 from "@/assets/cars/bmw-x1-2016/3.jpg";
+import x1_2016_4 from "@/assets/cars/bmw-x1-2016/4.jpg";
+import x1_2016_5 from "@/assets/cars/bmw-x1-2016/5.jpg";
+import x1_2016_6 from "@/assets/cars/bmw-x1-2016/6.jpg";
+import x1_2016_7 from "@/assets/cars/bmw-x1-2016/7.jpg";
+import x1_2016_8 from "@/assets/cars/bmw-x1-2016/8.jpg";
+import x1_2016_9 from "@/assets/cars/bmw-x1-2016/9.jpg";
+import x1_2016_10 from "@/assets/cars/bmw-x1-2016/10.jpg";
+import x1_2016_11 from "@/assets/cars/bmw-x1-2016/11.jpg";
+import x1_2016_12 from "@/assets/cars/bmw-x1-2016/12.jpg";
+import x1_2016_13 from "@/assets/cars/bmw-x1-2016/13.jpg";
+import x1_2016_14 from "@/assets/cars/bmw-x1-2016/14.jpg";
+import x1_2016_15 from "@/assets/cars/bmw-x1-2016/15.jpg";
+import x1_2016_16 from "@/assets/cars/bmw-x1-2016/16.jpg";
+import x1_2016_17 from "@/assets/cars/bmw-x1-2016/17.jpg";
+import x1_2016_18 from "@/assets/cars/bmw-x1-2016/18.jpg";
+import x1_2016_19 from "@/assets/cars/bmw-x1-2016/19.jpg";
+import x1_2016_20 from "@/assets/cars/bmw-x1-2016/20.jpg";
+import x1_2016_21 from "@/assets/cars/bmw-x1-2016/21.jpg";
+import x1_2016_22 from "@/assets/cars/bmw-x1-2016/22.jpg";
+import x1_2016_23 from "@/assets/cars/bmw-x1-2016/23.jpg";
+import x1_2016_24 from "@/assets/cars/bmw-x1-2016/24.jpg";
+import x1_2016_25 from "@/assets/cars/bmw-x1-2016/25.jpg";
+import x1_2016_26 from "@/assets/cars/bmw-x1-2016/26.jpg";
+import x1_2016_27 from "@/assets/cars/bmw-x1-2016/27.jpg";
+import x1_2016_28 from "@/assets/cars/bmw-x1-2016/28.jpg";
+
+const bmwX1Images = [x1_2022_1, x1_2022_2, x1_2022_3, x1_2022_4, x1_2022_5, x1_2022_6, x1_2022_7, x1_2022_8, x1_2022_9, x1_2022_10, x1_2022_11, x1_2022_12, x1_2022_13, x1_2022_14, x1_2022_15, x1_2022_16, x1_2022_17, x1_2022_18, x1_2022_19, x1_2022_20, x1_2022_21, x1_2022_22, x1_2022_23, x1_2022_24, x1_2022_25, x1_2022_26, x1_2022_27, x1_2022_28, x1_2022_29];
+const bmwX1MPaketImages = [x1_2016_1, x1_2016_2, x1_2016_3, x1_2016_4, x1_2016_5, x1_2016_6, x1_2016_7, x1_2016_8, x1_2016_9, x1_2016_10, x1_2016_11, x1_2016_12, x1_2016_13, x1_2016_14, x1_2016_15, x1_2016_16, x1_2016_17, x1_2016_18, x1_2016_19, x1_2016_20, x1_2016_21, x1_2016_22, x1_2016_23, x1_2016_24, x1_2016_25, x1_2016_26, x1_2016_27, x1_2016_28];
 
 const carDetails: Record<string, {
   brand: string;
