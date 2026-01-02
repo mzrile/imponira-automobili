@@ -12,6 +12,38 @@ import bmw4 from "@/assets/bmw-4.jpg";
 import bmw5 from "@/assets/bmw-5.jpg";
 import bmw6 from "@/assets/bmw-6.jpg";
 
+// VW Tiguan images
+import tiguan1 from "@/assets/cars/vw-tiguan/1.jpg";
+import tiguan2 from "@/assets/cars/vw-tiguan/2.jpg";
+import tiguan3 from "@/assets/cars/vw-tiguan/3.jpg";
+import tiguan4 from "@/assets/cars/vw-tiguan/4.jpg";
+import tiguan5 from "@/assets/cars/vw-tiguan/5.jpg";
+import tiguan6 from "@/assets/cars/vw-tiguan/6.jpg";
+import tiguan7 from "@/assets/cars/vw-tiguan/7.jpg";
+import tiguan8 from "@/assets/cars/vw-tiguan/8.jpg";
+import tiguan9 from "@/assets/cars/vw-tiguan/9.jpg";
+import tiguan10 from "@/assets/cars/vw-tiguan/10.jpg";
+import tiguan11 from "@/assets/cars/vw-tiguan/11.jpg";
+import tiguan12 from "@/assets/cars/vw-tiguan/12.jpg";
+import tiguan13 from "@/assets/cars/vw-tiguan/13.jpg";
+import tiguan14 from "@/assets/cars/vw-tiguan/14.jpg";
+import tiguan15 from "@/assets/cars/vw-tiguan/15.jpg";
+import tiguan16 from "@/assets/cars/vw-tiguan/16.jpg";
+import tiguan17 from "@/assets/cars/vw-tiguan/17.jpg";
+import tiguan18 from "@/assets/cars/vw-tiguan/18.jpg";
+import tiguan19 from "@/assets/cars/vw-tiguan/19.jpg";
+import tiguan20 from "@/assets/cars/vw-tiguan/20.jpg";
+import tiguan21 from "@/assets/cars/vw-tiguan/21.jpg";
+import tiguan22 from "@/assets/cars/vw-tiguan/22.jpg";
+import tiguan23 from "@/assets/cars/vw-tiguan/23.jpg";
+import tiguan24 from "@/assets/cars/vw-tiguan/24.jpg";
+import tiguan25 from "@/assets/cars/vw-tiguan/25.jpg";
+import tiguan26 from "@/assets/cars/vw-tiguan/26.jpg";
+import tiguan27 from "@/assets/cars/vw-tiguan/27.jpg";
+import tiguan28 from "@/assets/cars/vw-tiguan/28.jpg";
+import tiguan29 from "@/assets/cars/vw-tiguan/29.jpg";
+import tiguan30 from "@/assets/cars/vw-tiguan/30.jpg";
+
 const carDetails: Record<string, {
   brand: string;
   model: string;
@@ -95,7 +127,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno", 
     bodyType: "SUV", 
     price: 47890, 
-    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    images: [tiguan1, tiguan2, tiguan3, tiguan4, tiguan5, tiguan6, tiguan7, tiguan8, tiguan9, tiguan10, tiguan11, tiguan12, tiguan13, tiguan14, tiguan15, tiguan16, tiguan17, tiguan18, tiguan19, tiguan20, tiguan21, tiguan22, tiguan23, tiguan24, tiguan25, tiguan26, tiguan27, tiguan28, tiguan29, tiguan30],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 VW TIGUAN 2.0 TDI:Garancija, održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
