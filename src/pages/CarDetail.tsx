@@ -30,7 +30,30 @@ const carDetails: Record<string, {
   description: string;
 }> = {
   "bmw-x5-xdrive-45e-m-sport": {
-    brand: "BMW", model: "X5 xDrive 45e M-Sport", year: 2020, mileage: 85000, fuelType: "Hibrid", transmission: "Automatski", power: "394 KS", engine: "3.0L Turbo Hybrid", registration: "12/2025", driveType: "xDrive (AWD)", status: "Rabljeno", bodyType: "SUV", price: 59990, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Luksuzni SUV s hibridnim pogonom u izvrsnom stanju. Redovno održavan s kompletnom servisnom knjigom.",
+    brand: "BMW", 
+    model: "X5 xDrive 45e M-Sport", 
+    year: 2020, 
+    mileage: 85000, 
+    fuelType: "Plug-in hibrid", 
+    transmission: "Automatski", 
+    power: "210 kW", 
+    engine: "Plug-in hibrid", 
+    registration: "-", 
+    driveType: "xDrive", 
+    status: "Rabljeno", 
+    bodyType: "SUV", 
+    price: 59990, 
+    images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], 
+    description: `Vozilo je u sustavu PDV-a
+
+Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Vozilo u odličnom stanju, održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+M sportski paket, M Kožni upravljač, M Aerodinamički paket, Kristalni mjenjač, xDrive, Zračni ovjes, Modovi vožnje, Panoramski stakleni krov, Mreža za prtljažnik, Podne prostirke od velura, Komforno sjedalo s memorijom, Sjedala na struju, Grijanje sjedala (prednja/zadnja), Hlađenje sjedala (prednja), Paket toplinske udobnosti, sprijeda, Grijanje volana, 4 zone klima, Keyless, Line asistent, Adaptivni Tempomat, Virtual cockpit, Soft close, Head-up, Vanjski retrovizor s automatskim prigušivanjem, Tonirana stakla, Akustična zaštita pješaka, Ambijentalno unutarnje svjetlo, DAB tuner, Harman/Kardon surround zvučni sustav, Povezani paket Professional, Active Guard Plus, Laser farovi, Automatska kratka i duga svjetla, Sustav pomoći pri parkiranju Plus, 360 kamera, M Sportska kočnica (plave), Prikaz tlaka u gumama, El. kuka, El. vrata prtljažnika, El. podešavanje volana, Armatura od kože individual, Digitalni ključ, 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE!`,
   },
   "bmw-m440i-xdrive": {
     brand: "BMW", model: "M440i xDrive", year: 2020, mileage: 92000, fuelType: "Benzin", transmission: "Automatski", power: "374 KS", engine: "3.0L Turbo", registration: "06/2025", driveType: "xDrive (AWD)", status: "Rabljeno", bodyType: "Coupe", price: 51990, images: [bmw1, bmw2, bmw3, bmw4, bmw5, bmw6], description: "Sportski coupe s iznimnim performansama. Opremljen M-Sport paketom i svim dodacima.",
@@ -232,7 +255,7 @@ const CarDetail = () => {
 
           <Card className="p-8 bg-card border-border">
             <h2 className="text-2xl font-bold mb-6 text-foreground">Opis vozila</h2>
-            <p className="text-muted-foreground leading-relaxed">{car.description}</p>
+            <p className="text-muted-foreground leading-relaxed whitespace-pre-line">{car.description}</p>
           </Card>
         </div>
       </main>
