@@ -14,16 +14,14 @@ import x1_2022_1 from "@/assets/cars/bmw-x1-2022/1.jpg";
 import octaviaRs_1 from "@/assets/cars/skoda-octavia-rs/1.jpg";
 
 // Brand logos
-import porscheLogo from "@/assets/brands/porsche-logo.png";
-import bmwLogo from "@/assets/brands/bmw-logo.png";
-import mercedesLogo from "@/assets/brands/mercedes-logo.png";
-import astonMartinLogo from "@/assets/brands/aston-martin-logo.png";
-import volkswagenLogo from "@/assets/brands/volkswagen-logo.png";
-import ferrariLogo from "@/assets/brands/ferrari-logo.png";
-import lamborghiniLogo from "@/assets/brands/lamborghini-logo.png";
-import lexusLogo from "@/assets/brands/lexus-logo.png";
-import skodaLogo from "@/assets/brands/skoda-logo.png";
-import audiLogo from "@/assets/brands/audi-logo.png";
+import porscheLogo from "@/assets/brands/porsche-new.png";
+import bmwLogo from "@/assets/brands/bmw-new.png";
+import mercedesLogo from "@/assets/brands/mercedes-new.png";
+import volkswagenLogo from "@/assets/brands/volkswagen-new.png";
+import ferrariLogo from "@/assets/brands/ferrari-new.png";
+import lamborghiniLogo from "@/assets/brands/lamborghini-new.png";
+import skodaLogo from "@/assets/brands/skoda-new.png";
+import audiLogo from "@/assets/brands/audi-new.png";
 
 const featuredCars = [
   { id: 1, slug: "bmw-x5-xdrive-45e-m-sport", image: x5_1, brand: "BMW", model: "X5 xDrive 45e M-Sport", year: 2020, mileage: 85000, fuelType: "Hibrid", price: 59990, brandLogo: bmwLogo },
@@ -97,9 +95,7 @@ const Home = () => {
                 { name: "Porsche", logo: porscheLogo },
                 { name: "Ferrari", logo: ferrariLogo },
                 { name: "Lamborghini", logo: lamborghiniLogo },
-                { name: "Lexus", logo: lexusLogo },
                 { name: "Škoda", logo: skodaLogo },
-                { name: "Aston Martin", logo: astonMartinLogo },
               ].map((brand) => (
                 <div 
                   key={brand.name} 
