@@ -22,6 +22,7 @@ import ferrariLogo from "@/assets/brands/ferrari-new.png";
 import lamborghiniLogo from "@/assets/brands/lamborghini-new.png";
 import skodaLogo from "@/assets/brands/skoda-new.png";
 import audiLogo from "@/assets/brands/audi-new.png";
+import renaultLogo from "@/assets/brands/renault-new.png";
 
 const featuredCars = [
   { id: 1, slug: "bmw-x5-xdrive-45e-m-sport", image: x5_1, brand: "BMW", model: "X5 xDrive 45e M-Sport", year: 2020, mileage: 85000, fuelType: "Hibrid", price: 59990, brandLogo: bmwLogo },
