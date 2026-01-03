@@ -21,11 +21,11 @@ import x1_2022_1 from "@/assets/cars/bmw-x1-2022/1.jpg";
 import x1_2016_1 from "@/assets/cars/bmw-x1-2016/1.jpg";
 
 // Brand logos
-import bmwLogo from "@/assets/brands/bmw-logo.png";
-import mercedesLogo from "@/assets/brands/mercedes-logo.png";
-import volkswagenLogo from "@/assets/brands/volkswagen-logo.png";
-import skodaLogo from "@/assets/brands/skoda-logo.png";
-import renaultLogo from "@/assets/brands/renault-logo.png";
+import bmwLogo from "@/assets/brands/bmw-new.png";
+import mercedesLogo from "@/assets/brands/mercedes-new.png";
+import volkswagenLogo from "@/assets/brands/volkswagen-new.png";
+import skodaLogo from "@/assets/brands/skoda-new.png";
+import renaultLogo from "@/assets/brands/renault-new.png";
 
 const allCars = [
   { id: 1, slug: "bmw-x5-xdrive-45e-m-sport", image: x5_1, brand: "BMW", model: "X5 xDrive 45e M-Sport", year: 2020, mileage: 85000, fuelType: "Hibrid", price: 59990, brandLogo: bmwLogo },
