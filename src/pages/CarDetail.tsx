@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Calendar, Gauge, Fuel, Settings, Zap, FileCheck, ChevronLeft, ChevronRight } from "lucide-react";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -805,6 +805,11 @@ const CarDetail = () => {
   
   const car = id && carDetails[id] ? carDetails[id] : defaultCar;
   const images = car.images;
+
+  // Scroll to top when component mounts or car changes
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [id]);
 
   const goToPrevious = () => {
     setCurrentImageIndex((prev) => (prev - 1 + images.length) % images.length);
