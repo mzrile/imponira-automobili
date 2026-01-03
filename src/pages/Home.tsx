@@ -86,24 +86,56 @@ const Home = () => {
           </Link>
         </section>
 
+        <section className="mb-20">
+          <h2 className="text-4xl font-bold text-center mb-12 text-foreground">Brendovi</h2>
+          <div className="bg-zinc-900 rounded-xl p-8">
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6 items-center">
+              {[
+                { name: "Mercedes-Benz", logo: mercedesLogo },
+                { name: "BMW", logo: bmwLogo },
+                { name: "Audi", logo: audiLogo },
+                { name: "Volkswagen", logo: volkswagenLogo },
+                { name: "Porsche", logo: porscheLogo },
+                { name: "Ferrari", logo: ferrariLogo },
+                { name: "Lamborghini", logo: lamborghiniLogo },
+                { name: "Lexus", logo: lexusLogo },
+                { name: "Škoda", logo: skodaLogo },
+                { name: "Aston Martin", logo: astonMartinLogo },
+              ].map((brand) => (
+                <div 
+                  key={brand.name} 
+                  className="flex items-center justify-center p-6 hover:scale-110 transition-transform duration-300"
+                >
+                  <img 
+                    src={brand.logo} 
+                    alt={`${brand.name} logo`} 
+                    className="h-16 md:h-20 w-auto object-contain filter brightness-0 invert opacity-80 hover:opacity-100 transition-opacity"
+                  />
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
         <section>
-          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8 items-center">
-            {[
-              { name: "Mercedes-Benz", logo: mercedesLogo },
-              { name: "BMW", logo: bmwLogo },
-              { name: "Audi", logo: audiLogo },
-              { name: "Volkswagen", logo: volkswagenLogo },
-              { name: "Porsche", logo: porscheLogo },
-              { name: "Ferrari", logo: ferrariLogo },
-              { name: "Lamborghini", logo: lamborghiniLogo },
-              { name: "Lexus", logo: lexusLogo },
-              { name: "Škoda", logo: skodaLogo },
-              { name: "Aston Martin", logo: astonMartinLogo },
-            ].map((brand) => (
-              <div key={brand.name} className="flex items-center justify-center p-6 bg-card border border-border rounded-lg hover-scale">
-                <img src={brand.logo} alt={`${brand.name} logo`} className="h-12 w-auto object-contain" />
-              </div>
-            ))}
+          <h2 className="text-4xl font-bold text-center mb-12 text-foreground">Lokacija</h2>
+          <div className="bg-card border border-border rounded-xl overflow-hidden">
+            <div className="p-6 text-center">
+              <p className="text-lg text-foreground font-medium">Ivana Šimunovića 11/1</p>
+              <p className="text-muted-foreground">10360 Sesvete, Hrvatska</p>
+            </div>
+            <div className="aspect-video w-full">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2780.8!2d16.1166!3d45.8286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4766a76f89e3e16b%3A0x1234567890abcdef!2sIvana%20%C5%A0imunovi%C4%87a%2011%2C%2010360%20Sesvete!5e0!3m2!1shr!2shr!4v1704200000000!5m2!1shr!2shr"
+                width="100%"
+                height="100%"
+                style={{ border: 0 }}
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                title="Lokacija - Imponira Automobili"
+              />
+            </div>
           </div>
         </section>
       </main>

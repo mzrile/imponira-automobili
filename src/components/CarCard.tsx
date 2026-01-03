@@ -21,7 +21,12 @@ const CarCard = ({ id, slug, image, brand, model, year, mileage, fuelType, trans
     <Link to={carUrl}>
       <Card className="overflow-hidden hover-scale hover-glow cursor-pointer bg-card border-border">
         <div className="aspect-[4/3] overflow-hidden">
-          <img src={image} alt={`${brand} ${model}`} className="w-full h-full object-cover" />
+          <img 
+            src={image} 
+            alt={`${brand} ${model}`} 
+            className="w-full h-full object-cover object-center"
+            style={{ objectPosition: 'center 40%' }}
+          />
         </div>
         <div className="p-4">
           <div className="flex items-center justify-between mb-3">
