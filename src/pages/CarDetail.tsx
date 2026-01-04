@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
-import { Calendar, Gauge, Fuel, Settings, Zap, FileCheck, ChevronLeft, ChevronRight } from "lucide-react";
+import { Calendar, Gauge, Fuel, Settings, Zap, FileCheck, ChevronLeft, ChevronRight, PhoneCall } from "lucide-react";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
@@ -826,7 +826,16 @@ const CarDetail = () => {
       <main className="container mx-auto px-4 py-16">
         <div className="mb-8">
           <h1 className="text-4xl font-bold text-foreground mb-2">{car.brand} {car.model}</h1>
-          <p className="text-2xl text-primary font-bold">€{car.price.toLocaleString()}</p>
+          <div className="flex items-center gap-4">
+            <p className="text-2xl text-primary font-bold">€{car.price.toLocaleString()}</p>
+            <a 
+              href="tel:0912666668" 
+              className="md:hidden flex items-center justify-center w-10 h-10 bg-primary text-primary-foreground rounded-full hover:bg-primary/90 transition-colors"
+              aria-label="Nazovi"
+            >
+              <PhoneCall className="w-5 h-5" />
+            </a>
+          </div>
         </div>
 
         <div className="mb-8">
