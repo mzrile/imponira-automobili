@@ -4,6 +4,7 @@ import Footer from "@/components/Footer";
 import HeroCarousel from "@/components/HeroCarousel";
 import CarCard from "@/components/CarCard";
 import { Button } from "@/components/ui/button";
+import SEO from "@/components/SEO";
 
 // Car first images
 import x5_1 from "@/assets/cars/bmw-x5-xdrive-45e/1.jpg";
@@ -33,9 +34,52 @@ const featuredCars = [
   { id: 6, slug: "skoda-octavia-rs", image: octaviaRs_1, brand: "Škoda", model: "Octavia RS 2.0TDI DSG", year: 2021, mileage: 88000, fuelType: "Dizel", price: 31990, brandLogo: skodaLogo },
 ];
 
+const organizationJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "AutoDealer",
+  "name": "ImpoNira Automobili",
+  "description": "Vaš pouzdani partner za kupovinu kvalitetnih polovnih vozila",
+  "url": "https://imponira.eu",
+  "logo": "https://imponira.eu/logo.png",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ivana Šimunovića 11/1",
+    "addressLocality": "Sesvete",
+    "postalCode": "10360",
+    "addressCountry": "HR"
+  },
+  "telephone": "+385912666668",
+  "email": "info@imponira.eu",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "opens": "08:00",
+      "closes": "16:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "08:00",
+      "closes": "13:00"
+    }
+  ],
+  "priceRange": "€€",
+  "areaServed": {
+    "@type": "Country",
+    "name": "Croatia"
+  }
+};
+
 const Home = () => {
   return (
     <div className="min-h-screen bg-background">
+      <SEO 
+        title="ImpoNira Automobili - Uvoz i prodaja kvalitetnih polovnih vozila"
+        description="ImpoNira Automobili - Vaš pouzdani partner za kupovinu kvalitetnih polovnih vozila u Hrvatskoj. Širok izbor BMW, Mercedes, Audi, VW vozila s garancijom kvalitete."
+        url="https://imponira.eu"
+        jsonLd={organizationJsonLd}
+      />
       <Header />
       
       <HeroCarousel />

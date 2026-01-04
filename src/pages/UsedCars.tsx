@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import CarCard from "@/components/CarCard";
+import SEO from "@/components/SEO";
 
 // Car first images from their folders
 import x5_1 from "@/assets/cars/bmw-x5-xdrive-45e/1.jpg";
@@ -44,9 +45,43 @@ const allCars = [
   { id: 14, slug: "vw-golf-7", image: golf_1, brand: "VW", model: "Golf 7 1.6TDI DSG", year: 2017, mileage: 275000, fuelType: "Dizel", price: 10990, brandLogo: volkswagenLogo },
 ];
 
+const carsListJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Ponuda polovnih vozila - ImpoNira Automobili",
+  "description": "Kompletna ponuda kvalitetnih polovnih vozila",
+  "itemListElement": allCars.map((car, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "item": {
+      "@type": "Car",
+      "name": `${car.brand} ${car.model}`,
+      "vehicleModelDate": car.year.toString(),
+      "mileageFromOdometer": {
+        "@type": "QuantitativeValue",
+        "value": car.mileage,
+        "unitCode": "KMT"
+      },
+      "fuelType": car.fuelType,
+      "offers": {
+        "@type": "Offer",
+        "price": car.price,
+        "priceCurrency": "EUR"
+      }
+    }
+  }))
+};
+
 const UsedCars = () => {
   return (
     <div className="min-h-screen bg-background">
+      <SEO 
+        title="Ponuda vozila - Kvalitetna polovna vozila"
+        description="Pregledajte našu kompletnu ponudu kvalitetnih polovnih vozila. BMW, Mercedes, VW, Škoda, Renault - svi automobili s detaljnom dokumentacijom i garancijom kvalitete."
+        keywords="polovna vozila, rabljeni automobili, BMW, Mercedes, Volkswagen, Škoda, Renault, uvoz automobila Hrvatska"
+        url="https://imponira.eu/ponuda-vozila"
+        jsonLd={carsListJsonLd}
+      />
       <Header />
       
       <main className="container mx-auto px-4 py-16">
