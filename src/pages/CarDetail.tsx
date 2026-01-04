@@ -831,11 +831,11 @@ const CarDetail = () => {
 
         <div className="mb-8">
           {/* Main Image Display */}
-          <div className="relative h-[70vh] mb-4 rounded-lg overflow-hidden bg-muted">
+          <div className="relative aspect-[4/3] md:aspect-[16/9] mb-4 rounded-lg overflow-hidden bg-muted">
             <img 
               src={images[currentImageIndex]} 
               alt={`${car.brand} ${car.model} - Slika ${currentImageIndex + 1}`} 
-              className="w-full h-full object-cover transition-opacity duration-300"
+              className="w-full h-full object-contain transition-opacity duration-300"
             />
             <div className="absolute inset-0 flex items-center justify-between px-4">
               <Button
