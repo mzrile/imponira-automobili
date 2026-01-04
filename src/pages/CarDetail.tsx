@@ -826,7 +826,7 @@ const CarDetail = () => {
       <main className="container mx-auto px-4 py-16">
         <div className="mb-8">
           <h1 className="text-4xl font-bold text-foreground mb-2">{car.brand} {car.model}</h1>
-          <div className="flex items-center gap-4">
+          <div className="flex items-center justify-between">
             <p className="text-2xl text-primary font-bold">€{car.price.toLocaleString()}</p>
             <a 
               href="tel:0912666668" 
