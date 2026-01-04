@@ -830,10 +830,10 @@ const CarDetail = () => {
             <p className="text-2xl text-primary font-bold">€{car.price.toLocaleString()}</p>
             <a 
               href="tel:0912666668" 
-              className="md:hidden flex items-center justify-center w-10 h-10 bg-primary text-primary-foreground rounded-full hover:bg-primary/90 transition-colors"
+              className="md:hidden flex items-center justify-center text-primary hover:text-primary/80 transition-colors"
               aria-label="Nazovi"
             >
-              <PhoneCall className="w-5 h-5" />
+              <PhoneCall className="w-6 h-6" />
             </a>
           </div>
         </div>
