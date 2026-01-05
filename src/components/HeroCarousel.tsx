@@ -34,7 +34,7 @@ const HeroCarousel = () => {
             index === currentIndex ? "opacity-100" : "opacity-0"
           }`}
         >
-          <img src={image} alt={`Hero ${index + 1}`} className="w-full h-full object-contain" />
+          <img src={image} alt={`Hero ${index + 1}`} className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-background via-background/50 to-transparent" />
         </div>
       ))}
