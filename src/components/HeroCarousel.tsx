@@ -6,8 +6,9 @@ import hero2 from "@/assets/hero-2.jpg";
 import hero3 from "@/assets/hero-3.jpg";
 import slider1 from "@/assets/slider-1.jpg";
 import slider2 from "@/assets/slider-2.jpg";
+import slider3 from "@/assets/slider-3.jpg";
 
-const images = [slider1, slider2, hero1, hero2, hero3];
+const images = [slider1, slider2, slider3, hero1, hero2, hero3];
 
 const HeroCarousel = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
