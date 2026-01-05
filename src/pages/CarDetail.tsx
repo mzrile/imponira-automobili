@@ -851,7 +851,7 @@ const CarDetail = () => {
                 variant="secondary"
                 size="icon"
                 onClick={goToPrevious}
-                className="bg-background/90 hover:bg-background text-foreground shadow-lg"
+                className="bg-white/90 hover:bg-white text-gray-800 shadow-lg md:bg-background/90 md:hover:bg-background md:text-foreground"
               >
                 <ChevronLeft className="w-6 h-6" />
               </Button>
@@ -859,7 +859,7 @@ const CarDetail = () => {
                 variant="secondary"
                 size="icon"
                 onClick={goToNext}
-                className="bg-background/90 hover:bg-background text-foreground shadow-lg"
+                className="bg-white/90 hover:bg-white text-gray-800 shadow-lg md:bg-background/90 md:hover:bg-background md:text-foreground"
               >
                 <ChevronRight className="w-6 h-6" />
               </Button>
