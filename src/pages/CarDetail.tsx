@@ -870,7 +870,7 @@ const CarDetail = () => {
                 variant="secondary"
                 size="icon"
                 onClick={(e) => { e.stopPropagation(); goToPrevious(); }}
-                className="bg-white/30 hover:bg-white/50 text-primary shadow-lg"
+                className="bg-black/40 hover:bg-black/60 text-primary shadow-lg"
               >
                 <ChevronLeft className="w-6 h-6" />
               </Button>
@@ -878,7 +878,7 @@ const CarDetail = () => {
                 variant="secondary"
                 size="icon"
                 onClick={(e) => { e.stopPropagation(); goToNext(); }}
-                className="bg-white/30 hover:bg-white/50 text-primary shadow-lg"
+                className="bg-black/40 hover:bg-black/60 text-primary shadow-lg"
               >
                 <ChevronRight className="w-6 h-6" />
               </Button>
@@ -913,7 +913,7 @@ const CarDetail = () => {
                     variant="secondary"
                     size="icon"
                     onClick={lightboxPrev}
-                    className="bg-white/30 hover:bg-white/50 text-primary shadow-lg pointer-events-auto"
+                    className="bg-black/40 hover:bg-black/60 text-primary shadow-lg pointer-events-auto"
                   >
                     <ChevronLeft className="w-6 h-6" />
                   </Button>
@@ -921,7 +921,7 @@ const CarDetail = () => {
                     variant="secondary"
                     size="icon"
                     onClick={lightboxNext}
-                    className="bg-white/30 hover:bg-white/50 text-primary shadow-lg pointer-events-auto"
+                    className="bg-black/40 hover:bg-black/60 text-primary shadow-lg pointer-events-auto"
                   >
                     <ChevronRight className="w-6 h-6" />
                   </Button>
