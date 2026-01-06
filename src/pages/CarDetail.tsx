@@ -1,9 +1,10 @@
 import { useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
-import { Calendar, Gauge, Fuel, Settings, Zap, FileCheck, ChevronLeft, ChevronRight, PhoneCall } from "lucide-react";
+import { Calendar, Gauge, Fuel, Settings, Zap, FileCheck, ChevronLeft, ChevronRight, PhoneCall, X } from "lucide-react";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
+import { Dialog, DialogContent } from "@/components/ui/dialog";
 import { Card } from "@/components/ui/card";
 import bmw1 from "@/assets/bmw-1.jpg";
 import bmw2 from "@/assets/bmw-2.jpg";
@@ -802,6 +803,8 @@ const defaultCar = carDetails["bmw-m440i-xdrive"];
 const CarDetail = () => {
   const { id } = useParams();
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
+  const [lightboxOpen, setLightboxOpen] = useState(false);
+  const [lightboxIndex, setLightboxIndex] = useState(0);
   
   const car = id && carDetails[id] ? carDetails[id] : defaultCar;
   const images = car.images;
@@ -817,6 +820,19 @@ const CarDetail = () => {
 
   const goToNext = () => {
     setCurrentImageIndex((prev) => (prev + 1) % images.length);
+  };
+
+  const openLightbox = (index: number) => {
+    setLightboxIndex(index);
+    setLightboxOpen(true);
+  };
+
+  const lightboxPrev = () => {
+    setLightboxIndex((prev) => (prev - 1 + images.length) % images.length);
+  };
+
+  const lightboxNext = () => {
+    setLightboxIndex((prev) => (prev + 1) % images.length);
   };
 
   return (
@@ -840,17 +856,20 @@ const CarDetail = () => {
 
         <div className="mb-8">
           {/* Main Image Display */}
-          <div className="relative aspect-[4/3] md:aspect-[16/9] mb-4 rounded-lg overflow-hidden bg-muted">
+          <div 
+            className="relative aspect-[4/3] md:aspect-[16/9] mb-4 rounded-lg overflow-hidden bg-muted cursor-pointer md:cursor-default"
+            onClick={() => window.innerWidth < 768 && openLightbox(currentImageIndex)}
+          >
             <img 
               src={images[currentImageIndex]} 
               alt={`${car.brand} ${car.model} - Slika ${currentImageIndex + 1}`} 
               className="w-full h-full object-contain transition-opacity duration-300"
             />
             <div className="absolute inset-0 flex items-center justify-between px-4">
-            <Button
+              <Button
                 variant="secondary"
                 size="icon"
-                onClick={goToPrevious}
+                onClick={(e) => { e.stopPropagation(); goToPrevious(); }}
                 className="bg-white/30 hover:bg-white/50 text-primary shadow-lg"
               >
                 <ChevronLeft className="w-6 h-6" />
@@ -858,7 +877,7 @@ const CarDetail = () => {
               <Button
                 variant="secondary"
                 size="icon"
-                onClick={goToNext}
+                onClick={(e) => { e.stopPropagation(); goToNext(); }}
                 className="bg-white/30 hover:bg-white/50 text-primary shadow-lg"
               >
                 <ChevronRight className="w-6 h-6" />
@@ -869,6 +888,51 @@ const CarDetail = () => {
               {currentImageIndex + 1} / {images.length}
             </div>
           </div>
+
+          {/* Mobile Lightbox */}
+          <Dialog open={lightboxOpen} onOpenChange={setLightboxOpen}>
+            <DialogContent className="max-w-full w-full h-full max-h-full p-0 border-0 bg-black/95 md:hidden">
+              <div className="relative w-full h-full flex items-center justify-center">
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  onClick={() => setLightboxOpen(false)}
+                  className="absolute top-4 right-4 z-50 bg-white/20 hover:bg-white/40 text-white"
+                >
+                  <X className="w-6 h-6" />
+                </Button>
+                
+                <img 
+                  src={images[lightboxIndex]} 
+                  alt={`${car.brand} ${car.model} - Slika ${lightboxIndex + 1}`} 
+                  className="max-w-full max-h-full object-contain"
+                />
+                
+                <div className="absolute inset-0 flex items-center justify-between px-4 pointer-events-none">
+                  <Button
+                    variant="secondary"
+                    size="icon"
+                    onClick={lightboxPrev}
+                    className="bg-white/30 hover:bg-white/50 text-primary shadow-lg pointer-events-auto"
+                  >
+                    <ChevronLeft className="w-6 h-6" />
+                  </Button>
+                  <Button
+                    variant="secondary"
+                    size="icon"
+                    onClick={lightboxNext}
+                    className="bg-white/30 hover:bg-white/50 text-primary shadow-lg pointer-events-auto"
+                  >
+                    <ChevronRight className="w-6 h-6" />
+                  </Button>
+                </div>
+                
+                <div className="absolute bottom-6 left-1/2 -translate-x-1/2 bg-white/20 text-white px-4 py-2 rounded-full text-sm font-medium">
+                  {lightboxIndex + 1} / {images.length}
+                </div>
+              </div>
+            </DialogContent>
+          </Dialog>
 
           {/* Thumbnail Gallery */}
           <div className="grid grid-cols-6 gap-3">
