@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import { Home } from "lucide-react";
 import logo from "@/assets/logo.png";
 
@@ -21,11 +21,27 @@ const CarFrontIcon = ({ className }: { className?: string }) => (
 );
 
 const Header = () => {
+  const location = useLocation();
+
+  const handleHomeClick = (e: React.MouseEvent) => {
+    if (location.pathname === "/") {
+      e.preventDefault();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  };
+
+  const handleCarsClick = (e: React.MouseEvent) => {
+    if (location.pathname === "/ponuda-vozila") {
+      e.preventDefault();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  };
+
   return (
     <header className="bg-background border-b border-border sticky top-0 z-50">
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between md:justify-center md:gap-12">
-          <Link to="/" className="text-foreground hover:text-primary transition-colors">
+          <Link to="/" onClick={handleHomeClick} className="text-foreground hover:text-primary transition-colors">
             <span className="hidden md:inline">Početna</span>
             <Home className="md:hidden w-6 h-6" />
           </Link>
@@ -34,7 +50,7 @@ const Header = () => {
             <img src={logo} alt="Imponira Automobili" className="h-16 md:h-14 w-auto" />
           </Link>
           
-          <Link to="/ponuda-vozila" className="text-foreground hover:text-primary transition-colors">
+          <Link to="/ponuda-vozila" onClick={handleCarsClick} className="text-foreground hover:text-primary transition-colors">
             <span className="hidden md:inline">Ponuda vozila</span>
             <CarFrontIcon className="md:hidden w-7 h-7" />
           </Link>
