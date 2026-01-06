@@ -847,11 +847,11 @@ const CarDetail = () => {
               className="w-full h-full object-contain transition-opacity duration-300"
             />
             <div className="absolute inset-0 flex items-center justify-between px-4">
-              <Button
+            <Button
                 variant="secondary"
                 size="icon"
                 onClick={goToPrevious}
-                className="bg-white/90 hover:bg-white text-gray-800 shadow-lg md:bg-background/90 md:hover:bg-background md:text-foreground"
+                className="bg-white/30 hover:bg-white/50 text-primary shadow-lg"
               >
                 <ChevronLeft className="w-6 h-6" />
               </Button>
@@ -859,7 +859,7 @@ const CarDetail = () => {
                 variant="secondary"
                 size="icon"
                 onClick={goToNext}
-                className="bg-white/90 hover:bg-white text-gray-800 shadow-lg md:bg-background/90 md:hover:bg-background md:text-foreground"
+                className="bg-white/30 hover:bg-white/50 text-primary shadow-lg"
               >
                 <ChevronRight className="w-6 h-6" />
               </Button>
