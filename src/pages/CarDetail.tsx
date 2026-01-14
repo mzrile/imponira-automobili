@@ -857,7 +857,7 @@ const CarDetail = () => {
         <div className="mb-8">
           {/* Main Image Display */}
           <div 
-            className="relative aspect-[4/3] md:aspect-[16/9] mb-4 rounded-lg overflow-hidden bg-muted cursor-pointer md:cursor-default"
+            className="relative aspect-[4/3] md:aspect-[16/9] mb-4 rounded-lg overflow-hidden cursor-pointer md:cursor-default"
             onClick={() => window.innerWidth < 768 && openLightbox(currentImageIndex)}
           >
             <img 
