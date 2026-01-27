@@ -430,7 +430,38 @@ import x1_2016_26 from "@/assets/cars/bmw-x1-2016/26.jpg";
 import x1_2016_27 from "@/assets/cars/bmw-x1-2016/27.jpg";
 import x1_2016_28 from "@/assets/cars/bmw-x1-2016/28.jpg";
 
+// BMW 320d M-Paket images
+import bmw320d_1 from "@/assets/cars/bmw-320d-m-paket/1.jpg";
+import bmw320d_2 from "@/assets/cars/bmw-320d-m-paket/2.jpg";
+import bmw320d_3 from "@/assets/cars/bmw-320d-m-paket/3.jpg";
+import bmw320d_4 from "@/assets/cars/bmw-320d-m-paket/4.jpg";
+import bmw320d_5 from "@/assets/cars/bmw-320d-m-paket/5.jpg";
+import bmw320d_6 from "@/assets/cars/bmw-320d-m-paket/6.jpg";
+import bmw320d_7 from "@/assets/cars/bmw-320d-m-paket/7.jpg";
+import bmw320d_8 from "@/assets/cars/bmw-320d-m-paket/8.jpg";
+import bmw320d_9 from "@/assets/cars/bmw-320d-m-paket/9.jpg";
+import bmw320d_10 from "@/assets/cars/bmw-320d-m-paket/10.jpg";
+import bmw320d_11 from "@/assets/cars/bmw-320d-m-paket/11.jpg";
+import bmw320d_12 from "@/assets/cars/bmw-320d-m-paket/12.jpg";
+import bmw320d_13 from "@/assets/cars/bmw-320d-m-paket/13.jpg";
+import bmw320d_14 from "@/assets/cars/bmw-320d-m-paket/14.jpg";
+import bmw320d_15 from "@/assets/cars/bmw-320d-m-paket/15.jpg";
+import bmw320d_16 from "@/assets/cars/bmw-320d-m-paket/16.jpg";
+import bmw320d_17 from "@/assets/cars/bmw-320d-m-paket/17.jpg";
+import bmw320d_18 from "@/assets/cars/bmw-320d-m-paket/18.jpg";
+import bmw320d_19 from "@/assets/cars/bmw-320d-m-paket/19.jpg";
+import bmw320d_20 from "@/assets/cars/bmw-320d-m-paket/20.jpg";
+import bmw320d_21 from "@/assets/cars/bmw-320d-m-paket/21.jpg";
+import bmw320d_22 from "@/assets/cars/bmw-320d-m-paket/22.jpg";
+import bmw320d_23 from "@/assets/cars/bmw-320d-m-paket/23.jpg";
+import bmw320d_24 from "@/assets/cars/bmw-320d-m-paket/24.jpg";
+import bmw320d_25 from "@/assets/cars/bmw-320d-m-paket/25.jpg";
+import bmw320d_26 from "@/assets/cars/bmw-320d-m-paket/26.jpg";
+import bmw320d_27 from "@/assets/cars/bmw-320d-m-paket/27.jpg";
+import bmw320d_28 from "@/assets/cars/bmw-320d-m-paket/28.jpg";
+
 const bmwX1Images = [x1_2022_1, x1_2022_2, x1_2022_3, x1_2022_4, x1_2022_5, x1_2022_6, x1_2022_7, x1_2022_8, x1_2022_9, x1_2022_10, x1_2022_11, x1_2022_12, x1_2022_13, x1_2022_14, x1_2022_15, x1_2022_16, x1_2022_17, x1_2022_18, x1_2022_19, x1_2022_20, x1_2022_21, x1_2022_22, x1_2022_23, x1_2022_24, x1_2022_25, x1_2022_26, x1_2022_27, x1_2022_28, x1_2022_29];
+const bmw320dImages = [bmw320d_1, bmw320d_2, bmw320d_3, bmw320d_4, bmw320d_5, bmw320d_6, bmw320d_7, bmw320d_8, bmw320d_9, bmw320d_10, bmw320d_11, bmw320d_12, bmw320d_13, bmw320d_14, bmw320d_15, bmw320d_16, bmw320d_17, bmw320d_18, bmw320d_19, bmw320d_20, bmw320d_21, bmw320d_22, bmw320d_23, bmw320d_24, bmw320d_25, bmw320d_26, bmw320d_27, bmw320d_28];
 const bmwX1MPaketImages = [x1_2016_1, x1_2016_2, x1_2016_3, x1_2016_4, x1_2016_5, x1_2016_6, x1_2016_7, x1_2016_8, x1_2016_9, x1_2016_10, x1_2016_11, x1_2016_12, x1_2016_13, x1_2016_14, x1_2016_15, x1_2016_16, x1_2016_17, x1_2016_18, x1_2016_19, x1_2016_20, x1_2016_21, x1_2016_22, x1_2016_23, x1_2016_24, x1_2016_25, x1_2016_26, x1_2016_27, x1_2016_28];
 
 const carDetails: Record<string, {
@@ -795,6 +826,36 @@ GOLF 7 1,6 TDI: Registriran do 5/2026, uredno održavan, bez apsolutno ikakvih d
 
 Dodatna oprema:
 Alu Felge 18", Sportaka sjedala alcantara, Veliki infotainment sustav, Tempomat, Multifunkcionalni volan, Parking senzori, Park pilot, Front assist, Električna parkirna kočnica, Auto hold funkcija, ACC (automatska regulacija razmaka), USB priključak, Metalne pedale`,
+  },
+  "bmw-320d-m-paket": {
+    brand: "BMW", 
+    model: "320d M-Paket", 
+    year: 2023, 
+    mileage: 99990, 
+    fuelType: "Dizel", 
+    transmission: "Automatski", 
+    power: "140 kW", 
+    engine: "Dizel", 
+    registration: "-", 
+    driveType: "Zadnji", 
+    status: "Rabljeno", 
+    bodyType: "Limuzina", 
+    price: 39990, 
+    images: bmw320dImages, 
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+BMW 320d: Prvi vlasnik, svi servisi rađeni po intervalu u ovlaštenom servisu, zadnji je napravljen 06.01.2026. (100.323km) posjeduje el. servisnu knjigu, nove zimske gume na vozilu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+GARANCIJA NA VOZILO VRIJEDI DO 09.02.2028. (BMW premium selection)
+
+Dodatna oprema:
+Safir metalik crna boja, M PAKET, M Sportski kožni upravljač, F1 ručice za promjenu brzine M alu felge 18'', BMW oznake edition 50, M Sportska sjedala (alcantara), LED svjetla, Shadow Line, Ambient light, Tempomat, Parking Assistant, Kamera za vožnju unatrag, Reversing assist, Widescreen display, Individualna krovna obloga u antracit boji, Acoustic glazing, Active Guard Plus, Aktivna zaštita pješaka, Bez oznake modela, Upozorenje na sudar s funkcijom hitnog kočenja, Praćenje traka, Prikaz podataka o ograničenju brzine, Connected Package Professional, ConnectedDrive Services, Driving Assistant Professional, Entertainment Paket, Grijanje sjedala za vozača i suvozača
+
+Automatska kontrola klime 4 zone, Hi Fi sustav zvučnika, Kontrola tlaka u gumama, El. lumbalna potpora za vozače, El. sklapanje retrovizora, Veći spremnik goriva, DAB tuner, 4x USB priključak, Sustav glasovnog unosa Hello BMW!
+
+Sustav personalizacije (Osobni profil), 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
 };
 
