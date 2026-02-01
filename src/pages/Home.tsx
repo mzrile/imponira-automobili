@@ -7,12 +7,12 @@ import { Button } from "@/components/ui/button";
 import SEO from "@/components/SEO";
 
 // Car first images
+import m5_1 from "@/assets/cars/bmw-m5-competition/1.jpg";
 import x5_1 from "@/assets/cars/bmw-x5-xdrive-45e/1.jpg";
 import m440i_21 from "@/assets/cars/bmw-m440i/21.jpg";
 import tiguan9 from "@/assets/cars/vw-tiguan/9.jpg";
 import c220d_1 from "@/assets/cars/mercedes-c220d-amg/1.jpg";
-import x1_2022_1 from "@/assets/cars/bmw-x1-2022/1.jpg";
-import octaviaRs_1 from "@/assets/cars/skoda-octavia-rs/1.jpg";
+import bmw320d_1 from "@/assets/cars/bmw-320d-m-paket/1.jpg";
 
 // Brand logos
 import porscheLogo from "@/assets/brands/porsche-new.png";
@@ -26,12 +26,12 @@ import audiLogo from "@/assets/brands/audi-new.png";
 import renaultLogo from "@/assets/brands/renault-new.png";
 
 const featuredCars = [
+  { id: 16, slug: "bmw-m5-competition", image: m5_1, brand: "BMW", model: "M5 Competition", year: 2021, mileage: 106900, fuelType: "Benzin", price: 92900, brandLogo: bmwLogo },
   { id: 1, slug: "bmw-x5-xdrive-45e-m-sport", image: x5_1, brand: "BMW", model: "X5 xDrive 45e M-Sport", year: 2020, mileage: 85000, fuelType: "Hibrid", price: 59990, brandLogo: bmwLogo },
   { id: 2, slug: "bmw-m440i-xdrive", image: m440i_21, brand: "BMW", model: "M440i xDrive", year: 2020, mileage: 92000, fuelType: "Benzin", price: 51990, brandLogo: bmwLogo },
   { id: 3, slug: "vw-tiguan-r-line", image: tiguan9, brand: "VW", model: "Tiguan 2.0 TDI DSG R-Line", year: 2024, mileage: 16900, fuelType: "Dizel", price: 47890, brandLogo: volkswagenLogo },
   { id: 4, slug: "mercedes-c220d-amg", image: c220d_1, brand: "Mercedes", model: "C220d AMG", year: 2021, mileage: 59000, fuelType: "Dizel", price: 44990, brandLogo: mercedesLogo },
-  { id: 5, slug: "bmw-x1-sdrive18d", image: x1_2022_1, brand: "BMW", model: "X1 sDrive18d", year: 2022, mileage: 82900, fuelType: "Dizel", price: 39990, brandLogo: bmwLogo },
-  { id: 6, slug: "skoda-octavia-rs", image: octaviaRs_1, brand: "Škoda", model: "Octavia RS 2.0TDI DSG", year: 2021, mileage: 88000, fuelType: "Dizel", price: 31990, brandLogo: skodaLogo },
+  { id: 15, slug: "bmw-320d-m-paket", image: bmw320d_1, brand: "BMW", model: "320d M-Paket", year: 2023, mileage: 99990, fuelType: "Dizel", price: 39990, brandLogo: bmwLogo },
 ];
 
 const organizationJsonLd = {

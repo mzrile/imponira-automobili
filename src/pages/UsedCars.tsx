@@ -24,6 +24,9 @@ import x1_2016_1 from "@/assets/cars/bmw-x1-2016/1.jpg";
 // BMW 320d M-Paket image
 import bmw320d_1 from "@/assets/cars/bmw-320d-m-paket/1.jpg";
 
+// BMW M5 Competition image
+import m5_1 from "@/assets/cars/bmw-m5-competition/1.jpg";
+
 // Brand logos
 import bmwLogo from "@/assets/brands/bmw-new.png";
 import mercedesLogo from "@/assets/brands/mercedes-new.png";
@@ -32,6 +35,7 @@ import skodaLogo from "@/assets/brands/skoda-new.png";
 import renaultLogo from "@/assets/brands/renault-new.png";
 
 const allCars = [
+  { id: 16, slug: "bmw-m5-competition", image: m5_1, brand: "BMW", model: "M5 Competition", year: 2021, mileage: 106900, fuelType: "Benzin", price: 92900, brandLogo: bmwLogo },
   { id: 1, slug: "bmw-x5-xdrive-45e-m-sport", image: x5_1, brand: "BMW", model: "X5 xDrive 45e M-Sport", year: 2020, mileage: 85000, fuelType: "Hibrid", price: 59990, brandLogo: bmwLogo },
   { id: 2, slug: "bmw-m440i-xdrive", image: m440i_21, brand: "BMW", model: "M440i xDrive", year: 2020, mileage: 92000, fuelType: "Benzin", price: 51990, brandLogo: bmwLogo },
   { id: 15, slug: "bmw-320d-m-paket", image: bmw320d_1, brand: "BMW", model: "320d M-Paket", year: 2023, mileage: 99990, fuelType: "Dizel", price: 39990, brandLogo: bmwLogo },

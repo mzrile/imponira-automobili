@@ -460,9 +460,40 @@ import bmw320d_26 from "@/assets/cars/bmw-320d-m-paket/26.jpg";
 import bmw320d_27 from "@/assets/cars/bmw-320d-m-paket/27.jpg";
 import bmw320d_28 from "@/assets/cars/bmw-320d-m-paket/28.jpg";
 
+// BMW M5 Competition images
+import m5_1 from "@/assets/cars/bmw-m5-competition/1.jpg";
+import m5_2 from "@/assets/cars/bmw-m5-competition/2.jpg";
+import m5_3 from "@/assets/cars/bmw-m5-competition/3.jpg";
+import m5_4 from "@/assets/cars/bmw-m5-competition/4.jpg";
+import m5_5 from "@/assets/cars/bmw-m5-competition/5.jpg";
+import m5_6 from "@/assets/cars/bmw-m5-competition/6.jpg";
+import m5_7 from "@/assets/cars/bmw-m5-competition/7.jpg";
+import m5_8 from "@/assets/cars/bmw-m5-competition/8.jpg";
+import m5_9 from "@/assets/cars/bmw-m5-competition/9.jpg";
+import m5_10 from "@/assets/cars/bmw-m5-competition/10.jpg";
+import m5_11 from "@/assets/cars/bmw-m5-competition/11.jpg";
+import m5_12 from "@/assets/cars/bmw-m5-competition/12.jpg";
+import m5_13 from "@/assets/cars/bmw-m5-competition/13.jpg";
+import m5_14 from "@/assets/cars/bmw-m5-competition/14.jpg";
+import m5_15 from "@/assets/cars/bmw-m5-competition/15.jpg";
+import m5_16 from "@/assets/cars/bmw-m5-competition/16.jpg";
+import m5_17 from "@/assets/cars/bmw-m5-competition/17.jpg";
+import m5_18 from "@/assets/cars/bmw-m5-competition/18.jpg";
+import m5_19 from "@/assets/cars/bmw-m5-competition/19.jpg";
+import m5_20 from "@/assets/cars/bmw-m5-competition/20.jpg";
+import m5_21 from "@/assets/cars/bmw-m5-competition/21.jpg";
+import m5_22 from "@/assets/cars/bmw-m5-competition/22.jpg";
+import m5_23 from "@/assets/cars/bmw-m5-competition/23.jpg";
+import m5_24 from "@/assets/cars/bmw-m5-competition/24.jpg";
+import m5_25 from "@/assets/cars/bmw-m5-competition/25.jpg";
+import m5_26 from "@/assets/cars/bmw-m5-competition/26.jpg";
+import m5_27 from "@/assets/cars/bmw-m5-competition/27.jpg";
+import m5_28 from "@/assets/cars/bmw-m5-competition/28.jpg";
+
 const bmwX1Images = [x1_2022_1, x1_2022_2, x1_2022_3, x1_2022_4, x1_2022_5, x1_2022_6, x1_2022_7, x1_2022_8, x1_2022_9, x1_2022_10, x1_2022_11, x1_2022_12, x1_2022_13, x1_2022_14, x1_2022_15, x1_2022_16, x1_2022_17, x1_2022_18, x1_2022_19, x1_2022_20, x1_2022_21, x1_2022_22, x1_2022_23, x1_2022_24, x1_2022_25, x1_2022_26, x1_2022_27, x1_2022_28, x1_2022_29];
 const bmw320dImages = [bmw320d_1, bmw320d_2, bmw320d_3, bmw320d_4, bmw320d_5, bmw320d_6, bmw320d_7, bmw320d_8, bmw320d_9, bmw320d_10, bmw320d_11, bmw320d_12, bmw320d_13, bmw320d_14, bmw320d_15, bmw320d_16, bmw320d_17, bmw320d_18, bmw320d_19, bmw320d_20, bmw320d_21, bmw320d_22, bmw320d_23, bmw320d_24, bmw320d_25, bmw320d_26, bmw320d_27, bmw320d_28];
 const bmwX1MPaketImages = [x1_2016_1, x1_2016_2, x1_2016_3, x1_2016_4, x1_2016_5, x1_2016_6, x1_2016_7, x1_2016_8, x1_2016_9, x1_2016_10, x1_2016_11, x1_2016_12, x1_2016_13, x1_2016_14, x1_2016_15, x1_2016_16, x1_2016_17, x1_2016_18, x1_2016_19, x1_2016_20, x1_2016_21, x1_2016_22, x1_2016_23, x1_2016_24, x1_2016_25, x1_2016_26, x1_2016_27, x1_2016_28];
+const bmwM5Images = [m5_1, m5_2, m5_3, m5_4, m5_5, m5_6, m5_7, m5_8, m5_9, m5_10, m5_11, m5_12, m5_13, m5_14, m5_15, m5_16, m5_17, m5_18, m5_19, m5_20, m5_21, m5_22, m5_23, m5_24, m5_25, m5_26, m5_27, m5_28];
 
 const carDetails: Record<string, {
   brand: string;
@@ -854,6 +885,38 @@ Safir metalik crna boja, M PAKET, M Sportski kožni upravljač, F1 ručice za pr
 Automatska kontrola klime 4 zone, Hi Fi sustav zvučnika, Kontrola tlaka u gumama, El. lumbalna potpora za vozače, El. sklapanje retrovizora, Veći spremnik goriva, DAB tuner, 4x USB priključak, Sustav glasovnog unosa Hello BMW!
 
 Sustav personalizacije (Osobni profil), 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "bmw-m5-competition": {
+    brand: "BMW", 
+    model: "M5 Competition", 
+    year: 2021, 
+    mileage: 106900, 
+    fuelType: "Benzin", 
+    transmission: "Automatski", 
+    power: "460 kW", 
+    engine: "Benzin", 
+    registration: "-", 
+    driveType: "xDrive", 
+    status: "Rabljeno", 
+    bodyType: "Limuzina", 
+    price: 92900, 
+    images: bmwM5Images, 
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+BMW M5 COMPETITION (460KW/625ks):
+
+Prvi vlasnik, svi servisi rađeni po intervalu u ovlaštenom servisu, zadnji je napravljen 30.07.2025. (98.347km) posjeduje el. servisnu knjigu, nove zimske gume na vozilu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Vozilo je u tvorničkom stanju te nikad nije bio dorađivan, mapiran...
+
+CIJENA U ZAMJENI: 100.000€
+
+Dodatna oprema:
+Marina bay blue metallic boja, M Performance carbon dijelovi, Carbon krov, Shadowline, Adaptivna LED svjetla, M sportska sjedala, El. podesiva sjedala, Memorija sjedala, Grijanje sjedala, M sigurnosni pojasevi, M5 competition oznake, Stražnja parking kamera, Parking senzori, Park assist, Reversing assistant, Ambient light, Harman Kardon ozvučenje, Automatska kontrola klime 4 zone, Multifunkcijski volan, El. podešavanje volana, F1 mjenjač, Modovi vožnje, Konfiguracija vožnje M1/M2, Sportski display, Armatura od kože sa prošivenim koncem, Obloge vrata od kože, Zatamnjena stražnja stakla, Driving Assistant Professional, Tempomat, Lane assist, Aktivna zaštita pješaka,
+
+Upozorenje za izbjegavanje sudara, Upozorenje na pospanost, Čitanje prometnih znakova, Head up display, Kontrola tlaka u gumama, El. otvaranje/zatvaranje prtljažnika, El. klapne auspuha, Auto hold, Start Stop sistem, Keyless go, 2 ključa
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
