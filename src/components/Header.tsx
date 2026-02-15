@@ -47,7 +47,7 @@ const Header = () => {
           </Link>
           
           <Link to="/" className="flex items-center">
-            <img src={logo} alt="Imponira Automobili" className="h-20 md:h-16 w-auto" />
+            <img src={logo} alt="Imponira Automobili" className="h-28 md:h-20 w-auto" />
           </Link>
           
           <Link to="/ponuda-vozila" onClick={handleCarsClick} className="text-foreground hover:text-primary transition-colors">
