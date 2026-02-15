@@ -41,7 +41,7 @@ const CarCard = ({ id, slug, image, brand, model, year, mileage, fuelType, trans
             <span>{fuelType}</span>
             {transmission && <span>{transmission}</span>}
           </div>
-          <div className="text-2xl font-bold text-primary">€{price.toLocaleString()}</div>
+          <div className="text-2xl font-bold text-primary">{price.toLocaleString()} €</div>
         </div>
       </Card>
     </Link>
