@@ -577,7 +577,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 47890, 
+    price: 45990, 
     images: [tiguan1, tiguan2, tiguan3, tiguan4, tiguan5, tiguan6, tiguan7, tiguan8, tiguan9, tiguan10, tiguan11, tiguan12, tiguan13, tiguan14, tiguan15, tiguan16, tiguan17, tiguan18, tiguan19, tiguan20, tiguan21, tiguan22, tiguan23, tiguan24, tiguan25, tiguan26, tiguan27, tiguan28, tiguan29, tiguan30],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -723,7 +723,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "Karavan", 
-    price: 23790, 
+    price: 23290, 
     images: [octaviaFe_1, octaviaFe_2, octaviaFe_3, octaviaFe_4, octaviaFe_5, octaviaFe_6, octaviaFe_7, octaviaFe_8, octaviaFe_9, octaviaFe_10, octaviaFe_11, octaviaFe_12, octaviaFe_13, octaviaFe_14, octaviaFe_15, octaviaFe_16, octaviaFe_17, octaviaFe_18, octaviaFe_19, octaviaFe_20, octaviaFe_21, octaviaFe_22, octaviaFe_23, octaviaFe_24, octaviaFe_25, octaviaFe_26, octaviaFe_27, octaviaFe_28, octaviaFe_29], 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -751,7 +751,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 21990, 
+    price: 20990, 
     images: [karoq_1, karoq_2, karoq_3, karoq_4, karoq_5, karoq_6, karoq_7, karoq_8, karoq_9, karoq_10, karoq_11, karoq_12, karoq_13, karoq_14, karoq_15, karoq_16, karoq_17, karoq_18, karoq_19, karoq_20, karoq_21, karoq_22, karoq_23, karoq_24, karoq_25, karoq_26, karoq_27, karoq_28, karoq_29], 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -779,7 +779,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 17490, 
+    price: 16990, 
     images: bmwX1MPaketImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -871,7 +871,7 @@ Alu Felge 18", Sportaka sjedala alcantara, Veliki infotainment sustav, Tempomat,
     driveType: "Zadnji", 
     status: "Rabljeno", 
     bodyType: "Limuzina", 
-    price: 39990, 
+    price: 39490, 
     images: bmw320dImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -967,7 +967,7 @@ const CarDetail = () => {
         <div className="mb-8">
           <h1 className="text-4xl font-bold text-foreground mb-2">{car.brand} {car.model}</h1>
           <div className="flex items-center justify-between">
-            <p className="text-2xl text-primary font-bold">€{car.price.toLocaleString()}</p>
+            <p className="text-2xl text-primary font-bold">{car.price.toLocaleString()} €</p>
             <a 
               href="tel:0912666668" 
               className="md:hidden flex items-center justify-center text-primary hover:text-primary/80 transition-colors"
