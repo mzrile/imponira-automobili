@@ -1064,7 +1064,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "SUV",
     price: 19490,
-    images: [tiguanJoin_1],
+    images: tiguanJoinImages,
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Uredno održavan u ovlaštenom servisu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
