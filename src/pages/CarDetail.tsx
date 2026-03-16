@@ -437,12 +437,134 @@ import m5_26 from "@/assets/cars/bmw-m5-competition/26.jpg";
 import m5_27 from "@/assets/cars/bmw-m5-competition/27.jpg";
 import m5_28 from "@/assets/cars/bmw-m5-competition/28.jpg";
 
-// New cars - first images
+// Mercedes E300e AMG images (25)
 import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
+import e300e_2 from "@/assets/cars/mercedes-e300e-amg/2.jpg";
+import e300e_3 from "@/assets/cars/mercedes-e300e-amg/3.jpg";
+import e300e_4 from "@/assets/cars/mercedes-e300e-amg/4.jpg";
+import e300e_5 from "@/assets/cars/mercedes-e300e-amg/5.jpg";
+import e300e_6 from "@/assets/cars/mercedes-e300e-amg/6.jpg";
+import e300e_7 from "@/assets/cars/mercedes-e300e-amg/7.jpg";
+import e300e_8 from "@/assets/cars/mercedes-e300e-amg/8.jpg";
+import e300e_9 from "@/assets/cars/mercedes-e300e-amg/9.jpg";
+import e300e_10 from "@/assets/cars/mercedes-e300e-amg/10.jpg";
+import e300e_11 from "@/assets/cars/mercedes-e300e-amg/11.jpg";
+import e300e_12 from "@/assets/cars/mercedes-e300e-amg/12.jpg";
+import e300e_13 from "@/assets/cars/mercedes-e300e-amg/13.jpg";
+import e300e_14 from "@/assets/cars/mercedes-e300e-amg/14.jpg";
+import e300e_15 from "@/assets/cars/mercedes-e300e-amg/15.jpg";
+import e300e_16 from "@/assets/cars/mercedes-e300e-amg/16.jpg";
+import e300e_17 from "@/assets/cars/mercedes-e300e-amg/17.jpg";
+import e300e_18 from "@/assets/cars/mercedes-e300e-amg/18.jpg";
+import e300e_19 from "@/assets/cars/mercedes-e300e-amg/19.jpg";
+import e300e_20 from "@/assets/cars/mercedes-e300e-amg/20.jpg";
+import e300e_21 from "@/assets/cars/mercedes-e300e-amg/21.jpg";
+import e300e_22 from "@/assets/cars/mercedes-e300e-amg/22.jpg";
+import e300e_23 from "@/assets/cars/mercedes-e300e-amg/23.jpg";
+import e300e_24 from "@/assets/cars/mercedes-e300e-amg/24.jpg";
+import e300e_25 from "@/assets/cars/mercedes-e300e-amg/25.jpg";
+
+// BMW X5 30d xDrive M-Sport images (30)
 import x5_30d_1 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/1.jpg";
+import x5_30d_2 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/2.jpg";
+import x5_30d_3 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/3.jpg";
+import x5_30d_4 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/4.jpg";
+import x5_30d_5 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/5.jpg";
+import x5_30d_6 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/6.jpg";
+import x5_30d_7 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/7.jpg";
+import x5_30d_8 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/8.jpg";
+import x5_30d_9 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/9.jpg";
+import x5_30d_10 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/10.jpg";
+import x5_30d_11 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/11.jpg";
+import x5_30d_12 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/12.jpg";
+import x5_30d_13 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/13.jpg";
+import x5_30d_14 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/14.jpg";
+import x5_30d_15 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/15.jpg";
+import x5_30d_16 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/16.jpg";
+import x5_30d_17 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/17.jpg";
+import x5_30d_18 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/18.jpg";
+import x5_30d_19 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/19.jpg";
+import x5_30d_20 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/20.jpg";
+import x5_30d_21 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/21.jpg";
+import x5_30d_22 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/22.jpg";
+import x5_30d_23 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/23.jpg";
+import x5_30d_24 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/24.jpg";
+import x5_30d_25 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/25.jpg";
+import x5_30d_26 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/26.jpg";
+import x5_30d_27 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/27.jpg";
+import x5_30d_28 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/28.jpg";
+import x5_30d_29 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/29.jpg";
+import x5_30d_30 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/30.jpg";
+
+// VW Golf 8 GTD images (29)
 import golf8gtd_1 from "@/assets/cars/vw-golf-8-gtd/1.jpg";
+import golf8gtd_2 from "@/assets/cars/vw-golf-8-gtd/2.jpg";
+import golf8gtd_3 from "@/assets/cars/vw-golf-8-gtd/3.jpg";
+import golf8gtd_4 from "@/assets/cars/vw-golf-8-gtd/4.jpg";
+import golf8gtd_5 from "@/assets/cars/vw-golf-8-gtd/5.jpg";
+import golf8gtd_6 from "@/assets/cars/vw-golf-8-gtd/6.jpg";
+import golf8gtd_7 from "@/assets/cars/vw-golf-8-gtd/7.jpg";
+import golf8gtd_8 from "@/assets/cars/vw-golf-8-gtd/8.jpg";
+import golf8gtd_9 from "@/assets/cars/vw-golf-8-gtd/9.jpg";
+import golf8gtd_10 from "@/assets/cars/vw-golf-8-gtd/10.jpg";
+import golf8gtd_11 from "@/assets/cars/vw-golf-8-gtd/11.jpg";
+import golf8gtd_12 from "@/assets/cars/vw-golf-8-gtd/12.jpg";
+import golf8gtd_13 from "@/assets/cars/vw-golf-8-gtd/13.jpg";
+import golf8gtd_14 from "@/assets/cars/vw-golf-8-gtd/14.jpg";
+import golf8gtd_15 from "@/assets/cars/vw-golf-8-gtd/15.jpg";
+import golf8gtd_16 from "@/assets/cars/vw-golf-8-gtd/16.jpg";
+import golf8gtd_17 from "@/assets/cars/vw-golf-8-gtd/17.jpg";
+import golf8gtd_18 from "@/assets/cars/vw-golf-8-gtd/18.jpg";
+import golf8gtd_19 from "@/assets/cars/vw-golf-8-gtd/19.jpg";
+import golf8gtd_20 from "@/assets/cars/vw-golf-8-gtd/20.jpg";
+import golf8gtd_21 from "@/assets/cars/vw-golf-8-gtd/21.jpg";
+import golf8gtd_22 from "@/assets/cars/vw-golf-8-gtd/22.jpg";
+import golf8gtd_23 from "@/assets/cars/vw-golf-8-gtd/23.jpg";
+import golf8gtd_24 from "@/assets/cars/vw-golf-8-gtd/24.jpg";
+import golf8gtd_25 from "@/assets/cars/vw-golf-8-gtd/25.jpg";
+import golf8gtd_26 from "@/assets/cars/vw-golf-8-gtd/26.jpg";
+import golf8gtd_27 from "@/assets/cars/vw-golf-8-gtd/27.jpg";
+import golf8gtd_28 from "@/assets/cars/vw-golf-8-gtd/28.jpg";
+import golf8gtd_29 from "@/assets/cars/vw-golf-8-gtd/29.jpg";
+
+// Škoda Octavia RS 2 images (2)
 import octaviaRs2_1 from "@/assets/cars/skoda-octavia-rs-2/1.jpg";
+import octaviaRs2_2 from "@/assets/cars/skoda-octavia-rs-2/2.jpg";
+
+// VW Tiguan Join images (27)
 import tiguanJoin_1 from "@/assets/cars/vw-tiguan-join/1.jpg";
+import tiguanJoin_2 from "@/assets/cars/vw-tiguan-join/2.jpg";
+import tiguanJoin_3 from "@/assets/cars/vw-tiguan-join/3.jpg";
+import tiguanJoin_4 from "@/assets/cars/vw-tiguan-join/4.jpg";
+import tiguanJoin_5 from "@/assets/cars/vw-tiguan-join/5.jpg";
+import tiguanJoin_6 from "@/assets/cars/vw-tiguan-join/6.jpg";
+import tiguanJoin_7 from "@/assets/cars/vw-tiguan-join/7.jpg";
+import tiguanJoin_8 from "@/assets/cars/vw-tiguan-join/8.jpg";
+import tiguanJoin_9 from "@/assets/cars/vw-tiguan-join/9.jpg";
+import tiguanJoin_10 from "@/assets/cars/vw-tiguan-join/10.jpg";
+import tiguanJoin_11 from "@/assets/cars/vw-tiguan-join/11.jpg";
+import tiguanJoin_12 from "@/assets/cars/vw-tiguan-join/12.jpg";
+import tiguanJoin_13 from "@/assets/cars/vw-tiguan-join/13.jpg";
+import tiguanJoin_14 from "@/assets/cars/vw-tiguan-join/14.jpg";
+import tiguanJoin_15 from "@/assets/cars/vw-tiguan-join/15.jpg";
+import tiguanJoin_16 from "@/assets/cars/vw-tiguan-join/16.jpg";
+import tiguanJoin_17 from "@/assets/cars/vw-tiguan-join/17.jpg";
+import tiguanJoin_18 from "@/assets/cars/vw-tiguan-join/18.jpg";
+import tiguanJoin_19 from "@/assets/cars/vw-tiguan-join/19.jpg";
+import tiguanJoin_20 from "@/assets/cars/vw-tiguan-join/20.jpg";
+import tiguanJoin_21 from "@/assets/cars/vw-tiguan-join/21.jpg";
+import tiguanJoin_22 from "@/assets/cars/vw-tiguan-join/22.jpg";
+import tiguanJoin_23 from "@/assets/cars/vw-tiguan-join/23.jpg";
+import tiguanJoin_24 from "@/assets/cars/vw-tiguan-join/24.jpg";
+import tiguanJoin_25 from "@/assets/cars/vw-tiguan-join/25.jpg";
+import tiguanJoin_26 from "@/assets/cars/vw-tiguan-join/26.jpg";
+import tiguanJoin_27 from "@/assets/cars/vw-tiguan-join/27.jpg";
+
+const e300eImages = [e300e_1, e300e_2, e300e_3, e300e_4, e300e_5, e300e_6, e300e_7, e300e_8, e300e_9, e300e_10, e300e_11, e300e_12, e300e_13, e300e_14, e300e_15, e300e_16, e300e_17, e300e_18, e300e_19, e300e_20, e300e_21, e300e_22, e300e_23, e300e_24, e300e_25];
+const x530dImages = [x5_30d_1, x5_30d_2, x5_30d_3, x5_30d_4, x5_30d_5, x5_30d_6, x5_30d_7, x5_30d_8, x5_30d_9, x5_30d_10, x5_30d_11, x5_30d_12, x5_30d_13, x5_30d_14, x5_30d_15, x5_30d_16, x5_30d_17, x5_30d_18, x5_30d_19, x5_30d_20, x5_30d_21, x5_30d_22, x5_30d_23, x5_30d_24, x5_30d_25, x5_30d_26, x5_30d_27, x5_30d_28, x5_30d_29, x5_30d_30];
+const golf8gtdImages = [golf8gtd_1, golf8gtd_2, golf8gtd_3, golf8gtd_4, golf8gtd_5, golf8gtd_6, golf8gtd_7, golf8gtd_8, golf8gtd_9, golf8gtd_10, golf8gtd_11, golf8gtd_12, golf8gtd_13, golf8gtd_14, golf8gtd_15, golf8gtd_16, golf8gtd_17, golf8gtd_18, golf8gtd_19, golf8gtd_20, golf8gtd_21, golf8gtd_22, golf8gtd_23, golf8gtd_24, golf8gtd_25, golf8gtd_26, golf8gtd_27, golf8gtd_28, golf8gtd_29];
+const octaviaRs2Images = [octaviaRs2_1, octaviaRs2_2];
+const tiguanJoinImages = [tiguanJoin_1, tiguanJoin_2, tiguanJoin_3, tiguanJoin_4, tiguanJoin_5, tiguanJoin_6, tiguanJoin_7, tiguanJoin_8, tiguanJoin_9, tiguanJoin_10, tiguanJoin_11, tiguanJoin_12, tiguanJoin_13, tiguanJoin_14, tiguanJoin_15, tiguanJoin_16, tiguanJoin_17, tiguanJoin_18, tiguanJoin_19, tiguanJoin_20, tiguanJoin_21, tiguanJoin_22, tiguanJoin_23, tiguanJoin_24, tiguanJoin_25, tiguanJoin_26, tiguanJoin_27];
 
 const bmwX1Images = [x1_2022_1, x1_2022_2, x1_2022_3, x1_2022_4, x1_2022_5, x1_2022_6, x1_2022_7, x1_2022_8, x1_2022_9, x1_2022_10, x1_2022_11, x1_2022_12, x1_2022_13, x1_2022_14, x1_2022_15, x1_2022_16, x1_2022_17, x1_2022_18, x1_2022_19, x1_2022_20, x1_2022_21, x1_2022_22, x1_2022_23, x1_2022_24, x1_2022_25, x1_2022_26, x1_2022_27, x1_2022_28, x1_2022_29];
 const bmw320dImages = [bmw320d_1, bmw320d_2, bmw320d_3, bmw320d_4, bmw320d_5, bmw320d_6, bmw320d_7, bmw320d_8, bmw320d_9, bmw320d_10, bmw320d_11, bmw320d_12, bmw320d_13, bmw320d_14, bmw320d_15, bmw320d_16, bmw320d_17, bmw320d_18, bmw320d_19, bmw320d_20, bmw320d_21, bmw320d_22, bmw320d_23, bmw320d_24, bmw320d_25, bmw320d_26, bmw320d_27, bmw320d_28];
@@ -844,7 +966,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "Limuzina",
     price: 74900,
-    images: [e300e_1],
+    images: e300eImages,
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 TVORNIČKO JAMSTVO
@@ -870,7 +992,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "SUV",
     price: 58990,
-    images: [x5_30d_1],
+    images: x530dImages,
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 BMW X5 3.0d Xdrive: Vozilo u odličnom stanju izvana i iznutra, održavan isključivo u ovlaštenom servisu, posjeduje el. servisnu knjigu, prvi vlasnik, garažiran od prvog dana, posjeduje dva seta gumi s aluminijskim felgama (22 cola Continental ljetne gume i 20 cola Michelin zimske gume u odličnom stanju), maksimalno utegnut, dva ključa, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -894,7 +1016,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "Hatchback",
     price: 28990,
-    images: [golf8gtd_1],
+    images: golf8gtdImages,
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Održavan u ovlaštenom servisu, nove disk pločice, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -918,7 +1040,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "Limuzina",
     price: 26990,
-    images: [octaviaRs2_1],
+    images: octaviaRs2Images,
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, napravljen servis ( izmjena ulja, filter ulja, filter zraka, filter kabine), novi diskovi i kočione pločice, kočiono ulje (05.03.2026.),bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -942,7 +1064,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "SUV",
     price: 19490,
-    images: [tiguanJoin_1],
+    images: tiguanJoinImages,
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Uredno održavan u ovlaštenom servisu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
