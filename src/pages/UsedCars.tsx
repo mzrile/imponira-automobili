@@ -42,7 +42,7 @@ import renaultLogo from "@/assets/brands/renault-new.png";
 
 const allCars = [
   { id: 16, slug: "bmw-m5-competition", image: m5_1, brand: "BMW", model: "M5 Competition", year: 2021, mileage: 106900, fuelType: "Benzin", price: 84990, brandLogo: bmwLogo },
-  { id: 17, slug: "mercedes-e300e-amg", image: "", brand: "Mercedes", model: "E300e AMG", year: 2025, mileage: 9000, fuelType: "Plug-in hibrid", price: 74900, brandLogo: mercedesLogo },
+  { id: 17, slug: "mercedes-e300e-amg", image: e300e_1, brand: "Mercedes", model: "E300e AMG", year: 2025, mileage: 9000, fuelType: "Plug-in hibrid", price: 74900, brandLogo: mercedesLogo },
   { id: 1, slug: "bmw-x5-xdrive-45e-m-sport", image: x5_1, brand: "BMW", model: "X5 xDrive 45e M-Sport", year: 2020, mileage: 85000, fuelType: "Hibrid", price: 58990, brandLogo: bmwLogo },
   { id: 18, slug: "bmw-x5-30d-xdrive-m-sport", image: "", brand: "BMW", model: "X5 3.0d xDrive M-Sportpaket", year: 2019, mileage: 120000, fuelType: "Dizel", price: 58990, brandLogo: bmwLogo },
   { id: 2, slug: "bmw-m440i-xdrive", image: m440i_21, brand: "BMW", model: "M440i xDrive", year: 2020, mileage: 92000, fuelType: "Benzin", price: 51990, brandLogo: bmwLogo },
