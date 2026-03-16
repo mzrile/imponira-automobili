@@ -527,9 +527,35 @@ import golf8gtd_27 from "@/assets/cars/vw-golf-8-gtd/27.jpg";
 import golf8gtd_28 from "@/assets/cars/vw-golf-8-gtd/28.jpg";
 import golf8gtd_29 from "@/assets/cars/vw-golf-8-gtd/29.jpg";
 
-// Škoda Octavia RS 2 images (2)
+// Škoda Octavia RS 2 images (28)
 import octaviaRs2_1 from "@/assets/cars/skoda-octavia-rs-2/1.jpg";
 import octaviaRs2_2 from "@/assets/cars/skoda-octavia-rs-2/2.jpg";
+import octaviaRs2_3 from "@/assets/cars/skoda-octavia-rs-2/3.jpg";
+import octaviaRs2_4 from "@/assets/cars/skoda-octavia-rs-2/4.jpg";
+import octaviaRs2_5 from "@/assets/cars/skoda-octavia-rs-2/5.jpg";
+import octaviaRs2_6 from "@/assets/cars/skoda-octavia-rs-2/6.jpg";
+import octaviaRs2_7 from "@/assets/cars/skoda-octavia-rs-2/7.jpg";
+import octaviaRs2_8 from "@/assets/cars/skoda-octavia-rs-2/8.jpg";
+import octaviaRs2_9 from "@/assets/cars/skoda-octavia-rs-2/9.jpg";
+import octaviaRs2_10 from "@/assets/cars/skoda-octavia-rs-2/10.jpg";
+import octaviaRs2_11 from "@/assets/cars/skoda-octavia-rs-2/11.jpg";
+import octaviaRs2_12 from "@/assets/cars/skoda-octavia-rs-2/12.jpg";
+import octaviaRs2_13 from "@/assets/cars/skoda-octavia-rs-2/13.jpg";
+import octaviaRs2_14 from "@/assets/cars/skoda-octavia-rs-2/14.jpg";
+import octaviaRs2_15 from "@/assets/cars/skoda-octavia-rs-2/15.jpg";
+import octaviaRs2_16 from "@/assets/cars/skoda-octavia-rs-2/16.jpg";
+import octaviaRs2_17 from "@/assets/cars/skoda-octavia-rs-2/17.jpg";
+import octaviaRs2_18 from "@/assets/cars/skoda-octavia-rs-2/18.jpg";
+import octaviaRs2_19 from "@/assets/cars/skoda-octavia-rs-2/19.jpg";
+import octaviaRs2_20 from "@/assets/cars/skoda-octavia-rs-2/20.jpg";
+import octaviaRs2_21 from "@/assets/cars/skoda-octavia-rs-2/21.jpg";
+import octaviaRs2_22 from "@/assets/cars/skoda-octavia-rs-2/22.jpg";
+import octaviaRs2_23 from "@/assets/cars/skoda-octavia-rs-2/23.jpg";
+import octaviaRs2_24 from "@/assets/cars/skoda-octavia-rs-2/24.jpg";
+import octaviaRs2_25 from "@/assets/cars/skoda-octavia-rs-2/25.jpg";
+import octaviaRs2_26 from "@/assets/cars/skoda-octavia-rs-2/26.jpg";
+import octaviaRs2_27 from "@/assets/cars/skoda-octavia-rs-2/27.jpg";
+import octaviaRs2_28 from "@/assets/cars/skoda-octavia-rs-2/28.jpg";
 
 // VW Tiguan Join images (27)
 import tiguanJoin_1 from "@/assets/cars/vw-tiguan-join/1.jpg";
@@ -563,7 +589,7 @@ import tiguanJoin_27 from "@/assets/cars/vw-tiguan-join/27.jpg";
 const e300eImages = [e300e_1, e300e_2, e300e_3, e300e_4, e300e_5, e300e_6, e300e_7, e300e_8, e300e_9, e300e_10, e300e_11, e300e_12, e300e_13, e300e_14, e300e_15, e300e_16, e300e_17, e300e_18, e300e_19, e300e_20, e300e_21, e300e_22, e300e_23, e300e_24, e300e_25];
 const x530dImages = [x5_30d_1, x5_30d_2, x5_30d_3, x5_30d_4, x5_30d_5, x5_30d_6, x5_30d_7, x5_30d_8, x5_30d_9, x5_30d_10, x5_30d_11, x5_30d_12, x5_30d_13, x5_30d_14, x5_30d_15, x5_30d_16, x5_30d_17, x5_30d_18, x5_30d_19, x5_30d_20, x5_30d_21, x5_30d_22, x5_30d_23, x5_30d_24, x5_30d_25, x5_30d_26, x5_30d_27, x5_30d_28, x5_30d_29, x5_30d_30];
 const golf8gtdImages = [golf8gtd_1, golf8gtd_2, golf8gtd_3, golf8gtd_4, golf8gtd_5, golf8gtd_6, golf8gtd_7, golf8gtd_8, golf8gtd_9, golf8gtd_10, golf8gtd_11, golf8gtd_12, golf8gtd_13, golf8gtd_14, golf8gtd_15, golf8gtd_16, golf8gtd_17, golf8gtd_18, golf8gtd_19, golf8gtd_20, golf8gtd_21, golf8gtd_22, golf8gtd_23, golf8gtd_24, golf8gtd_25, golf8gtd_26, golf8gtd_27, golf8gtd_28, golf8gtd_29];
-const octaviaRs2Images = [octaviaRs2_1, octaviaRs2_2];
+const octaviaRs2Images = [octaviaRs2_1, octaviaRs2_2, octaviaRs2_3, octaviaRs2_4, octaviaRs2_5, octaviaRs2_6, octaviaRs2_7, octaviaRs2_8, octaviaRs2_9, octaviaRs2_10, octaviaRs2_11, octaviaRs2_12, octaviaRs2_13, octaviaRs2_14, octaviaRs2_15, octaviaRs2_16, octaviaRs2_17, octaviaRs2_18, octaviaRs2_19, octaviaRs2_20, octaviaRs2_21, octaviaRs2_22, octaviaRs2_23, octaviaRs2_24, octaviaRs2_25, octaviaRs2_26, octaviaRs2_27, octaviaRs2_28];
 const tiguanJoinImages = [tiguanJoin_1, tiguanJoin_2, tiguanJoin_3, tiguanJoin_4, tiguanJoin_5, tiguanJoin_6, tiguanJoin_7, tiguanJoin_8, tiguanJoin_9, tiguanJoin_10, tiguanJoin_11, tiguanJoin_12, tiguanJoin_13, tiguanJoin_14, tiguanJoin_15, tiguanJoin_16, tiguanJoin_17, tiguanJoin_18, tiguanJoin_19, tiguanJoin_20, tiguanJoin_21, tiguanJoin_22, tiguanJoin_23, tiguanJoin_24, tiguanJoin_25, tiguanJoin_26, tiguanJoin_27];
 
 const bmwX1Images = [x1_2022_1, x1_2022_2, x1_2022_3, x1_2022_4, x1_2022_5, x1_2022_6, x1_2022_7, x1_2022_8, x1_2022_9, x1_2022_10, x1_2022_11, x1_2022_12, x1_2022_13, x1_2022_14, x1_2022_15, x1_2022_16, x1_2022_17, x1_2022_18, x1_2022_19, x1_2022_20, x1_2022_21, x1_2022_22, x1_2022_23, x1_2022_24, x1_2022_25, x1_2022_26, x1_2022_27, x1_2022_28, x1_2022_29];
