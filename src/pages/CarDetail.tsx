@@ -312,37 +312,7 @@ import clio_18 from "@/assets/cars/renault-clio/18.jpg";
 import clio_19 from "@/assets/cars/renault-clio/19.jpg";
 import clio_20 from "@/assets/cars/renault-clio/20.jpg";
 
-// Renault Megane images
-import megane_1 from "@/assets/cars/renault-megane/1.jpg";
-import megane_2 from "@/assets/cars/renault-megane/2.jpg";
-import megane_3 from "@/assets/cars/renault-megane/3.jpg";
-import megane_4 from "@/assets/cars/renault-megane/4.jpg";
-import megane_5 from "@/assets/cars/renault-megane/5.jpg";
-import megane_6 from "@/assets/cars/renault-megane/6.jpg";
-import megane_7 from "@/assets/cars/renault-megane/7.jpg";
-import megane_8 from "@/assets/cars/renault-megane/8.jpg";
-import megane_9 from "@/assets/cars/renault-megane/9.jpg";
-import megane_10 from "@/assets/cars/renault-megane/10.jpg";
-import megane_11 from "@/assets/cars/renault-megane/11.jpg";
-import megane_12 from "@/assets/cars/renault-megane/12.jpg";
-import megane_13 from "@/assets/cars/renault-megane/13.jpg";
-import megane_14 from "@/assets/cars/renault-megane/14.jpg";
-import megane_15 from "@/assets/cars/renault-megane/15.jpg";
-import megane_16 from "@/assets/cars/renault-megane/16.jpg";
-import megane_17 from "@/assets/cars/renault-megane/17.jpg";
-import megane_18 from "@/assets/cars/renault-megane/18.jpg";
-import megane_19 from "@/assets/cars/renault-megane/19.jpg";
-import megane_20 from "@/assets/cars/renault-megane/20.jpg";
-import megane_21 from "@/assets/cars/renault-megane/21.jpg";
-import megane_22 from "@/assets/cars/renault-megane/22.jpg";
-import megane_23 from "@/assets/cars/renault-megane/23.jpg";
-import megane_24 from "@/assets/cars/renault-megane/24.jpg";
-import megane_25 from "@/assets/cars/renault-megane/25.jpg";
-import megane_26 from "@/assets/cars/renault-megane/26.jpg";
-import megane_27 from "@/assets/cars/renault-megane/27.jpg";
-import megane_28 from "@/assets/cars/renault-megane/28.jpg";
-import megane_29 from "@/assets/cars/renault-megane/29.jpg";
-import megane_30 from "@/assets/cars/renault-megane/30.jpg";
+
 
 // VW Golf images
 import golf_1 from "@/assets/cars/vw-golf/1.jpg";
