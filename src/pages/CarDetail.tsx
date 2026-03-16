@@ -437,6 +437,13 @@ import m5_26 from "@/assets/cars/bmw-m5-competition/26.jpg";
 import m5_27 from "@/assets/cars/bmw-m5-competition/27.jpg";
 import m5_28 from "@/assets/cars/bmw-m5-competition/28.jpg";
 
+// New cars - first images
+import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
+import x5_30d_1 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/1.jpg";
+import golf8gtd_1 from "@/assets/cars/vw-golf-8-gtd/1.jpg";
+import octaviaRs2_1 from "@/assets/cars/skoda-octavia-rs-2/1.jpg";
+import tiguanJoin_1 from "@/assets/cars/vw-tiguan-join/1.jpg";
+
 const bmwX1Images = [x1_2022_1, x1_2022_2, x1_2022_3, x1_2022_4, x1_2022_5, x1_2022_6, x1_2022_7, x1_2022_8, x1_2022_9, x1_2022_10, x1_2022_11, x1_2022_12, x1_2022_13, x1_2022_14, x1_2022_15, x1_2022_16, x1_2022_17, x1_2022_18, x1_2022_19, x1_2022_20, x1_2022_21, x1_2022_22, x1_2022_23, x1_2022_24, x1_2022_25, x1_2022_26, x1_2022_27, x1_2022_28, x1_2022_29];
 const bmw320dImages = [bmw320d_1, bmw320d_2, bmw320d_3, bmw320d_4, bmw320d_5, bmw320d_6, bmw320d_7, bmw320d_8, bmw320d_9, bmw320d_10, bmw320d_11, bmw320d_12, bmw320d_13, bmw320d_14, bmw320d_15, bmw320d_16, bmw320d_17, bmw320d_18, bmw320d_19, bmw320d_20, bmw320d_21, bmw320d_22, bmw320d_23, bmw320d_24, bmw320d_25, bmw320d_26, bmw320d_27, bmw320d_28];
 const bmwX1MPaketImages = [x1_2016_1, x1_2016_2, x1_2016_3, x1_2016_4, x1_2016_5, x1_2016_6, x1_2016_7, x1_2016_8, x1_2016_9, x1_2016_10, x1_2016_11, x1_2016_12, x1_2016_13, x1_2016_14, x1_2016_15, x1_2016_16, x1_2016_17, x1_2016_18, x1_2016_19, x1_2016_20, x1_2016_21, x1_2016_22, x1_2016_23, x1_2016_24, x1_2016_25, x1_2016_26, x1_2016_27, x1_2016_28];
@@ -837,7 +844,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "Limuzina",
     price: 74900,
-    images: [],
+    images: [e300e_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 TVORNIČKO JAMSTVO
@@ -863,7 +870,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "SUV",
     price: 58990,
-    images: [],
+    images: [x5_30d_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 BMW X5 3.0d Xdrive: Vozilo u odličnom stanju izvana i iznutra, održavan isključivo u ovlaštenom servisu, posjeduje el. servisnu knjigu, prvi vlasnik, garažiran od prvog dana, posjeduje dva seta gumi s aluminijskim felgama (22 cola Continental ljetne gume i 20 cola Michelin zimske gume u odličnom stanju), maksimalno utegnut, dva ključa, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -887,7 +894,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "Hatchback",
     price: 28990,
-    images: [],
+    images: [golf8gtd_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Održavan u ovlaštenom servisu, nove disk pločice, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -911,7 +918,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "Limuzina",
     price: 26990,
-    images: [],
+    images: [octaviaRs2_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, napravljen servis ( izmjena ulja, filter ulja, filter zraka, filter kabine), novi diskovi i kočione pločice, kočiono ulje (05.03.2026.),bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -935,7 +942,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "SUV",
     price: 19490,
-    images: [],
+    images: [tiguanJoin_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Uredno održavan u ovlaštenom servisu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
