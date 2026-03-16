@@ -761,50 +761,6 @@ Automatski mjenjač sa 7 brzina, Boja Valencia narančasta, Crna krovna obloga, 
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
-  "renault-megane-bose": {
-    brand: "Renault", 
-    model: "Megane", 
-    year: 2019, 
-    mileage: 130000, 
-    fuelType: "Diesel", 
-    transmission: "Manuelni", 
-    power: "96 kW", 
-    engine: "Diesel", 
-    registration: "-", 
-    driveType: "Prednji", 
-    status: "Rabljeno", 
-    bodyType: "Hatchback", 
-    price: 13990, 
-    images: [megane_1, megane_2, megane_3, megane_4, megane_5, megane_6, megane_7, megane_8, megane_9, megane_10, megane_11, megane_12, megane_13, megane_14, megane_15, megane_16, megane_17, megane_18, megane_19, megane_20, megane_21, megane_22, megane_23, megane_24, megane_25, megane_26, megane_27, megane_28, megane_29, megane_30], 
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-RENAULT MEGANE : Redovno održavan u ovlaštenom servisu, zadnji servis na 125.000km, posjeduje servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, dobre zimske gume na vozilu, moguća provjera bilo gdje po želji kupca 
-
-Dodatna oprema:
-BOSE paket, BOSE ozvučenje, LED pure vision prednja svjetla, LED zadnja svjetla, ALU 17 felge, Ambijentalno osvjetljenje, Najeveca moguca NAVIGACIJA, Keyless, Kamera, Virtualni kokpit, Mrtvi kut, Start stop sistem, Automatska klima, Automatska svjetla, MF volan, Grijanje sjedišta, Tempomat, Samoparkiranje, Modovi vožnje, Blind spot, Lane assist, Parking senzori prednji i zadnji, 2 ključa`,
-  },
-  "vw-golf-7": {
-    brand: "VW", 
-    model: "Golf 7", 
-    year: 2017, 
-    mileage: 275000, 
-    fuelType: "Diesel", 
-    transmission: "Automatski DSG", 
-    power: "85 kW", 
-    engine: "Diesel", 
-    registration: "05/2026", 
-    driveType: "Prednji", 
-    status: "Rabljeno", 
-    bodyType: "Hatchback", 
-    price: 10990, 
-    images: [golf_1, golf_2, golf_3, golf_4, golf_5, golf_6, golf_7, golf_8, golf_9, golf_10, golf_11, golf_12, golf_13, golf_14, golf_15, golf_16, golf_17, golf_18, golf_19, golf_20, golf_21, golf_22, golf_23], 
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-GOLF 7 1,6 TDI: Registriran do 5/2026, uredno održavan, bez apsolutno ikakvih dodatnih ulaganja, na vozilu su zimske gume, moguća provjera bilo gdje po želji kupca ...
-
-Dodatna oprema:
-Alu Felge 18", Sportaka sjedala alcantara, Veliki infotainment sustav, Tempomat, Multifunkcionalni volan, Parking senzori, Park pilot, Front assist, Električna parkirna kočnica, Auto hold funkcija, ACC (automatska regulacija razmaka), USB priključak, Metalne pedale`,
-  },
   "bmw-320d-m-paket": {
     brand: "BMW", 
     model: "320d M-Paket", 
