@@ -57,7 +57,7 @@ const allCars = [
   { id: 8, slug: "mercedes-a200d", image: a200d_1, brand: "Mercedes", model: "A200d", year: 2020, mileage: 110000, fuelType: "Dizel", price: 24490, brandLogo: mercedesLogo },
   { id: 9, slug: "skoda-octavia-combi-first-edition", image: octaviaFe_1, brand: "Škoda", model: "Octavia 2.0TDI DSG First Edition", year: 2020, mileage: 126600, fuelType: "Dizel", price: 22990, brandLogo: skodaLogo },
   { id: 10, slug: "skoda-karoq-sportline", image: karoq_1, brand: "Škoda", model: "Karoq 2.0TDI 4x4 DSG Sportline", year: 2021, mileage: 202000, fuelType: "Dizel", price: 20990, brandLogo: skodaLogo },
-  { id: 21, slug: "vw-tiguan-join", image: "", brand: "VW", model: "Tiguan 2.0TDI Join", year: 2018, mileage: 129000, fuelType: "Dizel", price: 19490, brandLogo: volkswagenLogo },
+  { id: 21, slug: "vw-tiguan-join", image: tiguanJoin_1, brand: "VW", model: "Tiguan 2.0TDI Join", year: 2018, mileage: 129000, fuelType: "Dizel", price: 19490, brandLogo: volkswagenLogo },
   { id: 11, slug: "bmw-x1-sdrive18d-m-paket", image: x1_2016_1, brand: "BMW", model: "X1 sDrive18d M-Paket", year: 2016, mileage: 209000, fuelType: "Dizel", price: 16790, brandLogo: bmwLogo },
   { id: 12, slug: "renault-clio-edition-one", image: clio_1, brand: "Renault", model: "Clio Edition One TCe 130KS", year: 2020, mileage: 108500, fuelType: "Benzin", price: 15990, brandLogo: renaultLogo },
 ];
