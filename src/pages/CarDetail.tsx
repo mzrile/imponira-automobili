@@ -966,7 +966,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "Limuzina",
     price: 74900,
-    images: [e300e_1],
+    images: e300eImages,
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 TVORNIČKO JAMSTVO
