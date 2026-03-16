@@ -527,9 +527,35 @@ import golf8gtd_27 from "@/assets/cars/vw-golf-8-gtd/27.jpg";
 import golf8gtd_28 from "@/assets/cars/vw-golf-8-gtd/28.jpg";
 import golf8gtd_29 from "@/assets/cars/vw-golf-8-gtd/29.jpg";
 
-// Škoda Octavia RS 2 images (2)
+// Škoda Octavia RS 2 images (28)
 import octaviaRs2_1 from "@/assets/cars/skoda-octavia-rs-2/1.jpg";
 import octaviaRs2_2 from "@/assets/cars/skoda-octavia-rs-2/2.jpg";
+import octaviaRs2_3 from "@/assets/cars/skoda-octavia-rs-2/3.jpg";
+import octaviaRs2_4 from "@/assets/cars/skoda-octavia-rs-2/4.jpg";
+import octaviaRs2_5 from "@/assets/cars/skoda-octavia-rs-2/5.jpg";
+import octaviaRs2_6 from "@/assets/cars/skoda-octavia-rs-2/6.jpg";
+import octaviaRs2_7 from "@/assets/cars/skoda-octavia-rs-2/7.jpg";
+import octaviaRs2_8 from "@/assets/cars/skoda-octavia-rs-2/8.jpg";
+import octaviaRs2_9 from "@/assets/cars/skoda-octavia-rs-2/9.jpg";
+import octaviaRs2_10 from "@/assets/cars/skoda-octavia-rs-2/10.jpg";
+import octaviaRs2_11 from "@/assets/cars/skoda-octavia-rs-2/11.jpg";
+import octaviaRs2_12 from "@/assets/cars/skoda-octavia-rs-2/12.jpg";
+import octaviaRs2_13 from "@/assets/cars/skoda-octavia-rs-2/13.jpg";
+import octaviaRs2_14 from "@/assets/cars/skoda-octavia-rs-2/14.jpg";
+import octaviaRs2_15 from "@/assets/cars/skoda-octavia-rs-2/15.jpg";
+import octaviaRs2_16 from "@/assets/cars/skoda-octavia-rs-2/16.jpg";
+import octaviaRs2_17 from "@/assets/cars/skoda-octavia-rs-2/17.jpg";
+import octaviaRs2_18 from "@/assets/cars/skoda-octavia-rs-2/18.jpg";
+import octaviaRs2_19 from "@/assets/cars/skoda-octavia-rs-2/19.jpg";
+import octaviaRs2_20 from "@/assets/cars/skoda-octavia-rs-2/20.jpg";
+import octaviaRs2_21 from "@/assets/cars/skoda-octavia-rs-2/21.jpg";
+import octaviaRs2_22 from "@/assets/cars/skoda-octavia-rs-2/22.jpg";
+import octaviaRs2_23 from "@/assets/cars/skoda-octavia-rs-2/23.jpg";
+import octaviaRs2_24 from "@/assets/cars/skoda-octavia-rs-2/24.jpg";
+import octaviaRs2_25 from "@/assets/cars/skoda-octavia-rs-2/25.jpg";
+import octaviaRs2_26 from "@/assets/cars/skoda-octavia-rs-2/26.jpg";
+import octaviaRs2_27 from "@/assets/cars/skoda-octavia-rs-2/27.jpg";
+import octaviaRs2_28 from "@/assets/cars/skoda-octavia-rs-2/28.jpg";
 
 // VW Tiguan Join images (27)
 import tiguanJoin_1 from "@/assets/cars/vw-tiguan-join/1.jpg";
