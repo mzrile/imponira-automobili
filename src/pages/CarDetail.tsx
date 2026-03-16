@@ -438,6 +438,7 @@ import m5_27 from "@/assets/cars/bmw-m5-competition/27.jpg";
 import m5_28 from "@/assets/cars/bmw-m5-competition/28.jpg";
 
 // New cars - first images
+import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
 import x5_30d_1 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/1.jpg";
 import golf8gtd_1 from "@/assets/cars/vw-golf-8-gtd/1.jpg";
 import octaviaRs2_1 from "@/assets/cars/skoda-octavia-rs-2/1.jpg";
