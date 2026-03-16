@@ -14,7 +14,6 @@ import octaviaCombiRs_1 from "@/assets/cars/skoda-octavia-combi-rs/1.jpg";
 import octaviaFe_1 from "@/assets/cars/skoda-octavia-combi-first-edition/1.jpg";
 import karoq_1 from "@/assets/cars/skoda-karoq-sportline/1.jpg";
 import clio_1 from "@/assets/cars/renault-clio/1.jpg";
-import megane_1 from "@/assets/cars/renault-megane/1.jpg";
 import golf_1 from "@/assets/cars/vw-golf/1.jpg";
 
 // BMW X1 images
