@@ -26,6 +26,13 @@ import bmw320d_1 from "@/assets/cars/bmw-320d-m-paket/1.jpg";
 // BMW M5 Competition image
 import m5_1 from "@/assets/cars/bmw-m5-competition/1.jpg";
 
+// New cars images
+import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
+import x5_30d_1 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/1.jpg";
+import golf8gtd_1 from "@/assets/cars/vw-golf-8-gtd/1.jpg";
+import octaviaRs2_1 from "@/assets/cars/skoda-octavia-rs-2/1.jpg";
+import tiguanJoin_1 from "@/assets/cars/vw-tiguan-join/1.jpg";
+
 // Brand logos
 import bmwLogo from "@/assets/brands/bmw-new.png";
 import mercedesLogo from "@/assets/brands/mercedes-new.png";
