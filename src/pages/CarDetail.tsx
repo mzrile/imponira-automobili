@@ -314,30 +314,7 @@ import clio_20 from "@/assets/cars/renault-clio/20.jpg";
 
 
 
-// VW Golf images
-import golf_1 from "@/assets/cars/vw-golf/1.jpg";
-import golf_2 from "@/assets/cars/vw-golf/2.jpg";
-import golf_3 from "@/assets/cars/vw-golf/3.jpg";
-import golf_4 from "@/assets/cars/vw-golf/4.jpg";
-import golf_5 from "@/assets/cars/vw-golf/5.jpg";
-import golf_6 from "@/assets/cars/vw-golf/6.jpg";
-import golf_7 from "@/assets/cars/vw-golf/7.jpg";
-import golf_8 from "@/assets/cars/vw-golf/8.jpg";
-import golf_9 from "@/assets/cars/vw-golf/9.jpg";
-import golf_10 from "@/assets/cars/vw-golf/10.jpg";
-import golf_11 from "@/assets/cars/vw-golf/11.jpg";
-import golf_12 from "@/assets/cars/vw-golf/12.jpg";
-import golf_13 from "@/assets/cars/vw-golf/13.jpg";
-import golf_14 from "@/assets/cars/vw-golf/14.jpg";
-import golf_15 from "@/assets/cars/vw-golf/15.jpg";
-import golf_16 from "@/assets/cars/vw-golf/16.jpg";
-import golf_17 from "@/assets/cars/vw-golf/17.jpg";
-import golf_18 from "@/assets/cars/vw-golf/18.jpg";
-import golf_19 from "@/assets/cars/vw-golf/19.jpg";
-import golf_20 from "@/assets/cars/vw-golf/20.jpg";
-import golf_21 from "@/assets/cars/vw-golf/21.jpg";
-import golf_22 from "@/assets/cars/vw-golf/22.jpg";
-import golf_23 from "@/assets/cars/vw-golf/23.jpg";
+
 
 // BMW X1 2022 images
 import x1_2022_1 from "@/assets/cars/bmw-x1-2022/1.jpg";
