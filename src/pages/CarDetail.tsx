@@ -920,6 +920,128 @@ Upozorenje za izbjegavanje sudara, Upozorenje na pospanost, Čitanje prometnih z
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
+  "mercedes-e300e-amg": {
+    brand: "Mercedes",
+    model: "E300e AMG",
+    year: 2025,
+    mileage: 9000,
+    fuelType: "Plug-in hibrid",
+    transmission: "9G automatski",
+    power: "150 kW",
+    engine: "Plug-in hibrid",
+    registration: "-",
+    driveType: "Stražnji",
+    status: "Rabljeno",
+    bodyType: "Limuzina",
+    price: 74900,
+    images: [],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+TVORNIČKO JAMSTVO
+
+VOZILO U SUSTAVU PDV-a
+
+Dodatna oprema:
+AMG paket, Zračni ovjes, Digital light, Adaptivna prednja svjetla, Svjetleća maska, El. Panoramski krov, Zakretanje stražnjih kotača, Burmester ozvučenje, Grijanje sjedala, Hlađenje sjedala, Memorija sjedala, Sjedala na struju, Automatska klima, Stražnji digitalni ekran za klimu, 360 kamera, Head/up, Asistencija za mrtvi kut, Parktronic, Distronic, Lane Keeping Assist, Prepoznavanje prometnih znakova, Advanced Plus paket, KEYLESS-GO paket, Ambient light premium, El. Vrata prtljažnika, Instrument ploča i vrata u ARTICO koži, Ulazne letvice osvjetljene, 9G automatski mjenjač, 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "bmw-x5-30d-xdrive-m-sport": {
+    brand: "BMW",
+    model: "X5 3.0d xDrive M-Sportpaket",
+    year: 2019,
+    mileage: 120000,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "195 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "AWD",
+    status: "Rabljeno",
+    bodyType: "SUV",
+    price: 58990,
+    images: [],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+BMW X5 3.0d Xdrive: Vozilo u odličnom stanju izvana i iznutra, održavan isključivo u ovlaštenom servisu, posjeduje el. servisnu knjigu, prvi vlasnik, garažiran od prvog dana, posjeduje dva seta gumi s aluminijskim felgama (22 cola Continental ljetne gume i 20 cola Michelin zimske gume u odličnom stanju), maksimalno utegnut, dva ključa, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+M sportski paket, M Kožni upravljač, M Aerodinamički paket, X-DRIVE, Zračni ovjes, Modovi vožnje, Panoramski stakleni krov, Mreža za prtljažnik, Podne prostirke od velura, Individual sjedišta s memorijom, Sjedala na struju, Grijanje sjedala, Paket toplinske udobnosti, sprijeda, Grijanje volana, 22 cola felge, 4 zone klima, Line asistent, Adaptivni Tempomat, Virtual cockpit, Vanjski retrovizor s automatskim prigušivanjem, Tonirana stakla, Akustična zaštita pješaka, Ambijentalno unutarnje svjetlo, DAB tuner, Harman/Kardon surround zvučni sustav, Povezani paket Professional, Active Guard Plus, Automatska kratka i duga svjetla, Sustav pomoći pri parkiranju Plus, Kamera, M Sportska kočnica (plave), Prikaz tlaka u gumama, El. kuka, El. vrata prtljažnika, El. podešavanje volana, 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "vw-golf-8-gtd": {
+    brand: "VW",
+    model: "Golf 8 GTD Sport&Sound",
+    year: 2022,
+    mileage: 81000,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "147 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Hatchback",
+    price: 28990,
+    images: [],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Održavan u ovlaštenom servisu, nove disk pločice, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+Sport&Sound ("umjetni zvuk"), Tonirana stakla, Crvene kočione čeljusti, Active sound, IQ Matrix svjetla, Osvjetljena lajsna između prednjih svjetala, Maglenke, Putujući žmigavci, Automatsko sklapanje retrovizora, Digital Cockpit Pro, Prednji i stražnji parking senzori, Stražnja parking kamera, Grijanje volana, Park pilot, Autopilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Ambient light, GTD karirana sjedala, Grijanje sjedala (prednja), Trozonska automatska klima, Centralno zaključavanje bez ključa, Bežično punjenje mobitela, Navigacijski sustav "Discover Pro", Wireless za Apple CarPlay, USB priključak (Type C), Aluminijske papučice, Paket "Travel Assist Plus", LED logo projektor u vratima, 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "skoda-octavia-rs-2": {
+    brand: "Škoda",
+    model: "Octavia RS 2.0TDI DSG",
+    year: 2021,
+    mileage: 149900,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "147 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Limuzina",
+    price: 26990,
+    images: [],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, napravljen servis ( izmjena ulja, filter ulja, filter zraka, filter kabine), novi diskovi i kočione pločice, kočiono ulje (05.03.2026.),bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED svjetla, LED putujući žmigavci, Active sound, LED Matrix svjetla, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Autopilot, Head-up, Park asist, Front assist, Auto hold, Sustan za ograničenje brzine, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Armatura od alcantare, Crno nebo, Carbon, Sjedala RS, Grijanje sjedala (prednja/stražnja), Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, DAB, Ambijentalna rasvjeta, LED logo projektor u vratima, Sustav za kontrolu tlaka u gumama, Servotronic, El. vrata prtljažnika, El. kuka, Rezervni kotač, 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "vw-tiguan-join": {
+    brand: "VW",
+    model: "Tiguan 2.0TDI Join",
+    year: 2018,
+    mileage: 129000,
+    fuelType: "Dizel",
+    transmission: "Manuelni",
+    power: "110 kW",
+    engine: "Dizel",
+    registration: "08/2026",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "SUV",
+    price: 19490,
+    images: [],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Uredno održavan u ovlaštenom servisu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+Join oprema, Alu felge, Parking senzori, Automatska svjetla, Grijeanje prednjih sjedala, Tempomat, Front assist, Lane assist, Bluetooth, MF volan, Automatska klima, 4 zone klima, Auto hold, El. parking kočnica, Navigacija, Veliki ekran na dodir, Senzor za kišu, Isofix, USB, 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
 };
 
 const defaultCar = carDetails["bmw-m440i-xdrive"];
