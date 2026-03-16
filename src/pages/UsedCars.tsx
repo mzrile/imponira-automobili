@@ -51,7 +51,7 @@ const allCars = [
   { id: 5, slug: "bmw-x1-sdrive18d", image: x1_2022_1, brand: "BMW", model: "X1 sDrive18d", year: 2022, mileage: 82900, fuelType: "Dizel", price: 39990, brandLogo: bmwLogo },
   { id: 15, slug: "bmw-320d-m-paket", image: bmw320d_1, brand: "BMW", model: "320d M-Paket", year: 2023, mileage: 99990, fuelType: "Dizel", price: 38990, brandLogo: bmwLogo },
   { id: 6, slug: "skoda-octavia-rs", image: octaviaRs_1, brand: "Škoda", model: "Octavia RS 2.0TDI DSG", year: 2021, mileage: 88000, fuelType: "Dizel", price: 31990, brandLogo: skodaLogo },
-  { id: 19, slug: "vw-golf-8-gtd", image: "", brand: "VW", model: "Golf 8 GTD Sport&Sound", year: 2022, mileage: 81000, fuelType: "Dizel", price: 28990, brandLogo: volkswagenLogo },
+  { id: 19, slug: "vw-golf-8-gtd", image: golf8gtd_1, brand: "VW", model: "Golf 8 GTD Sport&Sound", year: 2022, mileage: 81000, fuelType: "Dizel", price: 28990, brandLogo: volkswagenLogo },
   { id: 7, slug: "skoda-octavia-combi-rs", image: octaviaCombiRs_1, brand: "Škoda", model: "Octavia Combi RS 2.0TDI DSG", year: 2022, mileage: 117500, fuelType: "Dizel", price: 28690, brandLogo: skodaLogo },
   { id: 20, slug: "skoda-octavia-rs-2", image: "", brand: "Škoda", model: "Octavia RS 2.0TDI DSG", year: 2021, mileage: 149900, fuelType: "Dizel", price: 26990, brandLogo: skodaLogo },
   { id: 8, slug: "mercedes-a200d", image: a200d_1, brand: "Mercedes", model: "A200d", year: 2020, mileage: 110000, fuelType: "Dizel", price: 24490, brandLogo: mercedesLogo },
