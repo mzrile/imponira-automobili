@@ -870,7 +870,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "SUV",
     price: 58990,
-    images: [],
+    images: [x5_30d_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 BMW X5 3.0d Xdrive: Vozilo u odličnom stanju izvana i iznutra, održavan isključivo u ovlaštenom servisu, posjeduje el. servisnu knjigu, prvi vlasnik, garažiran od prvog dana, posjeduje dva seta gumi s aluminijskim felgama (22 cola Continental ljetne gume i 20 cola Michelin zimske gume u odličnom stanju), maksimalno utegnut, dva ključa, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
