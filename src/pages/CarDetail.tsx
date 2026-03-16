@@ -312,62 +312,9 @@ import clio_18 from "@/assets/cars/renault-clio/18.jpg";
 import clio_19 from "@/assets/cars/renault-clio/19.jpg";
 import clio_20 from "@/assets/cars/renault-clio/20.jpg";
 
-// Renault Megane images
-import megane_1 from "@/assets/cars/renault-megane/1.jpg";
-import megane_2 from "@/assets/cars/renault-megane/2.jpg";
-import megane_3 from "@/assets/cars/renault-megane/3.jpg";
-import megane_4 from "@/assets/cars/renault-megane/4.jpg";
-import megane_5 from "@/assets/cars/renault-megane/5.jpg";
-import megane_6 from "@/assets/cars/renault-megane/6.jpg";
-import megane_7 from "@/assets/cars/renault-megane/7.jpg";
-import megane_8 from "@/assets/cars/renault-megane/8.jpg";
-import megane_9 from "@/assets/cars/renault-megane/9.jpg";
-import megane_10 from "@/assets/cars/renault-megane/10.jpg";
-import megane_11 from "@/assets/cars/renault-megane/11.jpg";
-import megane_12 from "@/assets/cars/renault-megane/12.jpg";
-import megane_13 from "@/assets/cars/renault-megane/13.jpg";
-import megane_14 from "@/assets/cars/renault-megane/14.jpg";
-import megane_15 from "@/assets/cars/renault-megane/15.jpg";
-import megane_16 from "@/assets/cars/renault-megane/16.jpg";
-import megane_17 from "@/assets/cars/renault-megane/17.jpg";
-import megane_18 from "@/assets/cars/renault-megane/18.jpg";
-import megane_19 from "@/assets/cars/renault-megane/19.jpg";
-import megane_20 from "@/assets/cars/renault-megane/20.jpg";
-import megane_21 from "@/assets/cars/renault-megane/21.jpg";
-import megane_22 from "@/assets/cars/renault-megane/22.jpg";
-import megane_23 from "@/assets/cars/renault-megane/23.jpg";
-import megane_24 from "@/assets/cars/renault-megane/24.jpg";
-import megane_25 from "@/assets/cars/renault-megane/25.jpg";
-import megane_26 from "@/assets/cars/renault-megane/26.jpg";
-import megane_27 from "@/assets/cars/renault-megane/27.jpg";
-import megane_28 from "@/assets/cars/renault-megane/28.jpg";
-import megane_29 from "@/assets/cars/renault-megane/29.jpg";
-import megane_30 from "@/assets/cars/renault-megane/30.jpg";
 
-// VW Golf images
-import golf_1 from "@/assets/cars/vw-golf/1.jpg";
-import golf_2 from "@/assets/cars/vw-golf/2.jpg";
-import golf_3 from "@/assets/cars/vw-golf/3.jpg";
-import golf_4 from "@/assets/cars/vw-golf/4.jpg";
-import golf_5 from "@/assets/cars/vw-golf/5.jpg";
-import golf_6 from "@/assets/cars/vw-golf/6.jpg";
-import golf_7 from "@/assets/cars/vw-golf/7.jpg";
-import golf_8 from "@/assets/cars/vw-golf/8.jpg";
-import golf_9 from "@/assets/cars/vw-golf/9.jpg";
-import golf_10 from "@/assets/cars/vw-golf/10.jpg";
-import golf_11 from "@/assets/cars/vw-golf/11.jpg";
-import golf_12 from "@/assets/cars/vw-golf/12.jpg";
-import golf_13 from "@/assets/cars/vw-golf/13.jpg";
-import golf_14 from "@/assets/cars/vw-golf/14.jpg";
-import golf_15 from "@/assets/cars/vw-golf/15.jpg";
-import golf_16 from "@/assets/cars/vw-golf/16.jpg";
-import golf_17 from "@/assets/cars/vw-golf/17.jpg";
-import golf_18 from "@/assets/cars/vw-golf/18.jpg";
-import golf_19 from "@/assets/cars/vw-golf/19.jpg";
-import golf_20 from "@/assets/cars/vw-golf/20.jpg";
-import golf_21 from "@/assets/cars/vw-golf/21.jpg";
-import golf_22 from "@/assets/cars/vw-golf/22.jpg";
-import golf_23 from "@/assets/cars/vw-golf/23.jpg";
+
+
 
 // BMW X1 2022 images
 import x1_2022_1 from "@/assets/cars/bmw-x1-2022/1.jpg";
@@ -813,50 +760,6 @@ Dodatna oprema:
 Automatski mjenjač sa 7 brzina, Boja Valencia narančasta, Crna krovna obloga, Paket jednostavnog parkiranja, Sigurnosni paket Plus, Rezervni kotač, Pomoćn za autocestu i prometne gužve (0-160 km/h), Pomoć pri kočenju u nuždi s detekcijom pješaka, Pomoć pri kočenju s automatskim uključivanjem pokazivača smjera u slučaju naglog kočenja, Prepoznavanje prometnih znakova, Upozorenje na brzinu, Upozorenje na mrtvi kut, Upozorenje o napuštanju trake, Upozorenje o sigurnosnoj udaljenosti, ESP s pomoći pri kretanju na uzbrdici, ISOFIX nosači na stražnjim vanjskim sjedalima, Pomoćnik za duga svjetla, eCall sustav za hitne pozive, Prilagodljivi krstareći pilot ACC (30-170 km/h), Sustav nadzora tlaka u gumama, Senzor za svjetlo i kišu, 360° kamera, BOSE ozvučenje, Automatska kontrola klime, Ručice mjenjača na upravljaču, Unutarnja rasvjeta LED, Modovi vožnje, Elektronička parkirna kočnica s funkcijom auto-hold, Senzori udaljenosti sprijeda, straga i sa strane sa zvučnim i vizualnim povratnim informacijama, Grijani stražnji prozor, Digitalna instrument tabla 7 inča, MULTI-SENSE s ambijentalnim osvjetljenjem, Nadzorna ploča "Soft Touch", Grijana sjedala za prednja sjedala, Kožni volan, Grijani volan
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
-  "renault-megane-bose": {
-    brand: "Renault", 
-    model: "Megane", 
-    year: 2019, 
-    mileage: 130000, 
-    fuelType: "Diesel", 
-    transmission: "Manuelni", 
-    power: "96 kW", 
-    engine: "Diesel", 
-    registration: "-", 
-    driveType: "Prednji", 
-    status: "Rabljeno", 
-    bodyType: "Hatchback", 
-    price: 13990, 
-    images: [megane_1, megane_2, megane_3, megane_4, megane_5, megane_6, megane_7, megane_8, megane_9, megane_10, megane_11, megane_12, megane_13, megane_14, megane_15, megane_16, megane_17, megane_18, megane_19, megane_20, megane_21, megane_22, megane_23, megane_24, megane_25, megane_26, megane_27, megane_28, megane_29, megane_30], 
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-RENAULT MEGANE : Redovno održavan u ovlaštenom servisu, zadnji servis na 125.000km, posjeduje servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, dobre zimske gume na vozilu, moguća provjera bilo gdje po želji kupca 
-
-Dodatna oprema:
-BOSE paket, BOSE ozvučenje, LED pure vision prednja svjetla, LED zadnja svjetla, ALU 17 felge, Ambijentalno osvjetljenje, Najeveca moguca NAVIGACIJA, Keyless, Kamera, Virtualni kokpit, Mrtvi kut, Start stop sistem, Automatska klima, Automatska svjetla, MF volan, Grijanje sjedišta, Tempomat, Samoparkiranje, Modovi vožnje, Blind spot, Lane assist, Parking senzori prednji i zadnji, 2 ključa`,
-  },
-  "vw-golf-7": {
-    brand: "VW", 
-    model: "Golf 7", 
-    year: 2017, 
-    mileage: 275000, 
-    fuelType: "Diesel", 
-    transmission: "Automatski DSG", 
-    power: "85 kW", 
-    engine: "Diesel", 
-    registration: "05/2026", 
-    driveType: "Prednji", 
-    status: "Rabljeno", 
-    bodyType: "Hatchback", 
-    price: 10990, 
-    images: [golf_1, golf_2, golf_3, golf_4, golf_5, golf_6, golf_7, golf_8, golf_9, golf_10, golf_11, golf_12, golf_13, golf_14, golf_15, golf_16, golf_17, golf_18, golf_19, golf_20, golf_21, golf_22, golf_23], 
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-GOLF 7 1,6 TDI: Registriran do 5/2026, uredno održavan, bez apsolutno ikakvih dodatnih ulaganja, na vozilu su zimske gume, moguća provjera bilo gdje po želji kupca ...
-
-Dodatna oprema:
-Alu Felge 18", Sportaka sjedala alcantara, Veliki infotainment sustav, Tempomat, Multifunkcionalni volan, Parking senzori, Park pilot, Front assist, Električna parkirna kočnica, Auto hold funkcija, ACC (automatska regulacija razmaka), USB priključak, Metalne pedale`,
   },
   "bmw-320d-m-paket": {
     brand: "BMW", 
