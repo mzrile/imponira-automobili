@@ -668,7 +668,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
   "vw-tiguan-r-line": {
     brand: "VW", 
-    model: "Tiguan", 
+    model: "Tiguan 2.0 TDI DSG R-Line", 
     year: 2024, 
     mileage: 16900, 
     fuelType: "Diesel", 
