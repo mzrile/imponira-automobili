@@ -870,7 +870,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
   "bmw-x1-sdrive18d-m-paket": {
     brand: "BMW", 
-    model: "X1", 
+    model: "X1 sDrive18d M-Paket", 
     year: 2016, 
     mileage: 209000, 
     fuelType: "Diesel", 
