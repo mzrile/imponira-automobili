@@ -716,7 +716,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
   "bmw-x1-sdrive18d": {
     brand: "BMW", 
-    model: "X1", 
+    model: "X1 sDrive18d", 
     year: 2022, 
     mileage: 82900, 
     fuelType: "Diesel", 
