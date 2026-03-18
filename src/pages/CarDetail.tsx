@@ -825,7 +825,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "Karavan", 
-    price: 23290, 
+    price: 22990, 
     images: [octaviaFe_1, octaviaFe_2, octaviaFe_3, octaviaFe_4, octaviaFe_5, octaviaFe_6, octaviaFe_7, octaviaFe_8, octaviaFe_9, octaviaFe_10, octaviaFe_11, octaviaFe_12, octaviaFe_13, octaviaFe_14, octaviaFe_15, octaviaFe_16, octaviaFe_17, octaviaFe_18, octaviaFe_19, octaviaFe_20, octaviaFe_21, octaviaFe_22, octaviaFe_23, octaviaFe_24, octaviaFe_25, octaviaFe_26, octaviaFe_27, octaviaFe_28, octaviaFe_29], 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
