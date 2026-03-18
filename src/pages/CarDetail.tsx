@@ -766,7 +766,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
   "skoda-octavia-combi-rs": {
     brand: "Škoda", 
-    model: "Octavia RS", 
+    model: "Octavia Combi RS 2.0TDI DSG", 
     year: 2022, 
     mileage: 117500, 
     fuelType: "Diesel", 
