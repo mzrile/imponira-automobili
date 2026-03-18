@@ -692,7 +692,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
   "mercedes-c220d-amg": {
     brand: "Mercedes", 
-    model: "C220d", 
+    model: "C220d AMG", 
     year: 2021, 
     mileage: 59000, 
     fuelType: "Diesel", 
