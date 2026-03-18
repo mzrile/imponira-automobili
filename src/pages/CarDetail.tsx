@@ -627,7 +627,7 @@ const carDetails: Record<string, {
     driveType: "xDrive", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 59990, 
+    price: 58990, 
     images: [x5_1, x5_2, x5_3, x5_4, x5_5, x5_6, x5_7, x5_8, x5_9, x5_10, x5_11, x5_12, x5_13, x5_14, x5_15, x5_16, x5_17, x5_18, x5_19, x5_20, x5_21, x5_22, x5_23, x5_24, x5_25], 
     description: `Vozilo je u sustavu PDV-a
 
@@ -825,7 +825,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "Karavan", 
-    price: 23290, 
+    price: 22990, 
     images: [octaviaFe_1, octaviaFe_2, octaviaFe_3, octaviaFe_4, octaviaFe_5, octaviaFe_6, octaviaFe_7, octaviaFe_8, octaviaFe_9, octaviaFe_10, octaviaFe_11, octaviaFe_12, octaviaFe_13, octaviaFe_14, octaviaFe_15, octaviaFe_16, octaviaFe_17, octaviaFe_18, octaviaFe_19, octaviaFe_20, octaviaFe_21, octaviaFe_22, octaviaFe_23, octaviaFe_24, octaviaFe_25, octaviaFe_26, octaviaFe_27, octaviaFe_28, octaviaFe_29], 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -881,7 +881,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 16990, 
+    price: 16790, 
     images: bmwX1MPaketImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -929,7 +929,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Zadnji", 
     status: "Rabljeno", 
     bodyType: "Limuzina", 
-    price: 39490, 
+    price: 38990, 
     images: bmw320dImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -959,7 +959,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "xDrive", 
     status: "Rabljeno", 
     bodyType: "Limuzina", 
-    price: 92900, 
+    price: 84990, 
     images: bmwM5Images, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
