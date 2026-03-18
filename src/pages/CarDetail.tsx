@@ -959,7 +959,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "xDrive", 
     status: "Rabljeno", 
     bodyType: "Limuzina", 
-    price: 92900, 
+    price: 84990, 
     images: bmwM5Images, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
