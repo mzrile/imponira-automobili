@@ -627,7 +627,7 @@ const carDetails: Record<string, {
     driveType: "xDrive", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 59990, 
+    price: 58990, 
     images: [x5_1, x5_2, x5_3, x5_4, x5_5, x5_6, x5_7, x5_8, x5_9, x5_10, x5_11, x5_12, x5_13, x5_14, x5_15, x5_16, x5_17, x5_18, x5_19, x5_20, x5_21, x5_22, x5_23, x5_24, x5_25], 
     description: `Vozilo je u sustavu PDV-a
 
