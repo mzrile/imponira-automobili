@@ -929,7 +929,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Zadnji", 
     status: "Rabljeno", 
     bodyType: "Limuzina", 
-    price: 39490, 
+    price: 38990, 
     images: bmw320dImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
