@@ -814,7 +814,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
   "skoda-octavia-combi-first-edition": {
     brand: "Škoda", 
-    model: "Octavia", 
+    model: "Octavia 2.0TDI DSG First Edition", 
     year: 2020, 
     mileage: 126600, 
     fuelType: "Diesel", 
