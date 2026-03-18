@@ -642,7 +642,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE!`,
   },
   "bmw-m440i-xdrive": {
     brand: "BMW", 
-    model: "M440i", 
+    model: "M440i xDrive", 
     year: 2020, 
     mileage: 92000, 
     fuelType: "Benzin", 
