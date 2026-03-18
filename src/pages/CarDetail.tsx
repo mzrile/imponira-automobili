@@ -740,7 +740,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
   "skoda-octavia-rs": {
     brand: "Škoda", 
-    model: "Octavia RS", 
+    model: "Octavia RS 2.0TDI DSG", 
     year: 2021, 
     mileage: 88000, 
     fuelType: "Diesel", 
