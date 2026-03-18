@@ -842,7 +842,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
   "skoda-karoq-sportline": {
     brand: "Škoda", 
-    model: "Karoq", 
+    model: "Karoq 2.0TDI 4x4 DSG Sportline", 
     year: 2021, 
     mileage: 202000, 
     fuelType: "Diesel", 
