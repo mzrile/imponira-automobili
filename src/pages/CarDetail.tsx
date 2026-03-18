@@ -679,7 +679,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 45990, 
+    price: 45490, 
     images: [tiguan1, tiguan2, tiguan3, tiguan4, tiguan5, tiguan6, tiguan7, tiguan8, tiguan9, tiguan10, tiguan11, tiguan12, tiguan13, tiguan14, tiguan15, tiguan16, tiguan17, tiguan18, tiguan19, tiguan20, tiguan21, tiguan22, tiguan23, tiguan24, tiguan25, tiguan26, tiguan27, tiguan28, tiguan29, tiguan30],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
