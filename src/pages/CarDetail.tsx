@@ -894,7 +894,7 @@ M-Paket, M-volan, Multifunkcionalni volan, M sjedala alcantara, Alu felge 18", L
   },
   "renault-clio-edition-one": {
     brand: "Renault", 
-    model: "Clio", 
+    model: "Clio Edition One TCe 130KS", 
     year: 2020, 
     mileage: 108500, 
     fuelType: "Benzin", 
