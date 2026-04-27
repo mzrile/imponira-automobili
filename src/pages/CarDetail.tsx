@@ -830,6 +830,100 @@ M sportski paket, M Kožni upravljač, M Aerodinamički paket, X-DRIVE, Zračni 
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
+  "mercedes-glb-220d-4matic": {
+    brand: "Mercedes",
+    model: "GLB 220d 4Matic",
+    year: 2022,
+    mileage: 85800,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "140 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "4Matic",
+    status: "Rabljeno",
+    bodyType: "SUV",
+    price: 39990,
+    images: [glb220d_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+MERCEDES-BENZ GLB 220d:
+
+Prvi vlasnik, svi servisi rađeni po intervalu u ovlaštenom servisu, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+AMG paket, AMG felge 19', Night paket, LED high performance svjetla, Sportski zvuk motora, Ukrasni elementi karbonske strukture, Armatura od kože, Prošiveni crveni konac, Multifunkcijski sportski volan, Volan presvučen nappa kožom, F1 komande na volanu, AMG podne prostirke, El. Sklopivi retrovizori, Crna stropna obloga, Sportska sjedala alcantara/koža, Grijanje sjedala, Stražnja parking kamera, MBUX navigacija premium, Advanced plus paket, Ambient light, Adaptivni tempomat, Modovi vožnje, Zaštita pješaka, Aktivna pomoć u zadržavanju trake, Aktivna pomoć pri kočenju, Detekcija prometnih znakova, Krovni nosači u crnoj boji, Kontrola tlaka u gumama, 2 ključa`,
+  },
+  "skoda-octavia-combi-rs-2021": {
+    brand: "Škoda",
+    model: "Octavia Combi RS 2.0TDI DSG",
+    year: 2021,
+    mileage: 149900,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "147 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Karavan",
+    price: 26490,
+    images: [octaviaCombiRs2021_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+ŠKODA OCTAVIA RS: Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, napravljen servis ( izmjena ulja, filter ulja, filter zraka, filter kabine), novi diskovi i kočione pločice, kočiono ulje (05.03.2026.), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED svjetla, LED putujući žmigavci, Active sound, LED Matrix svjetla, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Autopilot, Head-up, Park asist, Front assist, Auto hold, Sustav za ograničenje brzine, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Armatura od alcantare, Crno nebo, Carbon, Sjedala RS, Grijanje sjedala (prednja/stražnja), Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, DAB, Ambijentalna rasvjeta, LED logo projektor u vratima, Sustav za kontrolu tlaka u gumama, Servotronic, El. vrata prtljažnika, El. kuka, Rezervni kotač, 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "audi-a5-sportback-20tdi": {
+    brand: "Audi",
+    model: "A5 Sportback 2.0TDI",
+    year: 2018,
+    mileage: 163000,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "140 kW",
+    engine: "Dizel",
+    registration: "22.09.2026.",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Coupe",
+    price: 23790,
+    images: [audiA5_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+AUDI A5 SPORTBACK: auto u odličnom stanju izvana i iznutra, kupljen u auto kući Kovačević gdje je i održavan od prvog dana, dugogodišnji vlasnik, upravo napravljen mali servis, posjeduje dva seta guma, registriran do 22.09.2026., dva ključa, kupac ne plaća troškove prijenosa, bez apsolutno ikakvih daljnih ulaganja
+
+Dodatna oprema:
+Tonirana stakla, LED putujući žmigavci, Mrtvi kut, Automatska trozonska klima, Kožna sjedala, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Front assist, Auto hold, Sustav za ograničenje brzine, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Grijanje sjedala, Centralno zaključavanje, Sustav za kontrolu tlaka u gumama, Servotronic, El. vrata prtljažnika, 18 cola felge, Komande na volanu, 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "peugeot-3008-gt-black": {
+    brand: "Peugeot",
+    model: "3008 1.5HDI GT Black paket",
+    year: 2022,
+    mileage: 99850,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "96 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "SUV",
+    price: 23490,
+    images: [peugeot3008_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+PEUGEOT 3008 GT: Prvi vlasnik, održavan u ovlaštenom servisu, posjeduje servisnu knjigu, zadnji servis napravljen 12/2025 na 95.500km, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+GT paket, Black paket, GT felge 19', Full LED tehnology, Adaptivna svjetla, LED stražnja svjetla, Animacija svjetla, Virtualni kokpit, Ambient light, Modovi vožnje, 360 kamera, Parking senzori, Tempomat, Lane Assist, Pomoć pri kretanju na uzbrdici, Pomoć pri parkiranju, Sustav za mrtvi kut, Čitanje prometnih znakova, Automatska regulacija razmaka (ACC), El. sklopivi retrovizori, Automatska klima, Navigacijski sustav, Keyless-funkcija, Zatamnjena stakla, Armatura od kože, Obloge vrata od alcantare, Hlađeni pretinac, Bluetooth handsfree sustav, 2 seta podnih prostirki (gumeni/velur), ISOFIX, 2 ključa`,
+  },
 };
 
 const defaultCar = carDetails["bmw-m440i-xdrive"];
