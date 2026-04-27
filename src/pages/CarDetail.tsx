@@ -597,6 +597,12 @@ const bmw320dImages = [bmw320d_1, bmw320d_2, bmw320d_3, bmw320d_4, bmw320d_5, bm
 const bmwX1MPaketImages = [x1_2016_1, x1_2016_2, x1_2016_3, x1_2016_4, x1_2016_5, x1_2016_6, x1_2016_7, x1_2016_8, x1_2016_9, x1_2016_10, x1_2016_11, x1_2016_12, x1_2016_13, x1_2016_14, x1_2016_15, x1_2016_16, x1_2016_17, x1_2016_18, x1_2016_19, x1_2016_20, x1_2016_21, x1_2016_22, x1_2016_23, x1_2016_24, x1_2016_25, x1_2016_26, x1_2016_27, x1_2016_28];
 const bmwM5Images = [m5_1, m5_2, m5_3, m5_4, m5_5, m5_6, m5_7, m5_8, m5_9, m5_10, m5_11, m5_12, m5_13, m5_14, m5_15, m5_16, m5_17, m5_18, m5_19, m5_20, m5_21, m5_22, m5_23, m5_24, m5_25, m5_26, m5_27, m5_28];
 
+// New cars - single images
+import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
+import octaviaCombiRs2021_1 from "@/assets/cars/skoda-octavia-combi-rs-2021/1.jpg";
+import audiA5_1 from "@/assets/cars/audi-a5-sportback/1.jpg";
+import peugeot3008_1 from "@/assets/cars/peugeot-3008-gt/1.jpg";
+
 const carDetails: Record<string, {
   brand: string;
   model: string;
@@ -823,6 +829,100 @@ Dodatna oprema:
 M sportski paket, M Kožni upravljač, M Aerodinamički paket, X-DRIVE, Zračni ovjes, Modovi vožnje, Panoramski stakleni krov, Mreža za prtljažnik, Podne prostirke od velura, Individual sjedišta s memorijom, Sjedala na struju, Grijanje sjedala, Paket toplinske udobnosti, sprijeda, Grijanje volana, 22 cola felge, 4 zone klima, Line asistent, Adaptivni Tempomat, Virtual cockpit, Vanjski retrovizor s automatskim prigušivanjem, Tonirana stakla, Akustična zaštita pješaka, Ambijentalno unutarnje svjetlo, DAB tuner, Harman/Kardon surround zvučni sustav, Povezani paket Professional, Active Guard Plus, Automatska kratka i duga svjetla, Sustav pomoći pri parkiranju Plus, Kamera, M Sportska kočnica (plave), Prikaz tlaka u gumama, El. kuka, El. vrata prtljažnika, El. podešavanje volana, 2 ključa
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "mercedes-glb-220d-4matic": {
+    brand: "Mercedes",
+    model: "GLB 220d 4Matic",
+    year: 2022,
+    mileage: 85800,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "140 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "4Matic",
+    status: "Rabljeno",
+    bodyType: "SUV",
+    price: 39990,
+    images: [glb220d_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+MERCEDES-BENZ GLB 220d:
+
+Prvi vlasnik, svi servisi rađeni po intervalu u ovlaštenom servisu, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+AMG paket, AMG felge 19', Night paket, LED high performance svjetla, Sportski zvuk motora, Ukrasni elementi karbonske strukture, Armatura od kože, Prošiveni crveni konac, Multifunkcijski sportski volan, Volan presvučen nappa kožom, F1 komande na volanu, AMG podne prostirke, El. Sklopivi retrovizori, Crna stropna obloga, Sportska sjedala alcantara/koža, Grijanje sjedala, Stražnja parking kamera, MBUX navigacija premium, Advanced plus paket, Ambient light, Adaptivni tempomat, Modovi vožnje, Zaštita pješaka, Aktivna pomoć u zadržavanju trake, Aktivna pomoć pri kočenju, Detekcija prometnih znakova, Krovni nosači u crnoj boji, Kontrola tlaka u gumama, 2 ključa`,
+  },
+  "skoda-octavia-combi-rs-2021": {
+    brand: "Škoda",
+    model: "Octavia Combi RS 2.0TDI DSG",
+    year: 2021,
+    mileage: 149900,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "147 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Karavan",
+    price: 26490,
+    images: [octaviaCombiRs2021_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+ŠKODA OCTAVIA RS: Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, napravljen servis ( izmjena ulja, filter ulja, filter zraka, filter kabine), novi diskovi i kočione pločice, kočiono ulje (05.03.2026.), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED svjetla, LED putujući žmigavci, Active sound, LED Matrix svjetla, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Autopilot, Head-up, Park asist, Front assist, Auto hold, Sustav za ograničenje brzine, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Armatura od alcantare, Crno nebo, Carbon, Sjedala RS, Grijanje sjedala (prednja/stražnja), Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, DAB, Ambijentalna rasvjeta, LED logo projektor u vratima, Sustav za kontrolu tlaka u gumama, Servotronic, El. vrata prtljažnika, El. kuka, Rezervni kotač, 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "audi-a5-sportback-20tdi": {
+    brand: "Audi",
+    model: "A5 Sportback 2.0TDI",
+    year: 2018,
+    mileage: 163000,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "140 kW",
+    engine: "Dizel",
+    registration: "22.09.2026.",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Coupe",
+    price: 23790,
+    images: [audiA5_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+AUDI A5 SPORTBACK: auto u odličnom stanju izvana i iznutra, kupljen u auto kući Kovačević gdje je i održavan od prvog dana, dugogodišnji vlasnik, upravo napravljen mali servis, posjeduje dva seta guma, registriran do 22.09.2026., dva ključa, kupac ne plaća troškove prijenosa, bez apsolutno ikakvih daljnih ulaganja
+
+Dodatna oprema:
+Tonirana stakla, LED putujući žmigavci, Mrtvi kut, Automatska trozonska klima, Kožna sjedala, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Front assist, Auto hold, Sustav za ograničenje brzine, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Grijanje sjedala, Centralno zaključavanje, Sustav za kontrolu tlaka u gumama, Servotronic, El. vrata prtljažnika, 18 cola felge, Komande na volanu, 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "peugeot-3008-gt-black": {
+    brand: "Peugeot",
+    model: "3008 1.5HDI GT Black paket",
+    year: 2022,
+    mileage: 99850,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "96 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "SUV",
+    price: 23490,
+    images: [peugeot3008_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+PEUGEOT 3008 GT: Prvi vlasnik, održavan u ovlaštenom servisu, posjeduje servisnu knjigu, zadnji servis napravljen 12/2025 na 95.500km, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+GT paket, Black paket, GT felge 19', Full LED tehnology, Adaptivna svjetla, LED stražnja svjetla, Animacija svjetla, Virtualni kokpit, Ambient light, Modovi vožnje, 360 kamera, Parking senzori, Tempomat, Lane Assist, Pomoć pri kretanju na uzbrdici, Pomoć pri parkiranju, Sustav za mrtvi kut, Čitanje prometnih znakova, Automatska regulacija razmaka (ACC), El. sklopivi retrovizori, Automatska klima, Navigacijski sustav, Keyless-funkcija, Zatamnjena stakla, Armatura od kože, Obloge vrata od alcantare, Hlađeni pretinac, Bluetooth handsfree sustav, 2 seta podnih prostirki (gumeni/velur), ISOFIX, 2 ključa`,
   },
 };
 
