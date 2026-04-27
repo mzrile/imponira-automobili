@@ -9,10 +9,10 @@ import SEO from "@/components/SEO";
 // Car first images
 import m5_1 from "@/assets/cars/bmw-m5-competition/1.jpg";
 import x5_1 from "@/assets/cars/bmw-x5-xdrive-45e/1.jpg";
-import m440i_21 from "@/assets/cars/bmw-m440i/21.jpg";
-import tiguan9 from "@/assets/cars/vw-tiguan/9.jpg";
-import c220d_1 from "@/assets/cars/mercedes-c220d-amg/1.jpg";
-import bmw320d_1 from "@/assets/cars/bmw-320d-m-paket/1.jpg";
+import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
+import octaviaCombiRs2021_1 from "@/assets/cars/skoda-octavia-combi-rs-2021/1.jpg";
+import audiA5_1 from "@/assets/cars/audi-a5-sportback/1.jpg";
+import peugeot3008_1 from "@/assets/cars/peugeot-3008-gt/1.jpg";
 
 // Brand logos
 import porscheLogo from "@/assets/brands/porsche-new.png";
@@ -24,14 +24,15 @@ import lamborghiniLogo from "@/assets/brands/lamborghini-new.png";
 import skodaLogo from "@/assets/brands/skoda-new.png";
 import audiLogo from "@/assets/brands/audi-new.png";
 import renaultLogo from "@/assets/brands/renault-new.png";
+import peugeotLogo from "@/assets/brands/peugeot-new.png";
 
 const featuredCars = [
   { id: 16, slug: "bmw-m5-competition", image: m5_1, brand: "BMW", model: "M5 Competition", year: 2021, mileage: 106900, fuelType: "Benzin", price: 84990, brandLogo: bmwLogo },
   { id: 1, slug: "bmw-x5-xdrive-45e-m-sport", image: x5_1, brand: "BMW", model: "X5 xDrive 45e M-Sport", year: 2020, mileage: 85000, fuelType: "Hibrid", price: 58990, brandLogo: bmwLogo },
-  { id: 2, slug: "bmw-m440i-xdrive", image: m440i_21, brand: "BMW", model: "M440i xDrive", year: 2020, mileage: 92000, fuelType: "Benzin", price: 51990, brandLogo: bmwLogo },
-  { id: 3, slug: "vw-tiguan-r-line", image: tiguan9, brand: "VW", model: "Tiguan 2.0 TDI DSG R-Line", year: 2024, mileage: 16900, fuelType: "Dizel", price: 45490, brandLogo: volkswagenLogo },
-  { id: 4, slug: "mercedes-c220d-amg", image: c220d_1, brand: "Mercedes", model: "C220d AMG", year: 2021, mileage: 59000, fuelType: "Dizel", price: 44990, brandLogo: mercedesLogo },
-  { id: 15, slug: "bmw-320d-m-paket", image: bmw320d_1, brand: "BMW", model: "320d M-Paket", year: 2023, mileage: 99990, fuelType: "Dizel", price: 38990, brandLogo: bmwLogo },
+  { id: 19, slug: "mercedes-glb-220d-4matic", image: glb220d_1, brand: "Mercedes", model: "GLB 220d 4Matic", year: 2022, mileage: 85800, fuelType: "Dizel", price: 39990, brandLogo: mercedesLogo },
+  { id: 20, slug: "skoda-octavia-combi-rs-2021", image: octaviaCombiRs2021_1, brand: "Škoda", model: "Octavia Combi RS 2.0TDI DSG", year: 2021, mileage: 149900, fuelType: "Dizel", price: 26490, brandLogo: skodaLogo },
+  { id: 21, slug: "audi-a5-sportback-20tdi", image: audiA5_1, brand: "Audi", model: "A5 Sportback 2.0TDI", year: 2018, mileage: 163000, fuelType: "Dizel", price: 23790, brandLogo: audiLogo },
+  { id: 22, slug: "peugeot-3008-gt-black", image: peugeot3008_1, brand: "Peugeot", model: "3008 1.5HDI GT Black paket", year: 2022, mileage: 99850, fuelType: "Dizel", price: 23490, brandLogo: peugeotLogo },
 ];
 
 const organizationJsonLd = {
