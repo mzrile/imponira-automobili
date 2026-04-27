@@ -690,55 +690,8 @@ R-line, IQ light, LED Plus glavna svjetla, 3D stražnja LED svjetla, Automatska 
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
-  "mercedes-c220d-amg": {
-    brand: "Mercedes", 
-    model: "C220d AMG", 
-    year: 2021, 
-    mileage: 59000, 
-    fuelType: "Diesel", 
-    transmission: "Automatski", 
-    power: "147 kW", 
-    engine: "Diesel", 
-    registration: "-", 
-    driveType: "Zadnji", 
-    status: "Rabljeno", 
-    bodyType: "Limuzina", 
-    price: 44990, 
-    images: [c220d_1, c220d_2, c220d_3, c220d_4, c220d_5, c220d_6, c220d_7, c220d_8, c220d_9, c220d_10, c220d_11, c220d_12, c220d_13, c220d_14, c220d_15, c220d_16, c220d_17, c220d_18, c220d_19, c220d_20, c220d_21, c220d_22, c220d_23, c220d_24, c220d_25, c220d_26, c220d_27, c220d_28, c220d_29], 
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+  "skoda-octavia-rs": undefined as never,
 
-MERCEDES-BENZ C KLASA: vozilo u odličnom stanju, održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, servis napravljen na 50.000 km, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-Dodatna oprema:
-AMG paket, AMG 18" alu, LED high performance svjetla, AMG sportska sjedala u izvedbi koža alcantara, Stražnja kamera, Adaptivni tempomat, Aktivna pomoć pri upravljanju, Modovi vožnje, Ambient light, Widescreen Navigacija, Keyless start, Sustav za praćenje mrtvog kuta, Sustav za prepoznavanje znakova, Prednji/Stražnji parking senzori, El. podešavanje sjedala, Automatska klima u 2 zone, Grijanje sjedala, Senzori za kišu i svjetla, Senzori za tlak u gumama, Start/Stop sistem, Zatamnjivanje retrovizora, Zatamnjena stakla, Dva ključa
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
-  "bmw-x1-sdrive18d": {
-    brand: "BMW", 
-    model: "X1 sDrive18d", 
-    year: 2022, 
-    mileage: 82900, 
-    fuelType: "Diesel", 
-    transmission: "Automatski", 
-    power: "110 kW", 
-    engine: "Diesel", 
-    registration: "-", 
-    driveType: "Prednji", 
-    status: "Rabljeno", 
-    bodyType: "SUV", 
-    price: 39990, 
-    images: bmwX1Images, 
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-BMW X1:BMW Premium selection garancija 24 mj do 16.12.2027., održavan u ovlaštenom servisu, zamjenjeni diskovi i kočione pločice, zamjena ulja i filtera (15.12.2025.) posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-Dodatna oprema:
-M-Paket, Black sapphire metalik boja, INDIVIDUAL maska crni sjaj, Shadow line, Adaptivna LED svjetla, Tonirana stakla, 18" M felge, Virtual cockpit, Navigacija, M volan, F1 mjenjač, Parking kamera, Park pilot, Reversing asistent, Driving assistent, Active guard, Connect drive, Upozorenje na sudar, Automatsko kočenje u nuždi, Prepoznavanje prometnih znakova, Keyless go, El. vozačevo sjedalo, Memorija sjedala, Alcantara M sjedala, Prošiveni plavi konac, Armatura od kože, Ambient light, Modovi vožnje, Personalizirane teme, Antracit obloga krova, El. vrata pretljažnika, Bežično punjenje mobitela, Tempomat, Mrtvi kut, El. kuka, Auto hold, DAB radio, USB C, 2 ključa
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
-  "skoda-octavia-rs": {
     brand: "Škoda", 
     model: "Octavia RS 2.0TDI DSG", 
     year: 2021, 
