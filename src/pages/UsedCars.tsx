@@ -88,6 +88,6 @@ const UsedCars = () => {
       <Footer />
     </div>
   );
-});
+};
 
 export default UsedCars;
