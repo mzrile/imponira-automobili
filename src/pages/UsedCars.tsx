@@ -18,12 +18,18 @@ import m5_1 from "@/assets/cars/bmw-m5-competition/1.jpg";
 // New cars images
 import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
 import x5_30d_1 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/1.jpg";
+import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
+import octaviaCombiRs2021_1 from "@/assets/cars/skoda-octavia-combi-rs-2021/1.jpg";
+import audiA5_1 from "@/assets/cars/audi-a5-sportback/1.jpg";
+import peugeot3008_1 from "@/assets/cars/peugeot-3008-gt/1.jpg";
 
 // Brand logos
 import bmwLogo from "@/assets/brands/bmw-new.png";
 import mercedesLogo from "@/assets/brands/mercedes-new.png";
 import volkswagenLogo from "@/assets/brands/volkswagen-new.png";
 import skodaLogo from "@/assets/brands/skoda-new.png";
+import audiLogo from "@/assets/brands/audi-new.png";
+import peugeotLogo from "@/assets/brands/peugeot-new.png";
 
 const allCars = [
   { id: 16, slug: "bmw-m5-competition", image: m5_1, brand: "BMW", model: "M5 Competition", year: 2021, mileage: 106900, fuelType: "Benzin", price: 84990, brandLogo: bmwLogo },
@@ -32,6 +38,10 @@ const allCars = [
   { id: 18, slug: "bmw-x5-30d-xdrive-m-sport", image: x5_30d_1, brand: "BMW", model: "X5 3.0d xDrive M-Sportpaket", year: 2019, mileage: 120000, fuelType: "Dizel", price: 58490, brandLogo: bmwLogo },
   { id: 2, slug: "bmw-m440i-xdrive", image: m440i_21, brand: "BMW", model: "M440i xDrive", year: 2020, mileage: 92000, fuelType: "Benzin", price: 51990, brandLogo: bmwLogo },
   { id: 3, slug: "vw-tiguan-r-line", image: tiguan9, brand: "VW", model: "Tiguan 2.0 TDI DSG R-Line", year: 2024, mileage: 16900, fuelType: "Dizel", price: 45490, brandLogo: volkswagenLogo },
+  { id: 19, slug: "mercedes-glb-220d-4matic", image: glb220d_1, brand: "Mercedes", model: "GLB 220d 4Matic", year: 2022, mileage: 85800, fuelType: "Dizel", price: 39990, brandLogo: mercedesLogo },
+  { id: 20, slug: "skoda-octavia-combi-rs-2021", image: octaviaCombiRs2021_1, brand: "Škoda", model: "Octavia Combi RS 2.0TDI DSG", year: 2021, mileage: 149900, fuelType: "Dizel", price: 26490, brandLogo: skodaLogo },
+  { id: 21, slug: "audi-a5-sportback-20tdi", image: audiA5_1, brand: "Audi", model: "A5 Sportback 2.0TDI", year: 2018, mileage: 163000, fuelType: "Dizel", price: 23790, brandLogo: audiLogo },
+  { id: 22, slug: "peugeot-3008-gt-black", image: peugeot3008_1, brand: "Peugeot", model: "3008 1.5HDI GT Black paket", year: 2022, mileage: 99850, fuelType: "Dizel", price: 23490, brandLogo: peugeotLogo },
   { id: 10, slug: "skoda-karoq-sportline", image: karoq_1, brand: "Škoda", model: "Karoq 2.0TDI 4x4 DSG Sportline", year: 2021, mileage: 202000, fuelType: "Dizel", price: 20990, brandLogo: skodaLogo },
   { id: 11, slug: "bmw-x1-sdrive18d-m-paket", image: x1_2016_1, brand: "BMW", model: "X1 sDrive18d M-Paket", year: 2016, mileage: 209000, fuelType: "Dizel", price: 16790, brandLogo: bmwLogo },
 ];

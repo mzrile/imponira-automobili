@@ -597,6 +597,12 @@ const bmw320dImages = [bmw320d_1, bmw320d_2, bmw320d_3, bmw320d_4, bmw320d_5, bm
 const bmwX1MPaketImages = [x1_2016_1, x1_2016_2, x1_2016_3, x1_2016_4, x1_2016_5, x1_2016_6, x1_2016_7, x1_2016_8, x1_2016_9, x1_2016_10, x1_2016_11, x1_2016_12, x1_2016_13, x1_2016_14, x1_2016_15, x1_2016_16, x1_2016_17, x1_2016_18, x1_2016_19, x1_2016_20, x1_2016_21, x1_2016_22, x1_2016_23, x1_2016_24, x1_2016_25, x1_2016_26, x1_2016_27, x1_2016_28];
 const bmwM5Images = [m5_1, m5_2, m5_3, m5_4, m5_5, m5_6, m5_7, m5_8, m5_9, m5_10, m5_11, m5_12, m5_13, m5_14, m5_15, m5_16, m5_17, m5_18, m5_19, m5_20, m5_21, m5_22, m5_23, m5_24, m5_25, m5_26, m5_27, m5_28];
 
+// New cars - single images
+import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
+import octaviaCombiRs2021_1 from "@/assets/cars/skoda-octavia-combi-rs-2021/1.jpg";
+import audiA5_1 from "@/assets/cars/audi-a5-sportback/1.jpg";
+import peugeot3008_1 from "@/assets/cars/peugeot-3008-gt/1.jpg";
+
 const carDetails: Record<string, {
   brand: string;
   model: string;
