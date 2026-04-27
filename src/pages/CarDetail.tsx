@@ -690,33 +690,6 @@ R-line, IQ light, LED Plus glavna svjetla, 3D stražnja LED svjetla, Automatska 
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
-  "skoda-octavia-rs": undefined as never,
-
-    brand: "Škoda", 
-    model: "Octavia RS 2.0TDI DSG", 
-    year: 2021, 
-    mileage: 88000, 
-    fuelType: "Diesel", 
-    transmission: "Automatski DSG", 
-    power: "147 kW", 
-    engine: "Diesel", 
-    registration: "-", 
-    driveType: "Prednji", 
-    status: "Rabljeno", 
-    bodyType: "Limuzina", 
-    price: 31990, 
-    images: [octaviaRs_1, octaviaRs_2, octaviaRs_3, octaviaRs_4, octaviaRs_5, octaviaRs_6, octaviaRs_7, octaviaRs_8, octaviaRs_9, octaviaRs_10, octaviaRs_11, octaviaRs_12, octaviaRs_13, octaviaRs_14, octaviaRs_15, octaviaRs_16, octaviaRs_17, octaviaRs_18, octaviaRs_19, octaviaRs_20, octaviaRs_21, octaviaRs_22, octaviaRs_23, octaviaRs_24, octaviaRs_25, octaviaRs_26, octaviaRs_27, octaviaRs_28, octaviaRs_29, octaviaRs_30], 
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-ŠKODA OCTAVIA RS: održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-CIJENA U ZAMJENI IZNOSI: 32.990€
-
-Dodatna oprema:
-Race blue metallic boja, Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Active sound, LED crystal svjetla, LED putujući žmigavci, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja parking kamera, Grijanje volana, Park pilot, Autopilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Upozorenje mrtvog kuta, Armatura od alcantare, Sjedala RS, Grijanje sjedala (prednja), Centralno zaključavanje bez ključa, Keyless go, Bežično punjenje mobitela, Ambijentalna rasvjeta, LED logo projektor u vratima, Servotronic, 2 ključa
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
   "skoda-octavia-combi-rs": {
     brand: "Škoda", 
     model: "Octavia Combi RS 2.0TDI DSG", 
