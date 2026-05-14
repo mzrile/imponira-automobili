@@ -737,7 +737,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 16790, 
+    price: 16290, 
     images: bmwX1MPaketImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
