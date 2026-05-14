@@ -819,7 +819,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "AWD",
     status: "Rabljeno",
     bodyType: "SUV",
-    price: 58490,
+    price: 57990,
     images: x530dImages,
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
