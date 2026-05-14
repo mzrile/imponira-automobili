@@ -927,6 +927,78 @@ PEUGEOT 3008 GT: Prvi vlasnik, održavan u ovlaštenom servisu, posjeduje servis
 Dodatna oprema:
 GT paket, Black paket, GT felge 19', Full LED tehnology, Adaptivna svjetla, LED stražnja svjetla, Animacija svjetla, Virtualni kokpit, Ambient light, Modovi vožnje, 360 kamera, Parking senzori, Tempomat, Lane Assist, Pomoć pri kretanju na uzbrdici, Pomoć pri parkiranju, Sustav za mrtvi kut, Čitanje prometnih znakova, Automatska regulacija razmaka (ACC), El. sklopivi retrovizori, Automatska klima, Navigacijski sustav, Keyless-funkcija, Zatamnjena stakla, Armatura od kože, Obloge vrata od alcantare, Hlađeni pretinac, Bluetooth handsfree sustav, 2 seta podnih prostirki (gumeni/velur), ISOFIX, 2 ključa`,
   },
+  "peugeot-5008-gt-line": {
+    brand: "Peugeot",
+    model: "5008 1.5HDI GT-Line 7 sjedala",
+    year: 2020,
+    mileage: 149000,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "96 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "SUV",
+    price: 16990,
+    images: [peugeot5008_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Auto u top stanju izvana i iznutra, uredno servisiran, posjeduje digitalnu servisnu knjižicu, automatski mjenjač, najbolji paket opreme GT-line, 7 sjedala, dva ključa, kupac ne plaća prijenos vlasništva, bez ikakvih daljnih ulaganja
+
+Dodatna oprema:
+GT paket, GT felge 18', Full LED tehnology, Adaptivna svjetla, LED stražnja svjetla, Animacija svjetla, Virtualni kokpit, Ambient light, Modovi vožnje, Kamera, Parking senzori, Tempomat, Lane Assist, Pomoć pri kretanju na uzbrdici, Pomoć pri parkiranju, Sustav za mrtvi kut, Čitanje prometnih znakova, Automatska regulacija razmaka (ACC), El. sklopivi retrovizori, Automatska klima, Navigacijski sustav, Keyless-funkcija, Zatamnjena stakla, Armatura od kože, Obloge vrata od alcantare, Hlađeni pretinac, Bluetooth handsfree sustav, Start stop sistem, 7 sjedala, Crno nebo, ISOFIX, 2 ključa`,
+  },
+  "skoda-octavia-combi-first-edition-2020": {
+    brand: "Škoda",
+    model: "Octavia Combi 2.0TDI DSG First Edition",
+    year: 2020,
+    mileage: 109000,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "110 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Karavan",
+    price: 21290,
+    images: [octaviaCombiFirst2020_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+ŠKODA OCTAVIA 2,0 TDI DSG: Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, veliki servis napravljen na 107.400km, moguća provjera bilo gdje po želji kupca ...
+
+DOSTUPNO VIŠE SLIČNIH VOZILA NA LAGERU.
+
+Dodatna oprema:
+Metalik boja, Felge 18', Tonirana stakla, LED svjetla, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja parking kamera, Park pilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Automatska klima, Grijanje sjedala (prednja), Centralno zaključavanje bez ključa, Keyless go, Bežično punjenje mobitela, Ambijentalna rasvjeta, LED logo projektor u vratima, Start/Stop, Utičnica 230v, 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "vw-golf-75-rline": {
+    brand: "Volkswagen",
+    model: "Golf 7.5 1.6TDI R-Line",
+    year: 2018,
+    mileage: 104300,
+    fuelType: "Dizel",
+    transmission: "Manualni",
+    power: "85 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Hatchback",
+    price: 15290,
+    images: [vwGolf75_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Prvi vlasnik, svi servisi rađeni po intervalu svakih 10-15tkm, posjeduje servisnu knjigu, zadnji servis napravljen na 104.310km, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Vozilo glasi na tvrtku, ne plaća se naknada za prijenos vlasništva.
+
+Dodatna oprema:
+R-line paket opreme izvana, Comfortline paket opreme iznutra, R-line felge 17', LED MATRIX prednja svjetla, LED zadnja svjetla, Grijanje retrovizora, Prednji i stražnji parking senzori, Automatska klima dvije zone, Auto Hold, Elektronska parking kočnica, Kožni volan sa komandama, Tempomat, ACC (automatska regulacija razmaka), Front assist, Pokazivač kontrole guma, Isofix, Bluetooth / Aux / USB / SD, Apple Car Play / Android, 2 ključa`,
+  },
 };
 
 const defaultCar = carDetails["bmw-m440i-xdrive"];
