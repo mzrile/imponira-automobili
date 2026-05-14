@@ -22,6 +22,9 @@ import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
 import octaviaCombiRs2021_1 from "@/assets/cars/skoda-octavia-combi-rs-2021/1.jpg";
 import audiA5_1 from "@/assets/cars/audi-a5-sportback/1.jpg";
 import peugeot3008_1 from "@/assets/cars/peugeot-3008-gt/1.jpg";
+import peugeot5008_1 from "@/assets/cars/peugeot-5008-gt-line/1.jpg";
+import octaviaCombiFirst2020_1 from "@/assets/cars/skoda-octavia-combi-first-edition-2020/1.jpg";
+import vwGolf75_1 from "@/assets/cars/vw-golf-75-rline/1.jpg";
 
 // Brand logos
 import bmwLogo from "@/assets/brands/bmw-new.png";
@@ -40,10 +43,13 @@ const allCars = [
   { id: 3, slug: "vw-tiguan-r-line", image: tiguan9, brand: "VW", model: "Tiguan 2.0 TDI DSG R-Line", year: 2024, mileage: 16900, fuelType: "Dizel", price: 43990, brandLogo: volkswagenLogo },
   { id: 19, slug: "mercedes-glb-220d-4matic", image: glb220d_1, brand: "Mercedes", model: "GLB 220d 4Matic", year: 2022, mileage: 85800, fuelType: "Dizel", price: 39990, brandLogo: mercedesLogo },
   { id: 20, slug: "skoda-octavia-combi-rs-2021", image: octaviaCombiRs2021_1, brand: "Škoda", model: "Octavia Combi RS 2.0TDI DSG", year: 2021, mileage: 149900, fuelType: "Dizel", price: 26290, brandLogo: skodaLogo },
+  { id: 23, slug: "skoda-octavia-combi-first-edition-2020", image: octaviaCombiFirst2020_1, brand: "Škoda", model: "Octavia Combi 2.0TDI DSG First Edition", year: 2020, mileage: 109000, fuelType: "Dizel", price: 21290, brandLogo: skodaLogo },
   { id: 21, slug: "audi-a5-sportback-20tdi", image: audiA5_1, brand: "Audi", model: "A5 Sportback 2.0TDI", year: 2018, mileage: 163000, fuelType: "Dizel", price: 23490, brandLogo: audiLogo },
   { id: 22, slug: "peugeot-3008-gt-black", image: peugeot3008_1, brand: "Peugeot", model: "3008 1.5HDI GT Black paket", year: 2022, mileage: 99850, fuelType: "Dizel", price: 23490, brandLogo: peugeotLogo },
   { id: 10, slug: "skoda-karoq-sportline", image: karoq_1, brand: "Škoda", model: "Karoq 2.0TDI 4x4 DSG Sportline", year: 2021, mileage: 202000, fuelType: "Dizel", price: 19990, brandLogo: skodaLogo },
+  { id: 24, slug: "peugeot-5008-gt-line", image: peugeot5008_1, brand: "Peugeot", model: "5008 1.5HDI GT-Line 7 sjedala", year: 2020, mileage: 149000, fuelType: "Dizel", price: 16990, brandLogo: peugeotLogo },
   { id: 11, slug: "bmw-x1-sdrive18d-m-paket", image: x1_2016_1, brand: "BMW", model: "X1 sDrive18d M-Paket", year: 2016, mileage: 209000, fuelType: "Dizel", price: 16290, brandLogo: bmwLogo },
+  { id: 25, slug: "vw-golf-75-rline", image: vwGolf75_1, brand: "Volkswagen", model: "Golf 7.5 1.6TDI R-Line", year: 2018, mileage: 104300, fuelType: "Dizel", price: 15290, brandLogo: volkswagenLogo },
 ];
 
 const carsListJsonLd = {
