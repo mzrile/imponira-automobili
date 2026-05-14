@@ -709,7 +709,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 20990, 
+    price: 19990, 
     images: [karoq_1, karoq_2, karoq_3, karoq_4, karoq_5, karoq_6, karoq_7, karoq_8, karoq_9, karoq_10, karoq_11, karoq_12, karoq_13, karoq_14, karoq_15, karoq_16, karoq_17, karoq_18, karoq_19, karoq_20, karoq_21, karoq_22, karoq_23, karoq_24, karoq_25, karoq_26, karoq_27, karoq_28, karoq_29], 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
