@@ -685,7 +685,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 45490, 
+    price: 43990, 
     images: [tiguan1, tiguan2, tiguan3, tiguan4, tiguan5, tiguan6, tiguan7, tiguan8, tiguan9, tiguan10, tiguan11, tiguan12, tiguan13, tiguan14, tiguan15, tiguan16, tiguan17, tiguan18, tiguan19, tiguan20, tiguan21, tiguan22, tiguan23, tiguan24, tiguan25, tiguan26, tiguan27, tiguan28, tiguan29, tiguan30],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -709,7 +709,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 20990, 
+    price: 19990, 
     images: [karoq_1, karoq_2, karoq_3, karoq_4, karoq_5, karoq_6, karoq_7, karoq_8, karoq_9, karoq_10, karoq_11, karoq_12, karoq_13, karoq_14, karoq_15, karoq_16, karoq_17, karoq_18, karoq_19, karoq_20, karoq_21, karoq_22, karoq_23, karoq_24, karoq_25, karoq_26, karoq_27, karoq_28, karoq_29], 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -737,7 +737,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 16790, 
+    price: 16290, 
     images: bmwX1MPaketImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -761,7 +761,7 @@ M-Paket, M-volan, Multifunkcionalni volan, M sjedala alcantara, Alu felge 18", L
     driveType: "xDrive", 
     status: "Rabljeno", 
     bodyType: "Limuzina", 
-    price: 84990, 
+    price: 83990, 
     images: bmwM5Images, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -819,7 +819,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "AWD",
     status: "Rabljeno",
     bodyType: "SUV",
-    price: 58490,
+    price: 57990,
     images: x530dImages,
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -867,7 +867,7 @@ AMG paket, AMG felge 19', Night paket, LED high performance svjetla, Sportski zv
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Karavan",
-    price: 26490,
+    price: 26290,
     images: [octaviaCombiRs2021_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -891,7 +891,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Coupe",
-    price: 23790,
+    price: 23490,
     images: [audiA5_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
