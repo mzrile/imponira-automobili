@@ -867,7 +867,7 @@ AMG paket, AMG felge 19', Night paket, LED high performance svjetla, Sportski zv
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Karavan",
-    price: 26490,
+    price: 26290,
     images: [octaviaCombiRs2021_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
