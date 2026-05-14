@@ -891,7 +891,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Coupe",
-    price: 23790,
+    price: 23490,
     images: [audiA5_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
