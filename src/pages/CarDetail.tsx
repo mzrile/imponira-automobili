@@ -761,7 +761,7 @@ M-Paket, M-volan, Multifunkcionalni volan, M sjedala alcantara, Alu felge 18", L
     driveType: "xDrive", 
     status: "Rabljeno", 
     bodyType: "Limuzina", 
-    price: 84990, 
+    price: 83990, 
     images: bmwM5Images, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
