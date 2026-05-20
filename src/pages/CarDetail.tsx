@@ -822,7 +822,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "AWD",
     status: "Rabljeno",
     bodyType: "SUV",
-    price: 57990,
+    price: 57490,
     images: x530dImages,
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -894,7 +894,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Coupe",
-    price: 23490,
+    price: 19990,
     images: [audiA5_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -951,7 +951,7 @@ GT paket, GT felge 18', Full LED tehnology, Adaptivna svjetla, LED stražnja svj
   },
   "skoda-octavia-combi-first-edition-2020": {
     brand: "Škoda",
-    model: "Octavia Combi 2.0TDI DSG First Edition",
+    model: "Octavia 2.0TDI First Edition",
     year: 2020,
     mileage: 109000,
     fuelType: "Dizel",
