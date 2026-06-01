@@ -740,7 +740,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 16290, 
+    price: 15990, 
     images: bmwX1MPaketImages, 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -870,7 +870,7 @@ AMG paket, AMG felge 19', Night paket, LED high performance svjetla, Sportski zv
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Karavan",
-    price: 26290,
+    price: 25990,
     images: [octaviaCombiRs2021_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
