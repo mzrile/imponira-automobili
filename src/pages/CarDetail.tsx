@@ -464,37 +464,6 @@ import e300e_23 from "@/assets/cars/mercedes-e300e-amg/23.jpg";
 import e300e_24 from "@/assets/cars/mercedes-e300e-amg/24.jpg";
 import e300e_25 from "@/assets/cars/mercedes-e300e-amg/25.jpg";
 
-// BMW X5 30d xDrive M-Sport images (30)
-import x5_30d_1 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/1.jpg";
-import x5_30d_2 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/2.jpg";
-import x5_30d_3 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/3.jpg";
-import x5_30d_4 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/4.jpg";
-import x5_30d_5 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/5.jpg";
-import x5_30d_6 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/6.jpg";
-import x5_30d_7 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/7.jpg";
-import x5_30d_8 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/8.jpg";
-import x5_30d_9 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/9.jpg";
-import x5_30d_10 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/10.jpg";
-import x5_30d_11 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/11.jpg";
-import x5_30d_12 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/12.jpg";
-import x5_30d_13 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/13.jpg";
-import x5_30d_14 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/14.jpg";
-import x5_30d_15 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/15.jpg";
-import x5_30d_16 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/16.jpg";
-import x5_30d_17 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/17.jpg";
-import x5_30d_18 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/18.jpg";
-import x5_30d_19 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/19.jpg";
-import x5_30d_20 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/20.jpg";
-import x5_30d_21 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/21.jpg";
-import x5_30d_22 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/22.jpg";
-import x5_30d_23 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/23.jpg";
-import x5_30d_24 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/24.jpg";
-import x5_30d_25 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/25.jpg";
-import x5_30d_26 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/26.jpg";
-import x5_30d_27 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/27.jpg";
-import x5_30d_28 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/28.jpg";
-import x5_30d_29 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/29.jpg";
-import x5_30d_30 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/30.jpg";
 
 // VW Golf 8 GTD images (29)
 import golf8gtd_1 from "@/assets/cars/vw-golf-8-gtd/1.jpg";
