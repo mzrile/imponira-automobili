@@ -21,6 +21,7 @@ import volkswagenLogo from "@/assets/brands/volkswagen-new.png";
 import ferrariLogo from "@/assets/brands/ferrari-new.png";
 import lamborghiniLogo from "@/assets/brands/lamborghini-new.png";
 import skodaLogo from "@/assets/brands/skoda-new.png";
+import audiLogo from "@/assets/brands/audi-new.png";
 import peugeotLogo from "@/assets/brands/peugeot-new.png";
 
 const featuredCars = [
