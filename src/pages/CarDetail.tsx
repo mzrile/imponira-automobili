@@ -822,7 +822,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "4Matic",
     status: "Rabljeno",
     bodyType: "SUV",
-    price: 39990,
+    price: 37900,
     images: [glb220d_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -892,7 +892,7 @@ GT paket, Black paket, GT felge 19', Full LED tehnology, Adaptivna svjetla, LED 
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Karavan",
-    price: 21290,
+    price: 20790,
     images: [octaviaCombiFirst2020_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
