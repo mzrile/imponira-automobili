@@ -975,30 +975,6 @@ Metalik boja, Felge 18', Tonirana stakla, LED svjetla, Velika navigacija, Virtua
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
-  "vw-golf-75-rline": {
-    brand: "Volkswagen",
-    model: "Golf 7.5 1.6TDI R-Line",
-    year: 2018,
-    mileage: 104300,
-    fuelType: "Dizel",
-    transmission: "Manualni",
-    power: "85 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "Hatchback",
-    price: 15290,
-    images: [vwGolf75_1],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-Prvi vlasnik, svi servisi rađeni po intervalu svakih 10-15tkm, posjeduje servisnu knjigu, zadnji servis napravljen na 104.310km, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-Vozilo glasi na tvrtku, ne plaća se naknada za prijenos vlasništva.
-
-Dodatna oprema:
-R-line paket opreme izvana, Comfortline paket opreme iznutra, R-line felge 17', LED MATRIX prednja svjetla, LED zadnja svjetla, Grijanje retrovizora, Prednji i stražnji parking senzori, Automatska klima dvije zone, Auto Hold, Elektronska parking kočnica, Kožni volan sa komandama, Tempomat, ACC (automatska regulacija razmaka), Front assist, Pokazivač kontrole guma, Isofix, Bluetooth / Aux / USB / SD, Apple Car Play / Android, 2 ključa`,
-  },
 };
 
 const defaultCar = carDetails["bmw-m440i-xdrive"];
