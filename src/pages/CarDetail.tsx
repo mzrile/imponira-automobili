@@ -809,30 +809,6 @@ AMG paket, Zračni ovjes, Digital light, Adaptivna prednja svjetla, Svjetleća m
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
-  "bmw-x5-30d-xdrive-m-sport": {
-    brand: "BMW",
-    model: "X5 3.0d xDrive M-Sportpaket",
-    year: 2019,
-    mileage: 120000,
-    fuelType: "Dizel",
-    transmission: "Automatski",
-    power: "195 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "AWD",
-    status: "Rabljeno",
-    bodyType: "SUV",
-    price: 57490,
-    images: x530dImages,
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-BMW X5 3.0d Xdrive: Vozilo u odličnom stanju izvana i iznutra, održavan isključivo u ovlaštenom servisu, posjeduje el. servisnu knjigu, prvi vlasnik, garažiran od prvog dana, posjeduje dva seta gumi s aluminijskim felgama (22 cola Continental ljetne gume i 20 cola Michelin zimske gume u odličnom stanju), maksimalno utegnut, dva ključa, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-Dodatna oprema:
-M sportski paket, M Kožni upravljač, M Aerodinamički paket, X-DRIVE, Zračni ovjes, Modovi vožnje, Panoramski stakleni krov, Mreža za prtljažnik, Podne prostirke od velura, Individual sjedišta s memorijom, Sjedala na struju, Grijanje sjedala, Paket toplinske udobnosti, sprijeda, Grijanje volana, 22 cola felge, 4 zone klima, Line asistent, Adaptivni Tempomat, Virtual cockpit, Vanjski retrovizor s automatskim prigušivanjem, Tonirana stakla, Akustična zaštita pješaka, Ambijentalno unutarnje svjetlo, DAB tuner, Harman/Kardon surround zvučni sustav, Povezani paket Professional, Active Guard Plus, Automatska kratka i duga svjetla, Sustav pomoći pri parkiranju Plus, Kamera, M Sportska kočnica (plave), Prikaz tlaka u gumama, El. kuka, El. vrata prtljažnika, El. podešavanje volana, 2 ključa
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
   "mercedes-glb-220d-4matic": {
     brand: "Mercedes",
     model: "GLB 220d 4Matic",
@@ -878,30 +854,6 @@ AMG paket, AMG felge 19', Night paket, LED high performance svjetla, Sportski zv
 
 Dodatna oprema:
 Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED svjetla, LED putujući žmigavci, Active sound, LED Matrix svjetla, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Autopilot, Head-up, Park asist, Front assist, Auto hold, Sustav za ograničenje brzine, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Armatura od alcantare, Crno nebo, Carbon, Sjedala RS, Grijanje sjedala (prednja/stražnja), Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, DAB, Ambijentalna rasvjeta, LED logo projektor u vratima, Sustav za kontrolu tlaka u gumama, Servotronic, El. vrata prtljažnika, El. kuka, Rezervni kotač, 2 ključa
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
-  "audi-a5-sportback-20tdi": {
-    brand: "Audi",
-    model: "A5 Sportback 2.0TDI",
-    year: 2018,
-    mileage: 163000,
-    fuelType: "Dizel",
-    transmission: "Automatski",
-    power: "140 kW",
-    engine: "Dizel",
-    registration: "22.09.2026.",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "Coupe",
-    price: 19990,
-    images: [audiA5_1],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-AUDI A5 SPORTBACK: auto u odličnom stanju izvana i iznutra, kupljen u auto kući Kovačević gdje je i održavan od prvog dana, dugogodišnji vlasnik, upravo napravljen mali servis, posjeduje dva seta guma, registriran do 22.09.2026., dva ključa, kupac ne plaća troškove prijenosa, bez apsolutno ikakvih daljnih ulaganja
-
-Dodatna oprema:
-Tonirana stakla, LED putujući žmigavci, Mrtvi kut, Automatska trozonska klima, Kožna sjedala, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Front assist, Auto hold, Sustav za ograničenje brzine, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Grijanje sjedala, Centralno zaključavanje, Sustav za kontrolu tlaka u gumama, Servotronic, El. vrata prtljažnika, 18 cola felge, Komande na volanu, 2 ključa
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
