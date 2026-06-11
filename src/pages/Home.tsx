@@ -11,7 +11,6 @@ import m5_1 from "@/assets/cars/bmw-m5-competition/1.jpg";
 import x5_1 from "@/assets/cars/bmw-x5-xdrive-45e/1.jpg";
 import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
 import octaviaCombiRs2021_1 from "@/assets/cars/skoda-octavia-combi-rs-2021/1.jpg";
-import audiA5_1 from "@/assets/cars/audi-a5-sportback/1.jpg";
 import peugeot3008_1 from "@/assets/cars/peugeot-3008-gt/1.jpg";
 
 // Brand logos
@@ -23,16 +22,14 @@ import ferrariLogo from "@/assets/brands/ferrari-new.png";
 import lamborghiniLogo from "@/assets/brands/lamborghini-new.png";
 import skodaLogo from "@/assets/brands/skoda-new.png";
 import audiLogo from "@/assets/brands/audi-new.png";
-import renaultLogo from "@/assets/brands/renault-new.png";
 import peugeotLogo from "@/assets/brands/peugeot-new.png";
 
 const featuredCars = [
   { id: 16, slug: "bmw-m5-competition", image: m5_1, brand: "BMW", model: "M5 Competition", year: 2021, mileage: 106900, fuelType: "Benzin", price: 83990, brandLogo: bmwLogo },
   { id: 1, slug: "bmw-x5-xdrive-45e-m-sport", image: x5_1, brand: "BMW", model: "X5 xDrive 45e M-Sport", year: 2020, mileage: 85000, fuelType: "Hibrid", price: 58990, brandLogo: bmwLogo },
-  { id: 19, slug: "mercedes-glb-220d-4matic", image: glb220d_1, brand: "Mercedes", model: "GLB 220d 4Matic", year: 2022, mileage: 85800, fuelType: "Dizel", price: 39990, brandLogo: mercedesLogo },
+  { id: 19, slug: "mercedes-glb-220d-4matic", image: glb220d_1, brand: "Mercedes", model: "GLB 220d 4Matic", year: 2022, mileage: 85800, fuelType: "Dizel", price: 37900, brandLogo: mercedesLogo },
   { id: 20, slug: "skoda-octavia-combi-rs-2021", image: octaviaCombiRs2021_1, brand: "Škoda", model: "Octavia Combi RS 2.0TDI DSG", year: 2021, mileage: 149900, fuelType: "Dizel", price: 25990, brandLogo: skodaLogo },
   { id: 22, slug: "peugeot-3008-gt-black", image: peugeot3008_1, brand: "Peugeot", model: "3008 1.5HDI GT Black paket", year: 2022, mileage: 99850, fuelType: "Dizel", price: 23490, brandLogo: peugeotLogo },
-  { id: 21, slug: "audi-a5-sportback-20tdi", image: audiA5_1, brand: "Audi", model: "A5 Sportback 2.0TDI", year: 2018, mileage: 163000, fuelType: "Dizel", price: 19990, brandLogo: audiLogo },
 ];
 
 const organizationJsonLd = {

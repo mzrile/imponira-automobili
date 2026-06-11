@@ -464,37 +464,6 @@ import e300e_23 from "@/assets/cars/mercedes-e300e-amg/23.jpg";
 import e300e_24 from "@/assets/cars/mercedes-e300e-amg/24.jpg";
 import e300e_25 from "@/assets/cars/mercedes-e300e-amg/25.jpg";
 
-// BMW X5 30d xDrive M-Sport images (30)
-import x5_30d_1 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/1.jpg";
-import x5_30d_2 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/2.jpg";
-import x5_30d_3 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/3.jpg";
-import x5_30d_4 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/4.jpg";
-import x5_30d_5 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/5.jpg";
-import x5_30d_6 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/6.jpg";
-import x5_30d_7 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/7.jpg";
-import x5_30d_8 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/8.jpg";
-import x5_30d_9 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/9.jpg";
-import x5_30d_10 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/10.jpg";
-import x5_30d_11 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/11.jpg";
-import x5_30d_12 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/12.jpg";
-import x5_30d_13 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/13.jpg";
-import x5_30d_14 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/14.jpg";
-import x5_30d_15 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/15.jpg";
-import x5_30d_16 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/16.jpg";
-import x5_30d_17 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/17.jpg";
-import x5_30d_18 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/18.jpg";
-import x5_30d_19 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/19.jpg";
-import x5_30d_20 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/20.jpg";
-import x5_30d_21 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/21.jpg";
-import x5_30d_22 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/22.jpg";
-import x5_30d_23 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/23.jpg";
-import x5_30d_24 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/24.jpg";
-import x5_30d_25 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/25.jpg";
-import x5_30d_26 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/26.jpg";
-import x5_30d_27 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/27.jpg";
-import x5_30d_28 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/28.jpg";
-import x5_30d_29 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/29.jpg";
-import x5_30d_30 from "@/assets/cars/bmw-x5-30d-xdrive-m-sport/30.jpg";
 
 // VW Golf 8 GTD images (29)
 import golf8gtd_1 from "@/assets/cars/vw-golf-8-gtd/1.jpg";
@@ -587,7 +556,7 @@ import tiguanJoin_26 from "@/assets/cars/vw-tiguan-join/26.jpg";
 import tiguanJoin_27 from "@/assets/cars/vw-tiguan-join/27.jpg";
 
 const e300eImages = [e300e_1, e300e_2, e300e_3, e300e_4, e300e_5, e300e_6, e300e_7, e300e_8, e300e_9, e300e_10, e300e_11, e300e_12, e300e_13, e300e_14, e300e_15, e300e_16, e300e_17, e300e_18, e300e_19, e300e_20, e300e_21, e300e_22, e300e_23, e300e_24, e300e_25];
-const x530dImages = [x5_30d_1, x5_30d_2, x5_30d_3, x5_30d_4, x5_30d_5, x5_30d_6, x5_30d_7, x5_30d_8, x5_30d_9, x5_30d_10, x5_30d_11, x5_30d_12, x5_30d_13, x5_30d_14, x5_30d_15, x5_30d_16, x5_30d_17, x5_30d_18, x5_30d_19, x5_30d_20, x5_30d_21, x5_30d_22, x5_30d_23, x5_30d_24, x5_30d_25, x5_30d_26, x5_30d_27, x5_30d_28, x5_30d_29, x5_30d_30];
+
 const golf8gtdImages = [golf8gtd_1, golf8gtd_2, golf8gtd_3, golf8gtd_4, golf8gtd_5, golf8gtd_6, golf8gtd_7, golf8gtd_8, golf8gtd_9, golf8gtd_10, golf8gtd_11, golf8gtd_12, golf8gtd_13, golf8gtd_14, golf8gtd_15, golf8gtd_16, golf8gtd_17, golf8gtd_18, golf8gtd_19, golf8gtd_20, golf8gtd_21, golf8gtd_22, golf8gtd_23, golf8gtd_24, golf8gtd_25, golf8gtd_26, golf8gtd_27, golf8gtd_28, golf8gtd_29];
 const octaviaRs2Images = [octaviaRs2_1, octaviaRs2_2, octaviaRs2_3, octaviaRs2_4, octaviaRs2_5, octaviaRs2_6, octaviaRs2_7, octaviaRs2_8, octaviaRs2_9, octaviaRs2_10, octaviaRs2_11, octaviaRs2_12, octaviaRs2_13, octaviaRs2_14, octaviaRs2_15, octaviaRs2_16, octaviaRs2_17, octaviaRs2_18, octaviaRs2_19, octaviaRs2_20, octaviaRs2_21, octaviaRs2_22, octaviaRs2_23, octaviaRs2_24, octaviaRs2_25, octaviaRs2_26, octaviaRs2_27, octaviaRs2_28];
 const tiguanJoinImages = [tiguanJoin_1, tiguanJoin_2, tiguanJoin_3, tiguanJoin_4, tiguanJoin_5, tiguanJoin_6, tiguanJoin_7, tiguanJoin_8, tiguanJoin_9, tiguanJoin_10, tiguanJoin_11, tiguanJoin_12, tiguanJoin_13, tiguanJoin_14, tiguanJoin_15, tiguanJoin_16, tiguanJoin_17, tiguanJoin_18, tiguanJoin_19, tiguanJoin_20, tiguanJoin_21, tiguanJoin_22, tiguanJoin_23, tiguanJoin_24, tiguanJoin_25, tiguanJoin_26, tiguanJoin_27];
@@ -600,11 +569,11 @@ const bmwM5Images = [m5_1, m5_2, m5_3, m5_4, m5_5, m5_6, m5_7, m5_8, m5_9, m5_10
 // New cars - single images
 import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
 import octaviaCombiRs2021_1 from "@/assets/cars/skoda-octavia-combi-rs-2021/1.jpg";
-import audiA5_1 from "@/assets/cars/audi-a5-sportback/1.jpg";
+
 import peugeot3008_1 from "@/assets/cars/peugeot-3008-gt/1.jpg";
-import peugeot5008_1 from "@/assets/cars/peugeot-5008-gt-line/1.jpg";
+
 import octaviaCombiFirst2020_1 from "@/assets/cars/skoda-octavia-combi-first-edition-2020/1.jpg";
-import vwGolf75_1 from "@/assets/cars/vw-golf-75-rline/1.jpg";
+
 
 const carDetails: Record<string, {
   brand: string;
@@ -809,30 +778,6 @@ AMG paket, Zračni ovjes, Digital light, Adaptivna prednja svjetla, Svjetleća m
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
-  "bmw-x5-30d-xdrive-m-sport": {
-    brand: "BMW",
-    model: "X5 3.0d xDrive M-Sportpaket",
-    year: 2019,
-    mileage: 120000,
-    fuelType: "Dizel",
-    transmission: "Automatski",
-    power: "195 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "AWD",
-    status: "Rabljeno",
-    bodyType: "SUV",
-    price: 57490,
-    images: x530dImages,
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-BMW X5 3.0d Xdrive: Vozilo u odličnom stanju izvana i iznutra, održavan isključivo u ovlaštenom servisu, posjeduje el. servisnu knjigu, prvi vlasnik, garažiran od prvog dana, posjeduje dva seta gumi s aluminijskim felgama (22 cola Continental ljetne gume i 20 cola Michelin zimske gume u odličnom stanju), maksimalno utegnut, dva ključa, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-Dodatna oprema:
-M sportski paket, M Kožni upravljač, M Aerodinamički paket, X-DRIVE, Zračni ovjes, Modovi vožnje, Panoramski stakleni krov, Mreža za prtljažnik, Podne prostirke od velura, Individual sjedišta s memorijom, Sjedala na struju, Grijanje sjedala, Paket toplinske udobnosti, sprijeda, Grijanje volana, 22 cola felge, 4 zone klima, Line asistent, Adaptivni Tempomat, Virtual cockpit, Vanjski retrovizor s automatskim prigušivanjem, Tonirana stakla, Akustična zaštita pješaka, Ambijentalno unutarnje svjetlo, DAB tuner, Harman/Kardon surround zvučni sustav, Povezani paket Professional, Active Guard Plus, Automatska kratka i duga svjetla, Sustav pomoći pri parkiranju Plus, Kamera, M Sportska kočnica (plave), Prikaz tlaka u gumama, El. kuka, El. vrata prtljažnika, El. podešavanje volana, 2 ključa
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
   "mercedes-glb-220d-4matic": {
     brand: "Mercedes",
     model: "GLB 220d 4Matic",
@@ -846,7 +791,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "4Matic",
     status: "Rabljeno",
     bodyType: "SUV",
-    price: 39990,
+    price: 37900,
     images: [glb220d_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -881,30 +826,6 @@ Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED s
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
-  "audi-a5-sportback-20tdi": {
-    brand: "Audi",
-    model: "A5 Sportback 2.0TDI",
-    year: 2018,
-    mileage: 163000,
-    fuelType: "Dizel",
-    transmission: "Automatski",
-    power: "140 kW",
-    engine: "Dizel",
-    registration: "22.09.2026.",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "Coupe",
-    price: 19990,
-    images: [audiA5_1],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-AUDI A5 SPORTBACK: auto u odličnom stanju izvana i iznutra, kupljen u auto kući Kovačević gdje je i održavan od prvog dana, dugogodišnji vlasnik, upravo napravljen mali servis, posjeduje dva seta guma, registriran do 22.09.2026., dva ključa, kupac ne plaća troškove prijenosa, bez apsolutno ikakvih daljnih ulaganja
-
-Dodatna oprema:
-Tonirana stakla, LED putujući žmigavci, Mrtvi kut, Automatska trozonska klima, Kožna sjedala, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Front assist, Auto hold, Sustav za ograničenje brzine, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Grijanje sjedala, Centralno zaključavanje, Sustav za kontrolu tlaka u gumama, Servotronic, El. vrata prtljažnika, 18 cola felge, Komande na volanu, 2 ključa
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
   "peugeot-3008-gt-black": {
     brand: "Peugeot",
     model: "3008 1.5HDI GT Black paket",
@@ -927,28 +848,6 @@ PEUGEOT 3008 GT: Prvi vlasnik, održavan u ovlaštenom servisu, posjeduje servis
 Dodatna oprema:
 GT paket, Black paket, GT felge 19', Full LED tehnology, Adaptivna svjetla, LED stražnja svjetla, Animacija svjetla, Virtualni kokpit, Ambient light, Modovi vožnje, 360 kamera, Parking senzori, Tempomat, Lane Assist, Pomoć pri kretanju na uzbrdici, Pomoć pri parkiranju, Sustav za mrtvi kut, Čitanje prometnih znakova, Automatska regulacija razmaka (ACC), El. sklopivi retrovizori, Automatska klima, Navigacijski sustav, Keyless-funkcija, Zatamnjena stakla, Armatura od kože, Obloge vrata od alcantare, Hlađeni pretinac, Bluetooth handsfree sustav, 2 seta podnih prostirki (gumeni/velur), ISOFIX, 2 ključa`,
   },
-  "peugeot-5008-gt-line": {
-    brand: "Peugeot",
-    model: "5008 1.5HDI GT-Line 7 sjedala",
-    year: 2020,
-    mileage: 149000,
-    fuelType: "Dizel",
-    transmission: "Automatski",
-    power: "96 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "SUV",
-    price: 16990,
-    images: [peugeot5008_1],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-Auto u top stanju izvana i iznutra, uredno servisiran, posjeduje digitalnu servisnu knjižicu, automatski mjenjač, najbolji paket opreme GT-line, 7 sjedala, dva ključa, kupac ne plaća prijenos vlasništva, bez ikakvih daljnih ulaganja
-
-Dodatna oprema:
-GT paket, GT felge 18', Full LED tehnology, Adaptivna svjetla, LED stražnja svjetla, Animacija svjetla, Virtualni kokpit, Ambient light, Modovi vožnje, Kamera, Parking senzori, Tempomat, Lane Assist, Pomoć pri kretanju na uzbrdici, Pomoć pri parkiranju, Sustav za mrtvi kut, Čitanje prometnih znakova, Automatska regulacija razmaka (ACC), El. sklopivi retrovizori, Automatska klima, Navigacijski sustav, Keyless-funkcija, Zatamnjena stakla, Armatura od kože, Obloge vrata od alcantare, Hlađeni pretinac, Bluetooth handsfree sustav, Start stop sistem, 7 sjedala, Crno nebo, ISOFIX, 2 ključa`,
-  },
   "skoda-octavia-combi-first-edition-2020": {
     brand: "Škoda",
     model: "Octavia 2.0TDI First Edition",
@@ -962,7 +861,7 @@ GT paket, GT felge 18', Full LED tehnology, Adaptivna svjetla, LED stražnja svj
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Karavan",
-    price: 21290,
+    price: 20790,
     images: [octaviaCombiFirst2020_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -974,30 +873,6 @@ Dodatna oprema:
 Metalik boja, Felge 18', Tonirana stakla, LED svjetla, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja parking kamera, Park pilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Automatska klima, Grijanje sjedala (prednja), Centralno zaključavanje bez ključa, Keyless go, Bežično punjenje mobitela, Ambijentalna rasvjeta, LED logo projektor u vratima, Start/Stop, Utičnica 230v, 2 ključa
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
-  "vw-golf-75-rline": {
-    brand: "Volkswagen",
-    model: "Golf 7.5 1.6TDI R-Line",
-    year: 2018,
-    mileage: 104300,
-    fuelType: "Dizel",
-    transmission: "Manualni",
-    power: "85 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "Hatchback",
-    price: 15290,
-    images: [vwGolf75_1],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-Prvi vlasnik, svi servisi rađeni po intervalu svakih 10-15tkm, posjeduje servisnu knjigu, zadnji servis napravljen na 104.310km, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-Vozilo glasi na tvrtku, ne plaća se naknada za prijenos vlasništva.
-
-Dodatna oprema:
-R-line paket opreme izvana, Comfortline paket opreme iznutra, R-line felge 17', LED MATRIX prednja svjetla, LED zadnja svjetla, Grijanje retrovizora, Prednji i stražnji parking senzori, Automatska klima dvije zone, Auto Hold, Elektronska parking kočnica, Kožni volan sa komandama, Tempomat, ACC (automatska regulacija razmaka), Front assist, Pokazivač kontrole guma, Isofix, Bluetooth / Aux / USB / SD, Apple Car Play / Android, 2 ključa`,
   },
 };
 
