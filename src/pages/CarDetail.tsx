@@ -927,28 +927,6 @@ PEUGEOT 3008 GT: Prvi vlasnik, održavan u ovlaštenom servisu, posjeduje servis
 Dodatna oprema:
 GT paket, Black paket, GT felge 19', Full LED tehnology, Adaptivna svjetla, LED stražnja svjetla, Animacija svjetla, Virtualni kokpit, Ambient light, Modovi vožnje, 360 kamera, Parking senzori, Tempomat, Lane Assist, Pomoć pri kretanju na uzbrdici, Pomoć pri parkiranju, Sustav za mrtvi kut, Čitanje prometnih znakova, Automatska regulacija razmaka (ACC), El. sklopivi retrovizori, Automatska klima, Navigacijski sustav, Keyless-funkcija, Zatamnjena stakla, Armatura od kože, Obloge vrata od alcantare, Hlađeni pretinac, Bluetooth handsfree sustav, 2 seta podnih prostirki (gumeni/velur), ISOFIX, 2 ključa`,
   },
-  "peugeot-5008-gt-line": {
-    brand: "Peugeot",
-    model: "5008 1.5HDI GT-Line 7 sjedala",
-    year: 2020,
-    mileage: 149000,
-    fuelType: "Dizel",
-    transmission: "Automatski",
-    power: "96 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "SUV",
-    price: 16990,
-    images: [peugeot5008_1],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-Auto u top stanju izvana i iznutra, uredno servisiran, posjeduje digitalnu servisnu knjižicu, automatski mjenjač, najbolji paket opreme GT-line, 7 sjedala, dva ključa, kupac ne plaća prijenos vlasništva, bez ikakvih daljnih ulaganja
-
-Dodatna oprema:
-GT paket, GT felge 18', Full LED tehnology, Adaptivna svjetla, LED stražnja svjetla, Animacija svjetla, Virtualni kokpit, Ambient light, Modovi vožnje, Kamera, Parking senzori, Tempomat, Lane Assist, Pomoć pri kretanju na uzbrdici, Pomoć pri parkiranju, Sustav za mrtvi kut, Čitanje prometnih znakova, Automatska regulacija razmaka (ACC), El. sklopivi retrovizori, Automatska klima, Navigacijski sustav, Keyless-funkcija, Zatamnjena stakla, Armatura od kože, Obloge vrata od alcantare, Hlađeni pretinac, Bluetooth handsfree sustav, Start stop sistem, 7 sjedala, Crno nebo, ISOFIX, 2 ključa`,
-  },
   "skoda-octavia-combi-first-edition-2020": {
     brand: "Škoda",
     model: "Octavia 2.0TDI First Edition",
