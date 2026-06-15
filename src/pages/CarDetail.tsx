@@ -574,6 +574,14 @@ import peugeot3008_1 from "@/assets/cars/peugeot-3008-gt/1.jpg";
 
 import octaviaCombiFirst2020_1 from "@/assets/cars/skoda-octavia-combi-first-edition-2020/1.jpg";
 
+import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
+import mercedesE220d_1 from "@/assets/cars/mercedes-e220d-4matic/1.jpg";
+import octaviaCombi2020_1 from "@/assets/cars/skoda-octavia-combi-2-0tdi-dsg-2020/1.jpg";
+import octaviaCombiFirstDsg2020_1 from "@/assets/cars/skoda-octavia-combi-first-edition-dsg-2020/1.jpg";
+import audiA5_1 from "@/assets/cars/audi-a5-sportback-2-0tdi/1.jpg";
+
+
+
 
 const carDetails: Record<string, {
   brand: string;
@@ -874,7 +882,130 @@ Metalik boja, Felge 18', Tonirana stakla, LED svjetla, Velika navigacija, Virtua
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
+  "bmw-840i-xdrive-individual": {
+    brand: "BMW",
+    model: "840i xDrive Individual M-Sport",
+    year: 2022,
+    mileage: 105500,
+    fuelType: "Benzin",
+    transmission: "Automatski",
+    power: "245 kW",
+    engine: "Benzin",
+    registration: "-",
+    driveType: "xDrive",
+    status: "Rabljeno",
+    bodyType: "Coupe",
+    price: 65990,
+    images: [bmw840i_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+BMW 840i xDrive:
+
+Prvi vlasnik, svi servisi rađeni po intervalu u ovlaštenom servisu, zadnji je napravljen na 94.047km, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+GARANCIJA NA VOZILO VRIJEDI DO 05/2027.
+
+Dodatna oprema:
+Sanremo green individual boja, M sportski paket, M sportske kočnice, M aerodinamični paket, BMW carbon core, M sportska sjedala, Grijanje sjedala, Grijanje svih naslona za ruku, Grijanje volana, El. podesiv volan, F1 pedale na volanu, Sjedala na struju sa memorijom, Individual Merino Ivory white koža, Armatura od kože sa prošivenim koncem, Obloge vrata od kože, BMW individual felge 20'', Swarovski paket, Laser svjetla, Automatska svjetla, Zakretanje zadnjih kotača, 360 kamera, Veliki ekran, Park pilot, Reversing assistant, Iconic glow (svjetleći grill), Soft-Close sistem zatvaranja vrata, Keyless go, Display ključ, Harman Kardon ozvučenje, Ambijentalno osvjetljenje, Head-up display, Modovi vožnje, Sportski display, Lane assist, Autopilot, Adaptivni tempomat, Aktivna zaštita pješaka, Connected package professional, El. otvaranje/zatvaranje prtljažnika, Parking ventilacija kabine, 2 ključa`,
+  },
+  "mercedes-e220d-4matic": {
+    brand: "Mercedes",
+    model: "E220d 4Matic",
+    year: 2017,
+    mileage: 210000,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "143 kW",
+    engine: "Dizel",
+    registration: "10/2026",
+    driveType: "4Matic",
+    status: "Rabljeno",
+    bodyType: "Limuzina",
+    price: 22990,
+    images: [mercedesE220d_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Mercedes-Benz E220d: auto u odličnom stanju izvana i iznutra, HR auto, kupljen novi u Gašpariću gdje je uredno i servisiran od prvog do zadnjeg dana, zadnji servis napravljen na 210.000 km, gume u jako dobrom stanju, stavljena keramička zaštita, registriran do 10/26, nema prijepisa, bez ikakvih daljnih ulaganja.
+
+Dodatna oprema:
+Multibeam LED svjetla, Automatska svjetla, ALU felge 20", Automatska klima, Velika navigacija, Ambijentalno osvjetljenje, Widescreen, Tempomat, Start stop sistem, Prednji i stražnji parking senzori, Sklapanje retrovizora, Modovi vožnje, Grijanje sjedala, Kožni volan, MF volan, Bluetooth, Logo projektor u vratima, ACC`,
+  },
+  "skoda-octavia-combi-2-0tdi-dsg-2020": {
+    brand: "Škoda",
+    model: "Octavia Combi 2.0TDI DSG",
+    year: 2020,
+    mileage: 118000,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "110 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Karavan",
+    price: 22490,
+    images: [octaviaCombi2020_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+ŠKODA OCTAVIA 2,0 TDI DSG: Auto u odličnom stanju izvana i iznutra, održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, nove ljetne gume, full oprema, dva ključa, bez apsolutno ikakvih ulaganja.
+
+Dodatna oprema:
+Metalik boja, Felge 18', Tonirana stakla, LED MATRIX svjetla, HEAD UP display, Canton ozvučenje, Senzor za mrtvi kut, Zatamnjena stakla, Električni prtljažnik, Električna sjedišta sa memorijom, Alkantara, Grijanje volana, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja parking kamera, Park pilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Automatska klima, Grijanje sjedala prednja i zadnja, Centralno zaključavanje bez ključa, Keyless go, Bežično punjenje mobitela, Ambijentalna rasvjeta, LED logo projektor u vratima, Start/Stop, Utičnica 230v, 2 ključa
+
+Sva moguća oprema osim panorame!!!
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "skoda-octavia-combi-first-edition-dsg-2020": {
+    brand: "Škoda",
+    model: "Octavia Combi 2.0TDI First Edition",
+    year: 2020,
+    mileage: 123900,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "110 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Karavan",
+    price: 21990,
+    images: [octaviaCombiFirstDsg2020_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+ŠKODA OCTAVIA 2,0 TDI DSG: Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, zadnji servis napravljen na 115.000km, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca.
+
+Vozilo glasi na firmu, kupac ne plaća prijenos.
+
+Dodatna oprema:
+Metalik boja, Felge perseus 18, Tonirana stakla, LED Matrix svjetla, Velika navigacija, Virtualni kokpit, Head/up, Prednji i stražnji parking senzori, Stražnja parking kamera, Park pilot, Autopilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Upozorenje mrtvog kuta, El. vrata prtljažnika, Otvaranje prtljažnika na senzor, Piano black ukrasne letvice, Sjedala na struju, Kožna sjedala, Sportska sjedala, Memorija sjedala, Grijanje sjedala (prednja), Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, Bežično punjenje mobitela, Ambijentalna rasvjeta, LED logo projektor u vratima, Rezervni kotač, 2 ključa`,
+  },
+  "audi-a5-sportback-2-0tdi": {
+    brand: "Audi",
+    model: "A5 Sportback 2.0TDI",
+    year: 2017,
+    mileage: 205000,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "110 kW",
+    engine: "Dizel",
+    registration: "12/2026",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Coupe",
+    price: 19990,
+    images: [audiA5_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+AUDI A5 SPORTBACK: Održavan u ovlaštenom servisu, posjeduje servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, dodatni set zimskih guma sa alu felgama, moguća provjera bilo gdje po želji kupca ...
+
+REGISTRIRAN DO: 12/2026
+
+Dodatna oprema:
+LED svjetla, Alu felge 19", Tempomat, MF kožni volan, Zatvaranje gepeka na struju, Modovi vožnje, Parking senzori, Navigacija, Paljenje/gašenje bez ključa, Bluetooth, USB, Isofix`,
+  },
 };
+
 
 const defaultCar = carDetails["bmw-m440i-xdrive"];
 
