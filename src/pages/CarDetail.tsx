@@ -921,7 +921,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Karavan",
-    price: 21990,
+    price: 21690,
     images: [octaviaCombiFirstDsg2020_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
