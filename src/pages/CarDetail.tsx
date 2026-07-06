@@ -895,7 +895,7 @@ Multibeam LED svjetla, Automatska svjetla, ALU felge 20", Automatska klima, Veli
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Karavan",
-    price: 22490,
+    price: 21990,
     images: [octaviaCombi2020_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
