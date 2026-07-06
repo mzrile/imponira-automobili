@@ -834,54 +834,6 @@ Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED s
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
-  "peugeot-3008-gt-black": {
-    brand: "Peugeot",
-    model: "3008 1.5HDI GT Black paket",
-    year: 2022,
-    mileage: 99850,
-    fuelType: "Dizel",
-    transmission: "Automatski",
-    power: "96 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "SUV",
-    price: 23490,
-    images: [peugeot3008_1],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-PEUGEOT 3008 GT: Prvi vlasnik, održavan u ovlaštenom servisu, posjeduje servisnu knjigu, zadnji servis napravljen 12/2025 na 95.500km, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-Dodatna oprema:
-GT paket, Black paket, GT felge 19', Full LED tehnology, Adaptivna svjetla, LED stražnja svjetla, Animacija svjetla, Virtualni kokpit, Ambient light, Modovi vožnje, 360 kamera, Parking senzori, Tempomat, Lane Assist, Pomoć pri kretanju na uzbrdici, Pomoć pri parkiranju, Sustav za mrtvi kut, Čitanje prometnih znakova, Automatska regulacija razmaka (ACC), El. sklopivi retrovizori, Automatska klima, Navigacijski sustav, Keyless-funkcija, Zatamnjena stakla, Armatura od kože, Obloge vrata od alcantare, Hlađeni pretinac, Bluetooth handsfree sustav, 2 seta podnih prostirki (gumeni/velur), ISOFIX, 2 ključa`,
-  },
-  "skoda-octavia-combi-first-edition-2020": {
-    brand: "Škoda",
-    model: "Octavia 2.0TDI First Edition",
-    year: 2020,
-    mileage: 109000,
-    fuelType: "Dizel",
-    transmission: "Automatski DSG",
-    power: "110 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "Karavan",
-    price: 20790,
-    images: [octaviaCombiFirst2020_1],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-ŠKODA OCTAVIA 2,0 TDI DSG: Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, veliki servis napravljen na 107.400km, moguća provjera bilo gdje po želji kupca ...
-
-DOSTUPNO VIŠE SLIČNIH VOZILA NA LAGERU.
-
-Dodatna oprema:
-Metalik boja, Felge 18', Tonirana stakla, LED svjetla, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja parking kamera, Park pilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Automatska klima, Grijanje sjedala (prednja), Centralno zaključavanje bez ključa, Keyless go, Bežično punjenje mobitela, Ambijentalna rasvjeta, LED logo projektor u vratima, Start/Stop, Utičnica 230v, 2 ključa
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
   "bmw-840i-xdrive-individual": {
     brand: "BMW",
     model: "840i xDrive Individual M-Sport",
