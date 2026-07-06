@@ -570,9 +570,6 @@ const bmwM5Images = [m5_1, m5_2, m5_3, m5_4, m5_5, m5_6, m5_7, m5_8, m5_9, m5_10
 import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
 import octaviaCombiRs2021_1 from "@/assets/cars/skoda-octavia-combi-rs-2021/1.jpg";
 
-import peugeot3008_1 from "@/assets/cars/peugeot-3008-gt/1.jpg";
-
-import octaviaCombiFirst2020_1 from "@/assets/cars/skoda-octavia-combi-first-edition-2020/1.jpg";
 
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
 import mercedesE220d_1 from "@/assets/cars/mercedes-e220d-4matic/1.jpg";
