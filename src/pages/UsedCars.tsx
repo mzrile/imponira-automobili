@@ -16,7 +16,6 @@ import x1_2016_1 from "@/assets/cars/bmw-x1-2016/1.jpg";
 import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
 import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
-import octaviaCombi2020_1 from "@/assets/cars/skoda-octavia-combi-2-0tdi-dsg-2020/1.jpg";
 
 import audiA5_1 from "@/assets/cars/audi-a5-sportback-2-0tdi/1.jpg";
 import octaviaFirstPanorama_1 from "@/assets/cars/skoda-octavia-first-edition-panorama/1.jpg";
@@ -40,7 +39,6 @@ const allCars = [
   { id: 2, slug: "bmw-m440i-xdrive", image: m440i_21, brand: "BMW", model: "M440i xDrive", year: 2020, mileage: 92000, fuelType: "Benzin", price: 49990, brandLogo: bmwLogo },
   { id: 3, slug: "vw-tiguan-r-line", image: tiguan9, brand: "VW", model: "Tiguan 2.0 TDI DSG R-Line", year: 2024, mileage: 26900, fuelType: "Dizel", price: 44500, brandLogo: volkswagenLogo },
   { id: 19, slug: "mercedes-glb-220d-4matic", image: glb220d_1, brand: "Mercedes", model: "GLB 220d 4Matic", year: 2022, mileage: 85800, fuelType: "Dizel", price: 37900, brandLogo: mercedesLogo },
-  { id: 32, slug: "skoda-octavia-combi-2-0tdi-dsg-2020", image: octaviaCombi2020_1, brand: "Škoda", model: "Octavia Combi 2.0TDI DSG", year: 2020, mileage: 118000, fuelType: "Dizel", price: 21990, brandLogo: skodaLogo },
   { id: 35, slug: "skoda-octavia-combi-first-edition-panorama", image: octaviaFirstPanorama_1, brand: "Škoda", model: "Octavia Combi First Edition Panorama", year: 2020, mileage: 102400, fuelType: "Dizel", price: 21990, brandLogo: skodaLogo },
   { id: 36, slug: "skoda-octavia-combi-first-edition-2020", image: octaviaFirst132_1, brand: "Škoda", model: "Octavia Combi 2.0TDI First Edition", year: 2020, mileage: 132200, fuelType: "Dizel", price: 20990, brandLogo: skodaLogo },
   { id: 34, slug: "audi-a5-sportback-2-0tdi", image: audiA5_1, brand: "Audi", model: "A5 Sportback 2.0TDI", year: 2017, mileage: 205000, fuelType: "Dizel", price: 19290, brandLogo: audiLogo },
