@@ -35,7 +35,6 @@ const allCars = [
   { id: 3, slug: "vw-tiguan-r-line", image: tiguan9, brand: "VW", model: "Tiguan 2.0 TDI DSG R-Line", year: 2024, mileage: 26900, fuelType: "Dizel", price: 44500, brandLogo: volkswagenLogo },
   { id: 19, slug: "mercedes-glb-220d-4matic", image: glb220d_1, brand: "Mercedes", model: "GLB 220d 4Matic", year: 2022, mileage: 85800, fuelType: "Dizel", price: 37900, brandLogo: mercedesLogo },
   { id: 32, slug: "skoda-octavia-combi-2-0tdi-dsg-2020", image: octaviaCombi2020_1, brand: "Škoda", model: "Octavia Combi 2.0TDI DSG", year: 2020, mileage: 118000, fuelType: "Dizel", price: 21990, brandLogo: skodaLogo },
-  { id: 33, slug: "skoda-octavia-combi-first-edition-dsg-2020", image: octaviaCombiFirstDsg2020_1, brand: "Škoda", model: "Octavia Combi 2.0TDI First Edition", year: 2020, mileage: 123900, fuelType: "Dizel", price: 21690, brandLogo: skodaLogo },
   { id: 34, slug: "audi-a5-sportback-2-0tdi", image: audiA5_1, brand: "Audi", model: "A5 Sportback 2.0TDI", year: 2017, mileage: 205000, fuelType: "Dizel", price: 19290, brandLogo: audiLogo },
   { id: 11, slug: "bmw-x1-sdrive18d-m-paket", image: x1_2016_1, brand: "BMW", model: "X1 sDrive18d M-Paket", year: 2016, mileage: 209000, fuelType: "Dizel", price: 15490, brandLogo: bmwLogo },
 ];
