@@ -458,7 +458,6 @@ import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
 
 
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
-import octaviaCombi2020_1 from "@/assets/cars/skoda-octavia-combi-2-0tdi-dsg-2020/1.jpg";
 
 import audiA5_1 from "@/assets/cars/audi-a5-sportback-2-0tdi/1.jpg";
 import meganeLimited_1 from "@/assets/cars/renault-megane-limited/1.jpg";
@@ -636,32 +635,6 @@ GARANCIJA NA VOZILO VRIJEDI DO 05/2027.
 
 Dodatna oprema:
 Sanremo green individual boja, M sportski paket, M sportske kočnice, M aerodinamični paket, BMW carbon core, M sportska sjedala, Grijanje sjedala, Grijanje svih naslona za ruku, Grijanje volana, El. podesiv volan, F1 pedale na volanu, Sjedala na struju sa memorijom, Individual Merino Ivory white koža, Armatura od kože sa prošivenim koncem, Obloge vrata od kože, BMW individual felge 20'', Swarovski paket, Laser svjetla, Automatska svjetla, Zakretanje zadnjih kotača, 360 kamera, Veliki ekran, Park pilot, Reversing assistant, Iconic glow (svjetleći grill), Soft-Close sistem zatvaranja vrata, Keyless go, Display ključ, Harman Kardon ozvučenje, Ambijentalno osvjetljenje, Head-up display, Modovi vožnje, Sportski display, Lane assist, Autopilot, Adaptivni tempomat, Aktivna zaštita pješaka, Connected package professional, El. otvaranje/zatvaranje prtljažnika, Parking ventilacija kabine, 2 ključa`,
-  },
-  "skoda-octavia-combi-2-0tdi-dsg-2020": {
-    brand: "Škoda",
-    model: "Octavia Combi 2.0TDI DSG",
-    year: 2020,
-    mileage: 118000,
-    fuelType: "Dizel",
-    transmission: "Automatski DSG",
-    power: "110 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "Karavan",
-    price: 21990,
-    images: [octaviaCombi2020_1],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-ŠKODA OCTAVIA 2,0 TDI DSG: Auto u odličnom stanju izvana i iznutra, održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, nove ljetne gume, full oprema, dva ključa, bez apsolutno ikakvih ulaganja.
-
-Dodatna oprema:
-Metalik boja, Felge 18', Tonirana stakla, LED MATRIX svjetla, HEAD UP display, Canton ozvučenje, Senzor za mrtvi kut, Zatamnjena stakla, Električni prtljažnik, Električna sjedišta sa memorijom, Alkantara, Grijanje volana, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja parking kamera, Park pilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Automatska klima, Grijanje sjedala prednja i zadnja, Centralno zaključavanje bez ključa, Keyless go, Bežično punjenje mobitela, Ambijentalna rasvjeta, LED logo projektor u vratima, Start/Stop, Utičnica 230v, 2 ključa
-
-Sva moguća oprema osim panorame!!!
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
   "audi-a5-sportback-2-0tdi": {
     brand: "Audi",
