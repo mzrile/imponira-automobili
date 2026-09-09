@@ -18,9 +18,9 @@ interface CarCardProps {
 const CarCard = ({ id, slug, image, brand, model, year, mileage, fuelType, transmission, price, brandLogo }: CarCardProps) => {
   const carUrl = slug ? `/car/${slug}` : `/car/${id}`;
   return (
-    <Link to={carUrl}>
-      <Card className="overflow-hidden hover-scale hover-glow cursor-pointer bg-card border-border">
-        <div className="aspect-[4/3] overflow-hidden">
+    <Link to={carUrl} className="block h-full">
+      <Card className="overflow-hidden hover-scale hover-glow cursor-pointer bg-card border-border h-full flex flex-col">
+        <div className="aspect-[4/3] overflow-hidden flex-shrink-0">
           <img 
             src={image} 
             alt={`${brand} ${model}`} 
@@ -28,20 +28,20 @@ const CarCard = ({ id, slug, image, brand, model, year, mileage, fuelType, trans
             style={{ objectPosition: 'center 40%' }}
           />
         </div>
-        <div className="p-4">
-          <div className="flex items-center justify-between mb-3">
+        <div className="p-4 flex flex-col flex-grow">
+          <div className="flex items-start justify-between mb-3 gap-3">
             {brandLogo && (
-              <img src={brandLogo} alt={`${brand} logo`} className="h-8 w-8 object-contain" />
+              <img src={brandLogo} alt={`${brand} logo`} className="h-8 w-8 object-contain flex-shrink-0" />
             )}
-            <h3 className="text-lg font-bold text-foreground ml-auto">{brand} {model}</h3>
+            <h3 className="text-lg font-bold text-foreground text-right line-clamp-2">{brand} {model}</h3>
           </div>
-          <div className="flex items-center justify-between text-sm text-muted-foreground mb-3">
+          <div className="flex items-center justify-between text-sm text-muted-foreground mb-3 flex-wrap gap-y-1">
             <span>{year}</span>
             <span>{mileage.toLocaleString()} km</span>
             <span>{fuelType}</span>
             {transmission && <span>{transmission}</span>}
           </div>
-          <div className="text-2xl font-bold text-primary">{price.toLocaleString()} €</div>
+          <div className="mt-auto text-2xl font-bold text-primary">{price.toLocaleString()} €</div>
         </div>
       </Card>
     </Link>
