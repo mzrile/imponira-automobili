@@ -78,31 +78,6 @@ import m440i_29 from "@/assets/cars/bmw-m440i/29.jpg";
 import m440i_30 from "@/assets/cars/bmw-m440i/30.jpg";
 
 // BMW X5 images
-import x5_1 from "@/assets/cars/bmw-x5-xdrive-45e/1.jpg";
-import x5_2 from "@/assets/cars/bmw-x5-xdrive-45e/2.jpg";
-import x5_3 from "@/assets/cars/bmw-x5-xdrive-45e/3.jpg";
-import x5_4 from "@/assets/cars/bmw-x5-xdrive-45e/4.jpg";
-import x5_5 from "@/assets/cars/bmw-x5-xdrive-45e/5.jpg";
-import x5_6 from "@/assets/cars/bmw-x5-xdrive-45e/6.jpg";
-import x5_7 from "@/assets/cars/bmw-x5-xdrive-45e/7.jpg";
-import x5_8 from "@/assets/cars/bmw-x5-xdrive-45e/8.jpg";
-import x5_9 from "@/assets/cars/bmw-x5-xdrive-45e/9.jpg";
-import x5_10 from "@/assets/cars/bmw-x5-xdrive-45e/10.jpg";
-import x5_11 from "@/assets/cars/bmw-x5-xdrive-45e/11.jpg";
-import x5_12 from "@/assets/cars/bmw-x5-xdrive-45e/12.jpg";
-import x5_13 from "@/assets/cars/bmw-x5-xdrive-45e/13.jpg";
-import x5_14 from "@/assets/cars/bmw-x5-xdrive-45e/14.jpg";
-import x5_15 from "@/assets/cars/bmw-x5-xdrive-45e/15.jpg";
-import x5_16 from "@/assets/cars/bmw-x5-xdrive-45e/16.jpg";
-import x5_17 from "@/assets/cars/bmw-x5-xdrive-45e/17.jpg";
-import x5_18 from "@/assets/cars/bmw-x5-xdrive-45e/18.jpg";
-import x5_19 from "@/assets/cars/bmw-x5-xdrive-45e/19.jpg";
-import x5_20 from "@/assets/cars/bmw-x5-xdrive-45e/20.jpg";
-import x5_21 from "@/assets/cars/bmw-x5-xdrive-45e/21.jpg";
-import x5_22 from "@/assets/cars/bmw-x5-xdrive-45e/22.jpg";
-import x5_23 from "@/assets/cars/bmw-x5-xdrive-45e/23.jpg";
-import x5_24 from "@/assets/cars/bmw-x5-xdrive-45e/24.jpg";
-import x5_25 from "@/assets/cars/bmw-x5-xdrive-45e/25.jpg";
 
 // Mercedes C220d AMG images
 import c220d_1 from "@/assets/cars/mercedes-c220d-amg/1.jpg";
@@ -260,35 +235,6 @@ import octaviaFe_28 from "@/assets/cars/skoda-octavia-combi-first-edition/28.jpg
 import octaviaFe_29 from "@/assets/cars/skoda-octavia-combi-first-edition/29.jpg";
 
 // Škoda Karoq Sportline images
-import karoq_1 from "@/assets/cars/skoda-karoq-sportline/1.jpg";
-import karoq_2 from "@/assets/cars/skoda-karoq-sportline/2.jpg";
-import karoq_3 from "@/assets/cars/skoda-karoq-sportline/3.jpg";
-import karoq_4 from "@/assets/cars/skoda-karoq-sportline/4.jpg";
-import karoq_5 from "@/assets/cars/skoda-karoq-sportline/5.jpg";
-import karoq_6 from "@/assets/cars/skoda-karoq-sportline/6.jpg";
-import karoq_7 from "@/assets/cars/skoda-karoq-sportline/7.jpg";
-import karoq_8 from "@/assets/cars/skoda-karoq-sportline/8.jpg";
-import karoq_9 from "@/assets/cars/skoda-karoq-sportline/9.jpg";
-import karoq_10 from "@/assets/cars/skoda-karoq-sportline/10.jpg";
-import karoq_11 from "@/assets/cars/skoda-karoq-sportline/11.jpg";
-import karoq_12 from "@/assets/cars/skoda-karoq-sportline/12.jpg";
-import karoq_13 from "@/assets/cars/skoda-karoq-sportline/13.jpg";
-import karoq_14 from "@/assets/cars/skoda-karoq-sportline/14.jpg";
-import karoq_15 from "@/assets/cars/skoda-karoq-sportline/15.jpg";
-import karoq_16 from "@/assets/cars/skoda-karoq-sportline/16.jpg";
-import karoq_17 from "@/assets/cars/skoda-karoq-sportline/17.jpg";
-import karoq_18 from "@/assets/cars/skoda-karoq-sportline/18.jpg";
-import karoq_19 from "@/assets/cars/skoda-karoq-sportline/19.jpg";
-import karoq_20 from "@/assets/cars/skoda-karoq-sportline/20.jpg";
-import karoq_21 from "@/assets/cars/skoda-karoq-sportline/21.jpg";
-import karoq_22 from "@/assets/cars/skoda-karoq-sportline/22.jpg";
-import karoq_23 from "@/assets/cars/skoda-karoq-sportline/23.jpg";
-import karoq_24 from "@/assets/cars/skoda-karoq-sportline/24.jpg";
-import karoq_25 from "@/assets/cars/skoda-karoq-sportline/25.jpg";
-import karoq_26 from "@/assets/cars/skoda-karoq-sportline/26.jpg";
-import karoq_27 from "@/assets/cars/skoda-karoq-sportline/27.jpg";
-import karoq_28 from "@/assets/cars/skoda-karoq-sportline/28.jpg";
-import karoq_29 from "@/assets/cars/skoda-karoq-sportline/29.jpg";
 
 // Renault Clio images
 import clio_1 from "@/assets/cars/renault-clio/1.jpg";
@@ -408,34 +354,6 @@ import bmw320d_27 from "@/assets/cars/bmw-320d-m-paket/27.jpg";
 import bmw320d_28 from "@/assets/cars/bmw-320d-m-paket/28.jpg";
 
 // BMW M5 Competition images
-import m5_1 from "@/assets/cars/bmw-m5-competition/1.jpg";
-import m5_2 from "@/assets/cars/bmw-m5-competition/2.jpg";
-import m5_3 from "@/assets/cars/bmw-m5-competition/3.jpg";
-import m5_4 from "@/assets/cars/bmw-m5-competition/4.jpg";
-import m5_5 from "@/assets/cars/bmw-m5-competition/5.jpg";
-import m5_6 from "@/assets/cars/bmw-m5-competition/6.jpg";
-import m5_7 from "@/assets/cars/bmw-m5-competition/7.jpg";
-import m5_8 from "@/assets/cars/bmw-m5-competition/8.jpg";
-import m5_9 from "@/assets/cars/bmw-m5-competition/9.jpg";
-import m5_10 from "@/assets/cars/bmw-m5-competition/10.jpg";
-import m5_11 from "@/assets/cars/bmw-m5-competition/11.jpg";
-import m5_12 from "@/assets/cars/bmw-m5-competition/12.jpg";
-import m5_13 from "@/assets/cars/bmw-m5-competition/13.jpg";
-import m5_14 from "@/assets/cars/bmw-m5-competition/14.jpg";
-import m5_15 from "@/assets/cars/bmw-m5-competition/15.jpg";
-import m5_16 from "@/assets/cars/bmw-m5-competition/16.jpg";
-import m5_17 from "@/assets/cars/bmw-m5-competition/17.jpg";
-import m5_18 from "@/assets/cars/bmw-m5-competition/18.jpg";
-import m5_19 from "@/assets/cars/bmw-m5-competition/19.jpg";
-import m5_20 from "@/assets/cars/bmw-m5-competition/20.jpg";
-import m5_21 from "@/assets/cars/bmw-m5-competition/21.jpg";
-import m5_22 from "@/assets/cars/bmw-m5-competition/22.jpg";
-import m5_23 from "@/assets/cars/bmw-m5-competition/23.jpg";
-import m5_24 from "@/assets/cars/bmw-m5-competition/24.jpg";
-import m5_25 from "@/assets/cars/bmw-m5-competition/25.jpg";
-import m5_26 from "@/assets/cars/bmw-m5-competition/26.jpg";
-import m5_27 from "@/assets/cars/bmw-m5-competition/27.jpg";
-import m5_28 from "@/assets/cars/bmw-m5-competition/28.jpg";
 
 // Mercedes E300e AMG images (25)
 import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
@@ -564,15 +482,12 @@ const tiguanJoinImages = [tiguanJoin_1, tiguanJoin_2, tiguanJoin_3, tiguanJoin_4
 const bmwX1Images = [x1_2022_1, x1_2022_2, x1_2022_3, x1_2022_4, x1_2022_5, x1_2022_6, x1_2022_7, x1_2022_8, x1_2022_9, x1_2022_10, x1_2022_11, x1_2022_12, x1_2022_13, x1_2022_14, x1_2022_15, x1_2022_16, x1_2022_17, x1_2022_18, x1_2022_19, x1_2022_20, x1_2022_21, x1_2022_22, x1_2022_23, x1_2022_24, x1_2022_25, x1_2022_26, x1_2022_27, x1_2022_28, x1_2022_29];
 const bmw320dImages = [bmw320d_1, bmw320d_2, bmw320d_3, bmw320d_4, bmw320d_5, bmw320d_6, bmw320d_7, bmw320d_8, bmw320d_9, bmw320d_10, bmw320d_11, bmw320d_12, bmw320d_13, bmw320d_14, bmw320d_15, bmw320d_16, bmw320d_17, bmw320d_18, bmw320d_19, bmw320d_20, bmw320d_21, bmw320d_22, bmw320d_23, bmw320d_24, bmw320d_25, bmw320d_26, bmw320d_27, bmw320d_28];
 const bmwX1MPaketImages = [x1_2016_1, x1_2016_2, x1_2016_3, x1_2016_4, x1_2016_5, x1_2016_6, x1_2016_7, x1_2016_8, x1_2016_9, x1_2016_10, x1_2016_11, x1_2016_12, x1_2016_13, x1_2016_14, x1_2016_15, x1_2016_16, x1_2016_17, x1_2016_18, x1_2016_19, x1_2016_20, x1_2016_21, x1_2016_22, x1_2016_23, x1_2016_24, x1_2016_25, x1_2016_26, x1_2016_27, x1_2016_28];
-const bmwM5Images = [m5_1, m5_2, m5_3, m5_4, m5_5, m5_6, m5_7, m5_8, m5_9, m5_10, m5_11, m5_12, m5_13, m5_14, m5_15, m5_16, m5_17, m5_18, m5_19, m5_20, m5_21, m5_22, m5_23, m5_24, m5_25, m5_26, m5_27, m5_28];
 
 // New cars - single images
 import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
-import octaviaCombiRs2021_1 from "@/assets/cars/skoda-octavia-combi-rs-2021/1.jpg";
 
 
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
-import mercedesE220d_1 from "@/assets/cars/mercedes-e220d-4matic/1.jpg";
 import octaviaCombi2020_1 from "@/assets/cars/skoda-octavia-combi-2-0tdi-dsg-2020/1.jpg";
 import octaviaCombiFirstDsg2020_1 from "@/assets/cars/skoda-octavia-combi-first-edition-dsg-2020/1.jpg";
 import audiA5_1 from "@/assets/cars/audi-a5-sportback-2-0tdi/1.jpg";
@@ -597,32 +512,6 @@ const carDetails: Record<string, {
   images: string[];
   description: string;
 }> = {
-  "bmw-x5-xdrive-45e-m-sport": {
-    brand: "BMW", 
-    model: "X5 xDrive 45e M-Sport", 
-    year: 2020, 
-    mileage: 85000, 
-    fuelType: "Plug-in hibrid", 
-    transmission: "Automatski", 
-    power: "210 kW", 
-    engine: "Plug-in hibrid", 
-    registration: "-", 
-    driveType: "xDrive", 
-    status: "Rabljeno", 
-    bodyType: "SUV", 
-    price: 58990, 
-    images: [x5_1, x5_2, x5_3, x5_4, x5_5, x5_6, x5_7, x5_8, x5_9, x5_10, x5_11, x5_12, x5_13, x5_14, x5_15, x5_16, x5_17, x5_18, x5_19, x5_20, x5_21, x5_22, x5_23, x5_24, x5_25], 
-    description: `Vozilo je u sustavu PDV-a
-
-Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-Vozilo u odličnom stanju, održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-Dodatna oprema:
-M sportski paket, M Kožni upravljač, M Aerodinamički paket, Kristalni mjenjač, xDrive, Zračni ovjes, Modovi vožnje, Panoramski stakleni krov, Mreža za prtljažnik, Podne prostirke od velura, Komforno sjedalo s memorijom, Sjedala na struju, Grijanje sjedala (prednja/zadnja), Hlađenje sjedala (prednja), Paket toplinske udobnosti, sprijeda, Grijanje volana, 4 zone klima, Keyless, Line asistent, Adaptivni Tempomat, Virtual cockpit, Soft close, Head-up, Vanjski retrovizor s automatskim prigušivanjem, Tonirana stakla, Akustična zaštita pješaka, Ambijentalno unutarnje svjetlo, DAB tuner, Harman/Kardon surround zvučni sustav, Povezani paket Professional, Active Guard Plus, Laser farovi, Automatska kratka i duga svjetla, Sustav pomoći pri parkiranju Plus, 360 kamera, M Sportska kočnica (plave), Prikaz tlaka u gumama, El. kuka, El. vrata prtljažnika, El. podešavanje volana, Armatura od kože individual, Digitalni ključ, 2 ključa
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE!`,
-  },
   "bmw-m440i-xdrive": {
     brand: "BMW", 
     model: "M440i xDrive", 
@@ -636,7 +525,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE!`,
     driveType: "xDrive", 
     status: "Rabljeno", 
     bodyType: "Coupe", 
-    price: 51990, 
+    price: 49990, 
     images: [m440i_1, m440i_2, m440i_3, m440i_4, m440i_5, m440i_6, m440i_7, m440i_8, m440i_9, m440i_10, m440i_11, m440i_12, m440i_13, m440i_14, m440i_15, m440i_16, m440i_17, m440i_18, m440i_19, m440i_20, m440i_21, m440i_22, m440i_23, m440i_24, m440i_25, m440i_26, m440i_27, m440i_28, m440i_29, m440i_30], 
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -653,7 +542,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     brand: "VW", 
     model: "Tiguan 2.0 TDI DSG R-Line", 
     year: 2024, 
-    mileage: 16900, 
+    mileage: 26900, 
     fuelType: "Diesel", 
     transmission: "Automatski DSG", 
     power: "110 kW", 
@@ -662,7 +551,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 43990, 
+    price: 44500, 
     images: [tiguan1, tiguan2, tiguan3, tiguan4, tiguan5, tiguan6, tiguan7, tiguan8, tiguan9, tiguan10, tiguan11, tiguan12, tiguan13, tiguan14, tiguan15, tiguan16, tiguan17, tiguan18, tiguan19, tiguan20, tiguan21, tiguan22, tiguan23, tiguan24, tiguan25, tiguan26, tiguan27, tiguan28, tiguan29, tiguan30],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -670,34 +559,6 @@ VW TIGUAN 2.0 TDI:Garancija, održavan u ovlaštenom servisu, posjeduje el. serv
 
 Dodatna oprema:
 R-line, IQ light, LED Plus glavna svjetla, 3D stražnja LED svjetla, Automatska duga svjetla, LED logo projektor u vratima, Tonirana stakla, Harman kardon ozvučenje, Armatura od kože sa prošivenim koncem, Boja vozila Oryx Weiss, Perlmutteffekt, Lakometalni naplaci "Leeds" 20", Presvlake sjedala "R-Line", R oznake na vozilu, Krovni nosači, Višenamjenski sportski upravljač presvučen kožom, Grijanje volana, Grijanje prednjih sjedala, Grijanje stražnjih sjedala, Ergo active sjedala, Masaža sjedala (3 moda), Front Assist, Sustav prepoznavanja pješaka i biciklista, Lane Assist, Side Assist, Autopilot, Mrtvi kut, Rear Traffic Alert, Automatsko održavanje razmaka ACC "Stop & Go", Automatsko zatamnjivanje unutarnjeg osvrtnog zrcala, El. pojačavanje glasa, El. sklopivi retrovizori, Upozorenje na umor, Upozorenje na dekoncentraciju, Upozorenje na brzinu, Čitanje prometnih znakova, 4xUSB priključak (Type C), 2x bežična punjača, Grijane mlaznice za pranje vjetrobranskog stakla, 8 zvučnika, Aluminijske papučice, Aluminijske ulazne letvice R-line, Ambijentalno osvjetljenje -30 boja, App-Connect, Automatski klima uređaj, Air Care Climatronic, Webasto, Električna parkirna kočnica s "Auto Hold" funkcijom, Isofix priprema za dječje sjedalice, Kamera za vožnju unatrag, 12,9" ekran (32 cm), 2 ključa + webasto
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
-  "skoda-karoq-sportline": {
-    brand: "Škoda", 
-    model: "Karoq 2.0TDI 4x4 DSG Sportline", 
-    year: 2021, 
-    mileage: 202000, 
-    fuelType: "Diesel", 
-    transmission: "Automatski DSG", 
-    power: "110 kW", 
-    engine: "Diesel", 
-    registration: "-", 
-    driveType: "Prednji", 
-    status: "Rabljeno", 
-    bodyType: "SUV", 
-    price: 19290, 
-    images: [karoq_1, karoq_2, karoq_3, karoq_4, karoq_5, karoq_6, karoq_7, karoq_8, karoq_9, karoq_10, karoq_11, karoq_12, karoq_13, karoq_14, karoq_15, karoq_16, karoq_17, karoq_18, karoq_19, karoq_20, karoq_21, karoq_22, karoq_23, karoq_24, karoq_25, karoq_26, karoq_27, karoq_28, karoq_29], 
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-ŠKODA KAROQ 2.0 TDI: Nove gume, održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-DOSTUPNO VIŠE SLIČNIH VOZILA NA LAGERU.
-
-CIJENA U ZAMJENI IZNOSI: 23.990€
-
-Dodatna oprema:
-Sportline, Metalik boja, Felge 19, Tonirana stakla, LED svjetla, Velika navigacija, Stražnji parking senzori, Adaptive tempomat, Modovi vožnje, Off road mode, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Upozorenje mrtvog kuta, Sportska sjedala, Grijanje sjedala (prednja,zadnja), Automatska klima, Ambijentalna rasvjeta, Centralno zaključavanje bez ključa, Keyless go, LED logo projektor u vratima, 3 ključa, El. kuka
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
@@ -725,38 +586,6 @@ VOZILO GLASI NA FIRMU, NEMA PRIJEPISA
 Dodatna oprema:
 M-Paket, M-volan, Multifunkcionalni volan, M sjedala alcantara, Alu felge 18", LED svjetla, Automatik, Crna metalik boja, Shadow line, El. Panoramski krov, Automatska klima, Tempomat, Modovi vožnje, Parking senzori, Čitanje prometnih znakova, Ambient light, El. Parking kočnica, El. vrata prtljažnika, Navigacija, Putno računalo, Bluetooth, Senzor za kišu, Start/Stop sistem, Kuka, Tepisi od velura, Gumeni tepisi, Zimske gume, 2 ključa`,
   },
-  "bmw-m5-competition": {
-    brand: "BMW", 
-    model: "M5 Competition", 
-    year: 2021, 
-    mileage: 106900, 
-    fuelType: "Benzin", 
-    transmission: "Automatski", 
-    power: "460 kW", 
-    engine: "Benzin", 
-    registration: "-", 
-    driveType: "xDrive", 
-    status: "Rabljeno", 
-    bodyType: "Limuzina", 
-    price: 83990, 
-    images: bmwM5Images, 
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-BMW M5 COMPETITION (460KW/625ks):
-
-Prvi vlasnik, svi servisi rađeni po intervalu u ovlaštenom servisu, zadnji je napravljen 30.07.2025. (98.347km) posjeduje el. servisnu knjigu, nove zimske gume na vozilu, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-Vozilo je u tvorničkom stanju te nikad nije bio dorađivan, mapiran...
-
-CIJENA U ZAMJENI: 100.000€
-
-Dodatna oprema:
-Marina bay blue metallic boja, M Performance carbon dijelovi, Carbon krov, Shadowline, Adaptivna LED svjetla, M sportska sjedala, El. podesiva sjedala, Memorija sjedala, Grijanje sjedala, M sigurnosni pojasevi, M5 competition oznake, Stražnja parking kamera, Parking senzori, Park assist, Reversing assistant, Ambient light, Harman Kardon ozvučenje, Automatska kontrola klime 4 zone, Multifunkcijski volan, El. podešavanje volana, F1 mjenjač, Modovi vožnje, Konfiguracija vožnje M1/M2, Sportski display, Armatura od kože sa prošivenim koncem, Obloge vrata od kože, Zatamnjena stražnja stakla, Driving Assistant Professional, Tempomat, Lane assist, Aktivna zaštita pješaka,
-
-Upozorenje za izbjegavanje sudara, Upozorenje na pospanost, Čitanje prometnih znakova, Head up display, Kontrola tlaka u gumama, El. otvaranje/zatvaranje prtljažnika, El. klapne auspuha, Auto hold, Start Stop sistem, Keyless go, 2 ključa
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
   "mercedes-e300e-amg": {
     brand: "Mercedes",
     model: "E300e AMG",
@@ -770,7 +599,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Stražnji",
     status: "Rabljeno",
     bodyType: "Limuzina",
-    price: 74900,
+    price: 72900,
     images: e300eImages,
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -807,35 +636,11 @@ Prvi vlasnik, svi servisi rađeni po intervalu u ovlaštenom servisu, posjeduje 
 Dodatna oprema:
 AMG paket, AMG felge 19', Night paket, LED high performance svjetla, Sportski zvuk motora, Ukrasni elementi karbonske strukture, Armatura od kože, Prošiveni crveni konac, Multifunkcijski sportski volan, Volan presvučen nappa kožom, F1 komande na volanu, AMG podne prostirke, El. Sklopivi retrovizori, Crna stropna obloga, Sportska sjedala alcantara/koža, Grijanje sjedala, Stražnja parking kamera, MBUX navigacija premium, Advanced plus paket, Ambient light, Adaptivni tempomat, Modovi vožnje, Zaštita pješaka, Aktivna pomoć u zadržavanju trake, Aktivna pomoć pri kočenju, Detekcija prometnih znakova, Krovni nosači u crnoj boji, Kontrola tlaka u gumama, 2 ključa`,
   },
-  "skoda-octavia-combi-rs-2021": {
-    brand: "Škoda",
-    model: "Octavia Combi RS 2.0TDI DSG",
-    year: 2021,
-    mileage: 149900,
-    fuelType: "Dizel",
-    transmission: "Automatski DSG",
-    power: "147 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "Karavan",
-    price: 24990,
-    images: [octaviaCombiRs2021_1],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-ŠKODA OCTAVIA RS: Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, napravljen servis ( izmjena ulja, filter ulja, filter zraka, filter kabine), novi diskovi i kočione pločice, kočiono ulje (05.03.2026.), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-Dodatna oprema:
-Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED svjetla, LED putujući žmigavci, Active sound, LED Matrix svjetla, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Autopilot, Head-up, Park asist, Front assist, Auto hold, Sustav za ograničenje brzine, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Armatura od alcantare, Crno nebo, Carbon, Sjedala RS, Grijanje sjedala (prednja/stražnja), Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, DAB, Ambijentalna rasvjeta, LED logo projektor u vratima, Sustav za kontrolu tlaka u gumama, Servotronic, El. vrata prtljažnika, El. kuka, Rezervni kotač, 2 ključa
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
   "bmw-840i-xdrive-individual": {
     brand: "BMW",
     model: "840i xDrive Individual M-Sport",
     year: 2022,
-    mileage: 105500,
+    mileage: 108900,
     fuelType: "Benzin",
     transmission: "Automatski",
     power: "245 kW",
@@ -856,28 +661,6 @@ GARANCIJA NA VOZILO VRIJEDI DO 05/2027.
 
 Dodatna oprema:
 Sanremo green individual boja, M sportski paket, M sportske kočnice, M aerodinamični paket, BMW carbon core, M sportska sjedala, Grijanje sjedala, Grijanje svih naslona za ruku, Grijanje volana, El. podesiv volan, F1 pedale na volanu, Sjedala na struju sa memorijom, Individual Merino Ivory white koža, Armatura od kože sa prošivenim koncem, Obloge vrata od kože, BMW individual felge 20'', Swarovski paket, Laser svjetla, Automatska svjetla, Zakretanje zadnjih kotača, 360 kamera, Veliki ekran, Park pilot, Reversing assistant, Iconic glow (svjetleći grill), Soft-Close sistem zatvaranja vrata, Keyless go, Display ključ, Harman Kardon ozvučenje, Ambijentalno osvjetljenje, Head-up display, Modovi vožnje, Sportski display, Lane assist, Autopilot, Adaptivni tempomat, Aktivna zaštita pješaka, Connected package professional, El. otvaranje/zatvaranje prtljažnika, Parking ventilacija kabine, 2 ključa`,
-  },
-  "mercedes-e220d-4matic": {
-    brand: "Mercedes",
-    model: "E220d 4Matic",
-    year: 2017,
-    mileage: 210000,
-    fuelType: "Dizel",
-    transmission: "Automatski",
-    power: "143 kW",
-    engine: "Dizel",
-    registration: "10/2026",
-    driveType: "4Matic",
-    status: "Rabljeno",
-    bodyType: "Limuzina",
-    price: 22990,
-    images: [mercedesE220d_1],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-Mercedes-Benz E220d: auto u odličnom stanju izvana i iznutra, HR auto, kupljen novi u Gašpariću gdje je uredno i servisiran od prvog do zadnjeg dana, zadnji servis napravljen na 210.000 km, gume u jako dobrom stanju, stavljena keramička zaštita, registriran do 10/26, nema prijepisa, bez ikakvih daljnih ulaganja.
-
-Dodatna oprema:
-Multibeam LED svjetla, Automatska svjetla, ALU felge 20", Automatska klima, Velika navigacija, Ambijentalno osvjetljenje, Widescreen, Tempomat, Start stop sistem, Prednji i stražnji parking senzori, Sklapanje retrovizora, Modovi vožnje, Grijanje sjedala, Kožni volan, MF volan, Bluetooth, Logo projektor u vratima, ACC`,
   },
   "skoda-octavia-combi-2-0tdi-dsg-2020": {
     brand: "Škoda",
@@ -942,7 +725,7 @@ Metalik boja, Felge perseus 18, Tonirana stakla, LED Matrix svjetla, Velika navi
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Coupe",
-    price: 19990,
+    price: 19290,
     images: [audiA5_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 

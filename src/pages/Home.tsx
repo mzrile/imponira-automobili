@@ -7,12 +7,8 @@ import { Button } from "@/components/ui/button";
 import SEO from "@/components/SEO";
 
 // Car first images
-import m5_1 from "@/assets/cars/bmw-m5-competition/1.jpg";
-import x5_1 from "@/assets/cars/bmw-x5-xdrive-45e/1.jpg";
 import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
-import octaviaCombiRs2021_1 from "@/assets/cars/skoda-octavia-combi-rs-2021/1.jpg";
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
-import mercedesE220d_1 from "@/assets/cars/mercedes-e220d-4matic/1.jpg";
 import octaviaCombi2020_1 from "@/assets/cars/skoda-octavia-combi-2-0tdi-dsg-2020/1.jpg";
 import octaviaCombiFirstDsg2020_1 from "@/assets/cars/skoda-octavia-combi-first-edition-dsg-2020/1.jpg";
 import audiA5_1 from "@/assets/cars/audi-a5-sportback-2-0tdi/1.jpg";
@@ -29,15 +25,11 @@ import audiLogo from "@/assets/brands/audi-new.png";
 import peugeotLogo from "@/assets/brands/peugeot-new.png";
 
 const featuredCars = [
-  { id: 16, slug: "bmw-m5-competition", image: m5_1, brand: "BMW", model: "M5 Competition", year: 2021, mileage: 106900, fuelType: "Benzin", price: 83990, brandLogo: bmwLogo },
-  { id: 30, slug: "bmw-840i-xdrive-individual", image: bmw840i_1, brand: "BMW", model: "840i xDrive Individual M-Sport", year: 2022, mileage: 105500, fuelType: "Benzin", price: 65990, brandLogo: bmwLogo },
-  { id: 1, slug: "bmw-x5-xdrive-45e-m-sport", image: x5_1, brand: "BMW", model: "X5 xDrive 45e M-Sport", year: 2020, mileage: 85000, fuelType: "Hibrid", price: 58990, brandLogo: bmwLogo },
+  { id: 30, slug: "bmw-840i-xdrive-individual", image: bmw840i_1, brand: "BMW", model: "840i xDrive Individual M-Sport", year: 2022, mileage: 108900, fuelType: "Benzin", price: 65990, brandLogo: bmwLogo },
   { id: 19, slug: "mercedes-glb-220d-4matic", image: glb220d_1, brand: "Mercedes", model: "GLB 220d 4Matic", year: 2022, mileage: 85800, fuelType: "Dizel", price: 37900, brandLogo: mercedesLogo },
-  { id: 20, slug: "skoda-octavia-combi-rs-2021", image: octaviaCombiRs2021_1, brand: "Škoda", model: "Octavia Combi RS 2.0TDI DSG", year: 2021, mileage: 149900, fuelType: "Dizel", price: 24990, brandLogo: skodaLogo },
-  { id: 31, slug: "mercedes-e220d-4matic", image: mercedesE220d_1, brand: "Mercedes", model: "E220d 4Matic", year: 2017, mileage: 210000, fuelType: "Dizel", price: 22990, brandLogo: mercedesLogo },
   { id: 32, slug: "skoda-octavia-combi-2-0tdi-dsg-2020", image: octaviaCombi2020_1, brand: "Škoda", model: "Octavia Combi 2.0TDI DSG", year: 2020, mileage: 118000, fuelType: "Dizel", price: 21990, brandLogo: skodaLogo },
   { id: 33, slug: "skoda-octavia-combi-first-edition-dsg-2020", image: octaviaCombiFirstDsg2020_1, brand: "Škoda", model: "Octavia Combi 2.0TDI First Edition", year: 2020, mileage: 123900, fuelType: "Dizel", price: 21690, brandLogo: skodaLogo },
-  { id: 34, slug: "audi-a5-sportback-2-0tdi", image: audiA5_1, brand: "Audi", model: "A5 Sportback 2.0TDI", year: 2017, mileage: 205000, fuelType: "Dizel", price: 19990, brandLogo: audiLogo },
+  { id: 34, slug: "audi-a5-sportback-2-0tdi", image: audiA5_1, brand: "Audi", model: "A5 Sportback 2.0TDI", year: 2017, mileage: 205000, fuelType: "Dizel", price: 19290, brandLogo: audiLogo },
 ];
 
 
