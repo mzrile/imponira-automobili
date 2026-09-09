@@ -203,36 +203,6 @@ import octaviaCombiRs_27 from "@/assets/cars/skoda-octavia-combi-rs/27.jpg";
 import octaviaCombiRs_28 from "@/assets/cars/skoda-octavia-combi-rs/28.jpg";
 import octaviaCombiRs_29 from "@/assets/cars/skoda-octavia-combi-rs/29.jpg";
 
-// Škoda Octavia Combi First Edition images
-import octaviaFe_1 from "@/assets/cars/skoda-octavia-combi-first-edition/1.jpg";
-import octaviaFe_2 from "@/assets/cars/skoda-octavia-combi-first-edition/2.jpg";
-import octaviaFe_3 from "@/assets/cars/skoda-octavia-combi-first-edition/3.jpg";
-import octaviaFe_4 from "@/assets/cars/skoda-octavia-combi-first-edition/4.jpg";
-import octaviaFe_5 from "@/assets/cars/skoda-octavia-combi-first-edition/5.jpg";
-import octaviaFe_6 from "@/assets/cars/skoda-octavia-combi-first-edition/6.jpg";
-import octaviaFe_7 from "@/assets/cars/skoda-octavia-combi-first-edition/7.jpg";
-import octaviaFe_8 from "@/assets/cars/skoda-octavia-combi-first-edition/8.jpg";
-import octaviaFe_9 from "@/assets/cars/skoda-octavia-combi-first-edition/9.jpg";
-import octaviaFe_10 from "@/assets/cars/skoda-octavia-combi-first-edition/10.jpg";
-import octaviaFe_11 from "@/assets/cars/skoda-octavia-combi-first-edition/11.jpg";
-import octaviaFe_12 from "@/assets/cars/skoda-octavia-combi-first-edition/12.jpg";
-import octaviaFe_13 from "@/assets/cars/skoda-octavia-combi-first-edition/13.jpg";
-import octaviaFe_14 from "@/assets/cars/skoda-octavia-combi-first-edition/14.jpg";
-import octaviaFe_15 from "@/assets/cars/skoda-octavia-combi-first-edition/15.jpg";
-import octaviaFe_16 from "@/assets/cars/skoda-octavia-combi-first-edition/16.jpg";
-import octaviaFe_17 from "@/assets/cars/skoda-octavia-combi-first-edition/17.jpg";
-import octaviaFe_18 from "@/assets/cars/skoda-octavia-combi-first-edition/18.jpg";
-import octaviaFe_19 from "@/assets/cars/skoda-octavia-combi-first-edition/19.jpg";
-import octaviaFe_20 from "@/assets/cars/skoda-octavia-combi-first-edition/20.jpg";
-import octaviaFe_21 from "@/assets/cars/skoda-octavia-combi-first-edition/21.jpg";
-import octaviaFe_22 from "@/assets/cars/skoda-octavia-combi-first-edition/22.jpg";
-import octaviaFe_23 from "@/assets/cars/skoda-octavia-combi-first-edition/23.jpg";
-import octaviaFe_24 from "@/assets/cars/skoda-octavia-combi-first-edition/24.jpg";
-import octaviaFe_25 from "@/assets/cars/skoda-octavia-combi-first-edition/25.jpg";
-import octaviaFe_26 from "@/assets/cars/skoda-octavia-combi-first-edition/26.jpg";
-import octaviaFe_27 from "@/assets/cars/skoda-octavia-combi-first-edition/27.jpg";
-import octaviaFe_28 from "@/assets/cars/skoda-octavia-combi-first-edition/28.jpg";
-import octaviaFe_29 from "@/assets/cars/skoda-octavia-combi-first-edition/29.jpg";
 
 // Škoda Karoq Sportline images
 

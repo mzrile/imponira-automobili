@@ -10,7 +10,7 @@ import SEO from "@/components/SEO";
 import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
 import octaviaCombi2020_1 from "@/assets/cars/skoda-octavia-combi-2-0tdi-dsg-2020/1.jpg";
-import octaviaCombiFirstDsg2020_1 from "@/assets/cars/skoda-octavia-combi-first-edition-dsg-2020/1.jpg";
+
 import audiA5_1 from "@/assets/cars/audi-a5-sportback-2-0tdi/1.jpg";
 
 // Brand logos
