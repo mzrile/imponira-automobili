@@ -461,6 +461,11 @@ import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
 import octaviaCombi2020_1 from "@/assets/cars/skoda-octavia-combi-2-0tdi-dsg-2020/1.jpg";
 
 import audiA5_1 from "@/assets/cars/audi-a5-sportback-2-0tdi/1.jpg";
+import meganeLimited_1 from "@/assets/cars/renault-megane-limited/1.jpg";
+import clioTce_1 from "@/assets/cars/renault-clio-tce/1.jpg";
+import peugeot2008_1 from "@/assets/cars/peugeot-2008-gt-line/1.jpg";
+import octaviaFirst132_1 from "@/assets/cars/skoda-octavia-first-edition-132k/1.jpg";
+import octaviaFirstPanorama_1 from "@/assets/cars/skoda-octavia-first-edition-panorama/1.jpg";
 
 
 
@@ -681,6 +686,124 @@ REGISTRIRAN DO: 12/2026
 
 Dodatna oprema:
 LED svjetla, Alu felge 19", Tempomat, MF kožni volan, Zatvaranje gepeka na struju, Modovi vožnje, Parking senzori, Navigacija, Paljenje/gašenje bez ključa, Bluetooth, USB, Isofix`,
+  },
+  "skoda-octavia-combi-first-edition-panorama": {
+    brand: "Škoda",
+    model: "Octavia Combi First Edition Panorama",
+    year: 2020,
+    mileage: 102400,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "110 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Karavan",
+    price: 21990,
+    images: [octaviaFirstPanorama_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Održavan u ovlaštenom servisu, dva seta felgi sa gumama (ljeto/zima) posjeduje el. servisnu knjigu, zadnji servis napravljen na 102.400km (novi prednji i zadnji diskovi i kočione pločice, zamjena ulja i svih filtera), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+Metalik boja crna brilliant, Bicolor felge, Tonirana stakla, LED Matrix svjetla, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja kamera, Grijanje volana, Park pilot, Autopilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Upozorenje mrtvog kuta, Kožna sjedala, Sjedala na struju, Memorija sjedala, Grijanje sjedala (prednja), Hlađenje sjedala (prednja), Masaža sjedala, Centralno zaključavanje bez ključa, Keyless go, Webasto, Head-up, Električna vrata prtljažnika, Otvaranje prtljažnika nogom, Bežično punjenje mobitela, Ambijentalna rasvjeta, LED logo projektor u vratima, El. kuka, 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "skoda-octavia-combi-first-edition-2020": {
+    brand: "Škoda",
+    model: "Octavia Combi 2.0TDI First Edition",
+    year: 2020,
+    mileage: 132200,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "110 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Karavan",
+    price: 20990,
+    images: [octaviaFirst132_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Na 132.200km je napravljen servis DSG getribe, zamjenjeno motorno ulje i filteri, na prethodnom servisu su stavljeni novi diskovi i pločice, redovno održavan, bez apsolutno ikakvih dodatnih ulaganja…
+
+DOSTUPNO VIŠE SLIČNIH VOZILA NA LAGERU.
+
+Dodatna oprema:
+Metalik boja, Felge perseus 18, Tonirana stakla, LED Matrix svjetla, Animacija svjetla, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Park pilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Upozorenje mrtvog kuta, El. vrata prtljažnika, Otvaranje prtljažnika na senzor, Sjedala na struju, Sportska sjedala, Memorija sjedala, Grijanje sjedala (prednja), Alcantara kožna sjedala, Centralno zaključavanje bez ključa, Keyless go, Bežično punjenje mobitela, Ambijentalna rasvjeta, LED logo projektor u vratima, 2 ključa, Kuka`,
+  },
+  "peugeot-2008-gt-line-black": {
+    brand: "Peugeot",
+    model: "2008 1.5 HDI GT Line Black Paket",
+    year: 2020,
+    mileage: 85000,
+    fuelType: "Dizel",
+    transmission: "Ručni",
+    power: "96 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "SUV",
+    price: 18490,
+    images: [peugeot2008_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Prvi vlasnik, nove zimske gume, ljetne gume, održavan u ovlaštenom servisu, posjeduje servisnu knjigu, zadnji servis napravljen na 73.236km (12/2025), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+Perla bijela boja, GT paket, Black paket, GT felge 17', Crno nebo, Full LED tehnology, LED stražnja svjetla, Animacija svjetla, Virtualni kokpit 3D, Grijanje sjedala, Ambient light, Modovi vožnje, 360 kamera, Parking senzori, Tempomat, Lane Assist, Pomoć pri kretanju na uzbrdici, Pomoć pri parkiranju, Čitanje prometnih znakova, Automatska regulacija razmaka (ACC), El. sklopivi retrovizori, Automatska klima, Navigacijski sustav, Keyless-funkcija, Zatamnjena stakla, Armatura od kože, Prošiveni konac zelene boje, Bluetooth handsfree sustav, ISOFIX, 2 ključa, Priprema za kuku`,
+  },
+  "renault-clio-edition-one-tce": {
+    brand: "Renault",
+    model: "Clio Edition One TCe Automatik",
+    year: 2020,
+    mileage: 121000,
+    fuelType: "Benzin",
+    transmission: "Automatski",
+    power: "96 kW",
+    engine: "Benzin",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Hatchback",
+    price: 14290,
+    images: [clioTce_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, dva seta felgi i guma (ljeto/zima), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+Automatski mjenjač sa 7 brzina, Boja Valencia narančasta, Crna krovna obloga, Paket jednostavnog parkiranja, Sigurnosni paket Plus, Rezervni kotač, Pomoć za autocestu i prometne gužve (0-160 km/h), Pomoć pri kočenju u nuždi s detekcijom pješaka, Prepoznavanje prometnih znakova, Upozorenje na brzinu, Upozorenje na mrtvi kut, Upozorenje o napuštanju trake, Upozorenje o sigurnosnoj udaljenosti, ESP s pomoći pri kretanju na uzbrdici, ISOFIX, Pomoćnik za duga svjetla, eCall sustav, Prilagodljivi krstareći pilot ACC (30-170 km/h), Sustav nadzora tlaka u gumama, Senzor za svjetlo i kišu, 360° kamera, BOSE ozvučenje, Automatska kontrola klime, Ručice mjenjača na upravljaču, Unutarnja rasvjeta LED, Modovi vožnje, Elektronička parkirna kočnica s auto-hold, Senzori udaljenosti sprijeda, straga i sa strane, Grijani stražnji prozor, Digitalna instrument tabla 7 inča, MULTI-SENSE s ambijentalnim osvjetljenjem, Nadzorna ploča "Soft Touch", Grijana prednja sjedala, Kožni volan, Grijani volan
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "renault-megane-limited-dci-115": {
+    brand: "Renault",
+    model: "Megane Limited dCi 115",
+    year: 2021,
+    mileage: 94900,
+    fuelType: "Dizel",
+    transmission: "Ručni",
+    power: "85 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Hatchback",
+    price: 12990,
+    images: [meganeLimited_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Zadnji servis napravljen na 90.200km.
+
+Vozilo glasi na firmu, kupac ne plaća prijenos.
+
+Dodatna oprema:
+Metalik boja, Alu felge, LED svjetla, MF volan, Digitalni kokpit, Automatska klima, Grijanje sjedala, Parking senzori, Pomoć za parkiranje, Putno računalo, El. parkirna kočnica, Tempomat, Limitator brzine, El. sklopivi retrovizori, El. podesivi retrovizori, Start/stop sistem, USB priključak, Tonirana stakla, 2 ključa`,
   },
 };
 
