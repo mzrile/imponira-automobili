@@ -658,30 +658,6 @@ Sva moguća oprema osim panorame!!!
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
-  "skoda-octavia-combi-first-edition-dsg-2020": {
-    brand: "Škoda",
-    model: "Octavia Combi 2.0TDI First Edition",
-    year: 2020,
-    mileage: 123900,
-    fuelType: "Dizel",
-    transmission: "Automatski DSG",
-    power: "110 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "Karavan",
-    price: 21690,
-    images: [octaviaCombiFirstDsg2020_1],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-ŠKODA OCTAVIA 2,0 TDI DSG: Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, zadnji servis napravljen na 115.000km, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca.
-
-Vozilo glasi na firmu, kupac ne plaća prijenos.
-
-Dodatna oprema:
-Metalik boja, Felge perseus 18, Tonirana stakla, LED Matrix svjetla, Velika navigacija, Virtualni kokpit, Head/up, Prednji i stražnji parking senzori, Stražnja parking kamera, Park pilot, Autopilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Upozorenje mrtvog kuta, El. vrata prtljažnika, Otvaranje prtljažnika na senzor, Piano black ukrasne letvice, Sjedala na struju, Kožna sjedala, Sportska sjedala, Memorija sjedala, Grijanje sjedala (prednja), Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, Bežično punjenje mobitela, Ambijentalna rasvjeta, LED logo projektor u vratima, Rezervni kotač, 2 ključa`,
-  },
   "audi-a5-sportback-2-0tdi": {
     brand: "Audi",
     model: "A5 Sportback 2.0TDI",
