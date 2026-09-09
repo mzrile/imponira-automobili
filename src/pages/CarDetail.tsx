@@ -203,36 +203,6 @@ import octaviaCombiRs_27 from "@/assets/cars/skoda-octavia-combi-rs/27.jpg";
 import octaviaCombiRs_28 from "@/assets/cars/skoda-octavia-combi-rs/28.jpg";
 import octaviaCombiRs_29 from "@/assets/cars/skoda-octavia-combi-rs/29.jpg";
 
-// Škoda Octavia Combi First Edition images
-import octaviaFe_1 from "@/assets/cars/skoda-octavia-combi-first-edition/1.jpg";
-import octaviaFe_2 from "@/assets/cars/skoda-octavia-combi-first-edition/2.jpg";
-import octaviaFe_3 from "@/assets/cars/skoda-octavia-combi-first-edition/3.jpg";
-import octaviaFe_4 from "@/assets/cars/skoda-octavia-combi-first-edition/4.jpg";
-import octaviaFe_5 from "@/assets/cars/skoda-octavia-combi-first-edition/5.jpg";
-import octaviaFe_6 from "@/assets/cars/skoda-octavia-combi-first-edition/6.jpg";
-import octaviaFe_7 from "@/assets/cars/skoda-octavia-combi-first-edition/7.jpg";
-import octaviaFe_8 from "@/assets/cars/skoda-octavia-combi-first-edition/8.jpg";
-import octaviaFe_9 from "@/assets/cars/skoda-octavia-combi-first-edition/9.jpg";
-import octaviaFe_10 from "@/assets/cars/skoda-octavia-combi-first-edition/10.jpg";
-import octaviaFe_11 from "@/assets/cars/skoda-octavia-combi-first-edition/11.jpg";
-import octaviaFe_12 from "@/assets/cars/skoda-octavia-combi-first-edition/12.jpg";
-import octaviaFe_13 from "@/assets/cars/skoda-octavia-combi-first-edition/13.jpg";
-import octaviaFe_14 from "@/assets/cars/skoda-octavia-combi-first-edition/14.jpg";
-import octaviaFe_15 from "@/assets/cars/skoda-octavia-combi-first-edition/15.jpg";
-import octaviaFe_16 from "@/assets/cars/skoda-octavia-combi-first-edition/16.jpg";
-import octaviaFe_17 from "@/assets/cars/skoda-octavia-combi-first-edition/17.jpg";
-import octaviaFe_18 from "@/assets/cars/skoda-octavia-combi-first-edition/18.jpg";
-import octaviaFe_19 from "@/assets/cars/skoda-octavia-combi-first-edition/19.jpg";
-import octaviaFe_20 from "@/assets/cars/skoda-octavia-combi-first-edition/20.jpg";
-import octaviaFe_21 from "@/assets/cars/skoda-octavia-combi-first-edition/21.jpg";
-import octaviaFe_22 from "@/assets/cars/skoda-octavia-combi-first-edition/22.jpg";
-import octaviaFe_23 from "@/assets/cars/skoda-octavia-combi-first-edition/23.jpg";
-import octaviaFe_24 from "@/assets/cars/skoda-octavia-combi-first-edition/24.jpg";
-import octaviaFe_25 from "@/assets/cars/skoda-octavia-combi-first-edition/25.jpg";
-import octaviaFe_26 from "@/assets/cars/skoda-octavia-combi-first-edition/26.jpg";
-import octaviaFe_27 from "@/assets/cars/skoda-octavia-combi-first-edition/27.jpg";
-import octaviaFe_28 from "@/assets/cars/skoda-octavia-combi-first-edition/28.jpg";
-import octaviaFe_29 from "@/assets/cars/skoda-octavia-combi-first-edition/29.jpg";
 
 // Škoda Karoq Sportline images
 
@@ -489,7 +459,7 @@ import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
 
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
 import octaviaCombi2020_1 from "@/assets/cars/skoda-octavia-combi-2-0tdi-dsg-2020/1.jpg";
-import octaviaCombiFirstDsg2020_1 from "@/assets/cars/skoda-octavia-combi-first-edition-dsg-2020/1.jpg";
+
 import audiA5_1 from "@/assets/cars/audi-a5-sportback-2-0tdi/1.jpg";
 
 
@@ -687,30 +657,6 @@ Metalik boja, Felge 18', Tonirana stakla, LED MATRIX svjetla, HEAD UP display, C
 Sva moguća oprema osim panorame!!!
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
-  },
-  "skoda-octavia-combi-first-edition-dsg-2020": {
-    brand: "Škoda",
-    model: "Octavia Combi 2.0TDI First Edition",
-    year: 2020,
-    mileage: 123900,
-    fuelType: "Dizel",
-    transmission: "Automatski DSG",
-    power: "110 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "Karavan",
-    price: 21690,
-    images: [octaviaCombiFirstDsg2020_1],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-ŠKODA OCTAVIA 2,0 TDI DSG: Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, zadnji servis napravljen na 115.000km, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca.
-
-Vozilo glasi na firmu, kupac ne plaća prijenos.
-
-Dodatna oprema:
-Metalik boja, Felge perseus 18, Tonirana stakla, LED Matrix svjetla, Velika navigacija, Virtualni kokpit, Head/up, Prednji i stražnji parking senzori, Stražnja parking kamera, Park pilot, Autopilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Upozorenje mrtvog kuta, El. vrata prtljažnika, Otvaranje prtljažnika na senzor, Piano black ukrasne letvice, Sjedala na struju, Kožna sjedala, Sportska sjedala, Memorija sjedala, Grijanje sjedala (prednja), Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, Bežično punjenje mobitela, Ambijentalna rasvjeta, LED logo projektor u vratima, Rezervni kotač, 2 ključa`,
   },
   "audi-a5-sportback-2-0tdi": {
     brand: "Audi",
