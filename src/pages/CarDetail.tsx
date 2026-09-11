@@ -455,6 +455,29 @@ const bmwX1MPaketImages = [x1_2016_1, x1_2016_2, x1_2016_3, x1_2016_4, x1_2016_5
 
 // New cars - single images
 import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
+import glb220d_2 from "@/assets/cars/mercedes-glb-220d/2.jpg";
+import glb220d_3 from "@/assets/cars/mercedes-glb-220d/3.jpg";
+import glb220d_4 from "@/assets/cars/mercedes-glb-220d/4.jpg";
+import glb220d_5 from "@/assets/cars/mercedes-glb-220d/5.jpg";
+import glb220d_6 from "@/assets/cars/mercedes-glb-220d/6.jpg";
+import glb220d_7 from "@/assets/cars/mercedes-glb-220d/7.jpg";
+import glb220d_8 from "@/assets/cars/mercedes-glb-220d/8.jpg";
+import glb220d_9 from "@/assets/cars/mercedes-glb-220d/9.jpg";
+import glb220d_10 from "@/assets/cars/mercedes-glb-220d/10.jpg";
+import glb220d_11 from "@/assets/cars/mercedes-glb-220d/11.jpg";
+import glb220d_12 from "@/assets/cars/mercedes-glb-220d/12.jpg";
+import glb220d_13 from "@/assets/cars/mercedes-glb-220d/13.jpg";
+import glb220d_14 from "@/assets/cars/mercedes-glb-220d/14.jpg";
+import glb220d_15 from "@/assets/cars/mercedes-glb-220d/15.jpg";
+import glb220d_16 from "@/assets/cars/mercedes-glb-220d/16.jpg";
+import glb220d_17 from "@/assets/cars/mercedes-glb-220d/17.jpg";
+import glb220d_18 from "@/assets/cars/mercedes-glb-220d/18.jpg";
+import glb220d_19 from "@/assets/cars/mercedes-glb-220d/19.jpg";
+import glb220d_20 from "@/assets/cars/mercedes-glb-220d/20.jpg";
+import glb220d_21 from "@/assets/cars/mercedes-glb-220d/21.jpg";
+import glb220d_22 from "@/assets/cars/mercedes-glb-220d/22.jpg";
+import glb220d_23 from "@/assets/cars/mercedes-glb-220d/23.jpg";
+import glb220d_24 from "@/assets/cars/mercedes-glb-220d/24.jpg";
 
 
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
@@ -774,7 +797,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "SUV",
     price: 37900,
-    images: [glb220d_1],
+    images: [glb220d_1, glb220d_2, glb220d_3, glb220d_4, glb220d_5, glb220d_6, glb220d_7, glb220d_8, glb220d_9, glb220d_10, glb220d_11, glb220d_12, glb220d_13, glb220d_14, glb220d_15, glb220d_16, glb220d_17, glb220d_18, glb220d_19, glb220d_20, glb220d_21, glb220d_22, glb220d_23, glb220d_24],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 MERCEDES-BENZ GLB 220d:
