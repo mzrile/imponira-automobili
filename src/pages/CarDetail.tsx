@@ -836,6 +836,54 @@ GARANCIJA NA VOZILO VRIJEDI DO 05/2027.
 Dodatna oprema:
 Sanremo green individual boja, M sportski paket, M sportske kočnice, M aerodinamični paket, BMW carbon core, M sportska sjedala, Grijanje sjedala, Grijanje svih naslona za ruku, Grijanje volana, El. podesiv volan, F1 pedale na volanu, Sjedala na struju sa memorijom, Individual Merino Ivory white koža, Armatura od kože sa prošivenim koncem, Obloge vrata od kože, BMW individual felge 20'', Swarovski paket, Laser svjetla, Automatska svjetla, Zakretanje zadnjih kotača, 360 kamera, Veliki ekran, Park pilot, Reversing assistant, Iconic glow (svjetleći grill), Soft-Close sistem zatvaranja vrata, Keyless go, Display ključ, Harman Kardon ozvučenje, Ambijentalno osvjetljenje, Head-up display, Modovi vožnje, Sportski display, Lane assist, Autopilot, Adaptivni tempomat, Aktivna zaštita pješaka, Connected package professional, El. otvaranje/zatvaranje prtljažnika, Parking ventilacija kabine, 2 ključa`,
   },
+  "bmw-x5-xdrive30d-2019": {
+    brand: "BMW",
+    model: "X5 xDrive 30d",
+    year: 2019,
+    mileage: 244930,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "195 kW",
+    engine: "Dizel",
+    registration: "06/2027",
+    driveType: "xDrive",
+    status: "Rabljeno",
+    bodyType: "SUV",
+    price: 42990,
+    images: [bmwX5_2019_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Vozilo u odličnom stanju, redovno održavan, posjeduje el. servisnu knjigu, svi servisi su napravljeni po intervalu svakih 20ak tkm, zadnji servis je napravljen 17.07.2026. na 244.930km, uz vozilo dolaze ljetne i zimske gume, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+VOZILO GLASI NA FIRMU, KUPAC NE PLAĆA PRIJENOS.
+
+REGISTRIRAN DO: 06/2027
+
+Dodatna oprema:
+M sportski paket, M kožni upravljač, M aerodinamički paket, M kočione čeljusti u plavoj boji, Kristalni mjenjač, Zračni ovjes, Modovi vožnje, Panoramski stakleni krov, Komforno sjedalo s memorijom, Sjedala na struju, Grijanje sjedala, 4 zone klima, Keyless, Digitalni ključ, Lane asistent, Adaptivni tempomat, Virtual cockpit, Vanjski retrovizori s automatskim prigušivanjem, Tonirana stakla, Akustična zaštita pješaka, Ambijentalno unutarnje svjetlo, DAB tuner, Sustav pomoći pri parkiranju Plus, 360 kamera, El. vrata prtljažnika, El. podešavanje volana, 2 ključa`,
+  },
+  "skoda-octavia-combi-rs-2-0tdi-dsg-2021": {
+    brand: "Škoda",
+    model: "Octavia Combi RS 2.0TDI DSG",
+    year: 2021,
+    mileage: 136200,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "147 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Karavan",
+    price: 26490,
+    images: [octaviaRs136_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Redovno održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, dva seta kotača (ljeto/zima), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+Quartz grey metalik boja, Felge 19", Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED svjetla, LED putujući žmigavci, Animacija svjetla, Active sound, LED Matrix svjetla, Head up display, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja parking kamera, Park asist, Front assist, Auto hold, Automatska duga svjetla, Sustav za ograničenje brzine, Adaptive tempomat, Autopilot, Modovi vožnje, Upozorenje na pospanost, Upozorenje na mrtvi kut, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Armatura od alcantare, Crno nebo, Carbon, Kožna RS sjedala, Memorija sjedala, El. podešavanje sjedala, Grijanje sjedala (prednja/zadnja), Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, Električna vrata prtljažnika, Otvaranje prtljažnika nogom, El. sklapanje retrovizora, DAB, Ambijentalna rasvjeta, LED logo projektor u vratima, Zavjese na prozorima, Sustav za kontrolu tlaka u gumama, Servotronic, Rezervni kotač, 2 ključa`,
+  },
   "audi-a5-sportback-2-0tdi": {
     brand: "Audi",
     model: "A5 Sportback 2.0TDI",
