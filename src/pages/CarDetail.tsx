@@ -666,8 +666,65 @@ import octaviaFirstPanorama_29 from "@/assets/cars/skoda-octavia-first-edition-p
 
 
 
+// BMW X5 xDrive30d 2019 images
 import bmwX5_2019_1 from "@/assets/cars/bmw-x5-xdrive30d-2019/1.jpg";
+import bmwX5_2019_2 from "@/assets/cars/bmw-x5-xdrive30d-2019/2.jpg";
+import bmwX5_2019_3 from "@/assets/cars/bmw-x5-xdrive30d-2019/3.jpg";
+import bmwX5_2019_4 from "@/assets/cars/bmw-x5-xdrive30d-2019/4.jpg";
+import bmwX5_2019_5 from "@/assets/cars/bmw-x5-xdrive30d-2019/5.jpg";
+import bmwX5_2019_6 from "@/assets/cars/bmw-x5-xdrive30d-2019/6.jpg";
+import bmwX5_2019_7 from "@/assets/cars/bmw-x5-xdrive30d-2019/7.jpg";
+import bmwX5_2019_8 from "@/assets/cars/bmw-x5-xdrive30d-2019/8.jpg";
+import bmwX5_2019_9 from "@/assets/cars/bmw-x5-xdrive30d-2019/9.jpg";
+import bmwX5_2019_10 from "@/assets/cars/bmw-x5-xdrive30d-2019/10.jpg";
+import bmwX5_2019_11 from "@/assets/cars/bmw-x5-xdrive30d-2019/11.jpg";
+import bmwX5_2019_12 from "@/assets/cars/bmw-x5-xdrive30d-2019/12.jpg";
+import bmwX5_2019_13 from "@/assets/cars/bmw-x5-xdrive30d-2019/13.jpg";
+import bmwX5_2019_14 from "@/assets/cars/bmw-x5-xdrive30d-2019/14.jpg";
+import bmwX5_2019_15 from "@/assets/cars/bmw-x5-xdrive30d-2019/15.jpg";
+import bmwX5_2019_16 from "@/assets/cars/bmw-x5-xdrive30d-2019/16.jpg";
+import bmwX5_2019_17 from "@/assets/cars/bmw-x5-xdrive30d-2019/17.jpg";
+import bmwX5_2019_18 from "@/assets/cars/bmw-x5-xdrive30d-2019/18.jpg";
+import bmwX5_2019_19 from "@/assets/cars/bmw-x5-xdrive30d-2019/19.jpg";
+import bmwX5_2019_20 from "@/assets/cars/bmw-x5-xdrive30d-2019/20.jpg";
+import bmwX5_2019_21 from "@/assets/cars/bmw-x5-xdrive30d-2019/21.jpg";
+import bmwX5_2019_22 from "@/assets/cars/bmw-x5-xdrive30d-2019/22.jpg";
+import bmwX5_2019_23 from "@/assets/cars/bmw-x5-xdrive30d-2019/23.jpg";
+import bmwX5_2019_24 from "@/assets/cars/bmw-x5-xdrive30d-2019/24.jpg";
+import bmwX5_2019_25 from "@/assets/cars/bmw-x5-xdrive30d-2019/25.jpg";
+import bmwX5_2019_26 from "@/assets/cars/bmw-x5-xdrive30d-2019/26.jpg";
+import bmwX5_2019_27 from "@/assets/cars/bmw-x5-xdrive30d-2019/27.jpg";
+
+// Škoda Octavia Combi RS 136k images
 import octaviaRs136_1 from "@/assets/cars/skoda-octavia-combi-rs-136k/1.jpg";
+import octaviaRs136_2 from "@/assets/cars/skoda-octavia-combi-rs-136k/2.jpg";
+import octaviaRs136_3 from "@/assets/cars/skoda-octavia-combi-rs-136k/3.jpg";
+import octaviaRs136_4 from "@/assets/cars/skoda-octavia-combi-rs-136k/4.jpg";
+import octaviaRs136_5 from "@/assets/cars/skoda-octavia-combi-rs-136k/5.jpg";
+import octaviaRs136_6 from "@/assets/cars/skoda-octavia-combi-rs-136k/6.jpg";
+import octaviaRs136_7 from "@/assets/cars/skoda-octavia-combi-rs-136k/7.jpg";
+import octaviaRs136_8 from "@/assets/cars/skoda-octavia-combi-rs-136k/8.jpg";
+import octaviaRs136_9 from "@/assets/cars/skoda-octavia-combi-rs-136k/9.jpg";
+import octaviaRs136_10 from "@/assets/cars/skoda-octavia-combi-rs-136k/10.jpg";
+import octaviaRs136_11 from "@/assets/cars/skoda-octavia-combi-rs-136k/11.jpg";
+import octaviaRs136_12 from "@/assets/cars/skoda-octavia-combi-rs-136k/12.jpg";
+import octaviaRs136_13 from "@/assets/cars/skoda-octavia-combi-rs-136k/13.jpg";
+import octaviaRs136_14 from "@/assets/cars/skoda-octavia-combi-rs-136k/14.jpg";
+import octaviaRs136_15 from "@/assets/cars/skoda-octavia-combi-rs-136k/15.jpg";
+import octaviaRs136_16 from "@/assets/cars/skoda-octavia-combi-rs-136k/16.jpg";
+import octaviaRs136_17 from "@/assets/cars/skoda-octavia-combi-rs-136k/17.jpg";
+import octaviaRs136_18 from "@/assets/cars/skoda-octavia-combi-rs-136k/18.jpg";
+import octaviaRs136_19 from "@/assets/cars/skoda-octavia-combi-rs-136k/19.jpg";
+import octaviaRs136_20 from "@/assets/cars/skoda-octavia-combi-rs-136k/20.jpg";
+import octaviaRs136_21 from "@/assets/cars/skoda-octavia-combi-rs-136k/21.jpg";
+import octaviaRs136_22 from "@/assets/cars/skoda-octavia-combi-rs-136k/22.jpg";
+import octaviaRs136_23 from "@/assets/cars/skoda-octavia-combi-rs-136k/23.jpg";
+import octaviaRs136_24 from "@/assets/cars/skoda-octavia-combi-rs-136k/24.jpg";
+import octaviaRs136_25 from "@/assets/cars/skoda-octavia-combi-rs-136k/25.jpg";
+import octaviaRs136_26 from "@/assets/cars/skoda-octavia-combi-rs-136k/26.jpg";
+import octaviaRs136_27 from "@/assets/cars/skoda-octavia-combi-rs-136k/27.jpg";
+import octaviaRs136_28 from "@/assets/cars/skoda-octavia-combi-rs-136k/28.jpg";
+import octaviaRs136_29 from "@/assets/cars/skoda-octavia-combi-rs-136k/29.jpg";
 
 const carDetails: Record<string, {
   brand: string;
@@ -850,7 +907,7 @@ Sanremo green individual boja, M sportski paket, M sportske kočnice, M aerodina
     status: "Rabljeno",
     bodyType: "SUV",
     price: 42990,
-    images: [bmwX5_2019_1],
+    images: [bmwX5_2019_1, bmwX5_2019_2, bmwX5_2019_3, bmwX5_2019_4, bmwX5_2019_5, bmwX5_2019_6, bmwX5_2019_7, bmwX5_2019_8, bmwX5_2019_9, bmwX5_2019_10, bmwX5_2019_11, bmwX5_2019_12, bmwX5_2019_13, bmwX5_2019_14, bmwX5_2019_15, bmwX5_2019_16, bmwX5_2019_17, bmwX5_2019_18, bmwX5_2019_19, bmwX5_2019_20, bmwX5_2019_21, bmwX5_2019_22, bmwX5_2019_23, bmwX5_2019_24, bmwX5_2019_25, bmwX5_2019_26, bmwX5_2019_27],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Vozilo u odličnom stanju, redovno održavan, posjeduje el. servisnu knjigu, svi servisi su napravljeni po intervalu svakih 20ak tkm, zadnji servis je napravljen 17.07.2026. na 244.930km, uz vozilo dolaze ljetne i zimske gume, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -876,7 +933,7 @@ M sportski paket, M kožni upravljač, M aerodinamički paket, M kočione čelju
     status: "Rabljeno",
     bodyType: "Karavan",
     price: 26490,
-    images: [octaviaRs136_1],
+    images: [octaviaRs136_1, octaviaRs136_2, octaviaRs136_3, octaviaRs136_4, octaviaRs136_5, octaviaRs136_6, octaviaRs136_7, octaviaRs136_8, octaviaRs136_9, octaviaRs136_10, octaviaRs136_11, octaviaRs136_12, octaviaRs136_13, octaviaRs136_14, octaviaRs136_15, octaviaRs136_16, octaviaRs136_17, octaviaRs136_18, octaviaRs136_19, octaviaRs136_20, octaviaRs136_21, octaviaRs136_22, octaviaRs136_23, octaviaRs136_24, octaviaRs136_25, octaviaRs136_26, octaviaRs136_27, octaviaRs136_28, octaviaRs136_29],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Redovno održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, dva seta kotača (ljeto/zima), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
