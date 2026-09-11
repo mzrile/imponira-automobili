@@ -458,13 +458,187 @@ import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
 
 
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
+import bmw840i_2 from "@/assets/cars/bmw-840i-xdrive-individual/2.jpg";
+import bmw840i_3 from "@/assets/cars/bmw-840i-xdrive-individual/3.jpg";
+import bmw840i_4 from "@/assets/cars/bmw-840i-xdrive-individual/4.jpg";
+import bmw840i_5 from "@/assets/cars/bmw-840i-xdrive-individual/5.jpg";
+import bmw840i_6 from "@/assets/cars/bmw-840i-xdrive-individual/6.jpg";
+import bmw840i_7 from "@/assets/cars/bmw-840i-xdrive-individual/7.jpg";
+import bmw840i_8 from "@/assets/cars/bmw-840i-xdrive-individual/8.jpg";
+import bmw840i_9 from "@/assets/cars/bmw-840i-xdrive-individual/9.jpg";
+import bmw840i_10 from "@/assets/cars/bmw-840i-xdrive-individual/10.jpg";
+import bmw840i_11 from "@/assets/cars/bmw-840i-xdrive-individual/11.jpg";
+import bmw840i_12 from "@/assets/cars/bmw-840i-xdrive-individual/12.jpg";
+import bmw840i_13 from "@/assets/cars/bmw-840i-xdrive-individual/13.jpg";
+import bmw840i_14 from "@/assets/cars/bmw-840i-xdrive-individual/14.jpg";
+import bmw840i_15 from "@/assets/cars/bmw-840i-xdrive-individual/15.jpg";
+import bmw840i_16 from "@/assets/cars/bmw-840i-xdrive-individual/16.jpg";
+import bmw840i_17 from "@/assets/cars/bmw-840i-xdrive-individual/17.jpg";
+import bmw840i_18 from "@/assets/cars/bmw-840i-xdrive-individual/18.jpg";
+import bmw840i_19 from "@/assets/cars/bmw-840i-xdrive-individual/19.jpg";
+import bmw840i_20 from "@/assets/cars/bmw-840i-xdrive-individual/20.jpg";
+import bmw840i_21 from "@/assets/cars/bmw-840i-xdrive-individual/21.jpg";
+import bmw840i_22 from "@/assets/cars/bmw-840i-xdrive-individual/22.jpg";
+import bmw840i_23 from "@/assets/cars/bmw-840i-xdrive-individual/23.jpg";
+import bmw840i_24 from "@/assets/cars/bmw-840i-xdrive-individual/24.jpg";
+import bmw840i_25 from "@/assets/cars/bmw-840i-xdrive-individual/25.jpg";
+import bmw840i_26 from "@/assets/cars/bmw-840i-xdrive-individual/26.jpg";
+import bmw840i_27 from "@/assets/cars/bmw-840i-xdrive-individual/27.jpg";
+import bmw840i_28 from "@/assets/cars/bmw-840i-xdrive-individual/28.jpg";
+import bmw840i_29 from "@/assets/cars/bmw-840i-xdrive-individual/29.jpg";
+import bmw840i_30 from "@/assets/cars/bmw-840i-xdrive-individual/30.jpg";
 
 import audiA5_1 from "@/assets/cars/audi-a5-sportback-2-0tdi/1.jpg";
+import audiA5_2 from "@/assets/cars/audi-a5-sportback-2-0tdi/2.jpg";
+import audiA5_3 from "@/assets/cars/audi-a5-sportback-2-0tdi/3.jpg";
+import audiA5_4 from "@/assets/cars/audi-a5-sportback-2-0tdi/4.jpg";
+import audiA5_5 from "@/assets/cars/audi-a5-sportback-2-0tdi/5.jpg";
+import audiA5_6 from "@/assets/cars/audi-a5-sportback-2-0tdi/6.jpg";
+import audiA5_7 from "@/assets/cars/audi-a5-sportback-2-0tdi/7.jpg";
+import audiA5_8 from "@/assets/cars/audi-a5-sportback-2-0tdi/8.jpg";
+import audiA5_9 from "@/assets/cars/audi-a5-sportback-2-0tdi/9.jpg";
+import audiA5_10 from "@/assets/cars/audi-a5-sportback-2-0tdi/10.jpg";
+import audiA5_11 from "@/assets/cars/audi-a5-sportback-2-0tdi/11.jpg";
+import audiA5_12 from "@/assets/cars/audi-a5-sportback-2-0tdi/12.jpg";
+import audiA5_13 from "@/assets/cars/audi-a5-sportback-2-0tdi/13.jpg";
+import audiA5_14 from "@/assets/cars/audi-a5-sportback-2-0tdi/14.jpg";
+import audiA5_15 from "@/assets/cars/audi-a5-sportback-2-0tdi/15.jpg";
+import audiA5_16 from "@/assets/cars/audi-a5-sportback-2-0tdi/16.jpg";
+import audiA5_17 from "@/assets/cars/audi-a5-sportback-2-0tdi/17.jpg";
+import audiA5_18 from "@/assets/cars/audi-a5-sportback-2-0tdi/18.jpg";
+import audiA5_19 from "@/assets/cars/audi-a5-sportback-2-0tdi/19.jpg";
+import audiA5_20 from "@/assets/cars/audi-a5-sportback-2-0tdi/20.jpg";
+import audiA5_21 from "@/assets/cars/audi-a5-sportback-2-0tdi/21.jpg";
 import meganeLimited_1 from "@/assets/cars/renault-megane-limited/1.jpg";
+import meganeLimited_2 from "@/assets/cars/renault-megane-limited/2.jpg";
+import meganeLimited_3 from "@/assets/cars/renault-megane-limited/3.jpg";
+import meganeLimited_4 from "@/assets/cars/renault-megane-limited/4.jpg";
+import meganeLimited_5 from "@/assets/cars/renault-megane-limited/5.jpg";
+import meganeLimited_6 from "@/assets/cars/renault-megane-limited/6.jpg";
+import meganeLimited_7 from "@/assets/cars/renault-megane-limited/7.jpg";
+import meganeLimited_8 from "@/assets/cars/renault-megane-limited/8.jpg";
+import meganeLimited_9 from "@/assets/cars/renault-megane-limited/9.jpg";
+import meganeLimited_10 from "@/assets/cars/renault-megane-limited/10.jpg";
+import meganeLimited_11 from "@/assets/cars/renault-megane-limited/11.jpg";
+import meganeLimited_12 from "@/assets/cars/renault-megane-limited/12.jpg";
+import meganeLimited_13 from "@/assets/cars/renault-megane-limited/13.jpg";
+import meganeLimited_14 from "@/assets/cars/renault-megane-limited/14.jpg";
+import meganeLimited_15 from "@/assets/cars/renault-megane-limited/15.jpg";
+import meganeLimited_16 from "@/assets/cars/renault-megane-limited/16.jpg";
+import meganeLimited_17 from "@/assets/cars/renault-megane-limited/17.jpg";
+import meganeLimited_18 from "@/assets/cars/renault-megane-limited/18.jpg";
+import meganeLimited_19 from "@/assets/cars/renault-megane-limited/19.jpg";
+import meganeLimited_20 from "@/assets/cars/renault-megane-limited/20.jpg";
+import meganeLimited_21 from "@/assets/cars/renault-megane-limited/21.jpg";
+import meganeLimited_22 from "@/assets/cars/renault-megane-limited/22.jpg";
+import meganeLimited_23 from "@/assets/cars/renault-megane-limited/23.jpg";
+import meganeLimited_24 from "@/assets/cars/renault-megane-limited/24.jpg";
+import meganeLimited_25 from "@/assets/cars/renault-megane-limited/25.jpg";
 import clioTce_1 from "@/assets/cars/renault-clio-tce/1.jpg";
+import clioTce_2 from "@/assets/cars/renault-clio-tce/2.jpg";
+import clioTce_3 from "@/assets/cars/renault-clio-tce/3.jpg";
+import clioTce_4 from "@/assets/cars/renault-clio-tce/4.jpg";
+import clioTce_5 from "@/assets/cars/renault-clio-tce/5.jpg";
+import clioTce_6 from "@/assets/cars/renault-clio-tce/6.jpg";
+import clioTce_7 from "@/assets/cars/renault-clio-tce/7.jpg";
+import clioTce_8 from "@/assets/cars/renault-clio-tce/8.jpg";
+import clioTce_9 from "@/assets/cars/renault-clio-tce/9.jpg";
+import clioTce_10 from "@/assets/cars/renault-clio-tce/10.jpg";
+import clioTce_11 from "@/assets/cars/renault-clio-tce/11.jpg";
+import clioTce_12 from "@/assets/cars/renault-clio-tce/12.jpg";
+import clioTce_13 from "@/assets/cars/renault-clio-tce/13.jpg";
+import clioTce_14 from "@/assets/cars/renault-clio-tce/14.jpg";
+import clioTce_15 from "@/assets/cars/renault-clio-tce/15.jpg";
+import clioTce_16 from "@/assets/cars/renault-clio-tce/16.jpg";
+import clioTce_17 from "@/assets/cars/renault-clio-tce/17.jpg";
+import clioTce_18 from "@/assets/cars/renault-clio-tce/18.jpg";
+import clioTce_19 from "@/assets/cars/renault-clio-tce/19.jpg";
+import clioTce_20 from "@/assets/cars/renault-clio-tce/20.jpg";
 import peugeot2008_1 from "@/assets/cars/peugeot-2008-gt-line/1.jpg";
+import peugeot2008_2 from "@/assets/cars/peugeot-2008-gt-line/2.jpg";
+import peugeot2008_3 from "@/assets/cars/peugeot-2008-gt-line/3.jpg";
+import peugeot2008_4 from "@/assets/cars/peugeot-2008-gt-line/4.jpg";
+import peugeot2008_5 from "@/assets/cars/peugeot-2008-gt-line/5.jpg";
+import peugeot2008_6 from "@/assets/cars/peugeot-2008-gt-line/6.jpg";
+import peugeot2008_7 from "@/assets/cars/peugeot-2008-gt-line/7.jpg";
+import peugeot2008_8 from "@/assets/cars/peugeot-2008-gt-line/8.jpg";
+import peugeot2008_9 from "@/assets/cars/peugeot-2008-gt-line/9.jpg";
+import peugeot2008_10 from "@/assets/cars/peugeot-2008-gt-line/10.jpg";
+import peugeot2008_11 from "@/assets/cars/peugeot-2008-gt-line/11.jpg";
+import peugeot2008_12 from "@/assets/cars/peugeot-2008-gt-line/12.jpg";
+import peugeot2008_13 from "@/assets/cars/peugeot-2008-gt-line/13.jpg";
+import peugeot2008_14 from "@/assets/cars/peugeot-2008-gt-line/14.jpg";
+import peugeot2008_15 from "@/assets/cars/peugeot-2008-gt-line/15.jpg";
+import peugeot2008_16 from "@/assets/cars/peugeot-2008-gt-line/16.jpg";
+import peugeot2008_17 from "@/assets/cars/peugeot-2008-gt-line/17.jpg";
+import peugeot2008_18 from "@/assets/cars/peugeot-2008-gt-line/18.jpg";
+import peugeot2008_19 from "@/assets/cars/peugeot-2008-gt-line/19.jpg";
+import peugeot2008_20 from "@/assets/cars/peugeot-2008-gt-line/20.jpg";
+import peugeot2008_21 from "@/assets/cars/peugeot-2008-gt-line/21.jpg";
+import peugeot2008_22 from "@/assets/cars/peugeot-2008-gt-line/22.jpg";
+import peugeot2008_23 from "@/assets/cars/peugeot-2008-gt-line/23.jpg";
+import peugeot2008_24 from "@/assets/cars/peugeot-2008-gt-line/24.jpg";
+import peugeot2008_25 from "@/assets/cars/peugeot-2008-gt-line/25.jpg";
+import peugeot2008_26 from "@/assets/cars/peugeot-2008-gt-line/26.jpg";
+import peugeot2008_27 from "@/assets/cars/peugeot-2008-gt-line/27.jpg";
+import peugeot2008_28 from "@/assets/cars/peugeot-2008-gt-line/28.jpg";
+import peugeot2008_29 from "@/assets/cars/peugeot-2008-gt-line/29.jpg";
 import octaviaFirst132_1 from "@/assets/cars/skoda-octavia-first-edition-132k/1.jpg";
+import octaviaFirst132_2 from "@/assets/cars/skoda-octavia-first-edition-132k/2.jpg";
+import octaviaFirst132_3 from "@/assets/cars/skoda-octavia-first-edition-132k/3.jpg";
+import octaviaFirst132_4 from "@/assets/cars/skoda-octavia-first-edition-132k/4.jpg";
+import octaviaFirst132_5 from "@/assets/cars/skoda-octavia-first-edition-132k/5.jpg";
+import octaviaFirst132_6 from "@/assets/cars/skoda-octavia-first-edition-132k/6.jpg";
+import octaviaFirst132_7 from "@/assets/cars/skoda-octavia-first-edition-132k/7.jpg";
+import octaviaFirst132_8 from "@/assets/cars/skoda-octavia-first-edition-132k/8.jpg";
+import octaviaFirst132_9 from "@/assets/cars/skoda-octavia-first-edition-132k/9.jpg";
+import octaviaFirst132_10 from "@/assets/cars/skoda-octavia-first-edition-132k/10.jpg";
+import octaviaFirst132_11 from "@/assets/cars/skoda-octavia-first-edition-132k/11.jpg";
+import octaviaFirst132_12 from "@/assets/cars/skoda-octavia-first-edition-132k/12.jpg";
+import octaviaFirst132_13 from "@/assets/cars/skoda-octavia-first-edition-132k/13.jpg";
+import octaviaFirst132_14 from "@/assets/cars/skoda-octavia-first-edition-132k/14.jpg";
+import octaviaFirst132_15 from "@/assets/cars/skoda-octavia-first-edition-132k/15.jpg";
+import octaviaFirst132_16 from "@/assets/cars/skoda-octavia-first-edition-132k/16.jpg";
+import octaviaFirst132_17 from "@/assets/cars/skoda-octavia-first-edition-132k/17.jpg";
+import octaviaFirst132_18 from "@/assets/cars/skoda-octavia-first-edition-132k/18.jpg";
+import octaviaFirst132_19 from "@/assets/cars/skoda-octavia-first-edition-132k/19.jpg";
+import octaviaFirst132_20 from "@/assets/cars/skoda-octavia-first-edition-132k/20.jpg";
+import octaviaFirst132_21 from "@/assets/cars/skoda-octavia-first-edition-132k/21.jpg";
+import octaviaFirst132_22 from "@/assets/cars/skoda-octavia-first-edition-132k/22.jpg";
+import octaviaFirst132_23 from "@/assets/cars/skoda-octavia-first-edition-132k/23.jpg";
+import octaviaFirst132_24 from "@/assets/cars/skoda-octavia-first-edition-132k/24.jpg";
+import octaviaFirst132_25 from "@/assets/cars/skoda-octavia-first-edition-132k/25.jpg";
+import octaviaFirst132_26 from "@/assets/cars/skoda-octavia-first-edition-132k/26.jpg";
+import octaviaFirst132_27 from "@/assets/cars/skoda-octavia-first-edition-132k/27.jpg";
 import octaviaFirstPanorama_1 from "@/assets/cars/skoda-octavia-first-edition-panorama/1.jpg";
+import octaviaFirstPanorama_2 from "@/assets/cars/skoda-octavia-first-edition-panorama/2.jpg";
+import octaviaFirstPanorama_3 from "@/assets/cars/skoda-octavia-first-edition-panorama/3.jpg";
+import octaviaFirstPanorama_4 from "@/assets/cars/skoda-octavia-first-edition-panorama/4.jpg";
+import octaviaFirstPanorama_5 from "@/assets/cars/skoda-octavia-first-edition-panorama/5.jpg";
+import octaviaFirstPanorama_6 from "@/assets/cars/skoda-octavia-first-edition-panorama/6.jpg";
+import octaviaFirstPanorama_7 from "@/assets/cars/skoda-octavia-first-edition-panorama/7.jpg";
+import octaviaFirstPanorama_8 from "@/assets/cars/skoda-octavia-first-edition-panorama/8.jpg";
+import octaviaFirstPanorama_9 from "@/assets/cars/skoda-octavia-first-edition-panorama/9.jpg";
+import octaviaFirstPanorama_10 from "@/assets/cars/skoda-octavia-first-edition-panorama/10.jpg";
+import octaviaFirstPanorama_11 from "@/assets/cars/skoda-octavia-first-edition-panorama/11.jpg";
+import octaviaFirstPanorama_12 from "@/assets/cars/skoda-octavia-first-edition-panorama/12.jpg";
+import octaviaFirstPanorama_13 from "@/assets/cars/skoda-octavia-first-edition-panorama/13.jpg";
+import octaviaFirstPanorama_14 from "@/assets/cars/skoda-octavia-first-edition-panorama/14.jpg";
+import octaviaFirstPanorama_15 from "@/assets/cars/skoda-octavia-first-edition-panorama/15.jpg";
+import octaviaFirstPanorama_16 from "@/assets/cars/skoda-octavia-first-edition-panorama/16.jpg";
+import octaviaFirstPanorama_17 from "@/assets/cars/skoda-octavia-first-edition-panorama/17.jpg";
+import octaviaFirstPanorama_18 from "@/assets/cars/skoda-octavia-first-edition-panorama/18.jpg";
+import octaviaFirstPanorama_19 from "@/assets/cars/skoda-octavia-first-edition-panorama/19.jpg";
+import octaviaFirstPanorama_20 from "@/assets/cars/skoda-octavia-first-edition-panorama/20.jpg";
+import octaviaFirstPanorama_21 from "@/assets/cars/skoda-octavia-first-edition-panorama/21.jpg";
+import octaviaFirstPanorama_22 from "@/assets/cars/skoda-octavia-first-edition-panorama/22.jpg";
+import octaviaFirstPanorama_23 from "@/assets/cars/skoda-octavia-first-edition-panorama/23.jpg";
+import octaviaFirstPanorama_24 from "@/assets/cars/skoda-octavia-first-edition-panorama/24.jpg";
+import octaviaFirstPanorama_25 from "@/assets/cars/skoda-octavia-first-edition-panorama/25.jpg";
+import octaviaFirstPanorama_26 from "@/assets/cars/skoda-octavia-first-edition-panorama/26.jpg";
+import octaviaFirstPanorama_27 from "@/assets/cars/skoda-octavia-first-edition-panorama/27.jpg";
+import octaviaFirstPanorama_28 from "@/assets/cars/skoda-octavia-first-edition-panorama/28.jpg";
+import octaviaFirstPanorama_29 from "@/assets/cars/skoda-octavia-first-edition-panorama/29.jpg";
 
 
 
@@ -624,7 +798,7 @@ AMG paket, AMG felge 19', Night paket, LED high performance svjetla, Sportski zv
     status: "Rabljeno",
     bodyType: "Coupe",
     price: 65990,
-    images: [bmw840i_1],
+    images: [bmw840i_1, bmw840i_2, bmw840i_3, bmw840i_4, bmw840i_5, bmw840i_6, bmw840i_7, bmw840i_8, bmw840i_9, bmw840i_10, bmw840i_11, bmw840i_12, bmw840i_13, bmw840i_14, bmw840i_15, bmw840i_16, bmw840i_17, bmw840i_18, bmw840i_19, bmw840i_20, bmw840i_21, bmw840i_22, bmw840i_23, bmw840i_24, bmw840i_25, bmw840i_26, bmw840i_27, bmw840i_28, bmw840i_29, bmw840i_30],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 BMW 840i xDrive:
@@ -650,7 +824,7 @@ Sanremo green individual boja, M sportski paket, M sportske kočnice, M aerodina
     status: "Rabljeno",
     bodyType: "Coupe",
     price: 19290,
-    images: [audiA5_1],
+    images: [audiA5_1, audiA5_2, audiA5_3, audiA5_4, audiA5_5, audiA5_6, audiA5_7, audiA5_8, audiA5_9, audiA5_10, audiA5_11, audiA5_12, audiA5_13, audiA5_14, audiA5_15, audiA5_16, audiA5_17, audiA5_18, audiA5_19, audiA5_20, audiA5_21],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 AUDI A5 SPORTBACK: Održavan u ovlaštenom servisu, posjeduje servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, dodatni set zimskih guma sa alu felgama, moguća provjera bilo gdje po želji kupca ...
@@ -674,7 +848,7 @@ LED svjetla, Alu felge 19", Tempomat, MF kožni volan, Zatvaranje gepeka na stru
     status: "Rabljeno",
     bodyType: "Karavan",
     price: 21990,
-    images: [octaviaFirstPanorama_1],
+    images: [octaviaFirstPanorama_1, octaviaFirstPanorama_2, octaviaFirstPanorama_3, octaviaFirstPanorama_4, octaviaFirstPanorama_5, octaviaFirstPanorama_6, octaviaFirstPanorama_7, octaviaFirstPanorama_8, octaviaFirstPanorama_9, octaviaFirstPanorama_10, octaviaFirstPanorama_11, octaviaFirstPanorama_12, octaviaFirstPanorama_13, octaviaFirstPanorama_14, octaviaFirstPanorama_15, octaviaFirstPanorama_16, octaviaFirstPanorama_17, octaviaFirstPanorama_18, octaviaFirstPanorama_19, octaviaFirstPanorama_20, octaviaFirstPanorama_21, octaviaFirstPanorama_22, octaviaFirstPanorama_23, octaviaFirstPanorama_24, octaviaFirstPanorama_25, octaviaFirstPanorama_26, octaviaFirstPanorama_27, octaviaFirstPanorama_28, octaviaFirstPanorama_29],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Održavan u ovlaštenom servisu, dva seta felgi sa gumama (ljeto/zima) posjeduje el. servisnu knjigu, zadnji servis napravljen na 102.400km (novi prednji i zadnji diskovi i kočione pločice, zamjena ulja i svih filtera), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -698,7 +872,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "Karavan",
     price: 20990,
-    images: [octaviaFirst132_1],
+    images: [octaviaFirst132_1, octaviaFirst132_2, octaviaFirst132_3, octaviaFirst132_4, octaviaFirst132_5, octaviaFirst132_6, octaviaFirst132_7, octaviaFirst132_8, octaviaFirst132_9, octaviaFirst132_10, octaviaFirst132_11, octaviaFirst132_12, octaviaFirst132_13, octaviaFirst132_14, octaviaFirst132_15, octaviaFirst132_16, octaviaFirst132_17, octaviaFirst132_18, octaviaFirst132_19, octaviaFirst132_20, octaviaFirst132_21, octaviaFirst132_22, octaviaFirst132_23, octaviaFirst132_24, octaviaFirst132_25, octaviaFirst132_26, octaviaFirst132_27],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Na 132.200km je napravljen servis DSG getribe, zamjenjeno motorno ulje i filteri, na prethodnom servisu su stavljeni novi diskovi i pločice, redovno održavan, bez apsolutno ikakvih dodatnih ulaganja…
@@ -722,7 +896,7 @@ Metalik boja, Felge perseus 18, Tonirana stakla, LED Matrix svjetla, Animacija s
     status: "Rabljeno",
     bodyType: "SUV",
     price: 18490,
-    images: [peugeot2008_1],
+    images: [peugeot2008_1, peugeot2008_2, peugeot2008_3, peugeot2008_4, peugeot2008_5, peugeot2008_6, peugeot2008_7, peugeot2008_8, peugeot2008_9, peugeot2008_10, peugeot2008_11, peugeot2008_12, peugeot2008_13, peugeot2008_14, peugeot2008_15, peugeot2008_16, peugeot2008_17, peugeot2008_18, peugeot2008_19, peugeot2008_20, peugeot2008_21, peugeot2008_22, peugeot2008_23, peugeot2008_24, peugeot2008_25, peugeot2008_26, peugeot2008_27, peugeot2008_28, peugeot2008_29],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Prvi vlasnik, nove zimske gume, ljetne gume, održavan u ovlaštenom servisu, posjeduje servisnu knjigu, zadnji servis napravljen na 73.236km (12/2025), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -744,7 +918,7 @@ Perla bijela boja, GT paket, Black paket, GT felge 17', Crno nebo, Full LED tehn
     status: "Rabljeno",
     bodyType: "Hatchback",
     price: 14290,
-    images: [clioTce_1],
+    images: [clioTce_1, clioTce_2, clioTce_3, clioTce_4, clioTce_5, clioTce_6, clioTce_7, clioTce_8, clioTce_9, clioTce_10, clioTce_11, clioTce_12, clioTce_13, clioTce_14, clioTce_15, clioTce_16, clioTce_17, clioTce_18, clioTce_19, clioTce_20],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, dva seta felgi i guma (ljeto/zima), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
@@ -768,7 +942,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "Hatchback",
     price: 12990,
-    images: [meganeLimited_1],
+    images: [meganeLimited_1, meganeLimited_2, meganeLimited_3, meganeLimited_4, meganeLimited_5, meganeLimited_6, meganeLimited_7, meganeLimited_8, meganeLimited_9, meganeLimited_10, meganeLimited_11, meganeLimited_12, meganeLimited_13, meganeLimited_14, meganeLimited_15, meganeLimited_16, meganeLimited_17, meganeLimited_18, meganeLimited_19, meganeLimited_20, meganeLimited_21, meganeLimited_22, meganeLimited_23, meganeLimited_24, meganeLimited_25],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Zadnji servis napravljen na 90.200km.
