@@ -666,6 +666,9 @@ import octaviaFirstPanorama_29 from "@/assets/cars/skoda-octavia-first-edition-p
 
 
 
+import bmwX5_2019_1 from "@/assets/cars/bmw-x5-xdrive30d-2019/1.jpg";
+import octaviaRs136_1 from "@/assets/cars/skoda-octavia-combi-rs-136k/1.jpg";
+
 const carDetails: Record<string, {
   brand: string;
   model: string;
