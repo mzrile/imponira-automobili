@@ -1131,7 +1131,10 @@ const CarDetail = () => {
         <div className="mb-8">
           <h1 className="text-4xl font-bold text-foreground mb-2">{car.brand} {car.model}</h1>
           <div className="flex items-center justify-between">
-            <p className="text-2xl text-primary font-bold">{car.price.toLocaleString()} €</p>
+            <div>
+              <p className="text-2xl text-primary font-bold">{car.price.toLocaleString()} €</p>
+              <p className="text-sm text-foreground mt-1">Sidrena cijena (10.09.2026.): {car.price.toLocaleString()} €</p>
+            </div>
             <a 
               href="tel:0912666668" 
               className="md:hidden flex items-center justify-center text-primary hover:text-primary/80 transition-colors"
