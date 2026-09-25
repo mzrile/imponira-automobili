@@ -43,7 +43,7 @@ const CarCard = ({ id, slug, image, brand, model, year, mileage, fuelType, trans
           </div>
           <div className="mt-auto">
             <div className="text-2xl font-bold text-primary">{price.toLocaleString()} €</div>
-            <p className="text-sm text-foreground mt-1">Sidrena cijena (10.09.2026.): {price.toLocaleString()} €</p>
+            <p className="text-xs text-foreground mt-1">Sidrena cijena (10.09.2026.): {price.toLocaleString()} €</p>
           </div>
         </div>
       </Card>
