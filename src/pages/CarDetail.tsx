@@ -692,6 +692,7 @@ const carDetails: Record<string, {
   status: string;
   bodyType: string;
   price: number;
+  priceDate?: string;
   images: string[];
   description: string;
 }> = {
@@ -999,6 +1000,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     status: "Rabljeno",
     bodyType: "Hatchback",
     price: 29990,
+    priceDate: "02.10.2026.",
     images: [golf8Style_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -1021,6 +1023,7 @@ Style paket opreme, R-line felge 18', Ergo activ sjedala, Memorija sjedala, Masa
     status: "Rabljeno",
     bodyType: "SUV",
     price: 26290,
+    priceDate: "02.10.2026.",
     images: [troc4m_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -1045,6 +1048,7 @@ R-LINE paket opreme, Sportska R-line sjedala, Metalik boja, IQ light, LED straž
     status: "Rabljeno",
     bodyType: "SUV",
     price: 25990,
+    priceDate: "02.10.2026.",
     images: [trocRl_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -1069,6 +1073,7 @@ R-LINE paket opreme, Sportska sjedala, Masaža vozačevog sjedala, Beats audio o
     status: "Rabljeno",
     bodyType: "Coupe",
     price: 19290,
+    priceDate: "02.10.2026.",
     images: [audiA5_40_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -1127,7 +1132,7 @@ const CarDetail = () => {
           <div className="flex items-center justify-between">
             <div>
               <p className="text-2xl text-primary font-bold">{car.price.toLocaleString()} €</p>
-              <p className="text-xs text-foreground mt-1">Cijena (10.09.2026.): {car.price.toLocaleString()} €</p>
+              <p className="text-xs text-foreground mt-1">Cijena ({car.priceDate ?? "10.09.2026."}): {car.price.toLocaleString()} €</p>
             </div>
             <a 
               href="tel:0912666668" 
