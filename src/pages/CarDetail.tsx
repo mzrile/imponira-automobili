@@ -533,6 +533,10 @@ import audiA5_19 from "@/assets/cars/audi-a5-sportback-2-0tdi/19.jpg";
 import audiA5_20 from "@/assets/cars/audi-a5-sportback-2-0tdi/20.jpg";
 import audiA5_21 from "@/assets/cars/audi-a5-sportback-2-0tdi/21.jpg";
 import meganeLimited_1 from "@/assets/cars/renault-megane-limited/1.jpg";
+import golf8Style_1 from "@/assets/cars/vw-golf-8-style-2025/1.jpg";
+import troc4m_1 from "@/assets/cars/vw-t-roc-4motion-rline/1.jpg";
+import trocRl_1 from "@/assets/cars/vw-t-roc-rline-114k/1.jpg";
+import audiA5_40_1 from "@/assets/cars/audi-a5-sportback-40tdi-sline/1.jpg";
 import meganeLimited_2 from "@/assets/cars/renault-megane-limited/2.jpg";
 import meganeLimited_3 from "@/assets/cars/renault-megane-limited/3.jpg";
 import meganeLimited_4 from "@/assets/cars/renault-megane-limited/4.jpg";
@@ -1082,6 +1086,98 @@ Vozilo glasi na firmu, kupac ne plaća prijenos.
 
 Dodatna oprema:
 Metalik boja, Alu felge, LED svjetla, MF volan, Digitalni kokpit, Automatska klima, Grijanje sjedala, Parking senzori, Pomoć za parkiranje, Putno računalo, El. parkirna kočnica, Tempomat, Limitator brzine, El. sklopivi retrovizori, El. podesivi retrovizori, Start/stop sistem, USB priključak, Tonirana stakla, 2 ključa`,
+  },
+  "vw-golf-8-2-0tdi-dsg-style": {
+    brand: "VW",
+    model: "Golf 8 2.0 TDI DSG Style Redizajn",
+    year: 2025,
+    mileage: 25400,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "110 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Hatchback",
+    price: 29990,
+    images: [golf8Style_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Vozilo je redovno održavano u ovlaštenom servisu, servisna povijest, zadnji servis napravljen na 25.000km, na vozilu R-line original felge i nove hankook gume, bez apsolutno ikakvih dodatnih ulaganja…
+
+Dodatna oprema:
+Style paket opreme, R-line felge 18', Ergo activ sjedala, Memorija sjedala, Masaža sjedala, Metalik boja delfin grau, Piano black konzola, IQ light, Svjetleći znak, LED stražnja svjetla, Animacija svjetla, Full virtualni kokpit, Veliki središnji ekran osjetljiv na dodir, Navigacija, Stražnja parking kamera, Prednji i zadnji parking senzori, Modovi vožnje, Parkpilot, Adaptivni tempomat, Front assist, Lane assist, Auto hold, Prepoznavanje prometnih znakova, Prepoznavanje umora, Proaktivna zaštita pješaka, Automatska klima, Bežično punjenje mobitela, El. sklapanje retrovizora, Tonirana stakla, Senzor za svjetlo, Senzor za kišu`,
+  },
+  "vw-t-roc-2-0tdi-4motion-dsg-r-line": {
+    brand: "VW",
+    model: "T-Roc 2.0 TDI 4Motion DSG R-Line",
+    year: 2022,
+    mileage: 104350,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "110 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "SUV",
+    price: 26290,
+    images: [troc4m_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Vozilo je redovno održavano u ovlaštenom servisu, servisna povijest, zadnji servis napravljen na 102.148km, bez apsolutno ikakvih dodatnih ulaganja…
+
+DOSTUPNO VIŠE SLIČNIH VOZILA NA LAGERU.
+
+Dodatna oprema:
+R-LINE paket opreme, Sportska R-line sjedala, Metalik boja, IQ light, LED stražnja svjetla, Automatska svjetla, Animacija svjetla, Full virtualni kokpit, Veliki središnji ekran osjetljiv na dodir, Navigacija, Keyless system, Stražnja parking kamera, Prednji i zadnji parking senzori, Modovi vožnje, Parkpilot, Adaptivni tempomat, Front assist, Lane assist, Mrtvi kut, Auto hold, Prepoznavanje prometnih znakova, Prepoznavanje umora, Proaktivna zaštita putnika, El. vrata prtljažnika, Grijanje volana, Grijanje sjedala, Armatura sa prošivenim koncem, Automatska klima, Bežično punjenje mobitela, Senzor za svjetlo, Senzor za kišu`,
+  },
+  "vw-t-roc-2-0tdi-dsg-r-line": {
+    brand: "VW",
+    model: "T-Roc 2.0 TDI DSG R-Line",
+    year: 2022,
+    mileage: 114000,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "110 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "SUV",
+    price: 25990,
+    images: [trocRl_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Vozilo je redovno održavano u ovlaštenom servisu, servisna povijest, nove ljetne gume na vozilu, bez apsolutno ikakvih dodatnih ulaganja…
+
+DOSTUPNO VIŠE SLIČNIH VOZILA NA LAGERU.
+
+Dodatna oprema:
+R-LINE paket opreme, Sportska sjedala, Masaža vozačevog sjedala, Beats audio ozvučenje, IQ light, LED stražnja svjetla, Automatska svjetla, Animacija svjetla, Full virtualni kokpit, Središnji ekran osjetljiv na dodir, Navigacija, Prednji i zadnji parking senzori, Modovi vožnje, Parkpilot, Adaptivni tempomat, Front assist, Lane assist, Mrtvi kut, Auto hold, Prepoznavanje prometnih znakova, Prepoznavanje umora, Proaktivna zaštita putnika, Grijanje volana, Grijanje sjedala, Armatura sa prošivenim koncem, Automatska klima, Bežično punjenje mobitela, Senzor za svjetlo, Senzor za kišu, 2 ključa`,
+  },
+  "audi-a5-sportback-40tdi-s-line": {
+    brand: "Audi",
+    model: "A5 Sportback 40TDI S-Line",
+    year: 2019,
+    mileage: 232000,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "140 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Coupe",
+    price: 19290,
+    images: [audiA5_40_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Vozilo je redovno održavano.
+
+Dodatna oprema:
+S-line, S-line sjedala, LED svjetla, Virtualni kokpit, Automatska klima, Digitalni ekran klime, Grijanje sjedala, Tempomat, Parking senzori, Modovi vožnje, Start/stop sistem, El. vrata prtljažnika`,
   },
 };
 
