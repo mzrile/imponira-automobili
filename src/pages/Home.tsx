@@ -10,12 +10,9 @@ import SEO from "@/components/SEO";
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
 import octaviaFirstPanorama_1 from "@/assets/cars/skoda-octavia-first-edition-panorama/1.jpg";
 import octaviaFirst132_1 from "@/assets/cars/skoda-octavia-first-edition-132k/1.jpg";
-import peugeot2008_1 from "@/assets/cars/peugeot-2008-gt-line/1.jpg";
 import golf8Style_1 from "@/assets/cars/vw-golf-8-style-2025/1.jpg";
 import troc4m_1 from "@/assets/cars/vw-t-roc-4motion-rline/1.jpg";
 import trocRl_1 from "@/assets/cars/vw-t-roc-rline-114k/1.jpg";
-import audiA5_40_1 from "@/assets/cars/audi-a5-sportback-40tdi-sline/1.jpg";
-import clioTce_1 from "@/assets/cars/renault-clio-tce/1.jpg";
 
 // Brand logos
 import porscheLogo from "@/assets/brands/porsche-new.png";
@@ -36,9 +33,6 @@ const featuredCars = [
   { id: 44, slug: "vw-t-roc-2-0tdi-dsg-r-line", image: trocRl_1, brand: "VW", model: "T-Roc 2.0 TDI DSG R-Line", year: 2022, mileage: 114000, fuelType: "Dizel", price: 25990, brandLogo: volkswagenLogo },
   { id: 35, slug: "skoda-octavia-combi-first-edition-panorama", image: octaviaFirstPanorama_1, brand: "Škoda", model: "Octavia Combi First Edition Panorama", year: 2020, mileage: 102400, fuelType: "Dizel", price: 21990, brandLogo: skodaLogo },
   { id: 36, slug: "skoda-octavia-combi-first-edition-2020", image: octaviaFirst132_1, brand: "Škoda", model: "Octavia Combi 2.0TDI First Edition", year: 2020, mileage: 132200, fuelType: "Dizel", price: 20990, brandLogo: skodaLogo },
-  { id: 45, slug: "audi-a5-sportback-40tdi-s-line", image: audiA5_40_1, brand: "Audi", model: "A5 Sportback 40TDI S-Line", year: 2019, mileage: 232000, fuelType: "Dizel", price: 19290, brandLogo: audiLogo },
-  { id: 37, slug: "peugeot-2008-gt-line-black", image: peugeot2008_1, brand: "Peugeot", model: "2008 1.5 HDI GT Line Black Paket", year: 2020, mileage: 85000, fuelType: "Dizel", price: 18490, brandLogo: peugeotLogo },
-  { id: 38, slug: "renault-clio-edition-one-tce", image: clioTce_1, brand: "Renault", model: "Clio Edition One TCe Automatik", year: 2020, mileage: 121000, fuelType: "Benzin", price: 14290, brandLogo: renaultLogo },
 ];
 
 
