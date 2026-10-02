@@ -532,35 +532,10 @@ import audiA5_18 from "@/assets/cars/audi-a5-sportback-2-0tdi/18.jpg";
 import audiA5_19 from "@/assets/cars/audi-a5-sportback-2-0tdi/19.jpg";
 import audiA5_20 from "@/assets/cars/audi-a5-sportback-2-0tdi/20.jpg";
 import audiA5_21 from "@/assets/cars/audi-a5-sportback-2-0tdi/21.jpg";
-import meganeLimited_1 from "@/assets/cars/renault-megane-limited/1.jpg";
 import golf8Style_1 from "@/assets/cars/vw-golf-8-style-2025/1.jpg";
 import troc4m_1 from "@/assets/cars/vw-t-roc-4motion-rline/1.jpg";
 import trocRl_1 from "@/assets/cars/vw-t-roc-rline-114k/1.jpg";
 import audiA5_40_1 from "@/assets/cars/audi-a5-sportback-40tdi-sline/1.jpg";
-import meganeLimited_2 from "@/assets/cars/renault-megane-limited/2.jpg";
-import meganeLimited_3 from "@/assets/cars/renault-megane-limited/3.jpg";
-import meganeLimited_4 from "@/assets/cars/renault-megane-limited/4.jpg";
-import meganeLimited_5 from "@/assets/cars/renault-megane-limited/5.jpg";
-import meganeLimited_6 from "@/assets/cars/renault-megane-limited/6.jpg";
-import meganeLimited_7 from "@/assets/cars/renault-megane-limited/7.jpg";
-import meganeLimited_8 from "@/assets/cars/renault-megane-limited/8.jpg";
-import meganeLimited_9 from "@/assets/cars/renault-megane-limited/9.jpg";
-import meganeLimited_10 from "@/assets/cars/renault-megane-limited/10.jpg";
-import meganeLimited_11 from "@/assets/cars/renault-megane-limited/11.jpg";
-import meganeLimited_12 from "@/assets/cars/renault-megane-limited/12.jpg";
-import meganeLimited_13 from "@/assets/cars/renault-megane-limited/13.jpg";
-import meganeLimited_14 from "@/assets/cars/renault-megane-limited/14.jpg";
-import meganeLimited_15 from "@/assets/cars/renault-megane-limited/15.jpg";
-import meganeLimited_16 from "@/assets/cars/renault-megane-limited/16.jpg";
-import meganeLimited_17 from "@/assets/cars/renault-megane-limited/17.jpg";
-import meganeLimited_18 from "@/assets/cars/renault-megane-limited/18.jpg";
-import meganeLimited_19 from "@/assets/cars/renault-megane-limited/19.jpg";
-import meganeLimited_20 from "@/assets/cars/renault-megane-limited/20.jpg";
-import meganeLimited_21 from "@/assets/cars/renault-megane-limited/21.jpg";
-import meganeLimited_22 from "@/assets/cars/renault-megane-limited/22.jpg";
-import meganeLimited_23 from "@/assets/cars/renault-megane-limited/23.jpg";
-import meganeLimited_24 from "@/assets/cars/renault-megane-limited/24.jpg";
-import meganeLimited_25 from "@/assets/cars/renault-megane-limited/25.jpg";
 import clioTce_1 from "@/assets/cars/renault-clio-tce/1.jpg";
 import clioTce_2 from "@/assets/cars/renault-clio-tce/2.jpg";
 import clioTce_3 from "@/assets/cars/renault-clio-tce/3.jpg";
@@ -671,33 +646,6 @@ import octaviaFirstPanorama_29 from "@/assets/cars/skoda-octavia-first-edition-p
 
 
 // BMW X5 xDrive30d 2019 images
-import bmwX5_2019_1 from "@/assets/cars/bmw-x5-xdrive30d-2019/1.jpg";
-import bmwX5_2019_2 from "@/assets/cars/bmw-x5-xdrive30d-2019/2.jpg";
-import bmwX5_2019_3 from "@/assets/cars/bmw-x5-xdrive30d-2019/3.jpg";
-import bmwX5_2019_4 from "@/assets/cars/bmw-x5-xdrive30d-2019/4.jpg";
-import bmwX5_2019_5 from "@/assets/cars/bmw-x5-xdrive30d-2019/5.jpg";
-import bmwX5_2019_6 from "@/assets/cars/bmw-x5-xdrive30d-2019/6.jpg";
-import bmwX5_2019_7 from "@/assets/cars/bmw-x5-xdrive30d-2019/7.jpg";
-import bmwX5_2019_8 from "@/assets/cars/bmw-x5-xdrive30d-2019/8.jpg";
-import bmwX5_2019_9 from "@/assets/cars/bmw-x5-xdrive30d-2019/9.jpg";
-import bmwX5_2019_10 from "@/assets/cars/bmw-x5-xdrive30d-2019/10.jpg";
-import bmwX5_2019_11 from "@/assets/cars/bmw-x5-xdrive30d-2019/11.jpg";
-import bmwX5_2019_12 from "@/assets/cars/bmw-x5-xdrive30d-2019/12.jpg";
-import bmwX5_2019_13 from "@/assets/cars/bmw-x5-xdrive30d-2019/13.jpg";
-import bmwX5_2019_14 from "@/assets/cars/bmw-x5-xdrive30d-2019/14.jpg";
-import bmwX5_2019_15 from "@/assets/cars/bmw-x5-xdrive30d-2019/15.jpg";
-import bmwX5_2019_16 from "@/assets/cars/bmw-x5-xdrive30d-2019/16.jpg";
-import bmwX5_2019_17 from "@/assets/cars/bmw-x5-xdrive30d-2019/17.jpg";
-import bmwX5_2019_18 from "@/assets/cars/bmw-x5-xdrive30d-2019/18.jpg";
-import bmwX5_2019_19 from "@/assets/cars/bmw-x5-xdrive30d-2019/19.jpg";
-import bmwX5_2019_20 from "@/assets/cars/bmw-x5-xdrive30d-2019/20.jpg";
-import bmwX5_2019_21 from "@/assets/cars/bmw-x5-xdrive30d-2019/21.jpg";
-import bmwX5_2019_22 from "@/assets/cars/bmw-x5-xdrive30d-2019/22.jpg";
-import bmwX5_2019_23 from "@/assets/cars/bmw-x5-xdrive30d-2019/23.jpg";
-import bmwX5_2019_24 from "@/assets/cars/bmw-x5-xdrive30d-2019/24.jpg";
-import bmwX5_2019_25 from "@/assets/cars/bmw-x5-xdrive30d-2019/25.jpg";
-import bmwX5_2019_26 from "@/assets/cars/bmw-x5-xdrive30d-2019/26.jpg";
-import bmwX5_2019_27 from "@/assets/cars/bmw-x5-xdrive30d-2019/27.jpg";
 
 // Škoda Octavia Combi RS 136k images
 import octaviaRs136_1 from "@/assets/cars/skoda-octavia-combi-rs-136k/1.jpg";
@@ -897,32 +845,6 @@ GARANCIJA NA VOZILO VRIJEDI DO 05/2027.
 Dodatna oprema:
 Sanremo green individual boja, M sportski paket, M sportske kočnice, M aerodinamični paket, BMW carbon core, M sportska sjedala, Grijanje sjedala, Grijanje svih naslona za ruku, Grijanje volana, El. podesiv volan, F1 pedale na volanu, Sjedala na struju sa memorijom, Individual Merino Ivory white koža, Armatura od kože sa prošivenim koncem, Obloge vrata od kože, BMW individual felge 20'', Swarovski paket, Laser svjetla, Automatska svjetla, Zakretanje zadnjih kotača, 360 kamera, Veliki ekran, Park pilot, Reversing assistant, Iconic glow (svjetleći grill), Soft-Close sistem zatvaranja vrata, Keyless go, Display ključ, Harman Kardon ozvučenje, Ambijentalno osvjetljenje, Head-up display, Modovi vožnje, Sportski display, Lane assist, Autopilot, Adaptivni tempomat, Aktivna zaštita pješaka, Connected package professional, El. otvaranje/zatvaranje prtljažnika, Parking ventilacija kabine, 2 ključa`,
   },
-  "bmw-x5-xdrive30d-2019": {
-    brand: "BMW",
-    model: "X5 xDrive 30d",
-    year: 2019,
-    mileage: 244930,
-    fuelType: "Dizel",
-    transmission: "Automatski",
-    power: "195 kW",
-    engine: "Dizel",
-    registration: "06/2027",
-    driveType: "xDrive",
-    status: "Rabljeno",
-    bodyType: "SUV",
-    price: 42990,
-    images: [bmwX5_2019_1, bmwX5_2019_2, bmwX5_2019_3, bmwX5_2019_4, bmwX5_2019_5, bmwX5_2019_6, bmwX5_2019_7, bmwX5_2019_8, bmwX5_2019_9, bmwX5_2019_10, bmwX5_2019_11, bmwX5_2019_12, bmwX5_2019_13, bmwX5_2019_14, bmwX5_2019_15, bmwX5_2019_16, bmwX5_2019_17, bmwX5_2019_18, bmwX5_2019_19, bmwX5_2019_20, bmwX5_2019_21, bmwX5_2019_22, bmwX5_2019_23, bmwX5_2019_24, bmwX5_2019_25, bmwX5_2019_26, bmwX5_2019_27],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-Vozilo u odličnom stanju, redovno održavan, posjeduje el. servisnu knjigu, svi servisi su napravljeni po intervalu svakih 20ak tkm, zadnji servis je napravljen 17.07.2026. na 244.930km, uz vozilo dolaze ljetne i zimske gume, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-VOZILO GLASI NA FIRMU, KUPAC NE PLAĆA PRIJENOS.
-
-REGISTRIRAN DO: 06/2027
-
-Dodatna oprema:
-M sportski paket, M kožni upravljač, M aerodinamički paket, M kočione čeljusti u plavoj boji, Kristalni mjenjač, Zračni ovjes, Modovi vožnje, Panoramski stakleni krov, Komforno sjedalo s memorijom, Sjedala na struju, Grijanje sjedala, 4 zone klima, Keyless, Digitalni ključ, Lane asistent, Adaptivni tempomat, Virtual cockpit, Vanjski retrovizori s automatskim prigušivanjem, Tonirana stakla, Akustična zaštita pješaka, Ambijentalno unutarnje svjetlo, DAB tuner, Sustav pomoći pri parkiranju Plus, 360 kamera, El. vrata prtljažnika, El. podešavanje volana, 2 ključa`,
-  },
   "skoda-octavia-combi-rs-2-0tdi-dsg-2021": {
     brand: "Škoda",
     model: "Octavia Combi RS 2.0TDI DSG",
@@ -1063,30 +985,6 @@ Automatski mjenjač sa 7 brzina, Boja Valencia narančasta, Crna krovna obloga, 
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
-  "renault-megane-limited-dci-115": {
-    brand: "Renault",
-    model: "Megane Limited dCi 115",
-    year: 2021,
-    mileage: 94900,
-    fuelType: "Dizel",
-    transmission: "Ručni",
-    power: "85 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "Hatchback",
-    price: 12990,
-    images: [meganeLimited_1, meganeLimited_2, meganeLimited_3, meganeLimited_4, meganeLimited_5, meganeLimited_6, meganeLimited_7, meganeLimited_8, meganeLimited_9, meganeLimited_10, meganeLimited_11, meganeLimited_12, meganeLimited_13, meganeLimited_14, meganeLimited_15, meganeLimited_16, meganeLimited_17, meganeLimited_18, meganeLimited_19, meganeLimited_20, meganeLimited_21, meganeLimited_22, meganeLimited_23, meganeLimited_24, meganeLimited_25],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-Zadnji servis napravljen na 90.200km.
-
-Vozilo glasi na firmu, kupac ne plaća prijenos.
-
-Dodatna oprema:
-Metalik boja, Alu felge, LED svjetla, MF volan, Digitalni kokpit, Automatska klima, Grijanje sjedala, Parking senzori, Pomoć za parkiranje, Putno računalo, El. parkirna kočnica, Tempomat, Limitator brzine, El. sklopivi retrovizori, El. podesivi retrovizori, Start/stop sistem, USB priključak, Tonirana stakla, 2 ključa`,
-  },
   "vw-golf-8-2-0tdi-dsg-style": {
     brand: "VW",
     model: "Golf 8 2.0 TDI DSG Style Redizajn",
@@ -1119,7 +1017,7 @@ Style paket opreme, R-line felge 18', Ergo activ sjedala, Memorija sjedala, Masa
     power: "110 kW",
     engine: "Dizel",
     registration: "-",
-    driveType: "Prednji",
+    driveType: "4x4",
     status: "Rabljeno",
     bodyType: "SUV",
     price: 26290,
