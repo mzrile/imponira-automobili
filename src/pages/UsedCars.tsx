@@ -22,8 +22,6 @@ import octaviaFirstPanorama_1 from "@/assets/cars/skoda-octavia-first-edition-pa
 import octaviaFirst132_1 from "@/assets/cars/skoda-octavia-first-edition-132k/1.jpg";
 import peugeot2008_1 from "@/assets/cars/peugeot-2008-gt-line/1.jpg";
 import clioTce_1 from "@/assets/cars/renault-clio-tce/1.jpg";
-import meganeLimited_1 from "@/assets/cars/renault-megane-limited/1.jpg";
-import bmwX5_2019_1 from "@/assets/cars/bmw-x5-xdrive30d-2019/1.jpg";
 import octaviaRs136_1 from "@/assets/cars/skoda-octavia-combi-rs-136k/1.jpg";
 
 import golf8Style_1 from "@/assets/cars/vw-golf-8-style-2025/1.jpg";
@@ -45,7 +43,6 @@ const allCars = [
   { id: 30, slug: "bmw-840i-xdrive-individual", image: bmw840i_1, brand: "BMW", model: "840i xDrive Individual M-Sport", year: 2022, mileage: 108900, fuelType: "Benzin", price: 65990, brandLogo: bmwLogo },
   { id: 2, slug: "bmw-m440i-xdrive", image: m440i_21, brand: "BMW", model: "M440i xDrive", year: 2020, mileage: 92000, fuelType: "Benzin", price: 49990, brandLogo: bmwLogo },
   { id: 3, slug: "vw-tiguan-r-line", image: tiguan9, brand: "VW", model: "Tiguan 2.0 TDI DSG R-Line", year: 2024, mileage: 26900, fuelType: "Dizel", price: 44500, brandLogo: volkswagenLogo },
-  { id: 40, slug: "bmw-x5-xdrive30d-2019", image: bmwX5_2019_1, brand: "BMW", model: "X5 xDrive 30d", year: 2019, mileage: 244930, fuelType: "Dizel", price: 42990, brandLogo: bmwLogo },
   { id: 19, slug: "mercedes-glb-220d-4matic", image: glb220d_1, brand: "Mercedes", model: "GLB 220d 4Matic", year: 2022, mileage: 85800, fuelType: "Dizel", price: 37900, brandLogo: mercedesLogo },
   { id: 42, slug: "vw-golf-8-2-0tdi-dsg-style", image: golf8Style_1, brand: "VW", model: "Golf 8 2.0 TDI DSG Style Redizajn", year: 2025, mileage: 25400, fuelType: "Dizel", price: 29990, brandLogo: volkswagenLogo },
   { id: 43, slug: "vw-t-roc-2-0tdi-4motion-dsg-r-line", image: troc4m_1, brand: "VW", model: "T-Roc 2.0 TDI 4Motion DSG R-Line", year: 2022, mileage: 104350, fuelType: "Dizel", price: 26290, brandLogo: volkswagenLogo },
@@ -58,7 +55,6 @@ const allCars = [
   { id: 37, slug: "peugeot-2008-gt-line-black", image: peugeot2008_1, brand: "Peugeot", model: "2008 1.5 HDI GT Line Black Paket", year: 2020, mileage: 85000, fuelType: "Dizel", price: 18490, brandLogo: peugeotLogo },
   { id: 11, slug: "bmw-x1-sdrive18d-m-paket", image: x1_2016_1, brand: "BMW", model: "X1 sDrive18d M-Paket", year: 2016, mileage: 209000, fuelType: "Dizel", price: 15490, brandLogo: bmwLogo },
   { id: 38, slug: "renault-clio-edition-one-tce", image: clioTce_1, brand: "Renault", model: "Clio Edition One TCe Automatik", year: 2020, mileage: 121000, fuelType: "Benzin", price: 14290, brandLogo: renaultLogo },
-  { id: 39, slug: "renault-megane-limited-dci-115", image: meganeLimited_1, brand: "Renault", model: "Megane Limited dCi 115", year: 2021, mileage: 94900, fuelType: "Dizel", price: 12990, brandLogo: renaultLogo },
 ];
 
 
