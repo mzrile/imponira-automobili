@@ -12,10 +12,11 @@ interface CarCardProps {
   fuelType: string;
   transmission?: string;
   price: number;
+  priceDate?: string;
   brandLogo?: string;
 }
 
-const CarCard = ({ id, slug, image, brand, model, year, mileage, fuelType, transmission, price, brandLogo }: CarCardProps) => {
+const CarCard = ({ id, slug, image, brand, model, year, mileage, fuelType, transmission, price, priceDate = "10.09.2026.", brandLogo }: CarCardProps) => {
   const carUrl = slug ? `/car/${slug}` : `/car/${id}`;
   return (
     <Link to={carUrl} className="block h-full">
@@ -43,7 +44,7 @@ const CarCard = ({ id, slug, image, brand, model, year, mileage, fuelType, trans
           </div>
           <div className="mt-auto">
             <div className="text-2xl font-bold text-primary">{price.toLocaleString()} €</div>
-            <p className="text-xs text-foreground mt-1">Cijena (10.09.2026.): {price.toLocaleString()} €</p>
+            <p className="text-xs text-foreground mt-1">Cijena ({priceDate}): {price.toLocaleString()} €</p>
           </div>
         </div>
       </Card>

@@ -28,9 +28,9 @@ import renaultLogo from "@/assets/brands/renault-new.png";
 
 const featuredCars = [
   { id: 30, slug: "bmw-840i-xdrive-individual", image: bmw840i_1, brand: "BMW", model: "840i xDrive Individual M-Sport", year: 2022, mileage: 108900, fuelType: "Benzin", price: 65990, brandLogo: bmwLogo },
-  { id: 42, slug: "vw-golf-8-2-0tdi-dsg-style", image: golf8Style_1, brand: "VW", model: "Golf 8 2.0 TDI DSG Style Redizajn", year: 2025, mileage: 25400, fuelType: "Dizel", price: 29990, brandLogo: volkswagenLogo },
-  { id: 43, slug: "vw-t-roc-2-0tdi-4motion-dsg-r-line", image: troc4m_1, brand: "VW", model: "T-Roc 2.0 TDI 4Motion DSG R-Line", year: 2022, mileage: 104350, fuelType: "Dizel", price: 26290, brandLogo: volkswagenLogo },
-  { id: 44, slug: "vw-t-roc-2-0tdi-dsg-r-line", image: trocRl_1, brand: "VW", model: "T-Roc 2.0 TDI DSG R-Line", year: 2022, mileage: 114000, fuelType: "Dizel", price: 25990, brandLogo: volkswagenLogo },
+  { id: 42, slug: "vw-golf-8-2-0tdi-dsg-style", image: golf8Style_1, brand: "VW", model: "Golf 8 2.0 TDI DSG Style Redizajn", year: 2025, mileage: 25400, fuelType: "Dizel", price: 29990, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
+  { id: 43, slug: "vw-t-roc-2-0tdi-4motion-dsg-r-line", image: troc4m_1, brand: "VW", model: "T-Roc 2.0 TDI 4Motion DSG R-Line", year: 2022, mileage: 104350, fuelType: "Dizel", price: 26290, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
+  { id: 44, slug: "vw-t-roc-2-0tdi-dsg-r-line", image: trocRl_1, brand: "VW", model: "T-Roc 2.0 TDI DSG R-Line", year: 2022, mileage: 114000, fuelType: "Dizel", price: 25990, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
   { id: 35, slug: "skoda-octavia-combi-first-edition-panorama", image: octaviaFirstPanorama_1, brand: "Škoda", model: "Octavia Combi First Edition Panorama", year: 2020, mileage: 102400, fuelType: "Dizel", price: 21990, brandLogo: skodaLogo },
   { id: 36, slug: "skoda-octavia-combi-first-edition-2020", image: octaviaFirst132_1, brand: "Škoda", model: "Octavia Combi 2.0TDI First Edition", year: 2020, mileage: 132200, fuelType: "Dizel", price: 20990, brandLogo: skodaLogo },
 ];
