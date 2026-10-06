@@ -533,9 +533,113 @@ import audiA5_19 from "@/assets/cars/audi-a5-sportback-2-0tdi/19.jpg";
 import audiA5_20 from "@/assets/cars/audi-a5-sportback-2-0tdi/20.jpg";
 import audiA5_21 from "@/assets/cars/audi-a5-sportback-2-0tdi/21.jpg";
 import golf8Style_1 from "@/assets/cars/vw-golf-8-style-2025/1.jpg";
+import golf8Style_2 from "@/assets/cars/vw-golf-8-style-2025/2.jpg";
+import golf8Style_3 from "@/assets/cars/vw-golf-8-style-2025/3.jpg";
+import golf8Style_4 from "@/assets/cars/vw-golf-8-style-2025/4.jpg";
+import golf8Style_5 from "@/assets/cars/vw-golf-8-style-2025/5.jpg";
+import golf8Style_6 from "@/assets/cars/vw-golf-8-style-2025/6.jpg";
+import golf8Style_7 from "@/assets/cars/vw-golf-8-style-2025/7.jpg";
+import golf8Style_8 from "@/assets/cars/vw-golf-8-style-2025/8.jpg";
+import golf8Style_9 from "@/assets/cars/vw-golf-8-style-2025/9.jpg";
+import golf8Style_10 from "@/assets/cars/vw-golf-8-style-2025/10.jpg";
+import golf8Style_11 from "@/assets/cars/vw-golf-8-style-2025/11.jpg";
+import golf8Style_12 from "@/assets/cars/vw-golf-8-style-2025/12.jpg";
+import golf8Style_13 from "@/assets/cars/vw-golf-8-style-2025/13.jpg";
+import golf8Style_14 from "@/assets/cars/vw-golf-8-style-2025/14.jpg";
+import golf8Style_15 from "@/assets/cars/vw-golf-8-style-2025/15.jpg";
+import golf8Style_16 from "@/assets/cars/vw-golf-8-style-2025/16.jpg";
+import golf8Style_17 from "@/assets/cars/vw-golf-8-style-2025/17.jpg";
+import golf8Style_18 from "@/assets/cars/vw-golf-8-style-2025/18.jpg";
+import golf8Style_19 from "@/assets/cars/vw-golf-8-style-2025/19.jpg";
+import golf8Style_20 from "@/assets/cars/vw-golf-8-style-2025/20.jpg";
+import golf8Style_21 from "@/assets/cars/vw-golf-8-style-2025/21.jpg";
+import golf8Style_22 from "@/assets/cars/vw-golf-8-style-2025/22.jpg";
+import golf8Style_23 from "@/assets/cars/vw-golf-8-style-2025/23.jpg";
+import golf8Style_27 from "@/assets/cars/vw-golf-8-style-2025/27.jpg";
+import golf8Style_28 from "@/assets/cars/vw-golf-8-style-2025/28.jpg";
+import golf8Style_29 from "@/assets/cars/vw-golf-8-style-2025/29.jpg";
+import golf8Style_30 from "@/assets/cars/vw-golf-8-style-2025/30.jpg";
+import golf8Style_31 from "@/assets/cars/vw-golf-8-style-2025/31.jpg";
+import golf8Style_32 from "@/assets/cars/vw-golf-8-style-2025/32.jpg";
+import golf8Style_33 from "@/assets/cars/vw-golf-8-style-2025/33.jpg";
 import troc4m_1 from "@/assets/cars/vw-t-roc-4motion-rline/1.jpg";
+import troc4m_2 from "@/assets/cars/vw-t-roc-4motion-rline/2.jpg";
+import troc4m_3 from "@/assets/cars/vw-t-roc-4motion-rline/3.jpg";
+import troc4m_4 from "@/assets/cars/vw-t-roc-4motion-rline/4.jpg";
+import troc4m_5 from "@/assets/cars/vw-t-roc-4motion-rline/5.jpg";
+import troc4m_6 from "@/assets/cars/vw-t-roc-4motion-rline/6.jpg";
+import troc4m_7 from "@/assets/cars/vw-t-roc-4motion-rline/7.jpg";
+import troc4m_8 from "@/assets/cars/vw-t-roc-4motion-rline/8.jpg";
+import troc4m_9 from "@/assets/cars/vw-t-roc-4motion-rline/9.jpg";
+import troc4m_10 from "@/assets/cars/vw-t-roc-4motion-rline/10.jpg";
+import troc4m_11 from "@/assets/cars/vw-t-roc-4motion-rline/11.jpg";
+import troc4m_12 from "@/assets/cars/vw-t-roc-4motion-rline/12.jpg";
+import troc4m_13 from "@/assets/cars/vw-t-roc-4motion-rline/13.jpg";
+import troc4m_15 from "@/assets/cars/vw-t-roc-4motion-rline/15.jpg";
+import troc4m_16 from "@/assets/cars/vw-t-roc-4motion-rline/16.jpg";
+import troc4m_17 from "@/assets/cars/vw-t-roc-4motion-rline/17.jpg";
+import troc4m_18 from "@/assets/cars/vw-t-roc-4motion-rline/18.jpg";
+import troc4m_19 from "@/assets/cars/vw-t-roc-4motion-rline/19.jpg";
+import troc4m_20 from "@/assets/cars/vw-t-roc-4motion-rline/20.jpg";
+import troc4m_21 from "@/assets/cars/vw-t-roc-4motion-rline/21.jpg";
+import troc4m_22 from "@/assets/cars/vw-t-roc-4motion-rline/22.jpg";
+import troc4m_23 from "@/assets/cars/vw-t-roc-4motion-rline/23.jpg";
+import troc4m_24 from "@/assets/cars/vw-t-roc-4motion-rline/24.jpg";
+import troc4m_25 from "@/assets/cars/vw-t-roc-4motion-rline/25.jpg";
+import troc4m_26 from "@/assets/cars/vw-t-roc-4motion-rline/26.jpg";
+import troc4m_27 from "@/assets/cars/vw-t-roc-4motion-rline/27.jpg";
+import troc4m_28 from "@/assets/cars/vw-t-roc-4motion-rline/28.jpg";
+import troc4m_29 from "@/assets/cars/vw-t-roc-4motion-rline/29.jpg";
+import troc4m_30 from "@/assets/cars/vw-t-roc-4motion-rline/30.jpg";
 import trocRl_1 from "@/assets/cars/vw-t-roc-rline-114k/1.jpg";
+import trocRl_2 from "@/assets/cars/vw-t-roc-rline-114k/2.jpg";
+import trocRl_3 from "@/assets/cars/vw-t-roc-rline-114k/3.jpg";
+import trocRl_4 from "@/assets/cars/vw-t-roc-rline-114k/4.jpg";
+import trocRl_5 from "@/assets/cars/vw-t-roc-rline-114k/5.jpg";
+import trocRl_6 from "@/assets/cars/vw-t-roc-rline-114k/6.jpg";
+import trocRl_7 from "@/assets/cars/vw-t-roc-rline-114k/7.jpg";
+import trocRl_8 from "@/assets/cars/vw-t-roc-rline-114k/8.jpg";
+import trocRl_9 from "@/assets/cars/vw-t-roc-rline-114k/9.jpg";
+import trocRl_10 from "@/assets/cars/vw-t-roc-rline-114k/10.jpg";
+import trocRl_11 from "@/assets/cars/vw-t-roc-rline-114k/11.jpg";
+import trocRl_12 from "@/assets/cars/vw-t-roc-rline-114k/12.jpg";
+import trocRl_13 from "@/assets/cars/vw-t-roc-rline-114k/13.jpg";
+import trocRl_14 from "@/assets/cars/vw-t-roc-rline-114k/14.jpg";
+import trocRl_15 from "@/assets/cars/vw-t-roc-rline-114k/15.jpg";
+import trocRl_16 from "@/assets/cars/vw-t-roc-rline-114k/16.jpg";
+import trocRl_17 from "@/assets/cars/vw-t-roc-rline-114k/17.jpg";
+import trocRl_18 from "@/assets/cars/vw-t-roc-rline-114k/18.jpg";
+import trocRl_19 from "@/assets/cars/vw-t-roc-rline-114k/19.jpg";
+import trocRl_20 from "@/assets/cars/vw-t-roc-rline-114k/20.jpg";
+import trocRl_21 from "@/assets/cars/vw-t-roc-rline-114k/21.jpg";
+import trocRl_22 from "@/assets/cars/vw-t-roc-rline-114k/22.jpg";
+import trocRl_23 from "@/assets/cars/vw-t-roc-rline-114k/23.jpg";
+import trocRl_24 from "@/assets/cars/vw-t-roc-rline-114k/24.jpg";
+import trocRl_25 from "@/assets/cars/vw-t-roc-rline-114k/25.jpg";
+import trocRl_26 from "@/assets/cars/vw-t-roc-rline-114k/26.jpg";
+import trocRl_27 from "@/assets/cars/vw-t-roc-rline-114k/27.jpg";
+import trocRl_28 from "@/assets/cars/vw-t-roc-rline-114k/28.jpg";
+import trocRl_29 from "@/assets/cars/vw-t-roc-rline-114k/29.jpg";
 import audiA5_40_1 from "@/assets/cars/audi-a5-sportback-40tdi-sline/1.jpg";
+import audiA5_40_2 from "@/assets/cars/audi-a5-sportback-40tdi-sline/2.jpg";
+import audiA5_40_3 from "@/assets/cars/audi-a5-sportback-40tdi-sline/3.jpg";
+import audiA5_40_4 from "@/assets/cars/audi-a5-sportback-40tdi-sline/4.jpg";
+import audiA5_40_5 from "@/assets/cars/audi-a5-sportback-40tdi-sline/5.jpg";
+import audiA5_40_6 from "@/assets/cars/audi-a5-sportback-40tdi-sline/6.jpg";
+import audiA5_40_7 from "@/assets/cars/audi-a5-sportback-40tdi-sline/7.jpg";
+import audiA5_40_8 from "@/assets/cars/audi-a5-sportback-40tdi-sline/8.jpg";
+import audiA5_40_9 from "@/assets/cars/audi-a5-sportback-40tdi-sline/9.jpg";
+import audiA5_40_10 from "@/assets/cars/audi-a5-sportback-40tdi-sline/10.jpg";
+import audiA5_40_11 from "@/assets/cars/audi-a5-sportback-40tdi-sline/11.jpg";
+import audiA5_40_12 from "@/assets/cars/audi-a5-sportback-40tdi-sline/12.jpg";
+import audiA5_40_13 from "@/assets/cars/audi-a5-sportback-40tdi-sline/13.jpg";
+import audiA5_40_14 from "@/assets/cars/audi-a5-sportback-40tdi-sline/14.jpg";
+import audiA5_40_15 from "@/assets/cars/audi-a5-sportback-40tdi-sline/15.jpg";
+import audiA5_40_16 from "@/assets/cars/audi-a5-sportback-40tdi-sline/16.jpg";
+import audiA5_40_17 from "@/assets/cars/audi-a5-sportback-40tdi-sline/17.jpg";
+import audiA5_40_18 from "@/assets/cars/audi-a5-sportback-40tdi-sline/18.jpg";
+import audiA5_40_19 from "@/assets/cars/audi-a5-sportback-40tdi-sline/19.jpg";
+import audiA5_40_20 from "@/assets/cars/audi-a5-sportback-40tdi-sline/20.jpg";
 import clioTce_1 from "@/assets/cars/renault-clio-tce/1.jpg";
 import clioTce_2 from "@/assets/cars/renault-clio-tce/2.jpg";
 import clioTce_3 from "@/assets/cars/renault-clio-tce/3.jpg";
@@ -1001,7 +1105,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     bodyType: "Hatchback",
     price: 29990,
     priceDate: "02.10.2026.",
-    images: [golf8Style_1],
+    images: [golf8Style_1, golf8Style_2, golf8Style_3, golf8Style_4, golf8Style_5, golf8Style_6, golf8Style_7, golf8Style_8, golf8Style_9, golf8Style_10, golf8Style_11, golf8Style_12, golf8Style_13, golf8Style_14, golf8Style_15, golf8Style_16, golf8Style_17, golf8Style_18, golf8Style_19, golf8Style_20, golf8Style_21, golf8Style_22, golf8Style_23, golf8Style_27, golf8Style_28, golf8Style_29, golf8Style_30, golf8Style_31, golf8Style_32, golf8Style_33],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Vozilo je redovno održavano u ovlaštenom servisu, servisna povijest, zadnji servis napravljen na 25.000km, na vozilu R-line original felge i nove hankook gume, bez apsolutno ikakvih dodatnih ulaganja…
@@ -1024,7 +1128,7 @@ Style paket opreme, R-line felge 18', Ergo activ sjedala, Memorija sjedala, Masa
     bodyType: "SUV",
     price: 26290,
     priceDate: "02.10.2026.",
-    images: [troc4m_1],
+    images: [troc4m_1, troc4m_2, troc4m_3, troc4m_4, troc4m_5, troc4m_6, troc4m_7, troc4m_8, troc4m_9, troc4m_10, troc4m_11, troc4m_12, troc4m_13, troc4m_15, troc4m_16, troc4m_17, troc4m_18, troc4m_19, troc4m_20, troc4m_21, troc4m_22, troc4m_23, troc4m_24, troc4m_25, troc4m_26, troc4m_27, troc4m_28, troc4m_29, troc4m_30],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Vozilo je redovno održavano u ovlaštenom servisu, servisna povijest, zadnji servis napravljen na 102.148km, bez apsolutno ikakvih dodatnih ulaganja…
@@ -1049,7 +1153,7 @@ R-LINE paket opreme, Sportska R-line sjedala, Metalik boja, IQ light, LED straž
     bodyType: "SUV",
     price: 25990,
     priceDate: "02.10.2026.",
-    images: [trocRl_1],
+    images: [trocRl_1, trocRl_2, trocRl_3, trocRl_4, trocRl_5, trocRl_6, trocRl_7, trocRl_8, trocRl_9, trocRl_10, trocRl_11, trocRl_12, trocRl_13, trocRl_14, trocRl_15, trocRl_16, trocRl_17, trocRl_18, trocRl_19, trocRl_20, trocRl_21, trocRl_22, trocRl_23, trocRl_24, trocRl_25, trocRl_26, trocRl_27, trocRl_28, trocRl_29],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Vozilo je redovno održavano u ovlaštenom servisu, servisna povijest, nove ljetne gume na vozilu, bez apsolutno ikakvih dodatnih ulaganja…
@@ -1074,7 +1178,7 @@ R-LINE paket opreme, Sportska sjedala, Masaža vozačevog sjedala, Beats audio o
     bodyType: "Coupe",
     price: 19290,
     priceDate: "02.10.2026.",
-    images: [audiA5_40_1],
+    images: [audiA5_40_1, audiA5_40_2, audiA5_40_3, audiA5_40_4, audiA5_40_5, audiA5_40_6, audiA5_40_7, audiA5_40_8, audiA5_40_9, audiA5_40_10, audiA5_40_11, audiA5_40_12, audiA5_40_13, audiA5_40_14, audiA5_40_15, audiA5_40_16, audiA5_40_17, audiA5_40_18, audiA5_40_19, audiA5_40_20],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Vozilo je redovno održavano.
