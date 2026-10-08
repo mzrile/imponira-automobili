@@ -1187,6 +1187,29 @@ Vozilo je redovno održavano.
 Dodatna oprema:
 S-line, S-line sjedala, LED svjetla, Virtualni kokpit, Automatska klima, Digitalni ekran klime, Grijanje sjedala, Tempomat, Parking senzori, Modovi vožnje, Start/stop sistem, El. vrata prtljažnika`,
   },
+  "bmw-x5-30d-xdrive-2016": {
+    brand: "BMW",
+    model: "X5 30d xDrive",
+    year: 2016,
+    mileage: 202000,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "183 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "xDrive",
+    status: "Rabljeno",
+    bodyType: "SUV",
+    price: 23990,
+    priceDate: "08.10.2026.",
+    images: [bmwX5_30d_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Vozilo je redovno održavano, nove ljetne gume Pirelli P ZERO, bez apsolutno ikakvih dodatnih ulaganja…
+
+Dodatna oprema:
+Xenon svjetla, LED svjetla, Memorija sjedala, Sjedala na struju, Ambient light, Tempomat, Modovi vožnje, El. vrata prtljažnika, Grijanje sjedala, El. sklapanje retrovizora, El. podešavanje volana, Auto hold, Navigacija, Parking senzori, Lane Departure Warning, HiFi ozvučenje, 2 ključa`,
+  },
 };
 
 
