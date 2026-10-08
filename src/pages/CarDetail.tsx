@@ -1223,7 +1223,7 @@ S-line, S-line sjedala, LED svjetla, Virtualni kokpit, Automatska klima, Digital
     bodyType: "SUV",
     price: 23990,
     priceDate: "08.10.2026.",
-    images: [bmwX5_30d_1],
+    images: [bmwX5_30d_1, bmwX5_30d_2, bmwX5_30d_3, bmwX5_30d_4, bmwX5_30d_5, bmwX5_30d_6, bmwX5_30d_7, bmwX5_30d_8, bmwX5_30d_9, bmwX5_30d_10, bmwX5_30d_11, bmwX5_30d_12, bmwX5_30d_13, bmwX5_30d_14, bmwX5_30d_15, bmwX5_30d_16, bmwX5_30d_17, bmwX5_30d_18, bmwX5_30d_19, bmwX5_30d_20, bmwX5_30d_21, bmwX5_30d_22],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Vozilo je redovno održavano, nove ljetne gume Pirelli P ZERO, bez apsolutno ikakvih dodatnih ulaganja…
