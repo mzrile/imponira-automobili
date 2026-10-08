@@ -640,6 +640,7 @@ import audiA5_40_17 from "@/assets/cars/audi-a5-sportback-40tdi-sline/17.jpg";
 import audiA5_40_18 from "@/assets/cars/audi-a5-sportback-40tdi-sline/18.jpg";
 import audiA5_40_19 from "@/assets/cars/audi-a5-sportback-40tdi-sline/19.jpg";
 import audiA5_40_20 from "@/assets/cars/audi-a5-sportback-40tdi-sline/20.jpg";
+import bmwX5_30d_1 from "@/assets/cars/bmw-x5-30d-xdrive-2016/1.jpg";
 import clioTce_1 from "@/assets/cars/renault-clio-tce/1.jpg";
 import clioTce_2 from "@/assets/cars/renault-clio-tce/2.jpg";
 import clioTce_3 from "@/assets/cars/renault-clio-tce/3.jpg";
