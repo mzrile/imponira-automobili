@@ -641,6 +641,27 @@ import audiA5_40_18 from "@/assets/cars/audi-a5-sportback-40tdi-sline/18.jpg";
 import audiA5_40_19 from "@/assets/cars/audi-a5-sportback-40tdi-sline/19.jpg";
 import audiA5_40_20 from "@/assets/cars/audi-a5-sportback-40tdi-sline/20.jpg";
 import bmwX5_30d_1 from "@/assets/cars/bmw-x5-30d-xdrive-2016/1.jpg";
+import bmwX5_30d_2 from "@/assets/cars/bmw-x5-30d-xdrive-2016/2.jpg";
+import bmwX5_30d_3 from "@/assets/cars/bmw-x5-30d-xdrive-2016/3.jpg";
+import bmwX5_30d_4 from "@/assets/cars/bmw-x5-30d-xdrive-2016/4.jpg";
+import bmwX5_30d_5 from "@/assets/cars/bmw-x5-30d-xdrive-2016/5.jpg";
+import bmwX5_30d_6 from "@/assets/cars/bmw-x5-30d-xdrive-2016/6.jpg";
+import bmwX5_30d_7 from "@/assets/cars/bmw-x5-30d-xdrive-2016/7.jpg";
+import bmwX5_30d_8 from "@/assets/cars/bmw-x5-30d-xdrive-2016/8.jpg";
+import bmwX5_30d_9 from "@/assets/cars/bmw-x5-30d-xdrive-2016/9.jpg";
+import bmwX5_30d_10 from "@/assets/cars/bmw-x5-30d-xdrive-2016/10.jpg";
+import bmwX5_30d_11 from "@/assets/cars/bmw-x5-30d-xdrive-2016/11.jpg";
+import bmwX5_30d_12 from "@/assets/cars/bmw-x5-30d-xdrive-2016/12.jpg";
+import bmwX5_30d_13 from "@/assets/cars/bmw-x5-30d-xdrive-2016/13.jpg";
+import bmwX5_30d_14 from "@/assets/cars/bmw-x5-30d-xdrive-2016/14.jpg";
+import bmwX5_30d_15 from "@/assets/cars/bmw-x5-30d-xdrive-2016/15.jpg";
+import bmwX5_30d_16 from "@/assets/cars/bmw-x5-30d-xdrive-2016/16.jpg";
+import bmwX5_30d_17 from "@/assets/cars/bmw-x5-30d-xdrive-2016/17.jpg";
+import bmwX5_30d_18 from "@/assets/cars/bmw-x5-30d-xdrive-2016/18.jpg";
+import bmwX5_30d_19 from "@/assets/cars/bmw-x5-30d-xdrive-2016/19.jpg";
+import bmwX5_30d_20 from "@/assets/cars/bmw-x5-30d-xdrive-2016/20.jpg";
+import bmwX5_30d_21 from "@/assets/cars/bmw-x5-30d-xdrive-2016/21.jpg";
+import bmwX5_30d_22 from "@/assets/cars/bmw-x5-30d-xdrive-2016/22.jpg";
 import clioTce_1 from "@/assets/cars/renault-clio-tce/1.jpg";
 import clioTce_2 from "@/assets/cars/renault-clio-tce/2.jpg";
 import clioTce_3 from "@/assets/cars/renault-clio-tce/3.jpg";
@@ -1202,7 +1223,7 @@ S-line, S-line sjedala, LED svjetla, Virtualni kokpit, Automatska klima, Digital
     bodyType: "SUV",
     price: 23990,
     priceDate: "08.10.2026.",
-    images: [bmwX5_30d_1],
+    images: [bmwX5_30d_1, bmwX5_30d_2, bmwX5_30d_3, bmwX5_30d_4, bmwX5_30d_5, bmwX5_30d_6, bmwX5_30d_7, bmwX5_30d_8, bmwX5_30d_9, bmwX5_30d_10, bmwX5_30d_11, bmwX5_30d_12, bmwX5_30d_13, bmwX5_30d_14, bmwX5_30d_15, bmwX5_30d_16, bmwX5_30d_17, bmwX5_30d_18, bmwX5_30d_19, bmwX5_30d_20, bmwX5_30d_21, bmwX5_30d_22],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Vozilo je redovno održavano, nove ljetne gume Pirelli P ZERO, bez apsolutno ikakvih dodatnih ulaganja…
