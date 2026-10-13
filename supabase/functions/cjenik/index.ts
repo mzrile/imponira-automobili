@@ -3,7 +3,8 @@ import { createClient } from "npm:@supabase/supabase-js@2";
 import vozila from "./vozila.json" with { type: "json" };
 
 const BUCKET = "cjenik";
-const ADRESA = "Ivana Šimunovića 11-1 10360 Sesvete";
+// Storage keys must be ASCII, so diacritics are dropped.
+const ADRESA = "Ivana Simunovica 11-1 10360 Sesvete";
 const OZNAKA = "P1";
 const SITE = "https://imponira-automobili.lovable.app";
 const PREFIX = `prodajni salon_${ADRESA}_${OZNAKA}_`;
