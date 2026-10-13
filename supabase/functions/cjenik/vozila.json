@@ -1,0 +1,172 @@
+[
+ {
+  "id": 17,
+  "slug": "mercedes-e300e-amg",
+  "marka": "Mercedes",
+  "naziv": "Mercedes E300e AMG",
+  "cijena": 72900,
+  "datumCijene": "10.09.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 30,
+  "slug": "bmw-840i-xdrive-individual",
+  "marka": "BMW",
+  "naziv": "BMW 840i xDrive Individual M-Sport",
+  "cijena": 65990,
+  "datumCijene": "10.09.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 2,
+  "slug": "bmw-m440i-xdrive",
+  "marka": "BMW",
+  "naziv": "BMW M440i xDrive",
+  "cijena": 49990,
+  "datumCijene": "10.09.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 3,
+  "slug": "vw-tiguan-r-line",
+  "marka": "VW",
+  "naziv": "VW Tiguan 2.0 TDI DSG R-Line",
+  "cijena": 44500,
+  "datumCijene": "10.09.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 19,
+  "slug": "mercedes-glb-220d-4matic",
+  "marka": "Mercedes",
+  "naziv": "Mercedes GLB 220d 4Matic",
+  "cijena": 37900,
+  "datumCijene": "10.09.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 42,
+  "slug": "vw-golf-8-2-0tdi-dsg-style",
+  "marka": "VW",
+  "naziv": "VW Golf 8 2.0 TDI DSG Style Redizajn",
+  "cijena": 29990,
+  "datumCijene": "02.10.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 43,
+  "slug": "vw-t-roc-2-0tdi-4motion-dsg-r-line",
+  "marka": "VW",
+  "naziv": "VW T-Roc 2.0 TDI 4Motion DSG R-Line",
+  "cijena": 26290,
+  "datumCijene": "02.10.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 41,
+  "slug": "skoda-octavia-combi-rs-2-0tdi-dsg-2021",
+  "marka": "Škoda",
+  "naziv": "Škoda Octavia Combi RS 2.0TDI DSG",
+  "cijena": 26490,
+  "datumCijene": "10.09.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 44,
+  "slug": "vw-t-roc-2-0tdi-dsg-r-line",
+  "marka": "VW",
+  "naziv": "VW T-Roc 2.0 TDI DSG R-Line",
+  "cijena": 25990,
+  "datumCijene": "02.10.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 46,
+  "slug": "bmw-x5-30d-xdrive-2016",
+  "marka": "BMW",
+  "naziv": "BMW X5 30d xDrive",
+  "cijena": 23990,
+  "datumCijene": "08.10.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 35,
+  "slug": "skoda-octavia-combi-first-edition-panorama",
+  "marka": "Škoda",
+  "naziv": "Škoda Octavia Combi First Edition Panorama",
+  "cijena": 21990,
+  "datumCijene": "10.09.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 36,
+  "slug": "skoda-octavia-combi-first-edition-2020",
+  "marka": "Škoda",
+  "naziv": "Škoda Octavia Combi 2.0TDI First Edition",
+  "cijena": 20990,
+  "datumCijene": "10.09.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 34,
+  "slug": "audi-a5-sportback-2-0tdi",
+  "marka": "Audi",
+  "naziv": "Audi A5 Sportback 2.0TDI",
+  "cijena": 19290,
+  "datumCijene": "10.09.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 45,
+  "slug": "audi-a5-sportback-40tdi-s-line",
+  "marka": "Audi",
+  "naziv": "Audi A5 Sportback 40TDI S-Line",
+  "cijena": 19290,
+  "datumCijene": "02.10.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 37,
+  "slug": "peugeot-2008-gt-line-black",
+  "marka": "Peugeot",
+  "naziv": "Peugeot 2008 1.5 HDI GT Line Black Paket",
+  "cijena": 18490,
+  "datumCijene": "10.09.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 11,
+  "slug": "bmw-x1-sdrive18d-m-paket",
+  "marka": "BMW",
+  "naziv": "BMW X1 sDrive18d M-Paket",
+  "cijena": 15490,
+  "datumCijene": "10.09.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ },
+ {
+  "id": 38,
+  "slug": "renault-clio-edition-one-tce",
+  "marka": "Renault",
+  "naziv": "Renault Clio Edition One TCe Automatik",
+  "cijena": 14290,
+  "datumCijene": "10.09.2026.",
+  "prodano": false,
+  "akcijskaCijena": null
+ }
+]
