@@ -1,4 +1,6 @@
 import { Mail, Phone } from "lucide-react";
+import { Link } from "react-router-dom";
+import { cjenikFileUrl } from "@/lib/cjenik";
 
 const Footer = () => {
   return (
@@ -14,6 +16,11 @@ const Footer = () => {
               <Phone className="w-4 h-4" />
               <span>091 266 6668</span>
             </a>
+          </div>
+          <div className="flex items-center gap-6 text-sm flex-wrap justify-center">
+            <a href={cjenikFileUrl("cjenik.csv")} className="text-foreground hover:text-primary transition-colors">Cjenik (CSV)</a>
+            <a href={cjenikFileUrl("cjenik.xml")} className="text-foreground hover:text-primary transition-colors">Cjenik (XML)</a>
+            <Link to="/cjenik-arhiva" className="text-foreground hover:text-primary transition-colors">Arhiva cjenika</Link>
           </div>
           <div className="text-center text-muted-foreground text-sm">
             <p>&copy; {new Date().getFullYear()} Imponira Automobili. Sva prava zadržana.</p>
