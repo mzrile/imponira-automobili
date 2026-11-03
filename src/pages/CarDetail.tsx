@@ -755,30 +755,6 @@ R-line, IQ light, LED Plus glavna svjetla, 3D stražnja LED svjetla, Automatska 
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
-  "bmw-x1-sdrive18d-m-paket": {
-    brand: "BMW", 
-    model: "X1 sDrive18d M-Paket", 
-    year: 2016, 
-    mileage: 209000, 
-    fuelType: "Diesel", 
-    transmission: "Automatski", 
-    power: "110 kW", 
-    engine: "Diesel", 
-    registration: "-", 
-    driveType: "Prednji", 
-    status: "Rabljeno", 
-    bodyType: "SUV", 
-    price: 15490, 
-    images: bmwX1MPaketImages, 
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-BMW X1: Redovno održavan svakih 15ak tisuća kilometara, zadnji servis na 206.764km, zamjenjeni zadnji diskovi, zamjena ulja i filtera, bez apsolutno ikakvih dodatnih ulaganja, zimske gume Bridgestone, moguća provjera bilo gdje po želji kupca ...
-
-VOZILO GLASI NA FIRMU, NEMA PRIJEPISA
-
-Dodatna oprema:
-M-Paket, M-volan, Multifunkcionalni volan, M sjedala alcantara, Alu felge 18", LED svjetla, Automatik, Crna metalik boja, Shadow line, El. Panoramski krov, Automatska klima, Tempomat, Modovi vožnje, Parking senzori, Čitanje prometnih znakova, Ambient light, El. Parking kočnica, El. vrata prtljažnika, Navigacija, Putno računalo, Bluetooth, Senzor za kišu, Start/Stop sistem, Kuka, Tepisi od velura, Gumeni tepisi, Zimske gume, 2 ključa`,
-  },
   "mercedes-e300e-amg": {
     brand: "Mercedes",
     model: "E300e AMG",
@@ -924,28 +900,6 @@ DOSTUPNO VIŠE SLIČNIH VOZILA NA LAGERU.
 
 Dodatna oprema:
 Metalik boja, Felge perseus 18, Tonirana stakla, LED Matrix svjetla, Animacija svjetla, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Park pilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Upozorenje mrtvog kuta, El. vrata prtljažnika, Otvaranje prtljažnika na senzor, Sjedala na struju, Sportska sjedala, Memorija sjedala, Grijanje sjedala (prednja), Alcantara kožna sjedala, Centralno zaključavanje bez ključa, Keyless go, Bežično punjenje mobitela, Ambijentalna rasvjeta, LED logo projektor u vratima, 2 ključa, Kuka`,
-  },
-  "peugeot-2008-gt-line-black": {
-    brand: "Peugeot",
-    model: "2008 1.5 HDI GT Line Black Paket",
-    year: 2020,
-    mileage: 85000,
-    fuelType: "Dizel",
-    transmission: "Ručni",
-    power: "96 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "SUV",
-    price: 18490,
-    images: [peugeot2008_1, peugeot2008_2, peugeot2008_3, peugeot2008_4, peugeot2008_5, peugeot2008_6, peugeot2008_7, peugeot2008_8, peugeot2008_9, peugeot2008_10, peugeot2008_11, peugeot2008_12, peugeot2008_13, peugeot2008_14, peugeot2008_15, peugeot2008_16, peugeot2008_17, peugeot2008_18, peugeot2008_19, peugeot2008_20, peugeot2008_21, peugeot2008_22, peugeot2008_23, peugeot2008_24, peugeot2008_25, peugeot2008_26, peugeot2008_27, peugeot2008_28, peugeot2008_29],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-Prvi vlasnik, nove zimske gume, ljetne gume, održavan u ovlaštenom servisu, posjeduje servisnu knjigu, zadnji servis napravljen na 73.236km (12/2025), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-Dodatna oprema:
-Perla bijela boja, GT paket, Black paket, GT felge 17', Crno nebo, Full LED tehnology, LED stražnja svjetla, Animacija svjetla, Virtualni kokpit 3D, Grijanje sjedala, Ambient light, Modovi vožnje, 360 kamera, Parking senzori, Tempomat, Lane Assist, Pomoć pri kretanju na uzbrdici, Pomoć pri parkiranju, Čitanje prometnih znakova, Automatska regulacija razmaka (ACC), El. sklopivi retrovizori, Automatska klima, Navigacijski sustav, Keyless-funkcija, Zatamnjena stakla, Armatura od kože, Prošiveni konac zelene boje, Bluetooth handsfree sustav, ISOFIX, 2 ključa, Priprema za kuku`,
   },
   "renault-clio-edition-one-tce": {
     brand: "Renault",
