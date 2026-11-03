@@ -130,26 +130,6 @@
   "redovnaCijena": null
  },
  {
-  "id": 37,
-  "slug": "peugeot-2008-gt-line-black",
-  "marka": "Peugeot",
-  "naziv": "Peugeot 2008 1.5 HDI GT Line Black Paket",
-  "cijena": 18490,
-  "datumCijene": "10.09.2026.",
-  "prodano": false,
-  "redovnaCijena": null
- },
- {
-  "id": 11,
-  "slug": "bmw-x1-sdrive18d-m-paket",
-  "marka": "BMW",
-  "naziv": "BMW X1 sDrive18d M-Paket",
-  "cijena": 15490,
-  "datumCijene": "10.09.2026.",
-  "prodano": false,
-  "redovnaCijena": null
- },
- {
   "id": 38,
   "slug": "renault-clio-edition-one-tce",
   "marka": "Renault",

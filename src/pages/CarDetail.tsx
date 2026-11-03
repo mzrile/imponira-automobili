@@ -230,70 +230,6 @@ import clio_19 from "@/assets/cars/renault-clio/19.jpg";
 import clio_20 from "@/assets/cars/renault-clio/20.jpg";
 
 
-
-
-
-// BMW X1 2022 images
-import x1_2022_1 from "@/assets/cars/bmw-x1-2022/1.jpg";
-import x1_2022_2 from "@/assets/cars/bmw-x1-2022/2.jpg";
-import x1_2022_3 from "@/assets/cars/bmw-x1-2022/3.jpg";
-import x1_2022_4 from "@/assets/cars/bmw-x1-2022/4.jpg";
-import x1_2022_5 from "@/assets/cars/bmw-x1-2022/5.jpg";
-import x1_2022_6 from "@/assets/cars/bmw-x1-2022/6.jpg";
-import x1_2022_7 from "@/assets/cars/bmw-x1-2022/7.jpg";
-import x1_2022_8 from "@/assets/cars/bmw-x1-2022/8.jpg";
-import x1_2022_9 from "@/assets/cars/bmw-x1-2022/9.jpg";
-import x1_2022_10 from "@/assets/cars/bmw-x1-2022/10.jpg";
-import x1_2022_11 from "@/assets/cars/bmw-x1-2022/11.jpg";
-import x1_2022_12 from "@/assets/cars/bmw-x1-2022/12.jpg";
-import x1_2022_13 from "@/assets/cars/bmw-x1-2022/13.jpg";
-import x1_2022_14 from "@/assets/cars/bmw-x1-2022/14.jpg";
-import x1_2022_15 from "@/assets/cars/bmw-x1-2022/15.jpg";
-import x1_2022_16 from "@/assets/cars/bmw-x1-2022/16.jpg";
-import x1_2022_17 from "@/assets/cars/bmw-x1-2022/17.jpg";
-import x1_2022_18 from "@/assets/cars/bmw-x1-2022/18.jpg";
-import x1_2022_19 from "@/assets/cars/bmw-x1-2022/19.jpg";
-import x1_2022_20 from "@/assets/cars/bmw-x1-2022/20.jpg";
-import x1_2022_21 from "@/assets/cars/bmw-x1-2022/21.jpg";
-import x1_2022_22 from "@/assets/cars/bmw-x1-2022/22.jpg";
-import x1_2022_23 from "@/assets/cars/bmw-x1-2022/23.jpg";
-import x1_2022_24 from "@/assets/cars/bmw-x1-2022/24.jpg";
-import x1_2022_25 from "@/assets/cars/bmw-x1-2022/25.jpg";
-import x1_2022_26 from "@/assets/cars/bmw-x1-2022/26.jpg";
-import x1_2022_27 from "@/assets/cars/bmw-x1-2022/27.jpg";
-import x1_2022_28 from "@/assets/cars/bmw-x1-2022/28.jpg";
-import x1_2022_29 from "@/assets/cars/bmw-x1-2022/29.jpg";
-
-// BMW X1 2016 images
-import x1_2016_1 from "@/assets/cars/bmw-x1-2016/1.jpg";
-import x1_2016_2 from "@/assets/cars/bmw-x1-2016/2.jpg";
-import x1_2016_3 from "@/assets/cars/bmw-x1-2016/3.jpg";
-import x1_2016_4 from "@/assets/cars/bmw-x1-2016/4.jpg";
-import x1_2016_5 from "@/assets/cars/bmw-x1-2016/5.jpg";
-import x1_2016_6 from "@/assets/cars/bmw-x1-2016/6.jpg";
-import x1_2016_7 from "@/assets/cars/bmw-x1-2016/7.jpg";
-import x1_2016_8 from "@/assets/cars/bmw-x1-2016/8.jpg";
-import x1_2016_9 from "@/assets/cars/bmw-x1-2016/9.jpg";
-import x1_2016_10 from "@/assets/cars/bmw-x1-2016/10.jpg";
-import x1_2016_11 from "@/assets/cars/bmw-x1-2016/11.jpg";
-import x1_2016_12 from "@/assets/cars/bmw-x1-2016/12.jpg";
-import x1_2016_13 from "@/assets/cars/bmw-x1-2016/13.jpg";
-import x1_2016_14 from "@/assets/cars/bmw-x1-2016/14.jpg";
-import x1_2016_15 from "@/assets/cars/bmw-x1-2016/15.jpg";
-import x1_2016_16 from "@/assets/cars/bmw-x1-2016/16.jpg";
-import x1_2016_17 from "@/assets/cars/bmw-x1-2016/17.jpg";
-import x1_2016_18 from "@/assets/cars/bmw-x1-2016/18.jpg";
-import x1_2016_19 from "@/assets/cars/bmw-x1-2016/19.jpg";
-import x1_2016_20 from "@/assets/cars/bmw-x1-2016/20.jpg";
-import x1_2016_21 from "@/assets/cars/bmw-x1-2016/21.jpg";
-import x1_2016_22 from "@/assets/cars/bmw-x1-2016/22.jpg";
-import x1_2016_23 from "@/assets/cars/bmw-x1-2016/23.jpg";
-import x1_2016_24 from "@/assets/cars/bmw-x1-2016/24.jpg";
-import x1_2016_25 from "@/assets/cars/bmw-x1-2016/25.jpg";
-import x1_2016_26 from "@/assets/cars/bmw-x1-2016/26.jpg";
-import x1_2016_27 from "@/assets/cars/bmw-x1-2016/27.jpg";
-import x1_2016_28 from "@/assets/cars/bmw-x1-2016/28.jpg";
-
 // BMW 320d M-Paket images
 import bmw320d_1 from "@/assets/cars/bmw-320d-m-paket/1.jpg";
 import bmw320d_2 from "@/assets/cars/bmw-320d-m-paket/2.jpg";
@@ -450,9 +386,7 @@ const golf8gtdImages = [golf8gtd_1, golf8gtd_2, golf8gtd_3, golf8gtd_4, golf8gtd
 const octaviaRs2Images = [octaviaRs2_1, octaviaRs2_2, octaviaRs2_3, octaviaRs2_4, octaviaRs2_5, octaviaRs2_6, octaviaRs2_7, octaviaRs2_8, octaviaRs2_9, octaviaRs2_10, octaviaRs2_11, octaviaRs2_12, octaviaRs2_13, octaviaRs2_14, octaviaRs2_15, octaviaRs2_16, octaviaRs2_17, octaviaRs2_18, octaviaRs2_19, octaviaRs2_20, octaviaRs2_21, octaviaRs2_22, octaviaRs2_23, octaviaRs2_24, octaviaRs2_25, octaviaRs2_26, octaviaRs2_27, octaviaRs2_28];
 const tiguanJoinImages = [tiguanJoin_1, tiguanJoin_2, tiguanJoin_3, tiguanJoin_4, tiguanJoin_5, tiguanJoin_6, tiguanJoin_7, tiguanJoin_8, tiguanJoin_9, tiguanJoin_10, tiguanJoin_11, tiguanJoin_12, tiguanJoin_13, tiguanJoin_14, tiguanJoin_15, tiguanJoin_16, tiguanJoin_17, tiguanJoin_18, tiguanJoin_19, tiguanJoin_20, tiguanJoin_21, tiguanJoin_22, tiguanJoin_23, tiguanJoin_24, tiguanJoin_25, tiguanJoin_26, tiguanJoin_27];
 
-const bmwX1Images = [x1_2022_1, x1_2022_2, x1_2022_3, x1_2022_4, x1_2022_5, x1_2022_6, x1_2022_7, x1_2022_8, x1_2022_9, x1_2022_10, x1_2022_11, x1_2022_12, x1_2022_13, x1_2022_14, x1_2022_15, x1_2022_16, x1_2022_17, x1_2022_18, x1_2022_19, x1_2022_20, x1_2022_21, x1_2022_22, x1_2022_23, x1_2022_24, x1_2022_25, x1_2022_26, x1_2022_27, x1_2022_28, x1_2022_29];
 const bmw320dImages = [bmw320d_1, bmw320d_2, bmw320d_3, bmw320d_4, bmw320d_5, bmw320d_6, bmw320d_7, bmw320d_8, bmw320d_9, bmw320d_10, bmw320d_11, bmw320d_12, bmw320d_13, bmw320d_14, bmw320d_15, bmw320d_16, bmw320d_17, bmw320d_18, bmw320d_19, bmw320d_20, bmw320d_21, bmw320d_22, bmw320d_23, bmw320d_24, bmw320d_25, bmw320d_26, bmw320d_27, bmw320d_28];
-const bmwX1MPaketImages = [x1_2016_1, x1_2016_2, x1_2016_3, x1_2016_4, x1_2016_5, x1_2016_6, x1_2016_7, x1_2016_8, x1_2016_9, x1_2016_10, x1_2016_11, x1_2016_12, x1_2016_13, x1_2016_14, x1_2016_15, x1_2016_16, x1_2016_17, x1_2016_18, x1_2016_19, x1_2016_20, x1_2016_21, x1_2016_22, x1_2016_23, x1_2016_24, x1_2016_25, x1_2016_26, x1_2016_27, x1_2016_28];
 
 // New cars - single images
 import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
@@ -662,35 +596,6 @@ import clioTce_17 from "@/assets/cars/renault-clio-tce/17.jpg";
 import clioTce_18 from "@/assets/cars/renault-clio-tce/18.jpg";
 import clioTce_19 from "@/assets/cars/renault-clio-tce/19.jpg";
 import clioTce_20 from "@/assets/cars/renault-clio-tce/20.jpg";
-import peugeot2008_1 from "@/assets/cars/peugeot-2008-gt-line/1.jpg";
-import peugeot2008_2 from "@/assets/cars/peugeot-2008-gt-line/2.jpg";
-import peugeot2008_3 from "@/assets/cars/peugeot-2008-gt-line/3.jpg";
-import peugeot2008_4 from "@/assets/cars/peugeot-2008-gt-line/4.jpg";
-import peugeot2008_5 from "@/assets/cars/peugeot-2008-gt-line/5.jpg";
-import peugeot2008_6 from "@/assets/cars/peugeot-2008-gt-line/6.jpg";
-import peugeot2008_7 from "@/assets/cars/peugeot-2008-gt-line/7.jpg";
-import peugeot2008_8 from "@/assets/cars/peugeot-2008-gt-line/8.jpg";
-import peugeot2008_9 from "@/assets/cars/peugeot-2008-gt-line/9.jpg";
-import peugeot2008_10 from "@/assets/cars/peugeot-2008-gt-line/10.jpg";
-import peugeot2008_11 from "@/assets/cars/peugeot-2008-gt-line/11.jpg";
-import peugeot2008_12 from "@/assets/cars/peugeot-2008-gt-line/12.jpg";
-import peugeot2008_13 from "@/assets/cars/peugeot-2008-gt-line/13.jpg";
-import peugeot2008_14 from "@/assets/cars/peugeot-2008-gt-line/14.jpg";
-import peugeot2008_15 from "@/assets/cars/peugeot-2008-gt-line/15.jpg";
-import peugeot2008_16 from "@/assets/cars/peugeot-2008-gt-line/16.jpg";
-import peugeot2008_17 from "@/assets/cars/peugeot-2008-gt-line/17.jpg";
-import peugeot2008_18 from "@/assets/cars/peugeot-2008-gt-line/18.jpg";
-import peugeot2008_19 from "@/assets/cars/peugeot-2008-gt-line/19.jpg";
-import peugeot2008_20 from "@/assets/cars/peugeot-2008-gt-line/20.jpg";
-import peugeot2008_21 from "@/assets/cars/peugeot-2008-gt-line/21.jpg";
-import peugeot2008_22 from "@/assets/cars/peugeot-2008-gt-line/22.jpg";
-import peugeot2008_23 from "@/assets/cars/peugeot-2008-gt-line/23.jpg";
-import peugeot2008_24 from "@/assets/cars/peugeot-2008-gt-line/24.jpg";
-import peugeot2008_25 from "@/assets/cars/peugeot-2008-gt-line/25.jpg";
-import peugeot2008_26 from "@/assets/cars/peugeot-2008-gt-line/26.jpg";
-import peugeot2008_27 from "@/assets/cars/peugeot-2008-gt-line/27.jpg";
-import peugeot2008_28 from "@/assets/cars/peugeot-2008-gt-line/28.jpg";
-import peugeot2008_29 from "@/assets/cars/peugeot-2008-gt-line/29.jpg";
 import octaviaFirst132_1 from "@/assets/cars/skoda-octavia-first-edition-132k/1.jpg";
 import octaviaFirst132_2 from "@/assets/cars/skoda-octavia-first-edition-132k/2.jpg";
 import octaviaFirst132_3 from "@/assets/cars/skoda-octavia-first-edition-132k/3.jpg";
@@ -747,8 +652,6 @@ import octaviaFirstPanorama_26 from "@/assets/cars/skoda-octavia-first-edition-p
 import octaviaFirstPanorama_27 from "@/assets/cars/skoda-octavia-first-edition-panorama/27.jpg";
 import octaviaFirstPanorama_28 from "@/assets/cars/skoda-octavia-first-edition-panorama/28.jpg";
 import octaviaFirstPanorama_29 from "@/assets/cars/skoda-octavia-first-edition-panorama/29.jpg";
-
-
 
 
 // BMW X5 xDrive30d 2019 images

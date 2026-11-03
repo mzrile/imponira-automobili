@@ -7,8 +7,6 @@ import SEO from "@/components/SEO";
 import m440i_21 from "@/assets/cars/bmw-m440i/21.jpg";
 import tiguan9 from "@/assets/cars/vw-tiguan/9.jpg";
 
-// BMW X1 image
-import x1_2016_1 from "@/assets/cars/bmw-x1-2016/1.jpg";
 
 // BMW M5 Competition image
 
@@ -19,7 +17,6 @@ import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
 
 import octaviaFirstPanorama_1 from "@/assets/cars/skoda-octavia-first-edition-panorama/1.jpg";
 import octaviaFirst132_1 from "@/assets/cars/skoda-octavia-first-edition-132k/1.jpg";
-import peugeot2008_1 from "@/assets/cars/peugeot-2008-gt-line/1.jpg";
 import clioTce_1 from "@/assets/cars/renault-clio-tce/1.jpg";
 import octaviaRs136_1 from "@/assets/cars/skoda-octavia-combi-rs-136k/1.jpg";
 
@@ -35,7 +32,6 @@ import mercedesLogo from "@/assets/brands/mercedes-new.png";
 import volkswagenLogo from "@/assets/brands/volkswagen-new.png";
 import skodaLogo from "@/assets/brands/skoda-new.png";
 import audiLogo from "@/assets/brands/audi-new.png";
-import peugeotLogo from "@/assets/brands/peugeot-new.png";
 import renaultLogo from "@/assets/brands/renault-new.png";
 
 const allCars = [
@@ -52,8 +48,6 @@ const allCars = [
   { id: 35, slug: "skoda-octavia-combi-first-edition-panorama", image: octaviaFirstPanorama_1, brand: "Škoda", model: "Octavia Combi First Edition Panorama", year: 2020, mileage: 102400, fuelType: "Dizel", price: 21990, brandLogo: skodaLogo },
   { id: 36, slug: "skoda-octavia-combi-first-edition-2020", image: octaviaFirst132_1, brand: "Škoda", model: "Octavia Combi 2.0TDI First Edition", year: 2020, mileage: 132200, fuelType: "Dizel", price: 20790, brandLogo: skodaLogo },
   { id: 45, slug: "audi-a5-sportback-40tdi-s-line", image: audiA5_40_1, brand: "Audi", model: "A5 Sportback 40TDI S-Line", year: 2019, mileage: 232000, fuelType: "Dizel", price: 19290, priceDate: "02.10.2026.", brandLogo: audiLogo },
-  { id: 37, slug: "peugeot-2008-gt-line-black", image: peugeot2008_1, brand: "Peugeot", model: "2008 1.5 HDI GT Line Black Paket", year: 2020, mileage: 85000, fuelType: "Dizel", price: 18490, brandLogo: peugeotLogo },
-  { id: 11, slug: "bmw-x1-sdrive18d-m-paket", image: x1_2016_1, brand: "BMW", model: "X1 sDrive18d M-Paket", year: 2016, mileage: 209000, fuelType: "Dizel", price: 15490, brandLogo: bmwLogo },
   { id: 38, slug: "renault-clio-edition-one-tce", image: clioTce_1, brand: "Renault", model: "Clio Edition One TCe Automatik", year: 2020, mileage: 121000, fuelType: "Benzin", price: 14290, brandLogo: renaultLogo },
 ];
 
