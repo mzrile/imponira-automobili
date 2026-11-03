@@ -2,6 +2,7 @@ import { corsHeaders } from "npm:@supabase/supabase-js@2/cors";
 import { createClient } from "npm:@supabase/supabase-js@2";
 import vozila from "./vozila.json" with { type: "json" };
 import { priceFields, type Vozilo } from "./prices.ts";
+import { isWithdrawnArchive } from "./archiveCleanup.ts";
 
 const BUCKET = "cjenik";
 // Storage keys must be ASCII, so diacritics are dropped.
@@ -47,7 +48,13 @@ function buildXml(r: Record<string, string>[]) {
 async function listAll() {
   const { data, error } = await supabase.storage.from(BUCKET).list("", { limit: 1000, sortBy: { column: "created_at", order: "desc" } });
   if (error) throw error;
-  return data ?? [];
+  const files = data ?? [];
+  const withdrawn = files.filter((file) => isWithdrawnArchive(file.name)).map((file) => file.name);
+  if (withdrawn.length) {
+    const { error: removalError } = await supabase.storage.from(BUCKET).remove(withdrawn);
+    if (removalError) throw removalError;
+  }
+  return files.filter((file) => !isWithdrawnArchive(file.name));
 }
 
 async function upload(name: string, body: string, type: string) {
