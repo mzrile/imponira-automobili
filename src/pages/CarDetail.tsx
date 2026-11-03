@@ -1,4 +1,5 @@
 import { useParams } from "react-router-dom";
+import { anchorPriceBySlug } from "@/lib/vehiclePricing";
 import { useState, useEffect } from "react";
 import { Calendar, Gauge, Fuel, Settings, Zap, FileCheck, ChevronLeft, ChevronRight, PhoneCall, X } from "lucide-react";
 import Header from "@/components/Header";
@@ -1236,7 +1237,7 @@ const CarDetail = () => {
           <div className="flex items-center justify-between">
             <div>
               <p className="text-2xl text-primary font-bold">{car.price.toLocaleString()} €</p>
-              <p className="text-xs text-foreground mt-1">Cijena ({car.priceDate ?? "10.09.2026."}): {car.price.toLocaleString()} €</p>
+              <p className="text-xs text-foreground mt-1">Cijena ({car.priceDate ?? "10.09.2026."}): {anchorPriceBySlug(id, car.price).toLocaleString("hr-HR")} €</p>
             </div>
             <a 
               href="tel:0912666668" 

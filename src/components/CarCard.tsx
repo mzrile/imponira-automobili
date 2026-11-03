@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { Card } from "@/components/ui/card";
+import { anchorPrice } from "@/lib/vehiclePricing";
 
 interface CarCardProps {
   id: number;
@@ -44,7 +45,7 @@ const CarCard = ({ id, slug, image, brand, model, year, mileage, fuelType, trans
           </div>
           <div className="mt-auto">
             <div className="text-2xl font-bold text-primary">{price.toLocaleString()} €</div>
-            <p className="text-xs text-foreground mt-1">Cijena ({priceDate}): {price.toLocaleString()} €</p>
+            <p className="text-xs text-foreground mt-1">Cijena ({priceDate}): {anchorPrice(id, price).toLocaleString("hr-HR")} €</p>
           </div>
         </div>
       </Card>

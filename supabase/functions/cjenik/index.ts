@@ -1,6 +1,7 @@
 import { corsHeaders } from "npm:@supabase/supabase-js@2/cors";
 import { createClient } from "npm:@supabase/supabase-js@2";
 import vozila from "./vozila.json" with { type: "json" };
+import { priceFields, type Vozilo } from "./prices.ts";
 
 const BUCKET = "cjenik";
 // Storage keys must be ASCII, so diacritics are dropped.
@@ -9,11 +10,6 @@ const OZNAKA = "P1";
 const SITE = "https://imponira-automobili.lovable.app";
 const PREFIX = `prodajni salon_${ADRESA}_${OZNAKA}_`;
 const KEEP_DAYS = 40;
-
-type Vozilo = {
-  id: number; slug: string; marka: string; naziv: string; cijena: number;
-  datumCijene: string; prodano: boolean; akcijskaCijena: number | null;
-};
 
 const supabase = createClient(Deno.env.get("SUPABASE_URL")!, Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!);
 
@@ -28,13 +24,9 @@ function zagreb(d = new Date()) {
 
 function rows() {
   return (vozila as Vozilo[]).map((v) => {
-    const akcija = v.akcijskaCijena != null;
-    const cijena = (akcija ? v.akcijskaCijena! : v.cijena).toFixed(2);
     return {
       sifra: String(v.id), naziv: v.naziv, marka: v.marka, jedinica_mjere: "kom",
-      cijena_za_jedinicu_mjere: cijena, maloprodajna_cijena: cijena,
-      posebni_oblik_prodaje: akcija ? "DA" : "NE", naziv_posebnog_oblika_prodaje: akcija ? "Akcija" : "",
-      dodatna_cijena: v.cijena.toFixed(2), datum_dodatne_cijene: v.datumCijene,
+      ...priceFields(v),
       barkod: "", dostupnost: v.prodano ? "nedostupno" : "dostupno", valuta: "EUR", url: `${SITE}/car/${v.slug}`,
     } as Record<string, string>;
   });
