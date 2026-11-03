@@ -55,6 +55,26 @@ async function upload(name: string, body: string, type: string) {
   if (error) throw error;
 }
 
+async function correctSaleLabels() {
+  let corrected = 0;
+  for (const file of await listAll()) {
+    if (!(file.name.startsWith(PREFIX) || file.name === "cjenik.csv" || file.name === "cjenik.xml")) continue;
+    if (!file.name.endsWith(".csv") && !file.name.endsWith(".xml")) continue;
+    const { data, error } = await supabase.storage.from(BUCKET).download(file.name);
+    if (error || !data) throw error ?? new Error("Datoteka nije pronađena");
+    const original = await data.text();
+    const isCsv = file.name.endsWith(".csv");
+    const correctedText = isCsv
+      ? original.replace(/;DA;Akcija;/g, ";NE;;")
+      : original.replace(/<posebni_oblik_prodaje>DA<\/posebni_oblik_prodaje>\s*<naziv_posebnog_oblika_prodaje>Akcija<\/naziv_posebnog_oblika_prodaje>/g,
+        "<posebni_oblik_prodaje>NE</posebni_oblik_prodaje>\n    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>");
+    if (correctedText === original) continue;
+    await upload(file.name, correctedText, isCsv ? "text/csv; charset=utf-8" : "application/xml; charset=utf-8");
+    corrected++;
+  }
+  return corrected;
+}
+
 async function generate() {
   const files = await listAll();
   let max = 0;
@@ -104,6 +124,7 @@ Deno.serve(async (req) => {
       const body = await req.json().catch(() => ({}));
       // Scheduler fires at 22:05 and 23:05 UTC; only the run at 00:05 Zagreb time proceeds (handles DST).
       if (body?.scheduled === true && zagreb().hour !== 0) return json({ skipped: true });
+      if (body?.ispraviOznake === true) await correctSaleLabels();
       return json(await generate());
     }
     return json({ error: "Method not allowed" }, 405);
