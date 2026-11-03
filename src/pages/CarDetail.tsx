@@ -861,7 +861,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 44500, 
+    price: 42900, 
     images: [tiguan1, tiguan2, tiguan3, tiguan4, tiguan5, tiguan6, tiguan7, tiguan8, tiguan9, tiguan10, tiguan11, tiguan12, tiguan13, tiguan14, tiguan15, tiguan16, tiguan17, tiguan18, tiguan19, tiguan20, tiguan21, tiguan22, tiguan23, tiguan24, tiguan25, tiguan26, tiguan27, tiguan28, tiguan29, tiguan30],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -985,7 +985,7 @@ Sanremo green individual boja, M sportski paket, M sportske kočnice, M aerodina
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Karavan",
-    price: 26490,
+    price: 25990,
     images: [octaviaRs136_1, octaviaRs136_2, octaviaRs136_3, octaviaRs136_4, octaviaRs136_5, octaviaRs136_6, octaviaRs136_7, octaviaRs136_8, octaviaRs136_9, octaviaRs136_10, octaviaRs136_11, octaviaRs136_12, octaviaRs136_13, octaviaRs136_14, octaviaRs136_15, octaviaRs136_16, octaviaRs136_17, octaviaRs136_18, octaviaRs136_19, octaviaRs136_20, octaviaRs136_21, octaviaRs136_22, octaviaRs136_23, octaviaRs136_24, octaviaRs136_25, octaviaRs136_26, octaviaRs136_27, octaviaRs136_28, octaviaRs136_29],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -1055,7 +1055,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Karavan",
-    price: 20990,
+    price: 20790,
     images: [octaviaFirst132_1, octaviaFirst132_2, octaviaFirst132_3, octaviaFirst132_4, octaviaFirst132_5, octaviaFirst132_6, octaviaFirst132_7, octaviaFirst132_8, octaviaFirst132_9, octaviaFirst132_10, octaviaFirst132_11, octaviaFirst132_12, octaviaFirst132_13, octaviaFirst132_14, octaviaFirst132_15, octaviaFirst132_16, octaviaFirst132_17, octaviaFirst132_18, octaviaFirst132_19, octaviaFirst132_20, octaviaFirst132_21, octaviaFirst132_22, octaviaFirst132_23, octaviaFirst132_24, octaviaFirst132_25, octaviaFirst132_26, octaviaFirst132_27],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -1148,7 +1148,7 @@ Style paket opreme, R-line felge 18', Ergo activ sjedala, Memorija sjedala, Masa
     driveType: "4x4",
     status: "Rabljeno",
     bodyType: "SUV",
-    price: 26290,
+    price: 25990,
     priceDate: "02.10.2026.",
     images: [troc4m_1, troc4m_2, troc4m_3, troc4m_4, troc4m_5, troc4m_6, troc4m_7, troc4m_8, troc4m_9, troc4m_10, troc4m_11, troc4m_12, troc4m_13, troc4m_15, troc4m_16, troc4m_17, troc4m_18, troc4m_19, troc4m_20, troc4m_21, troc4m_22, troc4m_23, troc4m_24, troc4m_25, troc4m_26, troc4m_27, troc4m_28, troc4m_29, troc4m_30],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
@@ -1173,7 +1173,7 @@ R-LINE paket opreme, Sportska R-line sjedala, Metalik boja, IQ light, LED straž
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "SUV",
-    price: 25990,
+    price: 25790,
     priceDate: "02.10.2026.",
     images: [trocRl_1, trocRl_2, trocRl_3, trocRl_4, trocRl_5, trocRl_6, trocRl_7, trocRl_8, trocRl_9, trocRl_10, trocRl_11, trocRl_12, trocRl_13, trocRl_14, trocRl_15, trocRl_16, trocRl_17, trocRl_18, trocRl_19, trocRl_20, trocRl_21, trocRl_22, trocRl_23, trocRl_24, trocRl_25, trocRl_26, trocRl_27, trocRl_28, trocRl_29],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
