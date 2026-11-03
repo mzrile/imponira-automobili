@@ -52,7 +52,6 @@ const allCars = [
   { id: 46, slug: "bmw-x5-30d-xdrive-2016", image: bmwX5_30d_1, brand: "BMW", model: "X5 30d xDrive", year: 2016, mileage: 202000, fuelType: "Dizel", price: 23990, priceDate: "08.10.2026.", brandLogo: bmwLogo },
   { id: 35, slug: "skoda-octavia-combi-first-edition-panorama", image: octaviaFirstPanorama_1, brand: "Škoda", model: "Octavia Combi First Edition Panorama", year: 2020, mileage: 102400, fuelType: "Dizel", price: 21990, brandLogo: skodaLogo },
   { id: 36, slug: "skoda-octavia-combi-first-edition-2020", image: octaviaFirst132_1, brand: "Škoda", model: "Octavia Combi 2.0TDI First Edition", year: 2020, mileage: 132200, fuelType: "Dizel", price: 20790, brandLogo: skodaLogo },
-  { id: 34, slug: "audi-a5-sportback-2-0tdi", image: audiA5_1, brand: "Audi", model: "A5 Sportback 2.0TDI", year: 2017, mileage: 205000, fuelType: "Dizel", price: 19290, brandLogo: audiLogo },
   { id: 45, slug: "audi-a5-sportback-40tdi-s-line", image: audiA5_40_1, brand: "Audi", model: "A5 Sportback 40TDI S-Line", year: 2019, mileage: 232000, fuelType: "Dizel", price: 19290, priceDate: "02.10.2026.", brandLogo: audiLogo },
   { id: 37, slug: "peugeot-2008-gt-line-black", image: peugeot2008_1, brand: "Peugeot", model: "2008 1.5 HDI GT Line Black Paket", year: 2020, mileage: 85000, fuelType: "Dizel", price: 18490, brandLogo: peugeotLogo },
   { id: 11, slug: "bmw-x1-sdrive18d-m-paket", image: x1_2016_1, brand: "BMW", model: "X1 sDrive18d M-Paket", year: 2016, mileage: 209000, fuelType: "Dizel", price: 15490, brandLogo: bmwLogo },

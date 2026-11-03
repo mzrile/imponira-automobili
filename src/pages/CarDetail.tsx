@@ -994,30 +994,6 @@ Redovno održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, dva seta
 Dodatna oprema:
 Quartz grey metalik boja, Felge 19", Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED svjetla, LED putujući žmigavci, Animacija svjetla, Active sound, LED Matrix svjetla, Head up display, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja parking kamera, Park asist, Front assist, Auto hold, Automatska duga svjetla, Sustav za ograničenje brzine, Adaptive tempomat, Autopilot, Modovi vožnje, Upozorenje na pospanost, Upozorenje na mrtvi kut, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Armatura od alcantare, Crno nebo, Carbon, Kožna RS sjedala, Memorija sjedala, El. podešavanje sjedala, Grijanje sjedala (prednja/zadnja), Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, Električna vrata prtljažnika, Otvaranje prtljažnika nogom, El. sklapanje retrovizora, DAB, Ambijentalna rasvjeta, LED logo projektor u vratima, Zavjese na prozorima, Sustav za kontrolu tlaka u gumama, Servotronic, Rezervni kotač, 2 ključa`,
   },
-  "audi-a5-sportback-2-0tdi": {
-    brand: "Audi",
-    model: "A5 Sportback 2.0TDI",
-    year: 2017,
-    mileage: 205000,
-    fuelType: "Dizel",
-    transmission: "Automatski",
-    power: "110 kW",
-    engine: "Dizel",
-    registration: "12/2026",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "Coupe",
-    price: 19290,
-    images: [audiA5_1, audiA5_2, audiA5_3, audiA5_4, audiA5_5, audiA5_6, audiA5_7, audiA5_8, audiA5_9, audiA5_10, audiA5_11, audiA5_12, audiA5_13, audiA5_14, audiA5_15, audiA5_16, audiA5_17, audiA5_18, audiA5_19, audiA5_20, audiA5_21],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-AUDI A5 SPORTBACK: Održavan u ovlaštenom servisu, posjeduje servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, dodatni set zimskih guma sa alu felgama, moguća provjera bilo gdje po želji kupca ...
-
-REGISTRIRAN DO: 12/2026
-
-Dodatna oprema:
-LED svjetla, Alu felge 19", Tempomat, MF kožni volan, Zatvaranje gepeka na struju, Modovi vožnje, Parking senzori, Navigacija, Paljenje/gašenje bez ključa, Bluetooth, USB, Isofix`,
-  },
   "skoda-octavia-combi-first-edition-panorama": {
     brand: "Škoda",
     model: "Octavia Combi First Edition Panorama",
