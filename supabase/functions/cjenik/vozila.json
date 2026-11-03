@@ -37,7 +37,7 @@
   "cijena": 44500,
   "datumCijene": "10.09.2026.",
   "prodano": false,
-  "akcijskaCijena": null
+  "akcijskaCijena": 42900
  },
  {
   "id": 19,
@@ -67,7 +67,7 @@
   "cijena": 26290,
   "datumCijene": "02.10.2026.",
   "prodano": false,
-  "akcijskaCijena": null
+  "akcijskaCijena": 25990
  },
  {
   "id": 41,
@@ -77,7 +77,7 @@
   "cijena": 26490,
   "datumCijene": "10.09.2026.",
   "prodano": false,
-  "akcijskaCijena": null
+  "akcijskaCijena": 25990
  },
  {
   "id": 44,
@@ -87,7 +87,7 @@
   "cijena": 25990,
   "datumCijene": "02.10.2026.",
   "prodano": false,
-  "akcijskaCijena": null
+  "akcijskaCijena": 25790
  },
  {
   "id": 46,
@@ -117,17 +117,7 @@
   "cijena": 20990,
   "datumCijene": "10.09.2026.",
   "prodano": false,
-  "akcijskaCijena": null
- },
- {
-  "id": 34,
-  "slug": "audi-a5-sportback-2-0tdi",
-  "marka": "Audi",
-  "naziv": "Audi A5 Sportback 2.0TDI",
-  "cijena": 19290,
-  "datumCijene": "10.09.2026.",
-  "prodano": false,
-  "akcijskaCijena": null
+  "akcijskaCijena": 20790
  },
  {
   "id": 45,

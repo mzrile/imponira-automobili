@@ -511,27 +511,6 @@ import bmw840i_28 from "@/assets/cars/bmw-840i-xdrive-individual/28.jpg";
 import bmw840i_29 from "@/assets/cars/bmw-840i-xdrive-individual/29.jpg";
 import bmw840i_30 from "@/assets/cars/bmw-840i-xdrive-individual/30.jpg";
 
-import audiA5_1 from "@/assets/cars/audi-a5-sportback-2-0tdi/1.jpg";
-import audiA5_2 from "@/assets/cars/audi-a5-sportback-2-0tdi/2.jpg";
-import audiA5_3 from "@/assets/cars/audi-a5-sportback-2-0tdi/3.jpg";
-import audiA5_4 from "@/assets/cars/audi-a5-sportback-2-0tdi/4.jpg";
-import audiA5_5 from "@/assets/cars/audi-a5-sportback-2-0tdi/5.jpg";
-import audiA5_6 from "@/assets/cars/audi-a5-sportback-2-0tdi/6.jpg";
-import audiA5_7 from "@/assets/cars/audi-a5-sportback-2-0tdi/7.jpg";
-import audiA5_8 from "@/assets/cars/audi-a5-sportback-2-0tdi/8.jpg";
-import audiA5_9 from "@/assets/cars/audi-a5-sportback-2-0tdi/9.jpg";
-import audiA5_10 from "@/assets/cars/audi-a5-sportback-2-0tdi/10.jpg";
-import audiA5_11 from "@/assets/cars/audi-a5-sportback-2-0tdi/11.jpg";
-import audiA5_12 from "@/assets/cars/audi-a5-sportback-2-0tdi/12.jpg";
-import audiA5_13 from "@/assets/cars/audi-a5-sportback-2-0tdi/13.jpg";
-import audiA5_14 from "@/assets/cars/audi-a5-sportback-2-0tdi/14.jpg";
-import audiA5_15 from "@/assets/cars/audi-a5-sportback-2-0tdi/15.jpg";
-import audiA5_16 from "@/assets/cars/audi-a5-sportback-2-0tdi/16.jpg";
-import audiA5_17 from "@/assets/cars/audi-a5-sportback-2-0tdi/17.jpg";
-import audiA5_18 from "@/assets/cars/audi-a5-sportback-2-0tdi/18.jpg";
-import audiA5_19 from "@/assets/cars/audi-a5-sportback-2-0tdi/19.jpg";
-import audiA5_20 from "@/assets/cars/audi-a5-sportback-2-0tdi/20.jpg";
-import audiA5_21 from "@/assets/cars/audi-a5-sportback-2-0tdi/21.jpg";
 import golf8Style_1 from "@/assets/cars/vw-golf-8-style-2025/1.jpg";
 import golf8Style_2 from "@/assets/cars/vw-golf-8-style-2025/2.jpg";
 import golf8Style_3 from "@/assets/cars/vw-golf-8-style-2025/3.jpg";
@@ -861,7 +840,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji", 
     status: "Rabljeno", 
     bodyType: "SUV", 
-    price: 44500, 
+    price: 42900, 
     images: [tiguan1, tiguan2, tiguan3, tiguan4, tiguan5, tiguan6, tiguan7, tiguan8, tiguan9, tiguan10, tiguan11, tiguan12, tiguan13, tiguan14, tiguan15, tiguan16, tiguan17, tiguan18, tiguan19, tiguan20, tiguan21, tiguan22, tiguan23, tiguan24, tiguan25, tiguan26, tiguan27, tiguan28, tiguan29, tiguan30],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -985,7 +964,7 @@ Sanremo green individual boja, M sportski paket, M sportske kočnice, M aerodina
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Karavan",
-    price: 26490,
+    price: 25990,
     images: [octaviaRs136_1, octaviaRs136_2, octaviaRs136_3, octaviaRs136_4, octaviaRs136_5, octaviaRs136_6, octaviaRs136_7, octaviaRs136_8, octaviaRs136_9, octaviaRs136_10, octaviaRs136_11, octaviaRs136_12, octaviaRs136_13, octaviaRs136_14, octaviaRs136_15, octaviaRs136_16, octaviaRs136_17, octaviaRs136_18, octaviaRs136_19, octaviaRs136_20, octaviaRs136_21, octaviaRs136_22, octaviaRs136_23, octaviaRs136_24, octaviaRs136_25, octaviaRs136_26, octaviaRs136_27, octaviaRs136_28, octaviaRs136_29],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -993,30 +972,6 @@ Redovno održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, dva seta
 
 Dodatna oprema:
 Quartz grey metalik boja, Felge 19", Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED svjetla, LED putujući žmigavci, Animacija svjetla, Active sound, LED Matrix svjetla, Head up display, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja parking kamera, Park asist, Front assist, Auto hold, Automatska duga svjetla, Sustav za ograničenje brzine, Adaptive tempomat, Autopilot, Modovi vožnje, Upozorenje na pospanost, Upozorenje na mrtvi kut, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Armatura od alcantare, Crno nebo, Carbon, Kožna RS sjedala, Memorija sjedala, El. podešavanje sjedala, Grijanje sjedala (prednja/zadnja), Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, Električna vrata prtljažnika, Otvaranje prtljažnika nogom, El. sklapanje retrovizora, DAB, Ambijentalna rasvjeta, LED logo projektor u vratima, Zavjese na prozorima, Sustav za kontrolu tlaka u gumama, Servotronic, Rezervni kotač, 2 ključa`,
-  },
-  "audi-a5-sportback-2-0tdi": {
-    brand: "Audi",
-    model: "A5 Sportback 2.0TDI",
-    year: 2017,
-    mileage: 205000,
-    fuelType: "Dizel",
-    transmission: "Automatski",
-    power: "110 kW",
-    engine: "Dizel",
-    registration: "12/2026",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "Coupe",
-    price: 19290,
-    images: [audiA5_1, audiA5_2, audiA5_3, audiA5_4, audiA5_5, audiA5_6, audiA5_7, audiA5_8, audiA5_9, audiA5_10, audiA5_11, audiA5_12, audiA5_13, audiA5_14, audiA5_15, audiA5_16, audiA5_17, audiA5_18, audiA5_19, audiA5_20, audiA5_21],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-AUDI A5 SPORTBACK: Održavan u ovlaštenom servisu, posjeduje servisnu knjigu, bez apsolutno ikakvih dodatnih ulaganja, dodatni set zimskih guma sa alu felgama, moguća provjera bilo gdje po želji kupca ...
-
-REGISTRIRAN DO: 12/2026
-
-Dodatna oprema:
-LED svjetla, Alu felge 19", Tempomat, MF kožni volan, Zatvaranje gepeka na struju, Modovi vožnje, Parking senzori, Navigacija, Paljenje/gašenje bez ključa, Bluetooth, USB, Isofix`,
   },
   "skoda-octavia-combi-first-edition-panorama": {
     brand: "Škoda",
@@ -1055,7 +1010,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Karavan",
-    price: 20990,
+    price: 20790,
     images: [octaviaFirst132_1, octaviaFirst132_2, octaviaFirst132_3, octaviaFirst132_4, octaviaFirst132_5, octaviaFirst132_6, octaviaFirst132_7, octaviaFirst132_8, octaviaFirst132_9, octaviaFirst132_10, octaviaFirst132_11, octaviaFirst132_12, octaviaFirst132_13, octaviaFirst132_14, octaviaFirst132_15, octaviaFirst132_16, octaviaFirst132_17, octaviaFirst132_18, octaviaFirst132_19, octaviaFirst132_20, octaviaFirst132_21, octaviaFirst132_22, octaviaFirst132_23, octaviaFirst132_24, octaviaFirst132_25, octaviaFirst132_26, octaviaFirst132_27],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -1148,7 +1103,7 @@ Style paket opreme, R-line felge 18', Ergo activ sjedala, Memorija sjedala, Masa
     driveType: "4x4",
     status: "Rabljeno",
     bodyType: "SUV",
-    price: 26290,
+    price: 25990,
     priceDate: "02.10.2026.",
     images: [troc4m_1, troc4m_2, troc4m_3, troc4m_4, troc4m_5, troc4m_6, troc4m_7, troc4m_8, troc4m_9, troc4m_10, troc4m_11, troc4m_12, troc4m_13, troc4m_15, troc4m_16, troc4m_17, troc4m_18, troc4m_19, troc4m_20, troc4m_21, troc4m_22, troc4m_23, troc4m_24, troc4m_25, troc4m_26, troc4m_27, troc4m_28, troc4m_29, troc4m_30],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
@@ -1173,7 +1128,7 @@ R-LINE paket opreme, Sportska R-line sjedala, Metalik boja, IQ light, LED straž
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "SUV",
-    price: 25990,
+    price: 25790,
     priceDate: "02.10.2026.",
     images: [trocRl_1, trocRl_2, trocRl_3, trocRl_4, trocRl_5, trocRl_6, trocRl_7, trocRl_8, trocRl_9, trocRl_10, trocRl_11, trocRl_12, trocRl_13, trocRl_14, trocRl_15, trocRl_16, trocRl_17, trocRl_18, trocRl_19, trocRl_20, trocRl_21, trocRl_22, trocRl_23, trocRl_24, trocRl_25, trocRl_26, trocRl_27, trocRl_28, trocRl_29],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
