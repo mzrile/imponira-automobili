@@ -1,6 +1,7 @@
 import { corsHeaders } from "npm:@supabase/supabase-js@2/cors";
 import { createClient } from "npm:@supabase/supabase-js@2";
 import vozila from "./vozila.json" with { type: "json" };
+import { priceFields, type Vozilo } from "./prices.ts";
 
 const BUCKET = "cjenik";
 // Storage keys must be ASCII, so diacritics are dropped.
@@ -9,11 +10,6 @@ const OZNAKA = "P1";
 const SITE = "https://imponira-automobili.lovable.app";
 const PREFIX = `prodajni salon_${ADRESA}_${OZNAKA}_`;
 const KEEP_DAYS = 40;
-
-type Vozilo = {
-  id: number; slug: string; marka: string; naziv: string; cijena: number;
-  datumCijene: string; prodano: boolean; akcijskaCijena: number | null;
-};
 
 const supabase = createClient(Deno.env.get("SUPABASE_URL")!, Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!);
 
@@ -28,13 +24,9 @@ function zagreb(d = new Date()) {
 
 function rows() {
   return (vozila as Vozilo[]).map((v) => {
-    const akcija = v.akcijskaCijena != null;
-    const cijena = (akcija ? v.akcijskaCijena! : v.cijena).toFixed(2);
     return {
       sifra: String(v.id), naziv: v.naziv, marka: v.marka, jedinica_mjere: "kom",
-      cijena_za_jedinicu_mjere: cijena, maloprodajna_cijena: cijena,
-      posebni_oblik_prodaje: akcija ? "DA" : "NE", naziv_posebnog_oblika_prodaje: akcija ? "Akcija" : "",
-      dodatna_cijena: v.cijena.toFixed(2), datum_dodatne_cijene: v.datumCijene,
+      ...priceFields(v),
       barkod: "", dostupnost: v.prodano ? "nedostupno" : "dostupno", valuta: "EUR", url: `${SITE}/car/${v.slug}`,
     } as Record<string, string>;
   });
@@ -61,6 +53,26 @@ async function listAll() {
 async function upload(name: string, body: string, type: string) {
   const { error } = await supabase.storage.from(BUCKET).upload(name, new Blob([body], { type }), { upsert: true, contentType: type });
   if (error) throw error;
+}
+
+async function correctSaleLabels() {
+  let corrected = 0;
+  for (const file of await listAll()) {
+    if (!(file.name.startsWith(PREFIX) || file.name === "cjenik.csv" || file.name === "cjenik.xml")) continue;
+    if (!file.name.endsWith(".csv") && !file.name.endsWith(".xml")) continue;
+    const { data, error } = await supabase.storage.from(BUCKET).download(file.name);
+    if (error || !data) throw error ?? new Error("Datoteka nije pronađena");
+    const original = await data.text();
+    const isCsv = file.name.endsWith(".csv");
+    const correctedText = isCsv
+      ? original.replace(/;DA;Akcija;/g, ";NE;;")
+      : original.replace(/<posebni_oblik_prodaje>DA<\/posebni_oblik_prodaje>\s*<naziv_posebnog_oblika_prodaje>Akcija<\/naziv_posebnog_oblika_prodaje>/g,
+        "<posebni_oblik_prodaje>NE</posebni_oblik_prodaje>\n    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>");
+    if (correctedText === original) continue;
+    await upload(file.name, correctedText, isCsv ? "text/csv; charset=utf-8" : "application/xml; charset=utf-8");
+    corrected++;
+  }
+  return corrected;
 }
 
 async function generate() {
@@ -112,6 +124,7 @@ Deno.serve(async (req) => {
       const body = await req.json().catch(() => ({}));
       // Scheduler fires at 22:05 and 23:05 UTC; only the run at 00:05 Zagreb time proceeds (handles DST).
       if (body?.scheduled === true && zagreb().hour !== 0) return json({ skipped: true });
+      if (body?.ispraviOznake === true) await correctSaleLabels();
       return json(await generate());
     }
     return json({ error: "Method not allowed" }, 405);
