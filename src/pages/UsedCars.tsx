@@ -17,7 +17,6 @@ import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
 import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
 
-import audiA5_1 from "@/assets/cars/audi-a5-sportback-2-0tdi/1.jpg";
 import octaviaFirstPanorama_1 from "@/assets/cars/skoda-octavia-first-edition-panorama/1.jpg";
 import octaviaFirst132_1 from "@/assets/cars/skoda-octavia-first-edition-132k/1.jpg";
 import peugeot2008_1 from "@/assets/cars/peugeot-2008-gt-line/1.jpg";
