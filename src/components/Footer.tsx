@@ -24,6 +24,17 @@ const Footer = () => {
           </div>
           <div className="text-center text-muted-foreground text-sm">
             <p>&copy; {new Date().getFullYear()} Imponira Automobili. Sva prava zadržana.</p>
+            <p className="mt-1">
+              Izradio i održava{" "}
+              <a
+                href="https://remarketing.hr/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-foreground hover:text-primary transition-colors underline-offset-4 hover:underline"
+              >
+                Remarketing
+              </a>
+            </p>
           </div>
         </div>
       </div>
