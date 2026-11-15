@@ -20,6 +20,16 @@
   "redovnaCijena": null
  },
  {
+  "id": 47,
+  "slug": "bmw-520d-m-sport-pro-2024",
+  "marka": "BMW",
+  "naziv": "BMW 520d M-Sport Pro",
+  "cijena": 61990,
+  "datumCijene": "15.11.2026.",
+  "prodano": false,
+  "redovnaCijena": null
+ },
+ {
   "id": 2,
   "slug": "bmw-m440i-xdrive",
   "marka": "BMW",

@@ -264,6 +264,7 @@ import bmw320d_28 from "@/assets/cars/bmw-320d-m-paket/28.jpg";
 
 // Mercedes E300e AMG images (25)
 import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
+import bmw520d_1 from "@/assets/cars/bmw-520d-m-sport-pro-2024/1.jpg";
 import e300e_2 from "@/assets/cars/mercedes-e300e-amg/2.jpg";
 import e300e_3 from "@/assets/cars/mercedes-e300e-amg/3.jpg";
 import e300e_4 from "@/assets/cars/mercedes-e300e-amg/4.jpg";
@@ -725,6 +726,27 @@ Dodatna oprema:
 R-line, IQ light, LED Plus glavna svjetla, 3D stražnja LED svjetla, Automatska duga svjetla, LED logo projektor u vratima, Tonirana stakla, Harman kardon ozvučenje, Armatura od kože sa prošivenim koncem, Boja vozila Oryx Weiss, Perlmutteffekt, Lakometalni naplaci "Leeds" 20", Presvlake sjedala "R-Line", R oznake na vozilu, Krovni nosači, Višenamjenski sportski upravljač presvučen kožom, Grijanje volana, Grijanje prednjih sjedala, Grijanje stražnjih sjedala, Ergo active sjedala, Masaža sjedala (3 moda), Front Assist, Sustav prepoznavanja pješaka i biciklista, Lane Assist, Side Assist, Autopilot, Mrtvi kut, Rear Traffic Alert, Automatsko održavanje razmaka ACC "Stop & Go", Automatsko zatamnjivanje unutarnjeg osvrtnog zrcala, El. pojačavanje glasa, El. sklopivi retrovizori, Upozorenje na umor, Upozorenje na dekoncentraciju, Upozorenje na brzinu, Čitanje prometnih znakova, 4xUSB priključak (Type C), 2x bežična punjača, Grijane mlaznice za pranje vjetrobranskog stakla, 8 zvučnika, Aluminijske papučice, Aluminijske ulazne letvice R-line, Ambijentalno osvjetljenje -30 boja, App-Connect, Automatski klima uređaj, Air Care Climatronic, Webasto, Električna parkirna kočnica s "Auto Hold" funkcijom, Isofix priprema za dječje sjedalice, Kamera za vožnju unatrag, 12,9" ekran (32 cm), 2 ključa + webasto
 
 POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
+  },
+  "bmw-520d-m-sport-pro-2024": {
+    brand: "BMW",
+    model: "520d M-Sport Pro",
+    year: 2024,
+    mileage: 13200,
+    fuelType: "Dizel",
+    transmission: "Automatski",
+    power: "145 kW",
+    engine: "Dizel",
+    registration: "06/2027",
+    driveType: "Stražnji",
+    status: "Rabljeno",
+    bodyType: "Limuzina",
+    price: 61990,
+    priceDate: "15.11.2026.",
+    images: [bmw520d_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Dodatna oprema:
+Tanzanit plava metalik boja, M Sport PRO paket, Iconic Glow, Adaptivna LED svjetla, Panorama, Shadow line, Adaptivni ovjes, Felge 21", Zakretanje stražnjih kotača, Automatska svjetla, Head-up, 360 kamera, Parkpilot, Unutarnja kamera, AR projekcija u live cockpitu, Night vision, Harman/Kardon ozvučenje, Gesture control (senzor na pokret ruke), 4-zone klimatizacija, Stražnji ekran za klimu, Komfort sport sjedala, El. podesiva sjedala s memorijom, Grijanje i hlađenje prednjih sjedala, Grijanje stražnjih sjedala, Grijanje volana, El. podesiv volan, Ukrasni elementi od karbona, Navigation Professional 3D, Keyless ulaz bez ključa, El. vrata prtljažnika, Ambient light, Modovi vožnje, Upozorenje na mrtvi kut, Adaptivni tempomat, Front assist, Lane assist, Auto hold, Prepoznavanje sudara, Radar, Vibracija volana, Čitanje prometnih znakova, Bežično punjenje mobitela, F1 ručice, Tonirana stakla, 2 ključa`,
   },
   "mercedes-e300e-amg": {
     brand: "Mercedes",

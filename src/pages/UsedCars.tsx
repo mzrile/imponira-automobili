@@ -14,6 +14,7 @@ import tiguan9 from "@/assets/cars/vw-tiguan/9.jpg";
 import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
 import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
+import bmw520d_1 from "@/assets/cars/bmw-520d-m-sport-pro-2024/1.jpg";
 
 import octaviaFirst132_1 from "@/assets/cars/skoda-octavia-first-edition-132k/1.jpg";
 import clioTce_1 from "@/assets/cars/renault-clio-tce/1.jpg";
@@ -36,6 +37,7 @@ import renaultLogo from "@/assets/brands/renault-new.png";
 const allCars = [
   { id: 17, slug: "mercedes-e300e-amg", image: e300e_1, brand: "Mercedes", model: "E300e AMG", year: 2025, mileage: 9000, fuelType: "Plug-in hibrid", price: 69900, brandLogo: mercedesLogo },
   { id: 30, slug: "bmw-840i-xdrive-individual", image: bmw840i_1, brand: "BMW", model: "840i xDrive Individual M-Sport", year: 2022, mileage: 108900, fuelType: "Benzin", price: 65990, brandLogo: bmwLogo },
+  { id: 47, slug: "bmw-520d-m-sport-pro-2024", image: bmw520d_1, brand: "BMW", model: "520d M-Sport Pro", year: 2024, mileage: 13200, fuelType: "Dizel", price: 61990, priceDate: "15.11.2026.", brandLogo: bmwLogo },
   { id: 2, slug: "bmw-m440i-xdrive", image: m440i_21, brand: "BMW", model: "M440i xDrive", year: 2020, mileage: 92000, fuelType: "Benzin", price: 49990, brandLogo: bmwLogo },
   { id: 3, slug: "vw-tiguan-r-line", image: tiguan9, brand: "VW", model: "Tiguan 2.0 TDI DSG R-Line", year: 2024, mileage: 26900, fuelType: "Dizel", price: 42900, brandLogo: volkswagenLogo },
   { id: 19, slug: "mercedes-glb-220d-4matic", image: glb220d_1, brand: "Mercedes", model: "GLB 220d 4Matic", year: 2022, mileage: 85800, fuelType: "Dizel", price: 36900, brandLogo: mercedesLogo },
