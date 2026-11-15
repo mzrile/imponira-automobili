@@ -15,7 +15,6 @@ import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
 import glb220d_1 from "@/assets/cars/mercedes-glb-220d/1.jpg";
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
 
-import octaviaFirstPanorama_1 from "@/assets/cars/skoda-octavia-first-edition-panorama/1.jpg";
 import octaviaFirst132_1 from "@/assets/cars/skoda-octavia-first-edition-132k/1.jpg";
 import clioTce_1 from "@/assets/cars/renault-clio-tce/1.jpg";
 import octaviaRs136_1 from "@/assets/cars/skoda-octavia-combi-rs-136k/1.jpg";
@@ -35,18 +34,17 @@ import audiLogo from "@/assets/brands/audi-new.png";
 import renaultLogo from "@/assets/brands/renault-new.png";
 
 const allCars = [
-  { id: 17, slug: "mercedes-e300e-amg", image: e300e_1, brand: "Mercedes", model: "E300e AMG", year: 2025, mileage: 9000, fuelType: "Plug-in hibrid", price: 72900, brandLogo: mercedesLogo },
+  { id: 17, slug: "mercedes-e300e-amg", image: e300e_1, brand: "Mercedes", model: "E300e AMG", year: 2025, mileage: 9000, fuelType: "Plug-in hibrid", price: 69900, brandLogo: mercedesLogo },
   { id: 30, slug: "bmw-840i-xdrive-individual", image: bmw840i_1, brand: "BMW", model: "840i xDrive Individual M-Sport", year: 2022, mileage: 108900, fuelType: "Benzin", price: 65990, brandLogo: bmwLogo },
   { id: 2, slug: "bmw-m440i-xdrive", image: m440i_21, brand: "BMW", model: "M440i xDrive", year: 2020, mileage: 92000, fuelType: "Benzin", price: 49990, brandLogo: bmwLogo },
   { id: 3, slug: "vw-tiguan-r-line", image: tiguan9, brand: "VW", model: "Tiguan 2.0 TDI DSG R-Line", year: 2024, mileage: 26900, fuelType: "Dizel", price: 42900, brandLogo: volkswagenLogo },
-  { id: 19, slug: "mercedes-glb-220d-4matic", image: glb220d_1, brand: "Mercedes", model: "GLB 220d 4Matic", year: 2022, mileage: 85800, fuelType: "Dizel", price: 37900, brandLogo: mercedesLogo },
+  { id: 19, slug: "mercedes-glb-220d-4matic", image: glb220d_1, brand: "Mercedes", model: "GLB 220d 4Matic", year: 2022, mileage: 85800, fuelType: "Dizel", price: 36900, brandLogo: mercedesLogo },
   { id: 42, slug: "vw-golf-8-2-0tdi-dsg-style", image: golf8Style_1, brand: "VW", model: "Golf 8 2.0 TDI DSG Style Redizajn", year: 2025, mileage: 25400, fuelType: "Dizel", price: 29990, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
-  { id: 43, slug: "vw-t-roc-2-0tdi-4motion-dsg-r-line", image: troc4m_1, brand: "VW", model: "T-Roc 2.0 TDI 4Motion DSG R-Line", year: 2022, mileage: 104350, fuelType: "Dizel", price: 25990, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
-  { id: 41, slug: "skoda-octavia-combi-rs-2-0tdi-dsg-2021", image: octaviaRs136_1, brand: "Škoda", model: "Octavia Combi RS 2.0TDI DSG", year: 2021, mileage: 136200, fuelType: "Dizel", price: 25990, brandLogo: skodaLogo },
-  { id: 44, slug: "vw-t-roc-2-0tdi-dsg-r-line", image: trocRl_1, brand: "VW", model: "T-Roc 2.0 TDI DSG R-Line", year: 2022, mileage: 114000, fuelType: "Dizel", price: 25790, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
+  { id: 43, slug: "vw-t-roc-2-0tdi-4motion-dsg-r-line", image: troc4m_1, brand: "VW", model: "T-Roc 2.0 TDI 4Motion DSG R-Line", year: 2022, mileage: 104350, fuelType: "Dizel", price: 25790, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
+  { id: 41, slug: "skoda-octavia-combi-rs-2-0tdi-dsg-2021", image: octaviaRs136_1, brand: "Škoda", model: "Octavia Combi RS 2.0TDI DSG", year: 2021, mileage: 136200, fuelType: "Dizel", price: 25490, brandLogo: skodaLogo },
+  { id: 44, slug: "vw-t-roc-2-0tdi-dsg-r-line", image: trocRl_1, brand: "VW", model: "T-Roc 2.0 TDI DSG R-Line", year: 2022, mileage: 114000, fuelType: "Dizel", price: 25390, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
   { id: 46, slug: "bmw-x5-30d-xdrive-2016", image: bmwX5_30d_1, brand: "BMW", model: "X5 30d xDrive", year: 2016, mileage: 202000, fuelType: "Dizel", price: 23990, priceDate: "08.10.2026.", brandLogo: bmwLogo },
-  { id: 35, slug: "skoda-octavia-combi-first-edition-panorama", image: octaviaFirstPanorama_1, brand: "Škoda", model: "Octavia Combi First Edition Panorama", year: 2020, mileage: 102400, fuelType: "Dizel", price: 21990, brandLogo: skodaLogo },
-  { id: 36, slug: "skoda-octavia-combi-first-edition-2020", image: octaviaFirst132_1, brand: "Škoda", model: "Octavia Combi 2.0TDI First Edition", year: 2020, mileage: 132200, fuelType: "Dizel", price: 20790, brandLogo: skodaLogo },
+  { id: 36, slug: "skoda-octavia-combi-first-edition-2020", image: octaviaFirst132_1, brand: "Škoda", model: "Octavia Combi 2.0TDI First Edition", year: 2020, mileage: 132200, fuelType: "Dizel", price: 20490, brandLogo: skodaLogo },
   { id: 45, slug: "audi-a5-sportback-40tdi-s-line", image: audiA5_40_1, brand: "Audi", model: "A5 Sportback 40TDI S-Line", year: 2019, mileage: 232000, fuelType: "Dizel", price: 19290, priceDate: "02.10.2026.", brandLogo: audiLogo },
   { id: 38, slug: "renault-clio-edition-one-tce", image: clioTce_1, brand: "Renault", model: "Clio Edition One TCe Automatik", year: 2020, mileage: 121000, fuelType: "Benzin", price: 14290, brandLogo: renaultLogo },
 ];

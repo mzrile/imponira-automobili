@@ -7,7 +7,7 @@
   "cijena": 72900,
   "datumCijene": "10.09.2026.",
   "prodano": false,
-  "redovnaCijena": null
+  "redovnaCijena": 69900
  },
  {
   "id": 30,
@@ -47,7 +47,7 @@
   "cijena": 37900,
   "datumCijene": "10.09.2026.",
   "prodano": false,
-  "redovnaCijena": null
+  "redovnaCijena": 36900
  },
  {
   "id": 42,
@@ -67,7 +67,7 @@
   "cijena": 26290,
   "datumCijene": "02.10.2026.",
   "prodano": false,
-  "redovnaCijena": 25990
+  "redovnaCijena": 25790
  },
  {
   "id": 41,
@@ -77,7 +77,7 @@
   "cijena": 26490,
   "datumCijene": "10.09.2026.",
   "prodano": false,
-  "redovnaCijena": 25990
+  "redovnaCijena": 25490
  },
  {
   "id": 44,
@@ -87,7 +87,7 @@
   "cijena": 25990,
   "datumCijene": "02.10.2026.",
   "prodano": false,
-  "redovnaCijena": 25790
+  "redovnaCijena": 25390
  },
  {
   "id": 46,
@@ -100,16 +100,6 @@
   "redovnaCijena": null
  },
  {
-  "id": 35,
-  "slug": "skoda-octavia-combi-first-edition-panorama",
-  "marka": "Škoda",
-  "naziv": "Škoda Octavia Combi First Edition Panorama",
-  "cijena": 21990,
-  "datumCijene": "10.09.2026.",
-  "prodano": false,
-  "redovnaCijena": null
- },
- {
   "id": 36,
   "slug": "skoda-octavia-combi-first-edition-2020",
   "marka": "Škoda",
@@ -117,7 +107,7 @@
   "cijena": 20990,
   "datumCijene": "10.09.2026.",
   "prodano": false,
-  "redovnaCijena": 20790
+  "redovnaCijena": 20490
  },
  {
   "id": 45,

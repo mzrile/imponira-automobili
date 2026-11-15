@@ -623,35 +623,6 @@ import octaviaFirst132_24 from "@/assets/cars/skoda-octavia-first-edition-132k/2
 import octaviaFirst132_25 from "@/assets/cars/skoda-octavia-first-edition-132k/25.jpg";
 import octaviaFirst132_26 from "@/assets/cars/skoda-octavia-first-edition-132k/26.jpg";
 import octaviaFirst132_27 from "@/assets/cars/skoda-octavia-first-edition-132k/27.jpg";
-import octaviaFirstPanorama_1 from "@/assets/cars/skoda-octavia-first-edition-panorama/1.jpg";
-import octaviaFirstPanorama_2 from "@/assets/cars/skoda-octavia-first-edition-panorama/2.jpg";
-import octaviaFirstPanorama_3 from "@/assets/cars/skoda-octavia-first-edition-panorama/3.jpg";
-import octaviaFirstPanorama_4 from "@/assets/cars/skoda-octavia-first-edition-panorama/4.jpg";
-import octaviaFirstPanorama_5 from "@/assets/cars/skoda-octavia-first-edition-panorama/5.jpg";
-import octaviaFirstPanorama_6 from "@/assets/cars/skoda-octavia-first-edition-panorama/6.jpg";
-import octaviaFirstPanorama_7 from "@/assets/cars/skoda-octavia-first-edition-panorama/7.jpg";
-import octaviaFirstPanorama_8 from "@/assets/cars/skoda-octavia-first-edition-panorama/8.jpg";
-import octaviaFirstPanorama_9 from "@/assets/cars/skoda-octavia-first-edition-panorama/9.jpg";
-import octaviaFirstPanorama_10 from "@/assets/cars/skoda-octavia-first-edition-panorama/10.jpg";
-import octaviaFirstPanorama_11 from "@/assets/cars/skoda-octavia-first-edition-panorama/11.jpg";
-import octaviaFirstPanorama_12 from "@/assets/cars/skoda-octavia-first-edition-panorama/12.jpg";
-import octaviaFirstPanorama_13 from "@/assets/cars/skoda-octavia-first-edition-panorama/13.jpg";
-import octaviaFirstPanorama_14 from "@/assets/cars/skoda-octavia-first-edition-panorama/14.jpg";
-import octaviaFirstPanorama_15 from "@/assets/cars/skoda-octavia-first-edition-panorama/15.jpg";
-import octaviaFirstPanorama_16 from "@/assets/cars/skoda-octavia-first-edition-panorama/16.jpg";
-import octaviaFirstPanorama_17 from "@/assets/cars/skoda-octavia-first-edition-panorama/17.jpg";
-import octaviaFirstPanorama_18 from "@/assets/cars/skoda-octavia-first-edition-panorama/18.jpg";
-import octaviaFirstPanorama_19 from "@/assets/cars/skoda-octavia-first-edition-panorama/19.jpg";
-import octaviaFirstPanorama_20 from "@/assets/cars/skoda-octavia-first-edition-panorama/20.jpg";
-import octaviaFirstPanorama_21 from "@/assets/cars/skoda-octavia-first-edition-panorama/21.jpg";
-import octaviaFirstPanorama_22 from "@/assets/cars/skoda-octavia-first-edition-panorama/22.jpg";
-import octaviaFirstPanorama_23 from "@/assets/cars/skoda-octavia-first-edition-panorama/23.jpg";
-import octaviaFirstPanorama_24 from "@/assets/cars/skoda-octavia-first-edition-panorama/24.jpg";
-import octaviaFirstPanorama_25 from "@/assets/cars/skoda-octavia-first-edition-panorama/25.jpg";
-import octaviaFirstPanorama_26 from "@/assets/cars/skoda-octavia-first-edition-panorama/26.jpg";
-import octaviaFirstPanorama_27 from "@/assets/cars/skoda-octavia-first-edition-panorama/27.jpg";
-import octaviaFirstPanorama_28 from "@/assets/cars/skoda-octavia-first-edition-panorama/28.jpg";
-import octaviaFirstPanorama_29 from "@/assets/cars/skoda-octavia-first-edition-panorama/29.jpg";
 
 
 // BMW X5 xDrive30d 2019 images
@@ -768,7 +739,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Stražnji",
     status: "Rabljeno",
     bodyType: "Limuzina",
-    price: 72900,
+    price: 69900,
     images: e300eImages,
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -794,7 +765,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "4Matic",
     status: "Rabljeno",
     bodyType: "SUV",
-    price: 37900,
+    price: 36900,
     images: [glb220d_1, glb220d_2, glb220d_3, glb220d_4, glb220d_5, glb220d_6, glb220d_7, glb220d_8, glb220d_9, glb220d_10, glb220d_11, glb220d_12, glb220d_13, glb220d_14, glb220d_15, glb220d_16, glb220d_17, glb220d_18, glb220d_19, glb220d_20, glb220d_21, glb220d_22, glb220d_23, glb220d_24],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -844,7 +815,7 @@ Sanremo green individual boja, M sportski paket, M sportske kočnice, M aerodina
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Karavan",
-    price: 25990,
+    price: 25490,
     images: [octaviaRs136_1, octaviaRs136_2, octaviaRs136_3, octaviaRs136_4, octaviaRs136_5, octaviaRs136_6, octaviaRs136_7, octaviaRs136_8, octaviaRs136_9, octaviaRs136_10, octaviaRs136_11, octaviaRs136_12, octaviaRs136_13, octaviaRs136_14, octaviaRs136_15, octaviaRs136_16, octaviaRs136_17, octaviaRs136_18, octaviaRs136_19, octaviaRs136_20, octaviaRs136_21, octaviaRs136_22, octaviaRs136_23, octaviaRs136_24, octaviaRs136_25, octaviaRs136_26, octaviaRs136_27, octaviaRs136_28, octaviaRs136_29],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -852,30 +823,6 @@ Redovno održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, dva seta
 
 Dodatna oprema:
 Quartz grey metalik boja, Felge 19", Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED svjetla, LED putujući žmigavci, Animacija svjetla, Active sound, LED Matrix svjetla, Head up display, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja parking kamera, Park asist, Front assist, Auto hold, Automatska duga svjetla, Sustav za ograničenje brzine, Adaptive tempomat, Autopilot, Modovi vožnje, Upozorenje na pospanost, Upozorenje na mrtvi kut, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Armatura od alcantare, Crno nebo, Carbon, Kožna RS sjedala, Memorija sjedala, El. podešavanje sjedala, Grijanje sjedala (prednja/zadnja), Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, Električna vrata prtljažnika, Otvaranje prtljažnika nogom, El. sklapanje retrovizora, DAB, Ambijentalna rasvjeta, LED logo projektor u vratima, Zavjese na prozorima, Sustav za kontrolu tlaka u gumama, Servotronic, Rezervni kotač, 2 ključa`,
-  },
-  "skoda-octavia-combi-first-edition-panorama": {
-    brand: "Škoda",
-    model: "Octavia Combi First Edition Panorama",
-    year: 2020,
-    mileage: 102400,
-    fuelType: "Dizel",
-    transmission: "Automatski DSG",
-    power: "110 kW",
-    engine: "Dizel",
-    registration: "-",
-    driveType: "Prednji",
-    status: "Rabljeno",
-    bodyType: "Karavan",
-    price: 21990,
-    images: [octaviaFirstPanorama_1, octaviaFirstPanorama_2, octaviaFirstPanorama_3, octaviaFirstPanorama_4, octaviaFirstPanorama_5, octaviaFirstPanorama_6, octaviaFirstPanorama_7, octaviaFirstPanorama_8, octaviaFirstPanorama_9, octaviaFirstPanorama_10, octaviaFirstPanorama_11, octaviaFirstPanorama_12, octaviaFirstPanorama_13, octaviaFirstPanorama_14, octaviaFirstPanorama_15, octaviaFirstPanorama_16, octaviaFirstPanorama_17, octaviaFirstPanorama_18, octaviaFirstPanorama_19, octaviaFirstPanorama_20, octaviaFirstPanorama_21, octaviaFirstPanorama_22, octaviaFirstPanorama_23, octaviaFirstPanorama_24, octaviaFirstPanorama_25, octaviaFirstPanorama_26, octaviaFirstPanorama_27, octaviaFirstPanorama_28, octaviaFirstPanorama_29],
-    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
-
-Održavan u ovlaštenom servisu, dva seta felgi sa gumama (ljeto/zima) posjeduje el. servisnu knjigu, zadnji servis napravljen na 102.400km (novi prednji i zadnji diskovi i kočione pločice, zamjena ulja i svih filtera), bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
-
-Dodatna oprema:
-Metalik boja crna brilliant, Bicolor felge, Tonirana stakla, LED Matrix svjetla, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja kamera, Grijanje volana, Park pilot, Autopilot, Adaptive tempomat, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Upozorenje mrtvog kuta, Kožna sjedala, Sjedala na struju, Memorija sjedala, Grijanje sjedala (prednja), Hlađenje sjedala (prednja), Masaža sjedala, Centralno zaključavanje bez ključa, Keyless go, Webasto, Head-up, Električna vrata prtljažnika, Otvaranje prtljažnika nogom, Bežično punjenje mobitela, Ambijentalna rasvjeta, LED logo projektor u vratima, El. kuka, 2 ključa
-
-POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
   "skoda-octavia-combi-first-edition-2020": {
     brand: "Škoda",
@@ -890,7 +837,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "Karavan",
-    price: 20790,
+    price: 20490,
     images: [octaviaFirst132_1, octaviaFirst132_2, octaviaFirst132_3, octaviaFirst132_4, octaviaFirst132_5, octaviaFirst132_6, octaviaFirst132_7, octaviaFirst132_8, octaviaFirst132_9, octaviaFirst132_10, octaviaFirst132_11, octaviaFirst132_12, octaviaFirst132_13, octaviaFirst132_14, octaviaFirst132_15, octaviaFirst132_16, octaviaFirst132_17, octaviaFirst132_18, octaviaFirst132_19, octaviaFirst132_20, octaviaFirst132_21, octaviaFirst132_22, octaviaFirst132_23, octaviaFirst132_24, octaviaFirst132_25, octaviaFirst132_26, octaviaFirst132_27],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
@@ -961,7 +908,7 @@ Style paket opreme, R-line felge 18', Ergo activ sjedala, Memorija sjedala, Masa
     driveType: "4x4",
     status: "Rabljeno",
     bodyType: "SUV",
-    price: 25990,
+    price: 25790,
     priceDate: "02.10.2026.",
     images: [troc4m_1, troc4m_2, troc4m_3, troc4m_4, troc4m_5, troc4m_6, troc4m_7, troc4m_8, troc4m_9, troc4m_10, troc4m_11, troc4m_12, troc4m_13, troc4m_15, troc4m_16, troc4m_17, troc4m_18, troc4m_19, troc4m_20, troc4m_21, troc4m_22, troc4m_23, troc4m_24, troc4m_25, troc4m_26, troc4m_27, troc4m_28, troc4m_29, troc4m_30],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
@@ -986,7 +933,7 @@ R-LINE paket opreme, Sportska R-line sjedala, Metalik boja, IQ light, LED straž
     driveType: "Prednji",
     status: "Rabljeno",
     bodyType: "SUV",
-    price: 25790,
+    price: 25390,
     priceDate: "02.10.2026.",
     images: [trocRl_1, trocRl_2, trocRl_3, trocRl_4, trocRl_5, trocRl_6, trocRl_7, trocRl_8, trocRl_9, trocRl_10, trocRl_11, trocRl_12, trocRl_13, trocRl_14, trocRl_15, trocRl_16, trocRl_17, trocRl_18, trocRl_19, trocRl_20, trocRl_21, trocRl_22, trocRl_23, trocRl_24, trocRl_25, trocRl_26, trocRl_27, trocRl_28, trocRl_29],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
