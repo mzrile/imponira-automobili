@@ -265,7 +265,7 @@ import bmw320d_28 from "@/assets/cars/bmw-320d-m-paket/28.jpg";
 // Mercedes E300e AMG images (25)
 import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
 import bmw520d_1 from "@/assets/cars/bmw-520d-m-sport-pro-2024/1.jpg";
-import audiS3_1 from "@/assets/cars/audi-s3-sportback-2021/1.jpg.asset.json";
+import audiS3_1 from "@/assets/cars/audi-s3-sportback-2021/1.jpg";
 import e300e_2 from "@/assets/cars/mercedes-e300e-amg/2.jpg";
 import e300e_3 from "@/assets/cars/mercedes-e300e-amg/3.jpg";
 import e300e_4 from "@/assets/cars/mercedes-e300e-amg/4.jpg";
@@ -983,7 +983,7 @@ R-LINE paket opreme, Sportska sjedala, Masaža vozačevog sjedala, Beats audio o
     bodyType: "Hatchback",
     price: 35490,
     priceDate: "15.11.2026.",
-    images: [audiS3_1.url],
+    images: [audiS3_1],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Redovno održavan, posjeduje el. servisnu knjigu, zadnji servis napravljen na 98.045 km, nove gume Hankook DOT25, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...

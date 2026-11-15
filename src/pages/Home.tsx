@@ -9,7 +9,7 @@ import SEO from "@/components/SEO";
 // Car first images
 import bmw840i_1 from "@/assets/cars/bmw-840i-xdrive-individual/1.jpg";
 import bmw520d_1 from "@/assets/cars/bmw-520d-m-sport-pro-2024/1.jpg";
-import audiS3_1 from "@/assets/cars/audi-s3-sportback-2021/1.jpg.asset.json";
+import audiS3_1 from "@/assets/cars/audi-s3-sportback-2021/1.jpg";
 import golf8Style_1 from "@/assets/cars/vw-golf-8-style-2025/1.jpg";
 import troc4m_1 from "@/assets/cars/vw-t-roc-4motion-rline/1.jpg";
 import trocRl_1 from "@/assets/cars/vw-t-roc-rline-114k/1.jpg";
@@ -29,7 +29,7 @@ import renaultLogo from "@/assets/brands/renault-new.png";
 const featuredCars = [
   { id: 30, slug: "bmw-840i-xdrive-individual", image: bmw840i_1, brand: "BMW", model: "840i xDrive Individual M-Sport", year: 2022, mileage: 108900, fuelType: "Benzin", price: 65990, brandLogo: bmwLogo },
   { id: 47, slug: "bmw-520d-m-sport-pro-2024", image: bmw520d_1, brand: "BMW", model: "520d M-Sport Pro", year: 2024, mileage: 13200, fuelType: "Dizel", price: 61990, priceDate: "15.11.2026.", brandLogo: bmwLogo },
-  { id: 48, slug: "audi-s3-sportback-2-0-tfsi-quattro", image: audiS3_1.url, brand: "Audi", model: "S3 Sportback 2.0 TFSI quattro", year: 2021, mileage: 105900, fuelType: "Benzin", price: 35490, priceDate: "15.11.2026.", brandLogo: audiLogo },
+  { id: 48, slug: "audi-s3-sportback-2-0-tfsi-quattro", image: audiS3_1, brand: "Audi", model: "S3 Sportback 2.0 TFSI quattro", year: 2021, mileage: 105900, fuelType: "Benzin", price: 35490, priceDate: "15.11.2026.", brandLogo: audiLogo },
   { id: 42, slug: "vw-golf-8-2-0tdi-dsg-style", image: golf8Style_1, brand: "VW", model: "Golf 8 2.0 TDI DSG Style Redizajn", year: 2025, mileage: 25400, fuelType: "Dizel", price: 29990, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
   { id: 43, slug: "vw-t-roc-2-0tdi-4motion-dsg-r-line", image: troc4m_1, brand: "VW", model: "T-Roc 2.0 TDI 4Motion DSG R-Line", year: 2022, mileage: 104350, fuelType: "Dizel", price: 25790, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
   { id: 44, slug: "vw-t-roc-2-0tdi-dsg-r-line", image: trocRl_1, brand: "VW", model: "T-Roc 2.0 TDI DSG R-Line", year: 2022, mileage: 114000, fuelType: "Dizel", price: 25390, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
