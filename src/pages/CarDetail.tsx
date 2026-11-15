@@ -265,6 +265,7 @@ import bmw320d_28 from "@/assets/cars/bmw-320d-m-paket/28.jpg";
 // Mercedes E300e AMG images (25)
 import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
 import bmw520d_1 from "@/assets/cars/bmw-520d-m-sport-pro-2024/1.jpg";
+import audiS3_1 from "@/assets/cars/audi-s3-sportback-2021/1.jpg.asset.json";
 import e300e_2 from "@/assets/cars/mercedes-e300e-amg/2.jpg";
 import e300e_3 from "@/assets/cars/mercedes-e300e-amg/3.jpg";
 import e300e_4 from "@/assets/cars/mercedes-e300e-amg/4.jpg";
@@ -966,6 +967,29 @@ DOSTUPNO VIŠE SLIČNIH VOZILA NA LAGERU.
 
 Dodatna oprema:
 R-LINE paket opreme, Sportska sjedala, Masaža vozačevog sjedala, Beats audio ozvučenje, IQ light, LED stražnja svjetla, Automatska svjetla, Animacija svjetla, Full virtualni kokpit, Središnji ekran osjetljiv na dodir, Navigacija, Prednji i zadnji parking senzori, Modovi vožnje, Parkpilot, Adaptivni tempomat, Front assist, Lane assist, Mrtvi kut, Auto hold, Prepoznavanje prometnih znakova, Prepoznavanje umora, Proaktivna zaštita putnika, Grijanje volana, Grijanje sjedala, Armatura sa prošivenim koncem, Automatska klima, Bežično punjenje mobitela, Senzor za svjetlo, Senzor za kišu, 2 ključa`,
+  },
+  "audi-s3-sportback-2-0-tfsi-quattro": {
+    brand: "Audi",
+    model: "S3 Sportback 2.0 TFSI quattro",
+    year: 2021,
+    mileage: 105900,
+    fuelType: "Benzin",
+    transmission: "Automatski",
+    power: "228 kW",
+    engine: "Benzin",
+    registration: "-",
+    driveType: "AWD",
+    status: "Rabljeno",
+    bodyType: "Hatchback",
+    price: 35490,
+    priceDate: "15.11.2026.",
+    images: [audiS3_1.url],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Redovno održavan, posjeduje el. servisnu knjigu, zadnji servis napravljen na 98.045 km, nove gume Hankook DOT25, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
+
+Dodatna oprema:
+Crna metalik boja, Black paket, S line sportska sjedala, El. podesivo vozačevo sjedalo, Električno podesiva lumbalna potpora, Grijanje sjedala, 19" aluminijski naplatci Audi Sport, Kočione čeljusti u crvenoj boji, MATRIX prilagodljiva prednja svjetla, Automatska duga svjetla, LED stražnja svjetla, Bang & Olufsen audio sustav, S-tronic mjenjač, F1 ručice na volanu, Modovi vožnje, Virtualni-digitalni kokpit, Adaptivni tempomat, Lane assist, Prednji parking senzori, Stražnji parking senzori, Kamera za vožnju unatrag, Park pilot, DAB digitalni radio, Pretinac za bežično punjenje telefona, Audi Smartphone Interface (Apple/Android), MMI navigacija plus s MMI touch, El. vrata prtljažnika, Keyless (otključavanje i zaključavanje na dodir), Električno preklopiva vanjska ogledala, Ambijentalno osvjetljenje (više boja), 2 ključa`,
   },
   "audi-a5-sportback-40tdi-s-line": {
     brand: "Audi",

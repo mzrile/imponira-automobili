@@ -25,6 +25,7 @@ import troc4m_1 from "@/assets/cars/vw-t-roc-4motion-rline/1.jpg";
 import trocRl_1 from "@/assets/cars/vw-t-roc-rline-114k/1.jpg";
 import bmwX5_30d_1 from "@/assets/cars/bmw-x5-30d-xdrive-2016/1.jpg";
 import audiA5_40_1 from "@/assets/cars/audi-a5-sportback-40tdi-sline/1.jpg";
+import audiS3_1 from "@/assets/cars/audi-s3-sportback-2021/1.jpg.asset.json";
 
 // Brand logos
 import bmwLogo from "@/assets/brands/bmw-new.png";
@@ -41,6 +42,7 @@ const allCars = [
   { id: 2, slug: "bmw-m440i-xdrive", image: m440i_21, brand: "BMW", model: "M440i xDrive", year: 2020, mileage: 92000, fuelType: "Benzin", price: 49990, brandLogo: bmwLogo },
   { id: 3, slug: "vw-tiguan-r-line", image: tiguan9, brand: "VW", model: "Tiguan 2.0 TDI DSG R-Line", year: 2024, mileage: 26900, fuelType: "Dizel", price: 42900, brandLogo: volkswagenLogo },
   { id: 19, slug: "mercedes-glb-220d-4matic", image: glb220d_1, brand: "Mercedes", model: "GLB 220d 4Matic", year: 2022, mileage: 85800, fuelType: "Dizel", price: 36900, brandLogo: mercedesLogo },
+  { id: 48, slug: "audi-s3-sportback-2-0-tfsi-quattro", image: audiS3_1.url, brand: "Audi", model: "S3 Sportback 2.0 TFSI quattro", year: 2021, mileage: 105900, fuelType: "Benzin", price: 35490, priceDate: "15.11.2026.", brandLogo: audiLogo },
   { id: 42, slug: "vw-golf-8-2-0tdi-dsg-style", image: golf8Style_1, brand: "VW", model: "Golf 8 2.0 TDI DSG Style Redizajn", year: 2025, mileage: 25400, fuelType: "Dizel", price: 29990, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
   { id: 43, slug: "vw-t-roc-2-0tdi-4motion-dsg-r-line", image: troc4m_1, brand: "VW", model: "T-Roc 2.0 TDI 4Motion DSG R-Line", year: 2022, mileage: 104350, fuelType: "Dizel", price: 25790, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
   { id: 41, slug: "skoda-octavia-combi-rs-2-0tdi-dsg-2021", image: octaviaRs136_1, brand: "Škoda", model: "Octavia Combi RS 2.0TDI DSG", year: 2021, mileage: 136200, fuelType: "Dizel", price: 25490, brandLogo: skodaLogo },

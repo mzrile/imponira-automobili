@@ -60,6 +60,16 @@
   "redovnaCijena": 36900
  },
  {
+  "id": 48,
+  "slug": "audi-s3-sportback-2-0-tfsi-quattro",
+  "marka": "Audi",
+  "naziv": "Audi S3 Sportback 2.0 TFSI quattro",
+  "cijena": 35490,
+  "datumCijene": "15.11.2026.",
+  "prodano": false,
+  "redovnaCijena": null
+ },
+ {
   "id": 42,
   "slug": "vw-golf-8-2-0tdi-dsg-style",
   "marka": "VW",

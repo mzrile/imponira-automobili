@@ -7,3 +7,4 @@
 - A repriced vehicle keeps its anchor `cijena`/`datumCijene` in `vozila.json` and carries the new regular selling price in `redovnaCijena`; the price list uses `prices.ts` to publish regular prices without special-sale flags, independently of the original anchor.
 - Site cards and details resolve original dated prices through `src/lib/vehiclePricing.ts` from `vozila.json`, so dated labels never accidentally display the current selling price.
 - `vozila.json` is bundled into the `cjenik` edge function at deploy time, so redeploy the function after editing that file, otherwise the published list keeps the old prices.
+- Keep offer/detail selling-price synchronization and featured vehicle selection covered by the Deno tests alongside the price-list tests, so duplicated listing data cannot silently drift.
