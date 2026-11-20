@@ -265,7 +265,61 @@ import bmw320d_28 from "@/assets/cars/bmw-320d-m-paket/28.jpg";
 // Mercedes E300e AMG images (25)
 import e300e_1 from "@/assets/cars/mercedes-e300e-amg/1.jpg";
 import bmw520d_1 from "@/assets/cars/bmw-520d-m-sport-pro-2024/1.jpg";
+import bmw520d_2 from "@/assets/cars/bmw-520d-m-sport-pro-2024/2.jpg";
+import bmw520d_3 from "@/assets/cars/bmw-520d-m-sport-pro-2024/3.jpg";
+import bmw520d_4 from "@/assets/cars/bmw-520d-m-sport-pro-2024/4.jpg";
+import bmw520d_5 from "@/assets/cars/bmw-520d-m-sport-pro-2024/5.jpg";
+import bmw520d_6 from "@/assets/cars/bmw-520d-m-sport-pro-2024/6.jpg";
+import bmw520d_7 from "@/assets/cars/bmw-520d-m-sport-pro-2024/7.jpg";
+import bmw520d_8 from "@/assets/cars/bmw-520d-m-sport-pro-2024/8.jpg";
+import bmw520d_9 from "@/assets/cars/bmw-520d-m-sport-pro-2024/9.jpg";
+import bmw520d_10 from "@/assets/cars/bmw-520d-m-sport-pro-2024/10.jpg";
+import bmw520d_11 from "@/assets/cars/bmw-520d-m-sport-pro-2024/11.jpg";
+import bmw520d_12 from "@/assets/cars/bmw-520d-m-sport-pro-2024/12.jpg";
+import bmw520d_13 from "@/assets/cars/bmw-520d-m-sport-pro-2024/13.jpg";
+import bmw520d_14 from "@/assets/cars/bmw-520d-m-sport-pro-2024/14.jpg";
+import bmw520d_15 from "@/assets/cars/bmw-520d-m-sport-pro-2024/15.jpg";
+import bmw520d_16 from "@/assets/cars/bmw-520d-m-sport-pro-2024/16.jpg";
+import bmw520d_17 from "@/assets/cars/bmw-520d-m-sport-pro-2024/17.jpg";
+import bmw520d_18 from "@/assets/cars/bmw-520d-m-sport-pro-2024/18.jpg";
+import bmw520d_19 from "@/assets/cars/bmw-520d-m-sport-pro-2024/19.jpg";
+import bmw520d_20 from "@/assets/cars/bmw-520d-m-sport-pro-2024/20.jpg";
+import bmw520d_21 from "@/assets/cars/bmw-520d-m-sport-pro-2024/21.jpg";
+import bmw520d_22 from "@/assets/cars/bmw-520d-m-sport-pro-2024/22.jpg";
+import bmw520d_23 from "@/assets/cars/bmw-520d-m-sport-pro-2024/23.jpg";
+import bmw520d_24 from "@/assets/cars/bmw-520d-m-sport-pro-2024/24.jpg";
+import bmw520d_25 from "@/assets/cars/bmw-520d-m-sport-pro-2024/25.jpg";
+import bmw520d_26 from "@/assets/cars/bmw-520d-m-sport-pro-2024/26.jpg";
+import bmw520d_27 from "@/assets/cars/bmw-520d-m-sport-pro-2024/27.jpg";
+import bmw520d_28 from "@/assets/cars/bmw-520d-m-sport-pro-2024/28.jpg";
+import bmw520d_29 from "@/assets/cars/bmw-520d-m-sport-pro-2024/29.jpg";
+import bmw520d_30 from "@/assets/cars/bmw-520d-m-sport-pro-2024/30.jpg";
 import audiS3_1 from "@/assets/cars/audi-s3-sportback-2021/1.jpg";
+import audiS3_2 from "@/assets/cars/audi-s3-sportback-2021/2.jpg";
+import audiS3_3 from "@/assets/cars/audi-s3-sportback-2021/3.jpg";
+import audiS3_4 from "@/assets/cars/audi-s3-sportback-2021/4.jpg";
+import audiS3_5 from "@/assets/cars/audi-s3-sportback-2021/5.jpg";
+import audiS3_6 from "@/assets/cars/audi-s3-sportback-2021/6.jpg";
+import audiS3_7 from "@/assets/cars/audi-s3-sportback-2021/7.jpg";
+import audiS3_8 from "@/assets/cars/audi-s3-sportback-2021/8.jpg";
+import audiS3_9 from "@/assets/cars/audi-s3-sportback-2021/9.jpg";
+import audiS3_10 from "@/assets/cars/audi-s3-sportback-2021/10.jpg";
+import audiS3_11 from "@/assets/cars/audi-s3-sportback-2021/11.jpg";
+import audiS3_12 from "@/assets/cars/audi-s3-sportback-2021/12.jpg";
+import audiS3_13 from "@/assets/cars/audi-s3-sportback-2021/13.jpg";
+import audiS3_14 from "@/assets/cars/audi-s3-sportback-2021/14.jpg";
+import audiS3_15 from "@/assets/cars/audi-s3-sportback-2021/15.jpg";
+import audiS3_16 from "@/assets/cars/audi-s3-sportback-2021/16.jpg";
+import audiS3_17 from "@/assets/cars/audi-s3-sportback-2021/17.jpg";
+import audiS3_18 from "@/assets/cars/audi-s3-sportback-2021/18.jpg";
+import audiS3_19 from "@/assets/cars/audi-s3-sportback-2021/19.jpg";
+import audiS3_20 from "@/assets/cars/audi-s3-sportback-2021/20.jpg";
+import audiS3_21 from "@/assets/cars/audi-s3-sportback-2021/21.jpg";
+import audiS3_22 from "@/assets/cars/audi-s3-sportback-2021/22.jpg";
+import audiS3_23 from "@/assets/cars/audi-s3-sportback-2021/23.jpg";
+import audiS3_24 from "@/assets/cars/audi-s3-sportback-2021/24.jpg";
+import audiS3_25 from "@/assets/cars/audi-s3-sportback-2021/25.jpg";
+import audiS3_26 from "@/assets/cars/audi-s3-sportback-2021/26.jpg";
 import e300e_2 from "@/assets/cars/mercedes-e300e-amg/2.jpg";
 import e300e_3 from "@/assets/cars/mercedes-e300e-amg/3.jpg";
 import e300e_4 from "@/assets/cars/mercedes-e300e-amg/4.jpg";
@@ -631,6 +685,34 @@ import octaviaFirst132_27 from "@/assets/cars/skoda-octavia-first-edition-132k/2
 
 // Škoda Octavia Combi RS 136k images
 import octaviaRsPlus_1 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/1.jpg";
+import octaviaRsPlus_2 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/2.jpg";
+import octaviaRsPlus_3 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/3.jpg";
+import octaviaRsPlus_4 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/4.jpg";
+import octaviaRsPlus_5 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/5.jpg";
+import octaviaRsPlus_6 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/6.jpg";
+import octaviaRsPlus_7 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/7.jpg";
+import octaviaRsPlus_8 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/8.jpg";
+import octaviaRsPlus_9 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/9.jpg";
+import octaviaRsPlus_10 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/10.jpg";
+import octaviaRsPlus_11 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/11.jpg";
+import octaviaRsPlus_12 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/12.jpg";
+import octaviaRsPlus_13 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/13.jpg";
+import octaviaRsPlus_14 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/14.jpg";
+import octaviaRsPlus_15 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/15.jpg";
+import octaviaRsPlus_16 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/16.jpg";
+import octaviaRsPlus_17 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/17.jpg";
+import octaviaRsPlus_18 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/18.jpg";
+import octaviaRsPlus_19 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/19.jpg";
+import octaviaRsPlus_20 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/20.jpg";
+import octaviaRsPlus_21 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/21.jpg";
+import octaviaRsPlus_22 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/22.jpg";
+import octaviaRsPlus_23 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/23.jpg";
+import octaviaRsPlus_24 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/24.jpg";
+import octaviaRsPlus_25 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/25.jpg";
+import octaviaRsPlus_26 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/26.jpg";
+import octaviaRsPlus_27 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/27.jpg";
+import octaviaRsPlus_28 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/28.jpg";
+import octaviaRsPlus_29 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/29.jpg";
 import octaviaRs136_1 from "@/assets/cars/skoda-octavia-combi-rs-136k/1.jpg";
 import octaviaRs136_2 from "@/assets/cars/skoda-octavia-combi-rs-136k/2.jpg";
 import octaviaRs136_3 from "@/assets/cars/skoda-octavia-combi-rs-136k/3.jpg";
@@ -744,7 +826,7 @@ POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
     bodyType: "Limuzina",
     price: 61990,
     priceDate: "15.11.2026.",
-    images: [bmw520d_1],
+    images: [bmw520d_1, bmw520d_2, bmw520d_3, bmw520d_4, bmw520d_5, bmw520d_6, bmw520d_7, bmw520d_8, bmw520d_9, bmw520d_10, bmw520d_11, bmw520d_12, bmw520d_13, bmw520d_14, bmw520d_15, bmw520d_16, bmw520d_17, bmw520d_18, bmw520d_19, bmw520d_20, bmw520d_21, bmw520d_22, bmw520d_23, bmw520d_24, bmw520d_25, bmw520d_26, bmw520d_27, bmw520d_28, bmw520d_29, bmw520d_30],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Dodatna oprema:
@@ -863,7 +945,7 @@ Quartz grey metalik boja, Felge 19", Black paket, Tonirana stakla, RS felge, Crv
     bodyType: "Karavan",
     price: 25390,
     priceDate: "20.11.2026.",
-    images: [octaviaRsPlus_1],
+    images: [octaviaRsPlus_1, octaviaRsPlus_2, octaviaRsPlus_3, octaviaRsPlus_4, octaviaRsPlus_5, octaviaRsPlus_6, octaviaRsPlus_7, octaviaRsPlus_8, octaviaRsPlus_9, octaviaRsPlus_10, octaviaRsPlus_11, octaviaRsPlus_12, octaviaRsPlus_13, octaviaRsPlus_14, octaviaRsPlus_15, octaviaRsPlus_16, octaviaRsPlus_17, octaviaRsPlus_18, octaviaRsPlus_19, octaviaRsPlus_20, octaviaRsPlus_21, octaviaRsPlus_22, octaviaRsPlus_23, octaviaRsPlus_24, octaviaRsPlus_25, octaviaRsPlus_26, octaviaRsPlus_27, octaviaRsPlus_28, octaviaRsPlus_29],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Dodatna oprema:
@@ -1005,7 +1087,7 @@ R-LINE paket opreme, Sportska sjedala, Masaža vozačevog sjedala, Beats audio o
     bodyType: "Hatchback",
     price: 35490,
     priceDate: "15.11.2026.",
-    images: [audiS3_1],
+    images: [audiS3_1, audiS3_2, audiS3_3, audiS3_4, audiS3_5, audiS3_6, audiS3_7, audiS3_8, audiS3_9, audiS3_10, audiS3_11, audiS3_12, audiS3_13, audiS3_14, audiS3_15, audiS3_16, audiS3_17, audiS3_18, audiS3_19, audiS3_20, audiS3_21, audiS3_22, audiS3_23, audiS3_24, audiS3_25, audiS3_26],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 Redovno održavan, posjeduje el. servisnu knjigu, zadnji servis napravljen na 98.045 km, nove gume Hankook DOT25, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca ...
