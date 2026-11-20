@@ -630,6 +630,7 @@ import octaviaFirst132_27 from "@/assets/cars/skoda-octavia-first-edition-132k/2
 // BMW X5 xDrive30d 2019 images
 
 // Škoda Octavia Combi RS 136k images
+import octaviaRsPlus_1 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/1.jpg";
 import octaviaRs136_1 from "@/assets/cars/skoda-octavia-combi-rs-136k/1.jpg";
 import octaviaRs136_2 from "@/assets/cars/skoda-octavia-combi-rs-136k/2.jpg";
 import octaviaRs136_3 from "@/assets/cars/skoda-octavia-combi-rs-136k/3.jpg";
@@ -846,6 +847,27 @@ Redovno održavan u ovlaštenom servisu, posjeduje el. servisnu knjigu, dva seta
 
 Dodatna oprema:
 Quartz grey metalik boja, Felge 19", Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED svjetla, LED putujući žmigavci, Animacija svjetla, Active sound, LED Matrix svjetla, Head up display, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja parking kamera, Park asist, Front assist, Auto hold, Automatska duga svjetla, Sustav za ograničenje brzine, Adaptive tempomat, Autopilot, Modovi vožnje, Upozorenje na pospanost, Upozorenje na mrtvi kut, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Armatura od alcantare, Crno nebo, Carbon, Kožna RS sjedala, Memorija sjedala, El. podešavanje sjedala, Grijanje sjedala (prednja/zadnja), Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, Električna vrata prtljažnika, Otvaranje prtljažnika nogom, El. sklapanje retrovizora, DAB, Ambijentalna rasvjeta, LED logo projektor u vratima, Zavjese na prozorima, Sustav za kontrolu tlaka u gumama, Servotronic, Rezervni kotač, 2 ključa`,
+  },
+  "skoda-octavia-combi-rs-plus-2-0td-dsg": {
+    brand: "Škoda",
+    model: "Octavia Combi RS Plus 2.0TD DSG",
+    year: 2022,
+    mileage: 138000,
+    fuelType: "Dizel",
+    transmission: "Automatski DSG",
+    power: "147 kW",
+    engine: "Dizel",
+    registration: "-",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Karavan",
+    price: 25390,
+    priceDate: "20.11.2026.",
+    images: [octaviaRsPlus_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+Dodatna oprema:
+Crna metalik boja, Felge 19", Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED svjetla, LED putujući žmigavci, Animacija svjetla, Active sound, LED Matrix svjetla, CANTON ozvučenje, Head up display, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja parking kamera, Park asist, Front assist, Auto hold, Automatska duga svjetla, Sustav za ograničenje brzine, Adaptive tempomat, Autopilot, Modovi vožnje, Upozorenje na pospanost, Upozorenje na mrtvi kut, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Armatura od alcantare, Crno nebo, Carbon, Kožna RS sjedala, Memorija sjedala, El. podešavanje sjedala, Grijanje sjedala (prednja/zadnja), Masaža sjedala, Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, Električna vrata prtljažnika, Otvaranje prtljažnika nogom, El. sklapanje retrovizora, DAB, Ambijentalna rasvjeta, LED logo projektor u vratima, Zavjese na prozorima, Sustav za kontrolu tlaka u gumama, Servotronic, Rezervni kotač, 2 ključa`,
   },
   "skoda-octavia-combi-first-edition-2020": {
     brand: "Škoda",

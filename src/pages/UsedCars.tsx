@@ -19,6 +19,7 @@ import bmw520d_1 from "@/assets/cars/bmw-520d-m-sport-pro-2024/1.jpg";
 import octaviaFirst132_1 from "@/assets/cars/skoda-octavia-first-edition-132k/1.jpg";
 import clioTce_1 from "@/assets/cars/renault-clio-tce/1.jpg";
 import octaviaRs136_1 from "@/assets/cars/skoda-octavia-combi-rs-136k/1.jpg";
+import octaviaRsPlus_1 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/1.jpg";
 
 import golf8Style_1 from "@/assets/cars/vw-golf-8-style-2025/1.jpg";
 import troc4m_1 from "@/assets/cars/vw-t-roc-4motion-rline/1.jpg";
@@ -46,6 +47,7 @@ const allCars = [
   { id: 42, slug: "vw-golf-8-2-0tdi-dsg-style", image: golf8Style_1, brand: "VW", model: "Golf 8 2.0 TDI DSG Style Redizajn", year: 2025, mileage: 25400, fuelType: "Dizel", price: 29990, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
   { id: 43, slug: "vw-t-roc-2-0tdi-4motion-dsg-r-line", image: troc4m_1, brand: "VW", model: "T-Roc 2.0 TDI 4Motion DSG R-Line", year: 2022, mileage: 104350, fuelType: "Dizel", price: 25790, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
   { id: 41, slug: "skoda-octavia-combi-rs-2-0tdi-dsg-2021", image: octaviaRs136_1, brand: "Škoda", model: "Octavia Combi RS 2.0TDI DSG", year: 2021, mileage: 136200, fuelType: "Dizel", price: 25490, brandLogo: skodaLogo },
+  { id: 49, slug: "skoda-octavia-combi-rs-plus-2-0td-dsg", image: octaviaRsPlus_1, brand: "Škoda", model: "Octavia Combi RS Plus 2.0TD DSG", year: 2022, mileage: 138000, fuelType: "Dizel", price: 25390, priceDate: "20.11.2026.", brandLogo: skodaLogo },
   { id: 44, slug: "vw-t-roc-2-0tdi-dsg-r-line", image: trocRl_1, brand: "VW", model: "T-Roc 2.0 TDI DSG R-Line", year: 2022, mileage: 114000, fuelType: "Dizel", price: 25390, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
   { id: 46, slug: "bmw-x5-30d-xdrive-2016", image: bmwX5_30d_1, brand: "BMW", model: "X5 30d xDrive", year: 2016, mileage: 202000, fuelType: "Dizel", price: 23990, priceDate: "08.10.2026.", brandLogo: bmwLogo },
   { id: 36, slug: "skoda-octavia-combi-first-edition-2020", image: octaviaFirst132_1, brand: "Škoda", model: "Octavia Combi 2.0TDI First Edition", year: 2020, mileage: 132200, fuelType: "Dizel", price: 20490, brandLogo: skodaLogo },

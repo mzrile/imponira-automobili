@@ -100,6 +100,16 @@
   "redovnaCijena": 25490
  },
  {
+  "id": 49,
+  "slug": "skoda-octavia-combi-rs-plus-2-0td-dsg",
+  "marka": "Škoda",
+  "naziv": "Škoda Octavia Combi RS Plus 2.0TD DSG",
+  "cijena": 25390,
+  "datumCijene": "20.11.2026.",
+  "prodano": false,
+  "redovnaCijena": null
+ },
+ {
   "id": 44,
   "slug": "vw-t-roc-2-0tdi-dsg-r-line",
   "marka": "VW",
