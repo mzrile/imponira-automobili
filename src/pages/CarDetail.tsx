@@ -685,6 +685,34 @@ import octaviaFirst132_27 from "@/assets/cars/skoda-octavia-first-edition-132k/2
 
 // Škoda Octavia Combi RS 136k images
 import golfGti_1 from "@/assets/cars/vw-golf-8-gti-2020/1.jpg";
+import golfGti_2 from "@/assets/cars/vw-golf-8-gti-2020/2.jpg";
+import golfGti_3 from "@/assets/cars/vw-golf-8-gti-2020/3.jpg";
+import golfGti_4 from "@/assets/cars/vw-golf-8-gti-2020/4.jpg";
+import golfGti_5 from "@/assets/cars/vw-golf-8-gti-2020/5.jpg";
+import golfGti_6 from "@/assets/cars/vw-golf-8-gti-2020/6.jpg";
+import golfGti_7 from "@/assets/cars/vw-golf-8-gti-2020/7.jpg";
+import golfGti_8 from "@/assets/cars/vw-golf-8-gti-2020/8.jpg";
+import golfGti_9 from "@/assets/cars/vw-golf-8-gti-2020/9.jpg";
+import golfGti_10 from "@/assets/cars/vw-golf-8-gti-2020/10.jpg";
+import golfGti_11 from "@/assets/cars/vw-golf-8-gti-2020/11.jpg";
+import golfGti_12 from "@/assets/cars/vw-golf-8-gti-2020/12.jpg";
+import golfGti_13 from "@/assets/cars/vw-golf-8-gti-2020/13.jpg";
+import golfGti_14 from "@/assets/cars/vw-golf-8-gti-2020/14.jpg";
+import golfGti_15 from "@/assets/cars/vw-golf-8-gti-2020/15.jpg";
+import golfGti_16 from "@/assets/cars/vw-golf-8-gti-2020/16.jpg";
+import golfGti_17 from "@/assets/cars/vw-golf-8-gti-2020/17.jpg";
+import golfGti_18 from "@/assets/cars/vw-golf-8-gti-2020/18.jpg";
+import golfGti_19 from "@/assets/cars/vw-golf-8-gti-2020/19.jpg";
+import golfGti_20 from "@/assets/cars/vw-golf-8-gti-2020/20.jpg";
+import golfGti_21 from "@/assets/cars/vw-golf-8-gti-2020/21.jpg";
+import golfGti_22 from "@/assets/cars/vw-golf-8-gti-2020/22.jpg";
+import golfGti_23 from "@/assets/cars/vw-golf-8-gti-2020/23.jpg";
+import golfGti_24 from "@/assets/cars/vw-golf-8-gti-2020/24.jpg";
+import golfGti_25 from "@/assets/cars/vw-golf-8-gti-2020/25.jpg";
+import golfGti_26 from "@/assets/cars/vw-golf-8-gti-2020/26.jpg";
+import golfGti_27 from "@/assets/cars/vw-golf-8-gti-2020/27.jpg";
+import golfGti_28 from "@/assets/cars/vw-golf-8-gti-2020/28.jpg";
+import golfGti_29 from "@/assets/cars/vw-golf-8-gti-2020/29.jpg";
 import octaviaRsPlus_1 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/1.jpg";
 import octaviaRsPlus_2 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/2.jpg";
 import octaviaRsPlus_3 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/3.jpg";
@@ -967,7 +995,7 @@ Crna metalik boja, Felge 19", Black paket, Tonirana stakla, RS felge, Crvene ko�
     bodyType: "Hatchback",
     price: 24990,
     priceDate: "26.11.2026.",
-    images: [golfGti_1],
+    images: [golfGti_1, golfGti_2, golfGti_3, golfGti_4, golfGti_5, golfGti_6, golfGti_7, golfGti_8, golfGti_9, golfGti_10, golfGti_11, golfGti_12, golfGti_13, golfGti_14, golfGti_15, golfGti_16, golfGti_17, golfGti_18, golfGti_19, golfGti_20, golfGti_21, golfGti_22, golfGti_23, golfGti_24, golfGti_25, golfGti_26, golfGti_27, golfGti_28, golfGti_29],
     description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
 
 VW GOLF 8 GTI: Redovno održavan, zadnji servis napravljen na 82.000km, posjeduje servisnu knjigu, nove gume DOT 24/25, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca.
