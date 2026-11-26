@@ -8,7 +8,7 @@ const details = await Deno.readTextFile(new URL("src/pages/CarDetail.tsx", root)
 const featured = home.split("const featuredCars = [")[1].split("];", 1)[0];
 
 Deno.test("Homepage offers the six selected vehicles in descending price order", () => {
-  assertEquals([...featured.matchAll(/id: (\d+)/g)].map((m) => Number(m[1])), [30, 47, 48, 42, 43, 49]);
+  assertEquals([...featured.matchAll(/id: (\d+)/g)].map((m) => Number(m[1])), [30, 47, 48, 42, 49, 50]);
 });
 
 for (const vehicle of vozila) {

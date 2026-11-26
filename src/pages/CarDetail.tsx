@@ -684,6 +684,7 @@ import octaviaFirst132_27 from "@/assets/cars/skoda-octavia-first-edition-132k/2
 // BMW X5 xDrive30d 2019 images
 
 // Škoda Octavia Combi RS 136k images
+import golfGti_1 from "@/assets/cars/vw-golf-8-gti-2020/1.jpg";
 import octaviaRsPlus_1 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/1.jpg";
 import octaviaRsPlus_2 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/2.jpg";
 import octaviaRsPlus_3 from "@/assets/cars/skoda-octavia-combi-rs-plus-2022/3.jpg";
@@ -950,6 +951,31 @@ Quartz grey metalik boja, Felge 19", Black paket, Tonirana stakla, RS felge, Crv
 
 Dodatna oprema:
 Crna metalik boja, Felge 19", Black paket, Tonirana stakla, RS felge, Crvene kočione čeljusti, Crystal LED svjetla, LED putujući žmigavci, Animacija svjetla, Active sound, LED Matrix svjetla, CANTON ozvučenje, Head up display, Velika navigacija, Virtualni kokpit, Prednji i stražnji parking senzori, Stražnja parking kamera, Park asist, Front assist, Auto hold, Automatska duga svjetla, Sustav za ograničenje brzine, Adaptive tempomat, Autopilot, Modovi vožnje, Upozorenje na pospanost, Upozorenje na mrtvi kut, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Armatura od alcantare, Crno nebo, Carbon, Kožna RS sjedala, Memorija sjedala, El. podešavanje sjedala, Grijanje sjedala (prednja/zadnja), Masaža sjedala, Grijanje volana, Centralno zaključavanje bez ključa, Keyless go, Električna vrata prtljažnika, Otvaranje prtljažnika nogom, El. sklapanje retrovizora, DAB, Ambijentalna rasvjeta, LED logo projektor u vratima, Zavjese na prozorima, Sustav za kontrolu tlaka u gumama, Servotronic, Rezervni kotač, 2 ključa`,
+  },
+  "vw-golf-8-gti-dsg-2020": {
+    brand: "VW",
+    model: "Golf 8 GTI DSG",
+    year: 2020,
+    mileage: 90000,
+    fuelType: "Benzin",
+    transmission: "Automatski DSG",
+    power: "180 kW",
+    engine: "Benzin",
+    registration: "04/2027",
+    driveType: "Prednji",
+    status: "Rabljeno",
+    bodyType: "Hatchback",
+    price: 24990,
+    priceDate: "26.11.2026.",
+    images: [golfGti_1],
+    description: `Vozilo je moguće pregledati uz prethodno dogovoreni sastanak, odnosno telefonsku najavu na kontakt broj naveden u oglasu.
+
+VW GOLF 8 GTI: Redovno održavan, zadnji servis napravljen na 82.000km, posjeduje servisnu knjigu, nove gume DOT 24/25, bez apsolutno ikakvih dodatnih ulaganja, moguća provjera bilo gdje po želji kupca.
+
+Dodatna oprema:
+Kings red metalik boja, Sport&Sound, Tonirana stakla, Crvene kočione čeljusti, IQ Matrix svjetla, Osvjetljena lajsna između prednjih svjetala, Maglenke, Putujući žmigavci, Head/up, Automatsko sklapanje retrovizora, Digital Cockpit Pro, Prednji i stražnji parking senzori, Grijanje volana, Adaptive tempomat, Mrtvi kut, Modovi vožnje, Upozorenje na pospanost, Pomoć pri održavanju trake, Pomoć pri kočenju u nuždi, Asistent za duga svjetla, Ambient light, GTI karirana sjedala, Grijanje sjedala (prednja), Trozonska automatska klima, Centralno zaključavanje bez ključa, Bežično punjenje mobitela, Navigacijski sustav “Discover Pro”, Wireless za Apple CarPlay, USB priključak (Type C), Aluminijske papučice, Paket “Travel Assist Plus”, LED logo projektor u vratima, 2 seta podnih prostirki (ljeto/zima), 2 ključa
+
+POTENCIJALNOM KUPCU ŠALJEMO DETALJAN POPIS OPREME I BROJ ŠASIJE`,
   },
   "skoda-octavia-combi-first-edition-2020": {
     brand: "Škoda",

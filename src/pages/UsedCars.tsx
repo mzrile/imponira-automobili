@@ -1,3 +1,4 @@
+import golfGti_1 from "@/assets/cars/vw-golf-8-gti-2020/1.jpg";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import CarCard from "@/components/CarCard";
@@ -49,6 +50,7 @@ const allCars = [
   { id: 41, slug: "skoda-octavia-combi-rs-2-0tdi-dsg-2021", image: octaviaRs136_1, brand: "Škoda", model: "Octavia Combi RS 2.0TDI DSG", year: 2021, mileage: 136200, fuelType: "Dizel", price: 25490, brandLogo: skodaLogo },
   { id: 49, slug: "skoda-octavia-combi-rs-plus-2-0td-dsg", image: octaviaRsPlus_1, brand: "Škoda", model: "Octavia Combi RS Plus 2.0TD DSG", year: 2022, mileage: 138000, fuelType: "Dizel", price: 25390, priceDate: "20.11.2026.", brandLogo: skodaLogo },
   { id: 44, slug: "vw-t-roc-2-0tdi-dsg-r-line", image: trocRl_1, brand: "VW", model: "T-Roc 2.0 TDI DSG R-Line", year: 2022, mileage: 114000, fuelType: "Dizel", price: 25390, priceDate: "02.10.2026.", brandLogo: volkswagenLogo },
+  { id: 50, slug: "vw-golf-8-gti-dsg-2020", image: golfGti_1, brand: "VW", model: "Golf 8 GTI DSG", year: 2020, mileage: 90000, fuelType: "Benzin", price: 24990, priceDate: "26.11.2026.", brandLogo: volkswagenLogo },
   { id: 46, slug: "bmw-x5-30d-xdrive-2016", image: bmwX5_30d_1, brand: "BMW", model: "X5 30d xDrive", year: 2016, mileage: 202000, fuelType: "Dizel", price: 23990, priceDate: "08.10.2026.", brandLogo: bmwLogo },
   { id: 36, slug: "skoda-octavia-combi-first-edition-2020", image: octaviaFirst132_1, brand: "Škoda", model: "Octavia Combi 2.0TDI First Edition", year: 2020, mileage: 132200, fuelType: "Dizel", price: 20490, brandLogo: skodaLogo },
   { id: 45, slug: "audi-a5-sportback-40tdi-s-line", image: audiA5_40_1, brand: "Audi", model: "A5 Sportback 40TDI S-Line", year: 2019, mileage: 232000, fuelType: "Dizel", price: 19290, priceDate: "02.10.2026.", brandLogo: audiLogo },
